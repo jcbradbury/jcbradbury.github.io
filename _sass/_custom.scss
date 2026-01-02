@@ -1,6 +1,11 @@
 
+/* Make the sidebar/profile photo rectangular */
+.author__avatar,
 .author__avatar img {
   border-radius: 0 !important;
-  max-width: 100%;
-  height: auto;
 }
+
+.author__avatar {
+  overflow: visible !important; /* stops the oval clipping */
+}
+
