@@ -14,7 +14,7 @@ author_profile: true
     - [Associated data and replication files](https://doi.org/10.3886/E200122V2)
 
 - [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22534), with Dennis Coates and Brad Humphreys, *Journal of Policy Analysis and Management*, 2024, 43(3): 899–937. 
-    -  [Appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fpam.22534&file=pam22534-sup-0001-Appendix.pdf) (pdf),  [Historical stadium data](https://doi.org/10.3886/E193067V1) (csv, dta)
+    -  [Appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fpam.22534&file=pam22534-sup-0001-Appendix.pdf) (pdf) \|  [Historical stadium data](https://doi.org/10.3886/E193067V1) (csv, dta)
 
 - [Estimating the Fiscal Impact of Stadium Developments: Evaluating a Pro Forma Model](https://journals.sagepub.com/doi/10.1177/10911421231199517), with Robert Baumann, *Public Finance Review*, 2024, 52(4): 399-438.
 
