@@ -13,7 +13,7 @@ My recent research as focused on local economic development policy, particularly
 
 ---
 
-Recent activity:
+## Recent activity:
 
 - My new book on the economics of publicly funded stadiums will be published by Oxford University Press in July.
   - [This One Will Be Different: False Promises and Fiscal Realities of Publicy Funded Stadiums](https://global.oup.com/academic/product/this-one-will-be-different-9780197820216?cc=us&lang=en&)
@@ -21,4 +21,4 @@ Recent activity:
   
   <p align="center">
   <img src="/images/TOWBD_Cover_scale1000.jpg" alt="Book cover" width="250">
-</p>
+  </p>
