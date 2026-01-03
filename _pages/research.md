@@ -27,23 +27,23 @@ author_profile: true
 
 - [The Impact of Sports Stadiums on Localized Commercial Activity: Evidence from a Business Improvement District](https://doi.org/10.1111/jors.12560), *Journal of Regional Science*, 2022, 62(1): 194-217. 
 
-- Financial Returns in Major League Soccer, *Journal of Sports Economics*, 2021, 22(8): 921-945.  
+- [Financial Returns in Major League Soccer](https://journals.sagepub.com/doi/full/10.1177/15270025211022733), *Journal of Sports Economics*, 2021, 22(8): 921-945.  
 
-- What Explains Labor's Declining Share of Revenue in Major League Baseball? *International Journal of Sport Finance*, 2021, 16: 79-94. 
+- [What Explains Labor's Declining Share of Revenue in Major League Baseball?](https://fitpublishing.com/articles/what-explains-labor%E2%80%99s-declining-share-revenue-major-league-baseball) *International Journal of Sport Finance*, 2021, 16: 79-94. 
 
-- Do Movie Production Incentives Generate Economic Development? *Contemporary Economic Policy*,  2020, 38: 327-342.
+- [Do Movie Production Incentives Generate Economic Development?](https://onlinelibrary.wiley.com/share/author/ZSXPWRGTWSRGNIPCE4UZ?target=10.1111/coep.12443) *Contemporary Economic Policy*,  2020, 38: 327-342.
 
-- Do Film Incentive Programs Promote Economic Activity? A Comment on O’Brien and Lane, *Econ Journal Watch*, 2020, 17: 56-65.
+- [Do Film Incentive Programs Promote Economic Activity? A Comment on O’Brien and Lane](https://econjwatch.org/articles/do-film-incentive-programs-promote-economic-activity-a-comment-on-o-brien-and-lane), *Econ Journal Watch*, 2020, 17: 56-65.
 
-- Determinants of Attendance in Major League Soccer, *Journal of Sport Management*,  2020, 34: 53-63.
+- [Determinants of Attendance in Major League Soccer](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecin.12710), *Journal of Sport Management*,  2020, 34: 53-63.
 
-- Monitoring and Employee Shirking: Evidence from MLB Umpires, *Journal of Sports Economics*,  2019, 20: 850-872.
+- [Monitoring and Employee Shirking: Evidence from MLB Umpires](https://doi.org/10.1177/1527002518808350), *Journal of Sports Economics*,  2019, 20: 850-872.
 
-- Determinants of Revenue in Sports Leagues: An Empirical Assessment, *Economic Inquiry*, 2019, 57: 121-140.
+- [Determinants of Revenue in Sports Leagues: An Empirical Assessment](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecin.12710), *Economic Inquiry*, 2019, 57: 121-140.
 
-- Full Cost of Attendance Scholarships and College Choice: Evidence from NCAA Football (with Joshua Pitts), *Journal of Sports Economics*, 2018, 19: 977-989.
+- [Full Cost of Attendance Scholarships and College Choice: Evidence from NCAA Football](http://journals.sagepub.com/doi/full/10.1177/1527002517696958), with Joshua Pitts, *Journal of Sports Economics*, 2018, 19: 977-989.
 
-- Hired To Be Fired: The Publicity Value of Managers, *Managerial and Decision Economics*, 2017, 38: 929-940. 
+- [Hired To Be Fired: The Publicity Value of Managers](http://onlinelibrary.wiley.com/doi/10.1002/mde.2834/full), *Managerial and Decision Economics*, 2017, 38: 929-940. 
 
-- Monopsony and Competition: The Impact of Rival Leagues on Player Salaries during the Early Days of Baseball, *Explorations in Economic History*,  2017, 65: 55-67. 
-    - Associated Data
+- [Monopsony and Competition: The Impact of Rival Leagues on Player Salaries during the Early Days of Baseball](http://www.sciencedirect.com/science/article/pii/S0014498317300116), *Explorations in Economic History*,  2017, 65: 55-67. 
+    - [Associated Data](https://www.openicpsr.org/openicpsr/project/100390/version/V1/view)
