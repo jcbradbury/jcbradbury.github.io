@@ -5,5 +5,5 @@ permalink: /towbd/
 author_profile: true
 ---
 
-<p>
-<img src="/images/TOWBD_Cover_coming.jpg" alt="Book cover" width="250"></p>
+<p align="center">
+<img src="/images/TOWBD_Cover_scale1000.jpg" alt="Book cover" width="250"></p>
