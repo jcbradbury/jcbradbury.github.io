@@ -29,11 +29,11 @@ author:
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Marietta, GA"
   employer         : "Kennesaw State University"
-  uri              : # URL
+  uri              : "http://facultyweb.kennesaw.edu/jbradbu2/index.php"
   email            : "jcbradbury@gmail.com" 
 
   # Academic websites
-  academia         : "http://facultyweb.kennesaw.edu/jbradbu2/index.php"
+  academia         : # 
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=ltRZ4N0AAAAJ&hl=en"
   inspire-hep      : # URL
