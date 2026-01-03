@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV](/files/BradburyCV_web.pdf)
+
 <iframe
   src="/files/BradburyCV_web.pdf"
   width="100%"
@@ -16,4 +18,3 @@ redirect_from:
   style="border: none;">
 </iframe>
 
-[Download PDF](/files/BradburyCV_web.pdf)
