@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 ### Journal Articles
-<!-- -->
+<!-- 
 - The Public Cost of Minor League Baseball Stadium Subsidies [(pre-print)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5318600), *Economic Inquiry*, conditionally accepted pending replication package approval by data editor. 
 
     - [Replication package](https://doi.org/10.3886/E241242V1)
-
+-->
 
 - [The Impact of MLB Team Relocation on Hotel Demand](https://journals.sagepub.com/doi/10.1177/13548166251405295), with Frank Stephenson, *Tourism Economics*, In Press.
 
