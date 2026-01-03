@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 <p align="left">
-<img src="/images/TOWBD_Cover_coming.jpg" alt="Book cover" width="250"></p> 
+<img src="/images/TOWBD_Cover_coming.JPG" alt="Book cover" width="250"></p> 
