@@ -14,18 +14,18 @@ author_profile: true
     - [Associated data and replication files](https://doi.org/10.3886/E200122V2)
 
 - [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22534), with Dennis Coates and Brad Humphreys, *Journal of Policy Analysis and Management*, 2024, 43(3): 899–937. 
-    -  [Appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fpam.22534&file=pam22534-sup-0001-Appendix.pdf) (pdf) | [Historical stadium data](https://doi.org/10.3886/E193067V1) (csv, dta)
+    -  [Appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fpam.22534&file=pam22534-sup-0001-Appendix.pdf) (pdf),  [Historical stadium data](https://doi.org/10.3886/E193067V1) (csv, dta)
 
 - [Estimating the Fiscal Impact of Stadium Developments: Evaluating a Pro Forma Model](https://journals.sagepub.com/doi/10.1177/10911421231199517), with Robert Baumann, *Public Finance Review*, 2024, 52(4): 399-438.
 
 - [Sports Stadiums and Local Economic Activity: Evidence from Sales Tax Collections](https://www.tandfonline.com/doi/full/10.1080/07352166.2022.2044837), *Journal of Urban Affairs*, 2024, 46(24): 139-159.
 
 - [The Impact of Professional Sports Franchises and Venues on Local Economies: A Comprehensive Survey](https://onlinelibrary.wiley.com/doi/epdf/10.1111/joes.12533), with Dennis Coates and Brad Humphreys, *Journal of Economic Surveys*, 2023, 37(4): 1389-1431 
-    - [Appendix of studies](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjoes.12533&file=joes12533-sup-0001-Appendix.pdf) | [Historical stadium data](https://www.openicpsr.org/openicpsr/project/179801/version/V1/view)
+    - [Appendix of studies](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjoes.12533&file=joes12533-sup-0001-Appendix.pdf), [Historical stadium data](https://www.openicpsr.org/openicpsr/project/179801/version/V1/view)
 
-- Does Hosting a Professional Sports Team Benefit the Local Community? Evidence from Property Assessments. *Economics of Governance*, 2022, 23 (3-4): 219-252.
+- [Does Hosting a Professional Sports Team Benefit the Local Community? Evidence from Property Assessments](https://link.springer.com/article/10.1007/s10101-022-00268-z), *Economics of Governance*, 2022, 23 (3-4): 219-252.
 
-- The Impact of Sports Stadiums on Localized Commercial Activity: Evidence from a Business Improvement District, *Journal of Regional Science*, 2022, 62(1): 194-217. 
+- [The Impact of Sports Stadiums on Localized Commercial Activity: Evidence from a Business Improvement District](https://doi.org/10.1111/jors.12560), *Journal of Regional Science*, 2022, 62(1): 194-217. 
 
 - Financial Returns in Major League Soccer, *Journal of Sports Economics*, 2021, 22(8): 921-945.  
 
