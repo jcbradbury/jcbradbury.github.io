@@ -20,5 +20,5 @@ Recent activity:
 
   
   <p align="center">
-  <img src="/assets/images/TOWBD_Cover_scale1000.jpg" alt="Book cover" width="250">
+  <img src="/images/TOWBD_Cover_scale1000.jpg" alt="Book cover" width="250">
 </p>
