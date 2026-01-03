@@ -5,6 +5,8 @@ permalink: /towbd/
 author_profile: true
 ---
 
+My book **This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums** will be released on July 31, 2026. I will post links to bookseller pages as they appear. 
+
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <div style="flex: 0 0 220px;">
@@ -17,9 +19,7 @@ author_profile: true
     <ul>
       <li><a href="https://global.oup.com/academic/product/this-one-will-be-different-9780197820216?cc=us&lang=en&">Oxford University Press</a></li>
       <li><a href="https://www.amazon.com/This-One-Will-Different-Realities/dp/0197820212">Amazon</a></li>
-      <li><a href="">test</a></li>
-      <li> Related research</li>
-      <li><a href="/assets/files/book-replication.zip">Data & replication files</a></li>
+
     </ul>
   </div>
 
