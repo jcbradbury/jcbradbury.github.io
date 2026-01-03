@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ### Journal Articles
-===
 
 *  [The Impact of MLB Team Relocation on Hotel Demand](https://journals.sagepub.com/doi/10.1177/13548166251405295), with Frank Stephenson, *Tourism Economics*, In Press.
 
