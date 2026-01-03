@@ -12,7 +12,7 @@ I am a professor of economics at Kennesaw State University in metro-Atlanta, whe
 I work primarily in the fields of public economics and sports economics, and I have a strong interest in public policy. My recent research has focused on local economic development policy, particularly public financing of sports venues and film production incentives. I served as an appointed board member of the Development Authority of Cobb County from 2019 to 2023. I am currently an associate editor for *Journal of Sports Economics*. You can learn more about my work by clicking on the links in the headers and sidebar.
 
 
-I live in Marietta, Georgia with my wife, and we have two adult daughters and one dog. I'm an avid sports fan who follows baseball (Atlanta Braves), football (Carolina Panthers and Georgia Bulldogs/Wofford Terriers), and soccer (Atlanta United). In my spare time, I homebrew beer and play guitar for fun.
+I live in Marietta, Georgia with my wife, and we have two adult daughters and one dog. I'm an avid sports fan who follows baseball (Atlanta Braves), football (Carolina Panthers and Georgia Bulldogs/Wofford Terriers), and soccer (Atlanta United). In my spare time, I like to homebrew beer and play guitar.
 
 I am active on social media: follow me on [Bluesky](https://bsky.app/profile/jcbradbury.com) and [Twitter](https://x.com/jc_bradbury). 
 
