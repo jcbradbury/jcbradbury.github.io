@@ -15,9 +15,9 @@ author_profile: true
 
   <div style="flex: 1;">
     <ul>
-      <li><a href="https://global.oup.com/">Publisher page</a></li>
-      <li><a href="https://www.amazon.com/">Amazon</a></li>
-      <li><a href="https://doi.org/10.xxxx">DOI</a></li>
+      <li><a href="https://global.oup.com/academic/product/this-one-will-be-different-9780197820216?cc=us&lang=en&">Oxford University Press</a></li>
+      <li><a href="https://www.amazon.com/This-One-Will-Different-Realities/dp/0197820212">Amazon</a></li>
+      <li><a href=>test</a></li>
       <li><a href="/research/">Related research</a></li>
       <li><a href="/assets/files/book-replication.zip">Data & replication files</a></li>
     </ul>
@@ -25,5 +25,3 @@ author_profile: true
 
 </div>
 
-<p align="left">
-<img src="/images/TOWBD_Cover_coming.JPG" alt="Book cover" width="250"></p> 
