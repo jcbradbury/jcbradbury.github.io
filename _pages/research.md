@@ -5,6 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
 ### Journal Articles
 <!-- 
 - The Public Cost of Minor League Baseball Stadium Subsidies [(pre-print)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5318600), *Economic Inquiry*, conditionally accepted pending replication package approval by data editor. 
