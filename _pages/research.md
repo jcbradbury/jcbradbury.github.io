@@ -13,10 +13,10 @@ author_profile: true
 
     - [Associated data and replication files](https://doi.org/10.3886/E200122V2)
 
-- Public Policy Toward Professional Sports Stadiums: A Review, with Dennis Coates and Brad Humphreys, Journal of Policy Analysis and Management, 2024, 43(3): 899–937. 
-    - Historical data on US Major-League Sports Stadium and Arena Construction Costs (1909-2027): Appendix (pdf). Dataset (csv, dta.)
+- [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22534), with Dennis Coates and Brad Humphreys, *Journal of Policy Analysis and Management*, 2024, 43(3): 899–937. 
+    -  [Appendi](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fpam.22534&file=pam22534-sup-0001-Appendix.pdf) (pdf). [Dataset](https://doi.org/10.3886/E193067V1) (csv, dta)
 
-- Estimating the Fiscal Impact of Stadium Developments: Evaluating a Pro Forma Model, with Robert Baumann, Public Finance Review, 2024, 52(4): 399-438.
+- Estimating the Fiscal Impact of Stadium Developments: Evaluating a Pro Forma Model, with Robert Baumann, *Public Finance Review*, 2024, 52(4): 399-438.
 
 - Sports Stadiums and Local Economic Activity: Evidence from Sales Tax Collections, Journal of Urban Affairs, 2024, 46(24): 139-159.
 
