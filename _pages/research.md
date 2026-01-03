@@ -47,3 +47,23 @@ author_profile: true
 
 - [Monopsony and Competition: The Impact of Rival Leagues on Player Salaries during the Early Days of Baseball](http://www.sciencedirect.com/science/article/pii/S0014498317300116), *Explorations in Economic History*,  2017, 65: 55-67. 
     - [Associated Data](https://www.openicpsr.org/openicpsr/project/100390/version/V1/view)
+
+### Policy Papers
+
+- [A Home Run for Cobb? A Comprehensive Report on the Economic Impact of Truist Park and The Battery Atlanta on Cobb County](https://www.kennesaw.edu/coles/centers/markets-economic-opportunity/docs/bradbury-cobb-report-march-2022.pdf), Bagwell Center Policy Report. 2022 (March).
+
+    - [Reply to Zimbalist: 'Report on the Fiscal Impact of Truist Park and the Battery'](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4165031).
+
+- [A Comment on Georgia Department of Economic Development Report: ‘The Economic Impact of the Film Industry in Georgia’](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526169). 
+
+- [Film Tax Credits and the Economic Impact of the Film Industry on Georgia’s Economy](https://www.kennesaw.edu/coles/centers/markets-economic-opportunity/docs/bradbury-july2019-a.pdf), Bagwell Center Policy Brief. 2019 (July).
+
+- [What Do Film Incentives Mean for the North Carolina Economy?](https://affiliate.wcu.edu/csfe/2019/07/15/what-do-film-incentives-mean-for-the-north-carolina-economy/) CSFE Issue Brief. 2019,  1(1).
+
+### Books
+
+- [This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums](https://global.oup.com/academic/product/this-one-will-be-different-9780197820216?cc=us&lang=en&) , Oxford University Press, In Press (July 2026).
+
+- [Hot Stove Economics: Understanding Baseball's Second Season](https://www.amazon.com/Hot-Stove-Economics-Understanding-Baseballs/dp/1441962689/), Copernicus/Springer, 2010.
+
+- [The Baseball Economist: The Real Game Exposed](https://www.amazon.com/Baseball-Economist-Real-Game-Exposed/dp/0452289025/ref=pd_sim_14_1?_encoding=UTF8&psc=1&refRID=4Y39PBNRH1A1PZ375894), Dutton/Plume. 2007.
