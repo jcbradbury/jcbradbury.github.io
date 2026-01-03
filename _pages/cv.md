@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Link to come
 <iframe
   src="/files/BradburyCV_web.pdf"
   width="100%"
   height="800px"
   style="border: none;">
 </iframe>
+
+[Download PDF](/files/BradburyCV_web.pdf)
