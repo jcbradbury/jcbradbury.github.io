@@ -17,8 +17,8 @@ author_profile: true
     <ul>
       <li><a href="https://global.oup.com/academic/product/this-one-will-be-different-9780197820216?cc=us&lang=en&">Oxford University Press</a></li>
       <li><a href="https://www.amazon.com/This-One-Will-Different-Realities/dp/0197820212">Amazon</a></li>
-      <li><a href=>test</a></li>
-      <li><a href="/research/">Related research</a></li>
+      <li><a href="">test</a></li>
+      <li> Related research</a></li>
       <li><a href="/assets/files/book-replication.zip">Data & replication files</a></li>
     </ul>
   </div>
