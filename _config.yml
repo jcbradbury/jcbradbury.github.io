@@ -33,14 +33,14 @@ author:
   email            : "jcbradbury@gmail.com" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "http://facultyweb.kennesaw.edu/jbradbu2/index.php"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=ltRZ4N0AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-9209-569X"
   semantic         : # URL
-  ssrn             : # URL
+  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1813071"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
