@@ -9,7 +9,9 @@ redirect_from:
 
 I am a professor of economics at Kennesaw State University, where I teach courses on microeconomics.  
 
-My recent research has focused on local economic development policy, particularly public financing of sports venues and flim production incentives.
+I am an applied economist who works primarily in the fields of public economics and sports economics, and I have a strong interest in public policy. My recent research has focused on local economic development policy, particularly public financing of sports venues and flim production incentives. I served on the Board of Directors for the Development Authority of Cobb County from 2019 to 2023. I am currently an accociate editor for *Journal of Sports Economics*.
+
+I am active on social media. You can follow me on [Bluesky](https://bsky.app/profile/jcbradbury.com) and [Twitter](https://x.com/jc_bradbury).
 
 ---
 
