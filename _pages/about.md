@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Website for J.C. Bradbury"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 I am a professor of economics at Kennesaw State University, where I teach courses on microeconomics.  
 
-My recent research as focused on local economic development policy, particularly public financing of sports venues and flim production incentives.
+My recent research has focused on local economic development policy, particularly public financing of sports venues and flim production incentives.
 
 ---
 
