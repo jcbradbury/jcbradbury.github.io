@@ -11,7 +11,6 @@ I am a professor of economics at Kennesaw State University in metro-Atlanta, whe
 
 I work primarily in the fields of public economics and sports economics, and I have a strong interest in public policy. My recent research has focused on local economic development policy, particularly public financing of sports venues and film production incentives. I served as an appointed board member of the Development Authority of Cobb County from 2019 to 2023. I am currently an associate editor for *Journal of Sports Economics*. You can learn more about my work by clicking on the links in the headers and sidebar.
 
-My new book [This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums](https://global.oup.com/academic/product/this-one-will-be-different-9780197820216?cc=us&lang=en&) on the economics of public sports venues will be published by Oxford University Press in July (follow the header link for more info).
 
 I live in Marietta, Georgia with my wife, and we have two adult daughters and one dog. I'm an avid sports fan who follows baseball (Atlanta Braves), football (Carolina Panthers and Georgia Bulldogs/Wofford Terriers), and soccer (Atlanta United). In my spare time, I homebrew beer and play guitar; though, I'm not particularly good at either of them.
 
@@ -20,7 +19,9 @@ I am active on social media: follow me on [Bluesky](https://bsky.app/profile/jcb
 
 ## Recent activity:
 
-- My new book on the economics of publicly funded stadiums will be published by Oxford University Press in July. ([Link](https://global.oup.com/academic/product/this-one-will-be-different-9780197820216?cc=us&lang=en&))
+- My new book [This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums](https://global.oup.com/academic/product/this-one-will-be-different-9780197820216?cc=us&lang=en&) on the economics of public sports venues will be published by Oxford University Press in July (follow the header link for more info).
 
 <p align="center">
 <img src="/images/TOWBD_Cover_scale1000.jpg" alt="Book cover" width="250"></p>
+
+- My article [The Impact of MLB Team Relocation on Hotel Demand](https://journals.sagepub.com/doi/10.1177/13548166251405295) (with Frank Stephenson) was recently published in *Tourism Economics*.
