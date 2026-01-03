@@ -9,3 +9,7 @@ redirect_from:
 
 I am a professor of economics at Kennesaw State University.  
 My research focuses on sports economics and public economics.
+
+---
+
+Recent 
