@@ -7,12 +7,12 @@ author_profile: true
 
 ### Journal Articles
 
-[The Impact of MLB Team Relocation on Hotel Demand](https://journals.sagepub.com/doi/10.1177/13548166251405295), with Frank Stephenson, *Tourism Economics*, In Press.
+- [The Impact of MLB Team Relocation on Hotel Demand](https://journals.sagepub.com/doi/10.1177/13548166251405295), with Frank Stephenson, *Tourism Economics*, In Press.
 
-[Revisiting the Novelty Effect From New Stadiums: An Event Study Approach](https://doi.org/10.1111/ecin.13231), *Economic Inquiry*, 2024, 62(4): 1722-1747.
+- [Revisiting the Novelty Effect From New Stadiums: An Event Study Approach](https://doi.org/10.1111/ecin.13231), *Economic Inquiry*, 2024, 62(4): 1722-1747.
 
     - [Associated data and replication files](https://doi.org/10.3886/E200122V2)
-    
+
 Public Policy Toward Professional Sports Stadiums: A Review, with Dennis Coates and Brad Humphreys, Journal of Policy Analysis and Management, 2024, 43(3): 899–937. 
 
 Historical data on US Major-League Sports Stadium and Arena Construction Costs (1909-2027): Appendix (pdf). Dataset (csv, dta.)
