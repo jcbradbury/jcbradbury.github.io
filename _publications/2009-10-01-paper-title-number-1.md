@@ -1,3 +1,5 @@
+published: false
+
 ---
 title: "The Impact of MLB Team Relocation on Hotel Demand"
 collection: publications
