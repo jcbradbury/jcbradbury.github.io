@@ -3,7 +3,7 @@ layout: archive
 title: "Media"
 permalink: /media/
 author_profile: true
-published: true
+published: false
 ---
 
 ## Podcasts
