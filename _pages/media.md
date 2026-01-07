@@ -6,7 +6,7 @@ author_profile: true
 published: true
 ---
 
-## Written
+## Print/Online
 - [Reason](https://reason.com/2025/07/08/theres-no-good-reason-for-cities-and-states-to-build-or-subsidize-sports-stadiums/) (7/8/2025) "There's No Good Reason for Cities and States To Build or Subsidize Sports Stadiums"
 
 - [The Economist](https://www.economist.com/united-states/2024/06/03/a-new-wave-of-stadium-building-is-busting-budgets-in-america) (6/3/2024) "A new wave of stadium-building is busting budgets in America"
