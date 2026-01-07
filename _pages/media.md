@@ -11,6 +11,12 @@ published: true
 
 - [The Economist](https://www.economist.com/united-states/2024/06/03/a-new-wave-of-stadium-building-is-busting-budgets-in-america) (6/3/2024) "A new wave of stadium-building is busting budgets in America"
 
+- [Washington Post](https://www.washingtonpost.com/business/2024/04/05/sports-stadium-boom-is-coming-america-is-that-good-thing/) (4/5/2024) "A sports stadium boom is coming to America. Is that a good thing?"
+
+- [Associated Press](https://apnews.com/article/sports-stadiums-public-funding-nfl-mlb-a81d825286530bb95f227efc99f2e9d30bb95f227efc99f2e9d3) (12/23/2023) "Plans abounding for new sports stadiums across the US, carrying hefty public costs"
+
+- [Bloomberg](https://www.bloomberg.com/news/articles/2023-12-16/downtown-dc-faces-a-new-dilemma-in-potential-sports-team-exodus) (12/16/2023)"The Dream of the Suburban Sports District Can Be a Nightmare for Taxpayers"
+
 ## Podcasts
 - [Hang Up and Listen, Slate](https://slate.com/podcasts/hang-up-and-listen/2026/01/the-economics-of-the-chiefs-move-from-missouri-to-kansas) (1/5/2026) "Kansas Bends the Knee for the NFL: Why fumble the giant bag of taxpayer money when you can simply hand it over?"
 
