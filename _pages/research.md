@@ -52,9 +52,10 @@ author_profile: true
 
 - [Do Film Incentive Programs Promote Economic Activity? A Comment on O’Brien and Lane](https://econjwatch.org/articles/do-film-incentive-programs-promote-economic-activity-a-comment-on-o-brien-and-lane), *Econ Journal Watch*, 2020, 17: 56-65.
 
-- [Determinants of Attendance in Major League Soccer](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecin.12710), *Journal of Sport Management*,  2020, 34: 53-63.
+- [Determinants of Attendance in Major League Soccer](https://journals.humankinetics.com/view/journals/jsm/34/1/article-p53.xml?alreadyAuthRedirecting), *Journal of Sport Management*,  2020, 34: 53-63.
 
 - [Monitoring and Employee Shirking: Evidence from MLB Umpires](https://doi.org/10.1177/1527002518808350), *Journal of Sports Economics*,  2019, 20: 850-872.
+    - [Ungated](https://journals.sagepub.com/doi/pdf/10.1177/1527002518808350?casa_token=DoLE2buPBF4AAAAA:kBe3uIRohWgfxx9lUcPo6-gEsEjmAY62yh_1DKQZErVg13S4nwboK1f4BReZjKQCepCI4G4UEdRL8g)
 
 - [Determinants of Revenue in Sports Leagues: An Empirical Assessment](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecin.12710), *Economic Inquiry*, 2019, 57: 121-140.
     - [Ungated](https://onlinelibrary.wiley.com/share/QEESQMQNIHZWRZK6REVU?target=10.1111/ecin.12710)
