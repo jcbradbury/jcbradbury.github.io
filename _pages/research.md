@@ -40,7 +40,8 @@ author_profile: true
 
 - [Financial Returns in Major League Soccer](https://journals.sagepub.com/doi/full/10.1177/15270025211022733), *Journal of Sports Economics*, 2021, 22(8): 921-945.  
 
-- [What Explains Labor's Declining Share of Revenue in Major League Baseball?](https://fitpublishing.com/articles/what-explains-labor%E2%80%99s-declining-share-revenue-major-league-baseball) *International Journal of Sport Finance*, 2021, 16: 79-94. 
+- [What Explains Labor's Declining Share of Revenue in Major League Baseball?](https://journals.sagepub.com/doi/10.32731/IJSF.162.052021.03) *International Journal of Sport Finance*, 2021, 16: 79-94. 
+    - [Ungated](https://journals.sagepub.com/doi/pdf/10.32731/IJSF.162.052021.03?casa_token=i6c3nR3RfIkAAAAA:5cmxbh6A1P74TyWaPULwpqoB0DHDaLmKpWBx2hQCndq7LDJiOp0JgToVSHL4CxlnQvGiCE0kUXTbig)
 
 - [Do Movie Production Incentives Generate Economic Development?](https://onlinelibrary.wiley.com/share/author/ZSXPWRGTWSRGNIPCE4UZ?target=10.1111/coep.12443) *Contemporary Economic Policy*,  2020, 38: 327-342.
     - [Ungated](https://onlinelibrary.wiley.com/share/author/NUA7BQFH54UCASJGBAMH?target=10.1111/coep.12443)
