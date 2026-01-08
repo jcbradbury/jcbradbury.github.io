@@ -17,8 +17,8 @@ main:
   - title: "Book"
     url: /towbd/   
 
- # - title: "Media"
-  #  url: /media/
+  - title: "Media"
+    url: /media/
 
  # - title: "Teaching"
   #  url: /teaching/    
