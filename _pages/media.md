@@ -11,6 +11,8 @@ published: true
 
 - [The Economist](https://www.economist.com/united-states/2024/06/03/a-new-wave-of-stadium-building-is-busting-budgets-in-america) (6/3/2024) "A new wave of stadium-building is busting budgets in America"
 
+- [The Journalist's Resource](https://journalistsresource.org/politics-and-government/economic-impact-sports-stadiums-reporting-tips/) (4/11/2024) "Covering sports stadium financing? Read these 4 tips"
+
 - [The Journalist's Resource](https://journalistsresource.org/economics/sports-stadium-public-financing/) (4/10/2024) "Public funding for sports stadiums: A primer and research roundup"
 
 - [Washington Post](https://www.washingtonpost.com/business/2024/04/05/sports-stadium-boom-is-coming-america-is-that-good-thing/) (4/5/2024) "A sports stadium boom is coming to America. Is that a good thing?"
