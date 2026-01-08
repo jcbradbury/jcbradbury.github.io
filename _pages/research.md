@@ -41,6 +41,7 @@ author_profile: true
     - [Ungated](https://onlinelibrary.wiley.com/share/author/Y9C4F3DSGDTPVMNBSPKE?target=10.1111/jors.12560)
 
 - [Financial Returns in Major League Soccer](https://journals.sagepub.com/doi/full/10.1177/15270025211022733), *Journal of Sports Economics*, 2021, 22(8): 921-945.  
+    - [Ungated](https://journals.sagepub.com/doi/pdf/10.1177/15270025211022733?casa_token=iXwVIF2g1K0AAAAA:xxlgcPZp35T7Rmk9JVaI9jg5hILQXmLomwIWHZh1bMUw-0Yt8zrC3JL_0WOiuJyY1E6mgZs8GSq5uQ)
 
 - [What Explains Labor's Declining Share of Revenue in Major League Baseball?](https://journals.sagepub.com/doi/10.32731/IJSF.162.052021.03) *International Journal of Sport Finance*, 2021, 16: 79-94. 
     - [Ungated](https://journals.sagepub.com/doi/pdf/10.32731/IJSF.162.052021.03?casa_token=i6c3nR3RfIkAAAAA:5cmxbh6A1P74TyWaPULwpqoB0DHDaLmKpWBx2hQCndq7LDJiOp0JgToVSHL4CxlnQvGiCE0kUXTbig)
