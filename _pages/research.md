@@ -4,6 +4,7 @@ title: "Recent Research"
 permalink: /research/
 author_profile: true
 ---
+Here is a list of my recent accepted/published articles and working papers. I provide links to ungated versions where available. If you would like to read an article that you are unable to access, feel free to ask me for a copy via e-mail. 
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
@@ -65,6 +66,7 @@ author_profile: true
     - [Ungated](https://journals.sagepub.com/doi/pdf/10.1177/1527002517696958?casa_token=jp8An5EJz5wAAAAA:uxpAF4dM-lExpznU8iUthOY5xy-ysXWpYmY_Jg1On9fOSQc3RtS24Mq6tMcmyiCqzSDXiLr5-h5R8Q)
 
 - [Hired To Be Fired: The Publicity Value of Managers](http://onlinelibrary.wiley.com/doi/10.1002/mde.2834/full), *Managerial and Decision Economics*, 2017, 38: 929-940. 
+    - [Ungated](https://onlinelibrary.wiley.com/share/7WWT7JJKPYP32X6SBDBI?target=10.1002/mde.2834)
 
 - [Monopsony and Competition: The Impact of Rival Leagues on Player Salaries during the Early Days of Baseball](http://www.sciencedirect.com/science/article/pii/S0014498317300116), *Explorations in Economic History*,  2017, 65: 55-67. 
     - [Associated Data](https://www.openicpsr.org/openicpsr/project/100390/version/V1/view)
