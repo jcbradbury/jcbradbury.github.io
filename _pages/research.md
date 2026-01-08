@@ -35,6 +35,7 @@ author_profile: true
 - [Does Hosting a Professional Sports Team Benefit the Local Community? Evidence from Property Assessments](https://link.springer.com/article/10.1007/s10101-022-00268-z), *Economics of Governance*, 2022, 23 (3-4): 219-252.
 
 - [The Impact of Sports Stadiums on Localized Commercial Activity: Evidence from a Business Improvement District](https://doi.org/10.1111/jors.12560), *Journal of Regional Science*, 2022, 62(1): 194-217. 
+    - [Ungated](https://onlinelibrary.wiley.com/share/author/Y9C4F3DSGDTPVMNBSPKE?target=10.1111/jors.12560)
 
 - [Financial Returns in Major League Soccer](https://journals.sagepub.com/doi/full/10.1177/15270025211022733), *Journal of Sports Economics*, 2021, 22(8): 921-945.  
 
