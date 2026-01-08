@@ -36,6 +36,7 @@ author_profile: true
     - [Ungated](https://onlinelibrary.wiley.com/share/author/CZ33J6JZTP4V7GRSHUFU?target=10.1111/joes.12533) \| [Appendix of studies](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjoes.12533&file=joes12533-sup-0001-Appendix.pdf) \| [Historical stadium data (1970-2020)](https://www.openicpsr.org/openicpsr/project/179801/version/V1/view)
 
 - [Does Hosting a Professional Sports Team Benefit the Local Community? Evidence from Property Assessments](https://link.springer.com/article/10.1007/s10101-022-00268-z), *Economics of Governance*, 2022, 23 (3-4): 219-252.
+    -[Ungated](https://pmc.ncbi.nlm.nih.gov/articles/PMC8811744/pdf/10101_2022_Article_268.pdf)
 
 - [The Impact of Sports Stadiums on Localized Commercial Activity: Evidence from a Business Improvement District](https://doi.org/10.1111/jors.12560), *Journal of Regional Science*, 2022, 62(1): 194-217. 
     - [Ungated](https://onlinelibrary.wiley.com/share/author/Y9C4F3DSGDTPVMNBSPKE?target=10.1111/jors.12560)
