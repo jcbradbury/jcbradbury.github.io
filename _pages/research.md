@@ -42,6 +42,7 @@ author_profile: true
 - [What Explains Labor's Declining Share of Revenue in Major League Baseball?](https://fitpublishing.com/articles/what-explains-labor%E2%80%99s-declining-share-revenue-major-league-baseball) *International Journal of Sport Finance*, 2021, 16: 79-94. 
 
 - [Do Movie Production Incentives Generate Economic Development?](https://onlinelibrary.wiley.com/share/author/ZSXPWRGTWSRGNIPCE4UZ?target=10.1111/coep.12443) *Contemporary Economic Policy*,  2020, 38: 327-342.
+    - [Ungated](https://onlinelibrary.wiley.com/share/author/NUA7BQFH54UCASJGBAMH?target=10.1111/coep.12443)
 
 - [Do Film Incentive Programs Promote Economic Activity? A Comment on O’Brien and Lane](https://econjwatch.org/articles/do-film-incentive-programs-promote-economic-activity-a-comment-on-o-brien-and-lane), *Econ Journal Watch*, 2020, 17: 56-65.
 
