@@ -51,6 +51,7 @@ author_profile: true
     - [Ungated](https://onlinelibrary.wiley.com/share/author/NUA7BQFH54UCASJGBAMH?target=10.1111/coep.12443)
 
 - [Do Film Incentive Programs Promote Economic Activity? A Comment on O’Brien and Lane](https://econjwatch.org/articles/do-film-incentive-programs-promote-economic-activity-a-comment-on-o-brien-and-lane), *Econ Journal Watch*, 2020, 17: 56-65.
+    - [PDF](https://econjwatch.org/file_download/1144/BradburyMar2020.pdf?mimetype=pdf)
 
 - [Determinants of Attendance in Major League Soccer](https://journals.humankinetics.com/view/journals/jsm/34/1/article-p53.xml?alreadyAuthRedirecting), *Journal of Sport Management*,  2020, 34: 53-63.
 
