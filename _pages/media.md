@@ -5,6 +5,7 @@ permalink: /media/
 author_profile: true
 published: true
 ---
+The policy focus of my research means that media outlets often ask me for comments on subjets that I research. Here are links to selected publications and podcasts where I provide general commentary that is broadly applicable across the country. You may find them more digestable than my academic research papers. 
 
 ## Print/Online
 - [Reason](https://reason.com/2025/07/08/theres-no-good-reason-for-cities-and-states-to-build-or-subsidize-sports-stadiums/) (7/8/2025) "There's No Good Reason for Cities and States To Build or Subsidize Sports Stadiums"
