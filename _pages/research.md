@@ -61,6 +61,7 @@ author_profile: true
     - [Ungated](https://onlinelibrary.wiley.com/share/QEESQMQNIHZWRZK6REVU?target=10.1111/ecin.12710)
 
 - [Full Cost of Attendance Scholarships and College Choice: Evidence from NCAA Football](http://journals.sagepub.com/doi/full/10.1177/1527002517696958), with Joshua Pitts, *Journal of Sports Economics*, 2018, 19: 977-989.
+    - [Ungated](https://journals.sagepub.com/doi/pdf/10.1177/1527002517696958?casa_token=jp8An5EJz5wAAAAA:uxpAF4dM-lExpznU8iUthOY5xy-ysXWpYmY_Jg1On9fOSQc3RtS24Mq6tMcmyiCqzSDXiLr5-h5R8Q)
 
 - [Hired To Be Fired: The Publicity Value of Managers](http://onlinelibrary.wiley.com/doi/10.1002/mde.2834/full), *Managerial and Decision Economics*, 2017, 38: 929-940. 
 
