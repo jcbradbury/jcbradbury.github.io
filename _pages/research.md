@@ -30,7 +30,7 @@ author_profile: true
 - [Sports Stadiums and Local Economic Activity: Evidence from Sales Tax Collections](https://www.tandfonline.com/doi/full/10.1080/07352166.2022.2044837), *Journal of Urban Affairs*, 2024, 46(24): 139-159.
 
 - [The Impact of Professional Sports Franchises and Venues on Local Economies: A Comprehensive Survey](https://onlinelibrary.wiley.com/doi/epdf/10.1111/joes.12533), with Dennis Coates and Brad Humphreys, *Journal of Economic Surveys*, 2023, 37(4): 1389-1431 
-    - [Appendix of studies](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjoes.12533&file=joes12533-sup-0001-Appendix.pdf) \| [Historical stadium data (1970-2020)](https://www.openicpsr.org/openicpsr/project/179801/version/V1/view)
+    - [Ungated](https://onlinelibrary.wiley.com/share/author/CZ33J6JZTP4V7GRSHUFU?target=10.1111/joes.12533) \| [Appendix of studies](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjoes.12533&file=joes12533-sup-0001-Appendix.pdf) \| [Historical stadium data (1970-2020)](https://www.openicpsr.org/openicpsr/project/179801/version/V1/view)
 
 - [Does Hosting a Professional Sports Team Benefit the Local Community? Evidence from Property Assessments](https://link.springer.com/article/10.1007/s10101-022-00268-z), *Economics of Governance*, 2022, 23 (3-4): 219-252.
 
