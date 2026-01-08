@@ -28,6 +28,7 @@ author_profile: true
 - [Estimating the Fiscal Impact of Stadium Developments: Evaluating a Pro Forma Model](https://journals.sagepub.com/doi/10.1177/10911421231199517), with Robert Baumann, *Public Finance Review*, 2024, 52(4): 399-438.
 
 - [Sports Stadiums and Local Economic Activity: Evidence from Sales Tax Collections](https://www.tandfonline.com/doi/full/10.1080/07352166.2022.2044837), *Journal of Urban Affairs*, 2024, 46(24): 139-159.
+    - [Ungated](https://www.tandfonline.com/share/F3DRTV9TNXEBENFM9WKN?target=10.1080/07352166.2022.2044837)
 
 - [The Impact of Professional Sports Franchises and Venues on Local Economies: A Comprehensive Survey](https://onlinelibrary.wiley.com/doi/epdf/10.1111/joes.12533), with Dennis Coates and Brad Humphreys, *Journal of Economic Surveys*, 2023, 37(4): 1389-1431 
     - [Ungated](https://onlinelibrary.wiley.com/share/author/CZ33J6JZTP4V7GRSHUFU?target=10.1111/joes.12533) \| [Appendix of studies](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjoes.12533&file=joes12533-sup-0001-Appendix.pdf) \| [Historical stadium data (1970-2020)](https://www.openicpsr.org/openicpsr/project/179801/version/V1/view)
