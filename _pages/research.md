@@ -20,7 +20,7 @@ author_profile: true
 
 - [Revisiting the Novelty Effect From New Stadiums: An Event Study Approach](https://doi.org/10.1111/ecin.13231), *Economic Inquiry*, 2024, 62(4): 1722-1747.
 
-    - [Ungated](https://onlinelibrary.wiley.com/share/author/BZBTN6XMUH6MVVENESNV?target=10.1002/pam.22534) \| [Replication package](https://doi.org/10.3886/E200122V2)
+    - [Ungated](https://onlinelibrary.wiley.com/share/author/YB8JYYXKYXUAW3B4UDCN?target=10.1111/ecin.13231) \| [Replication package](https://doi.org/10.3886/E200122V2)
 
 - [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22534), with Dennis Coates and Brad Humphreys, *Journal of Policy Analysis and Management*, 2024, 43(3): 899–937. 
     -  [Ungated](https://onlinelibrary.wiley.com/share/author/ERYG47HSGDANU6MHVHHT?target=10.1002/pam.22534) \| [Appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fpam.22534&file=pam22534-sup-0001-Appendix.pdf) (pdf) \|  [Historical stadium data (1909-2027)](https://doi.org/10.3886/E193067V1) (csv, dta)
