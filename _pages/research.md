@@ -78,12 +78,13 @@ Here is a list of my recent accepted/published articles and working papers. I pr
     - [Associated Data](https://www.openicpsr.org/openicpsr/project/100390/version/V1/view)
 
 ### Policy Papers
+- [So Your City Wants to Build a Stadium. Here’s What to Know](https://web.archive.org/web/20250426013334/https://globalsportmatters.com/business/2022/06/15/so-your-city-wants-sports-stadium/), Global Sports Matters, 2022 (June).
 
-- [A Home Run for Cobb? A Comprehensive Report on the Economic Impact of Truist Park and The Battery Atlanta on Cobb County](https://www.kennesaw.edu/coles/centers/markets-economic-opportunity/docs/bradbury-cobb-report-march-2022.pdf), Bagwell Center Policy Report. 2022 (March).
+- [A Home Run for Cobb? A Comprehensive Report on the Economic Impact of Truist Park and The Battery Atlanta on Cobb County](https://www.kennesaw.edu/coles/centers/markets-economic-opportunity/docs/bradbury-cobb-report-march-2022.pdf), Bagwell Center Policy Report, 2022 (March).
 
     - [Reply to Zimbalist: 'Report on the Fiscal Impact of Truist Park and the Battery'](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4165031).
 
-- [A Comment on Georgia Department of Economic Development Report: ‘The Economic Impact of the Film Industry in Georgia’](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526169). 
+- [A Comment on Georgia Department of Economic Development Report: ‘The Economic Impact of the Film Industry in Georgia’](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526169), 2020. 
 
 - [Film Tax Credits and the Economic Impact of the Film Industry on Georgia’s Economy](https://www.kennesaw.edu/coles/centers/markets-economic-opportunity/docs/bradbury-july2019-a.pdf), Bagwell Center Policy Brief. 2019 (July).
 
