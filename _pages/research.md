@@ -12,6 +12,10 @@ Here is a list of my recent accepted/published articles and working papers. I pr
 {% endif %}
  -->
  
+### Working Papers
+
+- [The Public Cost of Minor League Baseball Stadium Subsidies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5318600)
+
 ### Journal Articles
 <!-- 
 - The Public Cost of Minor League Baseball Stadium Subsidies [(pre-print)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5318600), *Economic Inquiry*, conditionally accepted pending replication package approval by data editor. 
