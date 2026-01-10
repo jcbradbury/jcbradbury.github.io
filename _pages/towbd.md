@@ -34,5 +34,6 @@ Why does this keep happening? The refrain is always the same: This one will be d
 In This One Will Be Different, sports economist J.C. Bradbury draws from decades of academic research and his up-close and personal experiences with the Cobb Braves stadium deal to elucidate why publicly funded venues never deliver on their promises. Moving beyond the standard explanations of monopoly leagues and special-interest lobbying, Bradbury reveals how pliable politicians-drawn to the prestige and perks of professional sports-buck the will of their constituents to approve increasingly generous taxpayer handouts to billionaire team owners. 
 
 Authoritative yet accessible, this book blends economic analysis, political insight, and vivid storytelling to examine why politicians continue to fall for the stadium grift and presents practical steps for reform. Bradbury argues that improved transparency, greater understanding, and giving voters a direct say at the ballot box have the potential to break the stadium subsidy cycle.
+
 </em>
 
