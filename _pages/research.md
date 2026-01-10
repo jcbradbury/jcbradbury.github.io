@@ -22,10 +22,10 @@ Here is a list of my recent accepted/published articles and working papers. I pr
 
     - [Replication package](https://doi.org/10.3886/E241242V1)
 
--->
-- [Yes, There is an Economic Consensus that Professional Sports Facilities are Inadvisable Public Investments: A Reply to Johnson, Fort, and Rosentraub](https://jcbradbury.com/files/Bradbury_HumphreysEDQ_accepted.pdf), with Brad Humphreys, *Economic Development Quarterly*, 2026, In Press. <!-- 40(2) -->
-    - [Ungated](https://jcbradbury.com/files/Bradbury_HumphreysEDQ_accepted.pdf)
 
+- [Yes, There is an Economic Consensus that Professional Sports Facilities are Inadvisable Public Investments: A Reply to Johnson, Fort, and Rosentraub](https://jcbradbury.com/files/Bradbury_HumphreysEDQ_accepted.pdf), with Brad Humphreys, *Economic Development Quarterly*, 2026, In Press.  40(2) 
+    - [Ungated](https://jcbradbury.com/files/Bradbury_HumphreysEDQ_accepted.pdf)
+-->
 
 - [The Impact of MLB Team Relocation on Hotel Demand](https://journals.sagepub.com/doi/10.1177/13548166251405295), with Frank Stephenson, *Tourism Economics*, In Press.
     - [Ungated](https://journals.sagepub.com/doi/pdf/10.1177/13548166251405295?casa_token=i9nq1LFTm40AAAAA:nG_W01AtMOmXLkkIkmViUpvnMoCSUKnRXmnEzToOd4qiRUmC674PwtbN4rA56Nq552sx86uwMS8vLw)
