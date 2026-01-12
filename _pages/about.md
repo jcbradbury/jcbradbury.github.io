@@ -26,7 +26,7 @@ I am active on social media: follow me on [Bluesky](https://bsky.app/profile/jcb
       <div style="flex: 1;">
         <p>
           My new book
-          <a href="https://jcbradbury.com/towbd">
+          <a href="https://global.oup.com/academic/product/this-one-will-be-different-9780197820216?cc=us&lang=en&">
             <em>This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums</em>
           </a>,
           on the economics of public sports venues, will be published by
@@ -34,7 +34,7 @@ I am active on social media: follow me on [Bluesky](https://bsky.app/profile/jcb
         </p>
                 <!-- Sub-bullets -->
         <ul>
-          <li>I will be posting more information about the book in the coming months.</li>
+          <li>See the <a href="https://jcbradbury.com/towbd"> book page</a> for more information.</li>
         
         </ul>
       </div>
