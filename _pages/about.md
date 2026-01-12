@@ -34,7 +34,7 @@ I am active on social media: follow me on [Bluesky](https://bsky.app/profile/jcb
         </p>
                 <!-- Sub-bullets -->
         <ul>
-          <li>See the <a href="https://jcbradbury.com/towbd"> book page</a> for more information.</li>
+          <li>See the <a href="https://jcbradbury.com/towbd"> book page</a> for a summary of its contents, links, and release information.</li>
         
         </ul>
       </div>
