@@ -32,7 +32,11 @@ I am active on social media: follow me on [Bluesky](https://bsky.app/profile/jcb
           on the economics of public sports venues, will be published by
           Oxford University Press in July.
         </p>
+                <!-- Sub-bullets -->
+        <ul>
+          <li>I will be posting more information about the book in the coming months.</li>
         
+        </ul>
       </div>
 
       <div style="flex: 0 0 140px;">
