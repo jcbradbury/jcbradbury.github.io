@@ -28,22 +28,28 @@ I am active on social media: follow me on [Bluesky](https://bsky.app/profile/jcb
 
 <!-- My article The Public Cost of Minor League Baseball Stadium Subsidies [(pre-print)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5318600) has been conditionally accepted (pending data editor approval of the replication package) by *Economic Inquiry*. -->
  
-- <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-<div style="flex: 1;">
-    <p>
-      My new book <a href="https://jcbradbury.com/towbd">
-  <em>This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums</em>
-</a>
- on the economics of public sports venues will be published by Oxford University Press in July (follow the header link for more info).
-    </p>
-  </div>
-  
-  <div style="flex: 0 0 180px;">
-    <img src="/images/TOWBD_Cover_scale1000.jpg"
-         alt="This One Will Be Different book cover"
-         width="120">
-  </div>
+<ul>
+  <li>
+    <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
-  
+      <div style="flex: 1;">
+        <p>
+          My new book,
+          <a href="https://jcbradbury.com/towbd">
+            <em>This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums</em>
+          </a>,
+          on the economics of public sports venues will be published by
+          Oxford University Press in July (follow the header link for more info).
+        </p>
+      </div>
 
-</div>
+      <div style="flex: 0 0 140px;">
+        <img src="/assets/images/book-cover.png"
+             alt="This One Will Be Different book cover"
+             width="140">
+      </div>
+
+    </div>
+  </li>
+</ul>
+
