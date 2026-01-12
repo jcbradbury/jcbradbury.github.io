@@ -39,12 +39,12 @@ I am active on social media: follow me on [Bluesky](https://bsky.app/profile/jcb
             <em>This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums</em>
           </a>,
           on the economics of public sports venues will be published by
-          Oxford University Press in July (follow the header link for more info).
+          Oxford University Press in July.
         </p>
       </div>
 
       <div style="flex: 0 0 140px;">
-        <img src="/assets/images/book-cover.png"
+        <img src="/images/TOWBD_Cover_scale1000.jpg"
              alt="This One Will Be Different book cover"
              width="140">
       </div>
