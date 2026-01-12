@@ -22,7 +22,7 @@ I am active on social media: follow me on [Bluesky](https://bsky.app/profile/jcb
 - My new book [This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums](https://global.oup.com/academic/product/this-one-will-be-different-9780197820216?cc=us&lang=en&) on the economics of public sports venues will be published by Oxford University Press in July (follow the header link for more info).
 
 <p align="center">
-<img src="/images/TOWBD_Cover_scale1000.jpg" alt="Book cover" width="250"></p>
+<img src="/images/TOWBD_Cover_scale1000.jpg" alt="Book cover" width="150"></p>
 
 - My article (with Frank Stephenson)  [The Impact of MLB Team Relocation on Hotel Demand](https://journals.sagepub.com/doi/10.1177/13548166251405295) was recently published in *Tourism Economics*.
 
