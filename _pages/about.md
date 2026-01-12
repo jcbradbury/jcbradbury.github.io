@@ -27,7 +27,7 @@ I am active on social media: follow me on [Bluesky](https://bsky.app/profile/jcb
 - My article (with Frank Stephenson)  [The Impact of MLB Team Relocation on Hotel Demand](https://journals.sagepub.com/doi/10.1177/13548166251405295) was recently published in *Tourism Economics*.
 
 <!-- My article The Public Cost of Minor League Baseball Stadium Subsidies [(pre-print)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5318600) has been conditionally accepted (pending data editor approval of the replication package) by *Economic Inquiry*. -->
-
+ 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <div style="flex: 0 0 180px;">
