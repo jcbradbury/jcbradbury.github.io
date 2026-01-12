@@ -19,15 +19,6 @@ I am active on social media: follow me on [Bluesky](https://bsky.app/profile/jcb
 
 ## Recent activity:
 
-- My new book [This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums](https://global.oup.com/academic/product/this-one-will-be-different-9780197820216?cc=us&lang=en&) on the economics of public sports venues will be published by Oxford University Press in July (follow the header link for more info).
-
-<p align="center">
-<img src="/images/TOWBD_Cover_scale1000.jpg" alt="Book cover" width="150"></p>
-
-- My article (with Frank Stephenson)  [The Impact of MLB Team Relocation on Hotel Demand](https://journals.sagepub.com/doi/10.1177/13548166251405295) was recently published in *Tourism Economics*.
-
-<!-- My article The Public Cost of Minor League Baseball Stadium Subsidies [(pre-print)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5318600) has been conditionally accepted (pending data editor approval of the replication package) by *Economic Inquiry*. -->
- 
 <ul>
   <li>
     <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
@@ -53,3 +44,17 @@ I am active on social media: follow me on [Bluesky](https://bsky.app/profile/jcb
   </li>
 </ul>
 
+
+
+
+- My article (with Frank Stephenson)  [The Impact of MLB Team Relocation on Hotel Demand](https://journals.sagepub.com/doi/10.1177/13548166251405295) was recently published in *Tourism Economics*.
+
+<!-- My article The Public Cost of Minor League Baseball Stadium Subsidies [(pre-print)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5318600) has been conditionally accepted (pending data editor approval of the replication package) by *Economic Inquiry*.
+
+- My new book [This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums](https://global.oup.com/academic/product/this-one-will-be-different-9780197820216?cc=us&lang=en&) on the economics of public sports venues will be published by Oxford University Press in July (follow the header link for more info).
+
+<p align="center">
+<img src="/images/TOWBD_Cover_scale1000.jpg" alt="Book cover" width="150"></p>
+ 
+ -->
+ 
