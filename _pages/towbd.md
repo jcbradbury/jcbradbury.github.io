@@ -19,6 +19,8 @@ My book **This One Will Be Different: False Promises and Fiscal Realities of Pub
     <ul>
       <li><a href="https://global.oup.com/academic/product/this-one-will-be-different-9780197820216?cc=us&lang=en&">Oxford University Press</a></li>
       <li><a href="https://www.amazon.com/This-One-Will-Different-Realities/dp/0197820212">Amazon</a></li>
+      <li></li>
+      <li><a href="https://www.goodreads.com/book/show/245768742">Goodreads</a></li>
 
     </ul>
   </div>
