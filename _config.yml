@@ -17,6 +17,8 @@ url                      : https://jcbradbury.com # The base hostname & protocol
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jcbradbury.github.io"
+exclude:
+  - README.md
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -166,7 +168,6 @@ include:
   - _pages
   - files
 exclude:
-  - README.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
