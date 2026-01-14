@@ -1,7 +1,4 @@
----
-author_profile: false
-published: false
----
+
 
 <!-- 
 # Academic Pages
