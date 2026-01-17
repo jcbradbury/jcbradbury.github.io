@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to J.C. Bradbury's personal webapge"
+title: "Welcome to J.C. Bradbury's personal webpage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a professor of economics at Kennesaw State University in metro-Atlanta, where I teach courses on microeconomics. 
+I am a professor of economics at Kennesaw State University in metro-Atlanta. 
 
 I work primarily in the fields of public economics and sports economics, and I have a strong interest in public policy. My recent research has focused on local economic development policy, particularly public financing of sports venues and film production incentives. I served as an appointed board member of the Development Authority of Cobb County from 2019 to 2023. I am currently an associate editor for *Journal of Sports Economics*. You can learn more about my work by clicking on the links in the headers and sidebar.
 
