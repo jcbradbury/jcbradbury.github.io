@@ -25,7 +25,7 @@ Media outlets often ask me to comment on policy implications of my research. Her
 - [Bloomberg](https://www.bloomberg.com/news/articles/2023-12-16/downtown-dc-faces-a-new-dilemma-in-potential-sports-team-exodus) (12/16/2023)  "The Dream of the Suburban Sports District Can Be a Nightmare for Taxpayers"
 
 ## Podcasts
-- [Reason](https://reason.com/podcast/2026/01/28/the-real-reason-you-pay-for-nfl-stadiums/) (1/28/2026) "The Real Reason You Pay for NFL Stadiums"
+- [The Reason Interview](https://reason.com/podcast/2026/01/28/the-real-reason-you-pay-for-nfl-stadiums/) (1/28/2026) "The Real Reason You Pay for NFL Stadiums"
 
 - [Hang Up and Listen, Slate](https://slate.com/podcasts/hang-up-and-listen/2026/01/the-economics-of-the-chiefs-move-from-missouri-to-kansas) (1/5/2026) "Kansas Bends the Knee for the NFL: Why fumble the giant bag of taxpayer money when you can simply hand it over?"
 
