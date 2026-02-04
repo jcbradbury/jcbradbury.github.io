@@ -20,7 +20,7 @@ My book **This One Will Be Different: False Promises and Fiscal Realities of Pub
       <li><a href="https://global.oup.com/academic/product/this-one-will-be-different-9780197820216?cc=us&lang=en&">Oxford University Press</a></li>
       <li><a href="https://www.amazon.com/This-One-Will-Different-Realities/dp/0197820212">Amazon</a></li>
       <li><a href="https://www.barnesandnoble.com/w/this-one-will-be-different-j-c-bradbury/1149008693?ean=9780197820216">Barnes & Noble</a></li>
-      <li><a href="https://www.goodreads.com/book/show/2457687422">Goodreads<</a></li>
+      <li><a href="https://www.goodreads.com/book/show/2457687422">Goodreads</a></li>
   
 
     </ul>
