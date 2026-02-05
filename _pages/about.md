@@ -51,7 +51,8 @@ I am active on social media: follow me on [Bluesky](https://bsky.app/profile/jcb
 </ul>
 
 
-
+- My article (with Brad Humphreys) [Yes, There Is an Economic Consensus that Professional Sports Facilities Are Inadvisable Public
+Investments: A Reply to Johnson, Fort, and Rosentraub](https://journals.sagepub.com/doi/10.1177/08912424261418035) was recently published in *Economic Development Quarterly*.
 
 - My article (with Frank Stephenson)  [The Impact of MLB Team Relocation on Hotel Demand](https://journals.sagepub.com/doi/10.1177/13548166251405295) was recently published in *Tourism Economics*.
 
@@ -59,8 +60,7 @@ I am active on social media: follow me on [Bluesky](https://bsky.app/profile/jcb
 
 My article The Public Cost of Minor League Baseball Stadium Subsidies [(pre-print)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5318600) has been conditionally accepted (pending data editor approval of the replication package) by *Economic Inquiry*.
 
-My article (with Brad Humphreys) [Yes, There Is an Economic Consensus that Professional Sports Facilities Are Inadvisable Public
-Investments: A Reply to Johnson, Fort, and Rosentraub](https://jcbradbury.com/files/Bradbury_HumphreysEDQ_accepted.pdf) was recently published in *Economic Development Quarterly*.
+
 
 - My new book [This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums](https://global.oup.com/academic/product/this-one-will-be-different-9780197820216?cc=us&lang=en&) on the economics of public sports venues will be published by Oxford University Press in July (follow the header link for more info).
 
