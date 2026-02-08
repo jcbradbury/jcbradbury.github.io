@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "J.C. Bradbuy"
+title                    : "J.C. Bradbury"
 title_separator          : "-"
 name                     : &name "J.C. Bradbury"
 description              : &description "Professor of Economics"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,7 +25,7 @@ repository               : "jcbradbury.github.io"
 author:
   # Biographic information
   avatar           : "jc_head_noblur.jpg"
-  name             : "J.C. Bradbuy"
+  name             : "J.C. Bradbury"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Marietta, GA"
