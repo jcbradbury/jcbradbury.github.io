@@ -40,7 +40,7 @@ Here is a list of my recent accepted/published articles and working papers. I pr
 - [Estimating the Fiscal Impact of Stadium Developments: Evaluating a Pro Forma Model](https://journals.sagepub.com/doi/10.1177/10911421231199517), with Robert Baumann, *Public Finance Review*, 2024, 52(4): 399-438.
     - [Ungated](https://journals.sagepub.com/doi/pdf/10.1177/10911421231199517?casa_token=siC0MgUHtyIAAAAA:aLUt_64E68xLvst2eLfC6d72SPVUEum2y76_qXO9kuPwILwqobhe-hQFO4u5kvw-ooWyTIUfA0ohfg)
 
-- [Sports Stadiums and Local Economic Activity: Evidence from Sales Tax Collections](https://www.tandfonline.com/doi/full/10.1080/07352166.2022.2044837), *Journal of Urban Affairs*, 2024, 46(24): 139-159.
+- [Sports Stadiums and Local Economic Activity: Evidence from Sales Tax Collections](https://www.tandfonline.com/doi/full/10.1080/07352166.2022.2044837), *Journal of Urban Affairs*, 2024, 46(1): 139-159.
     - [Ungated](https://www.tandfonline.com/share/F3DRTV9TNXEBENFM9WKN?target=10.1080/07352166.2022.2044837)
 
 - [The Impact of Professional Sports Franchises and Venues on Local Economies: A Comprehensive Survey](https://onlinelibrary.wiley.com/doi/10.1111/joes.12533), with Dennis Coates and Brad Humphreys, *Journal of Economic Surveys*, 2023, 37(4): 1389-1431 
