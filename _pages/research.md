@@ -12,17 +12,23 @@ Here is a list of my recent accepted/published articles and working papers. I pr
 {% endif %}
  -->
  
+
+
+### Journal Articles
+<!-- 
+
 ### Working Papers
 
 - [The Public Cost of Minor League Baseball Stadium Subsidies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5318600)
 
-### Journal Articles
-<!-- 
 - The Public Cost of Minor League Baseball Stadium Subsidies [(pre-print)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5318600), *Economic Inquiry*, forthcoming. 
 
     - [Data and Replication package](https://doi.org/10.3886/E241242V3)
 
 -->
+- The Public Cost of Minor League Baseball Stadium Subsidies , *Economic Inquiry*, forthcoming. 
+    - [Ungated (pre-print)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5318600) \| Data and Replication package (to come)
+
 - [Yes, There is an Economic Consensus that Professional Sports Facilities are Inadvisable Public Investments: A Reply to Johnson, Fort, and Rosentraub](https://journals.sagepub.com/doi/10.1177/08912424261418035), with Brad Humphreys, *Economic Development Quarterly*, 2026, In Press.  40(2) 
     - [Ungated](https://jcbradbury.com/files/Bradbury_HumphreysEDQ_accepted.pdf)
 
