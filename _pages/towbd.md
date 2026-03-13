@@ -10,7 +10,7 @@ My book **This One Will Be Different: False Promises and Fiscal Realities of Pub
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <div style="flex: 0 0 220px;">
-    <img src="/images/TOWBD_Cover_coming.JPG"
+    <img src="/images/TOWBD_Cover_scale1000.jpg"
          alt="This One Will Be Different book cover"
          width="220">
   </div>
