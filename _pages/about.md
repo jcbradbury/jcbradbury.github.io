@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a professor of economics at Kennesaw State University in metro-Atlanta. 
+I am a professor of economics at Kennesaw State University in metro Atlanta. 
 
-I work primarily in the fields of public economics and sports economics, and I have a strong interest in public policy. My recent research has focused on local economic development policy, particularly public financing of sports venues and film production incentives. I served as an appointed board member of the Development Authority of Cobb County from 2019 to 2023. I am currently an associate editor for *Journal of Sports Economics*. I am the author of three books on the economics of sports, [The Baseball Economist](https://www.amazon.com/Baseball-Economist-Real-Game-Exposed/dp/0452289025/) (a *Freakonomics* of baseball), [Hot Stove Economics](https://www.amazon.com/Hot-Stove-Economics-Understanding-Baseballs/dp/1441962689/) (on the economics of the players' labor market), and [This One Will Be Different](https://www.amazon.com/This-One-Will-Different-Realities/dp/0197820212) (on the economics of sports venues).  You can learn more about my work by clicking on the links in the headers and sidebar.
+I work primarily in the fields of public economics and sports economics, and I have a strong interest in public policy. My recent research has focused on local economic development policy, particularly public financing of sports venues and film production incentives. I served as an appointed board member of the Development Authority of Cobb County from 2019 to 2023. I am currently an associate editor for *Journal of Sports Economics*.  You can learn more about my work by clicking on the links in the headers and sidebar.
 
+<!-- I am the author of three books on the economics of sports, [The Baseball Economist](https://www.amazon.com/Baseball-Economist-Real-Game-Exposed/dp/0452289025/) (a *Freakonomics* of baseball), [Hot Stove Economics](https://www.amazon.com/Hot-Stove-Economics-Understanding-Baseballs/dp/1441962689/) (on the economics of the players' labor market), and [This One Will Be Different](https://www.amazon.com/This-One-Will-Different-Realities/dp/0197820212) (on the economics of sports venues). -->
 
 I live in Marietta, Georgia with my wife, and we have two adult daughters and one dog. I'm an avid sports fan who follows baseball (Atlanta Braves), football (Carolina Panthers and Georgia Bulldogs/Wofford Terriers), and soccer (Atlanta United). In my spare time, I like to homebrew beer and play guitar (though I'm not particularly good at either).
 
