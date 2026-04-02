@@ -51,6 +51,7 @@ I am active on social media: follow me on [Bluesky](https://bsky.app/profile/jcb
   </li>
 </ul>
 
+- My article [The Public Cost of Minor League Baseball Stadium Subsidies](https://doi.org/10.1111/ecin.70055) was recently published in *Economic Inquiry*.
 
 - My article (with Brad Humphreys) [Yes, There Is an Economic Consensus that Professional Sports Facilities Are Inadvisable Public
 Investments: A Reply to Johnson, Fort, and Rosentraub](https://journals.sagepub.com/doi/10.1177/08912424261418035) was recently published in *Economic Development Quarterly*.
