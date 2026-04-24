@@ -8,6 +8,8 @@ published: true
 Media outlets often ask me to comment on policy implications of my research. Here are links to selected publications and podcasts where I provide general commentary that is broadly applicable across the country. You may find them more digestible than my academic research papers.
 
 ## Print/Online
+- [The Conversation](https://doi.org/10.64628/AAI.43udame6w) (4/22/2026) "Sorry, Tampa Bay, mixed‑use districts don’t reverse the dismal economics of sports venues"
+
 - [Reason](https://reason.com/2025/07/08/theres-no-good-reason-for-cities-and-states-to-build-or-subsidize-sports-stadiums/) (7/8/2025) "There's No Good Reason for Cities and States To Build or Subsidize Sports Stadiums"
 
 - [The Economist](https://www.economist.com/united-states/2024/06/03/a-new-wave-of-stadium-building-is-busting-budgets-in-america) (6/3/2024) "A new wave of stadium-building is busting budgets in America"
