@@ -83,6 +83,9 @@ author:
   xing             : # Username
   youtube          : JCBradbury-sk8jt
   zhihu            : # Username
+  - label: "TikTok"
+    icon: "fab fa-tiktok"
+    url: "https://www.tiktok.com/@jcbradbury"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
