@@ -39,7 +39,7 @@ Here is a list of my recent accepted/published articles and working papers. I pr
     -  [Ungated](https://onlinelibrary.wiley.com/share/author/2YDMXSVTQD3MTWQ2V74F?target=10.1002/pam.22534) \| [Appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fpam.22534&file=pam22534-sup-0001-Appendix.pdf) (pdf) \|  [Historical stadium data (1909-2027)](https://doi.org/10.3886/E193067V1) (csv, dta)
 
 - [Estimating the Fiscal Impact of Stadium Developments: Evaluating a Pro Forma Model](https://journals.sagepub.com/doi/10.1177/10911421231199517), with Robert Baumann, *Public Finance Review*, 2024, 52(4): 399-438.
-    - [Ungated](https://journals.sagepub.com/doi/pdf/10.1177/10911421231199517?casa_token=siC0MgUHtyIAAAAA:aLUt_64E68xLvst2eLfC6d72SPVUEum2y76_qXO9kuPwILwqobhe-hQFO4u5kvw-ooWyTIUfA0ohfg)
+    - [Ungated](https://journals.sagepub.com/share/NNFQ5DDUVXXC8E2TCNX5?target=10.1177/10911421231199517)
 
 - [Sports Stadiums and Local Economic Activity: Evidence from Sales Tax Collections](https://www.tandfonline.com/doi/full/10.1080/07352166.2022.2044837), *Journal of Urban Affairs*, 2024, 46(1): 139-159.
     - [Ungated](https://www.tandfonline.com/share/F3DRTV9TNXEBENFM9WKN?target=10.1080/07352166.2022.2044837)
