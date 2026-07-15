@@ -4,7 +4,9 @@ title: "Recent Research"
 permalink: /research/
 author_profile: true
 ---
-Here is a list of my recent accepted/published articles and working papers. I provide links to ungated versions where available. If you would like to read an article that you are unable to access, feel free to ask me for a copy via e-mail. 
+Here is a list of my recent accepted/published articles and working papers. I provide links to ungated versions where available. If you would like to read an article that you are unable to access, feel free to ask me for a copy via e-mail (or let me know that the access token as expired). 
+
+I am an advocate of transparency in research. For studies that include data analysis, I provide links to replication packages along with recent papers (2022 -- present).  
 
 <!--
 {% if site.author.googlescholar %}
