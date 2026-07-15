@@ -51,7 +51,7 @@ Here is a list of my recent accepted/published articles and working papers. I pr
     - [Ungated](https://pmc.ncbi.nlm.nih.gov/articles/PMC8811744/pdf/10101_2022_Article_268.pdf)
 
 - [The Impact of Sports Stadiums on Localized Commercial Activity: Evidence from a Business Improvement District](https://doi.org/10.1111/jors.12560), *Journal of Regional Science*, 2022, 62(1): 194-217. 
-    - [Ungated](https://onlinelibrary.wiley.com/share/author/Y9C4F3DSGDTPVMNBSPKE?target=10.1111/jors.12560)
+    - [Ungated](https://onlinelibrary.wiley.com/share/author/Y9C4F3DSGDTPVMNBSPKE?target=10.1111/jors.12560) \| [Data and Replication Files](https://github.com/jcbradbury/CIDproperty)
 
 - [Financial Returns in Major League Soccer](https://journals.sagepub.com/doi/full/10.1177/15270025211022733), *Journal of Sports Economics*, 2021, 22(8): 921-945.  
     - [Ungated](https://journals.sagepub.com/doi/pdf/10.1177/15270025211022733?casa_token=iXwVIF2g1K0AAAAA:xxlgcPZp35T7Rmk9JVaI9jg5hILQXmLomwIWHZh1bMUw-0Yt8zrC3JL_0WOiuJyY1E6mgZs8GSq5uQ)
