@@ -109,13 +109,16 @@ Full public costs may include:
 Proposed stadium projects are often accompanied by economic impact reports, often referred to as "studies." However, the estimates they present are not the product of objective research and are not comparable to peer-reviewed studies conducted by academic researchers, which consistently find limited economic impacts. These documents are typically created by private consultants commissioned by project advocates seeking to bolster their case for public subsidies. They present motivated analysis with the goal of promoting the desired stadium project. 
 
 
-Common problems with commissioned economic impact reports include:
+Commissioned economic impact reports often commit the following errors:
 
-- treating gross consumer spending as new spending, ignoring displaced local activity elsewhere
-- using multipliers that increase projected output through so-called "induced spending"
+- Treating gross consumer spending as new spending
+  - This ignored displaced local activity
+- Using multipliers that increase projected output through so-called "induced spending"
   - Research confirms that economic multipliers should be no greater than 1
-- assuming that all visitors came because of the stadium
 - Focusing on benefits without including all public costs.
+- Assuming that all out-of-town spectators travel to the city for the events they attend.
+  - A large share of visiting attendees did not come to town for the event, it's just one of many local entertainment options they chose to do.  
+
 
 Small changes in assumptions can produce very different forecasts. Readers should therefore look beyond the headline number and ask how the estimate was constructed.
 
