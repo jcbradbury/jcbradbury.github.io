@@ -35,9 +35,13 @@ I've written quite a bit on the economics of professional sports venues, especia
 
 <!-- EDIT: Revise the introductory paragraphs below to reflect your preferred wording. -->
 
-Local leaders and team officials often pitch stadiums and arenas as economic development projects, promising increased commercial activity that brings new jobs, increased consumer spending, higher property values, neighborhood revitalization, and additional tax revenue. Though hosted events are associated with spending in and around venues, the relevant policy question is whether they creates *net new* economic activity that would not otherwise have occurred; and if any gains exist, do they exceed the full public cost. The answer is a clear and unambiguous **NO!**
+Local leaders and team officials often pitch stadiums and arenas as economic development projects, promising increased commercial activity that brings new jobs, increased consumer spending, higher property values, neighborhood revitalization, and additional tax revenue. Though hosted events are associated with spending in and around venues, the relevant policy question is whether they creates *net new* economic activity that would not otherwise have occurred; and if any gains exist, do they exceed the full public cost. 
 
-Though spending in and around stadiums easily observable, much of is redirected from other local entertainment and consumption. Money spent at a game is often money that area residents would have spent somewhere else in the community. When researchers account for the reallocation of existing local economic activity, the estimated economic effects are usually small.
+The answer is a clear and unambiguous **NO!** A [recent review](https://onlinelibrary.wiley.com/doi/10.1111/joes.12533) of more than 100 peer-reviewed economic studies by Dennis Coates, Brad Humphreys and myself concluded: 
+
+>Nearly all empirical studies find little to no tangible impacts of sports teams and facilities on local economic activity, and the level of venue subsidies typically provided far exceeds any observed economic benefits. In total, the deep agreement in research findings demonstrates that sports venues are not an appropriate channel for local economic development policy.
+
+This finding may seem odd, because the spending in and around stadiums is easily observable. However, it fails to increase overall economic output, because much of it is redirected from other local entertainment and consumption. Money spent at a game is often money that area residents would have spent somewhere else in the community. When researchers account for the reallocation of existing local economic activity, the estimated economic effects are usually small.
 
 
 
