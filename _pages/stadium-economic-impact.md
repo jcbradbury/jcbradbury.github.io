@@ -118,9 +118,16 @@ Commissioned economic impact reports often commit the following errors:
 - Focusing on benefits without including all public costs.
 - Assuming that all out-of-town spectators travel to the city for the events they attend.
   - A large share of visiting attendees did not come to town for the event, it's just one of many local entertainment options they chose to do.  
+- Assuming that a stadium will stimulate surrounding economic development, which will generate enough tax revenue to cover the cost of the public contribution.  
+  - Stadiums are generally poor development anchors. There are no documented cases of sports venues generating sufficient tax revenue to pay for themselves. 
 
 
-Small changes in assumptions can produce very different forecasts. Readers should therefore look beyond the headline number and ask how the estimate was constructed.
+
+**Related research:**  
+- [Suggestions for the Needed Standardization of Determining the Local Economic Impact of Professional Sports”](https://doi.org/10.1177/0891242416636685) by Robert W. Wassmer, Ryan S. Ong, and Geoffrey Propheter  
+- [The Use and Misuse of Economic Impact Analysis](https://doi.org/10.1177/0193723501251003) by Ian Hudson  
+- [Analysis of Sports Facilities and Events: Eleven Sources of Misapplication](https://doi.org/10.1123/jsm.9.1.14) by John A.Crompton  
+- [Estimating the Fiscal Impact of Stadium Developments: Evaluating a Pro Forma Model](https://journals.sagepub.com/doi/10.1177/10911421231199517) by Robert Baumann and J.C. Bradbury
 
 ## What is the substitution effect?
 
