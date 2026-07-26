@@ -129,21 +129,14 @@ Commissioned economic impact reports often commit the following errors:
 - [Analysis of Sports Facilities and Events: Eleven Sources of Misapplication](https://doi.org/10.1123/jsm.9.1.14) by John A. Crompton  
 - [Estimating the Fiscal Impact of Stadium Developments: Evaluating a Pro Forma Model](https://journals.sagepub.com/doi/10.1177/10911421231199517) by Robert Baumann and J.C. Bradbury
 
-## What is the substitution effect?
+## What is "crowding out"?
 
-The substitution effect occurs when consumers shift spending from one local activity to another.
+Crowding out (sometimes referred to as the substitution effect) occurs when consumers shift spending from one local activity to another.
 
 For example, a resident who spends $150 attending a game may reduce spending at restaurants, movies, concerts, retail stores, or other entertainment options. The stadium records $150 in activity, but the metropolitan economy has not necessarily gained $150. Much of the spending has changed location rather than increased total local spending.
 
 Substitution is one reason stadiums can appear economically important at the project site while producing little measurable growth across the larger region.
 
-## What is leakage?
-
-Leakage occurs when stadium-related revenue leaves the local economy.
-
-Professional athletes, owners, entertainers, construction contractors, and vendors may live or be headquartered elsewhere. When income is paid to nonresidents and spent outside the community, it does not continue circulating locally. Imported materials and services can create similar leakage.
-
-Economic-impact models should account for these outflows rather than assuming that every dollar connected to the stadium remains in the host economy.
 
 ## What about mixed-use stadium developments?
 
