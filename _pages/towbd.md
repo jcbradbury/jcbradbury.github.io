@@ -26,7 +26,7 @@ My book **This One Will Be Different: False Promises and Fiscal Realities of Pub
       <li><a href="https://www.goodreads.com/book/show/245768742">Goodreads</a></li>
       <li>Journalists/course instructors seeking a review copy:</li> 
         <ul>
-        <li>Click <a href="https://academic.oup.com/pages/request-a-review-copy">here; ISBN: 9780197820216</a></li>
+        <li>Click <a href="https://academic.oup.com/pages/request-a-review-copy">here;</a> ISBN: 9780197820216</li>
         </ul>
     </ul>
   </div>
