@@ -3,7 +3,7 @@ layout: single
 title: "Do Sports Stadiums Help Local Economies?"
 permalink: /stadium-economic-impact/
 published: false
-excerpt: "What economic research shows about stadiums, jobs, tax revenue, development, public subsidies, and common economic-impact claims."
+excerpt: "What economic research shows about stadiums, jobs, tax revenue, development, public subsidies, and common economic impact claims."
 author_profile: true
 classes: wide
 toc: true
@@ -26,14 +26,13 @@ Before publishing:
 4. Preview locally before pushing.
 -->
 
-**Last reviewed:** July 2026  
-**By [J.C. Bradbury](/), Professor of Economics at Kennesaw State University and author of [*This One Will Be Different*](/towbd/)**
+ **By [J.C. Bradbury](/), Professor of Economics at Kennesaw State University and author of [*This One Will Be Different*](/towbd/)**
+**Last reviewed:** July 2026 
 
 I've written quite a bit on the economics of professional sports venues, especially relating to their public financing. It's the subject of my recent book [*This One Will Be Different*](/towbd/), which includes a detailed (but not complex) review of the evidence. I created this page to provide a more general summary the major findings of economics research, explain common misunderstandings, and offer questions that journalists and policymakers should ask when evaluating stadium proposals. I include links to relevant research that you can investigate further. 
 
 > **The key takeaway:** Sports venues do not produce meaningful net economic benefits for their host communities. Stadiums can create visible activity near a venue and generate benefits for teams, fans, nearby businesses, and property owners. But decades of economic research find that these gains are generally too small to justify the large public subsidies commonly provided for stadium construction and related development.
 
-<!-- EDIT: Revise the introductory paragraphs below to reflect your preferred wording. -->
 
 Local leaders and team officials often pitch stadiums and arenas as economic development projects, promising increased commercial activity that brings new jobs, increased consumer spending, higher property values, neighborhood revitalization, and additional tax revenue. Though hosted events are associated with spending in and around venues, the relevant policy question is whether they creates *net new* economic activity that would not otherwise have occurred; and if any gains exist, do they exceed the full public cost. 
 
@@ -43,7 +42,7 @@ The answer is a clear and unambiguous **NO!** A [recent review](https://onlineli
 
 This finding may seem odd, because the spending in and around stadiums is easily observable. However, it fails to increase overall economic output, because much of it is redirected from other local entertainment and consumption. Money spent at a game is often money that area residents would have spent somewhere else in the community. When researchers account for the reallocation of existing local economic activity, the estimated economic effects are usually small.
 
-
+# Frequently Asked Questions # 
 
 ## Do stadiums create economic growth?
 
