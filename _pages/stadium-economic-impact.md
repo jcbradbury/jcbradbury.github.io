@@ -29,7 +29,7 @@ Before publishing:
 **Last reviewed:** July 2026  
 **By [J.C. Bradbury](/), Professor of Economics at Kennesaw State University and author of [*This One Will Be Different*](/towbd/)**
 
-I've written quite a bit on the economics of professional sports venues, especially relating to their public financing. It's the subject of my recent book [*This One Will Be Different*](/towbd/), which includes a detailed (but not complex) review of the subject. This page provides a more general summary the major findings of economic research, explains common misunderstandings, and offers questions journalists and policymakers should ask when evaluating stadium proposals. I include links to relevant research that you can investigate further. 
+I've written quite a bit on the economics of professional sports venues, especially relating to their public financing. It's the subject of my recent book [*This One Will Be Different*](/towbd/), which includes a detailed (but not complex) review of the evidence. I created this page to provide a more general summary the major findings of economics research, explain common misunderstandings, and offer questions that journalists and policymakers should ask when evaluating stadium proposals. I include links to relevant research that you can investigate further. 
 
 > **The key takeaway:** Most professional sports stadiums do not produce meaningful net economic growth for their host communities. Stadiums can create visible activity near a venue and generate benefits for teams, fans, nearby businesses, and property owners. But decades of economic research find that these gains are generally too small to justify the large public subsidies commonly provided for stadium construction and related development.
 
