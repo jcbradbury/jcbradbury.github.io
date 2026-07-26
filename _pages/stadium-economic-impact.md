@@ -35,7 +35,7 @@ I've written quite a bit on the economics of professional sports venues, especia
 
 <!-- EDIT: Revise the introductory paragraphs below to reflect your preferred wording. -->
 
-Local leaders and team officials often pitch stadiums and arenas as economic development projects, promising increased commercial activity that brings new jobs, increased consumer spending, higher property values, neighborhood revitalization, and additional tax revenue. Though hosted events are associated with spending in and around venues, the relevant policy question is whether they creates **net new** economic activity that would not otherwise have occurred; and if any gains exist, do they exceed the full public cost. The answer is a clear and unambiguous *NO!*
+Local leaders and team officials often pitch stadiums and arenas as economic development projects, promising increased commercial activity that brings new jobs, increased consumer spending, higher property values, neighborhood revitalization, and additional tax revenue. Though hosted events are associated with spending in and around venues, the relevant policy question is whether they creates *net new* economic activity that would not otherwise have occurred; and if any gains exist, do they exceed the full public cost. The answer is a clear and unambiguous **NO!**
 
 Though spending in and around stadiums easily observable, much of is redirected from other local entertainment and consumption. Money spent at a game is often money that area residents would have spent somewhere else in the community. When researchers account for the reallocation of existing local economic activity, the estimated economic effects are usually small.
 
