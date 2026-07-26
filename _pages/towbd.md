@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "This One Will Be Different"
+show_title: false
 permalink: /towbd/
 author_profile: true
 ---
