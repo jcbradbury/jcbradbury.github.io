@@ -49,30 +49,29 @@ This finding may seem odd, because the spending in and around stadiums is easily
 
 The general finding from peer-reviewed economic research is that professional sports facilities have little measurable effect on metropolitan income, employment, or overall economic activity.
 
-This does not mean that nobody benefits. A stadium may increase spending at nearby bars, restaurants, hotels, and entertainment businesses. A team or developer may also profit from the venue and surrounding real estate. But localized gains do not necessarily represent growth for the broader community. Activity may simply move from one neighborhood, business, or entertainment option to another.
+This does not mean that nobody benefits. A stadium may increase spending at nearby bars, restaurants, hotels, and entertainment businesses. A team or developer may also profit from the venue and surrounding real estate. But localized gains do not necessarily represent growth for the broader community. Activity simply moves from one neighborhood, business, or entertainment option to another.
 
 The most important distinction is between:
 
-- **Gross activity:** all spending associated with the stadium or development.
-- **Net new activity:** spending and income that would not have occurred in the local economy without the project.
+- **Gross spending:** all spending associated with the stadium or development.
+- **Net new spending :** spending and income that would not have occurred in the local economy without the project.
 
-Economic-impact claims often emphasize the first measure. Public policy should be evaluated using the second.
+Economic benefit claims often emphasize the first measure. Public policy should be evaluated using the second.
 
 **Related research:**  
-- [The Impact of Professional Sports Franchises and Venues on Local Economies: A Comprehensive Survey](/research/)  
-- [Public Policy Toward Professional Sports Stadiums: A Review](/research/)
+- [The Impact of Professional Sports Franchises and Venues on Local Economies: A Comprehensive Survey](https://onlinelibrary.wiley.com/doi/10.1111/joes.12533)  
+- [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/abs/10.1002/pam.22534)
 
 ## Do stadiums create jobs?
 
-Stadium construction creates temporary construction work, and operating a venue requires workers. However, the relevant question is whether the project produces a lasting net increase in local employment.
+Building and operating a venue requires workers; however, the relevant question is whether the project produces a lasting net increase in local employment. Several factors limit the effect:
 
-Several factors limit the effect:
+- Commissioned economic impact reports often count all jobs connected to a project without subtracting jobs displaced elsewhere.  
+- The jobs created to serve stadium patrons reflect the reallocation of spending form other local business; thus, they represent shifted employment, not net new jobs.
 
-1. Construction employment ends when the project is completed.
-2. Many stadium jobs are part-time, seasonal, or tied to a limited number of event days.
-3. Spending at the venue may replace spending—and employment—at other local businesses.
-4. Economic-impact reports may count all jobs connected to a project without subtracting jobs displaced elsewhere.
-5. Reports often combine temporary construction positions with permanent jobs, making the total appear larger.
+- Most stadium jobs are part-time, seasonal, or tied to a limited number of event days.
+
+- Stadium building is expensive and requires many skilled and highly paid workers, but again this does not reflect a net gain in employment, rather it represents a shift from other construction projects
 
 A useful evaluation should separate temporary and permanent employment, report full-time-equivalent positions, and explain how many jobs are genuinely new to the region.
 
