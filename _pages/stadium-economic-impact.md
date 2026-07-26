@@ -101,28 +101,21 @@ Full public costs may include:
 - public safety and traffic management;
 - opportunity costs from committing public resources elsewhere.
 
-<!-- EDIT: Add a concise summary of your Baumann-Bradbury pro forma findings. -->
-
 **Related research:**  
-- [Estimating the Fiscal Impact of Stadium Developments: Evaluating a Pro Forma Model](/research/)  
-- [Sports Stadiums and Local Economic Activity: Evidence from Sales Tax Collections](/research/)
+- [Sports Stadiums and Local Economic Activity: Evidence from Sales Tax Collections](https://doi.org/10.1080/07352166.2022.2044837) by J.C. Bradbury
 
-## What is wrong with many stadium economic-impact studies?
+## What is wrong with many stadium economic impact studies?
 
-Economic-impact studies are not inherently invalid. Their usefulness depends on their assumptions, methods, transparency, and independence. Commissioned studies frequently produce large estimates by counting gross activity rather than net new benefits.
+Proposed stadium projects are often accompanied by economic impact reports, often referred to as "studies." However, the estimates they present are not the product of objective research and are not comparable to peer-reviewed studies conducted by academic researchers, which consistently find limited economic impacts. These documents are typically created by private consultants commissioned by project advocates seeking to bolster their case for public subsidies. They present motivated analysis with the goal of promoting the desired stadium project. 
 
-Common problems include:
 
-- treating local consumer spending as new spending;
-- assuming that all visitors came because of the stadium;
-- counting spending that occurs outside the relevant jurisdiction;
-- using multipliers that are too large or poorly explained;
-- failing to account for money that leaves the local economy;
-- counting temporary jobs as permanent economic gains;
-- ignoring displaced activity elsewhere;
-- including benefits without including all public costs;
-- comparing the project area before and after construction without using a credible counterfactual;
-- presenting projected outcomes without later testing whether they occurred.
+Common problems with commissioned economic impact reports include:
+
+- treating gross consumer spending as new spending, ignoring displaced local activity elsewhere
+- using multipliers that increase projected output through so-called "induced spending"
+  - Research confirms that economic multipliers should be no greater than 1
+- assuming that all visitors came because of the stadium
+- Focusing on benefits without including all public costs.
 
 Small changes in assumptions can produce very different forecasts. Readers should therefore look beyond the headline number and ask how the estimate was constructed.
 
