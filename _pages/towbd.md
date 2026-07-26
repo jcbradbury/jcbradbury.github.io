@@ -6,7 +6,7 @@ permalink: /towbd/
 author_profile: true
 ---
 
-My book **This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums** will be released on July 31, 2026. I will post links to bookseller pages as they appear. 
+My book **This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums** will be released on August 21, 2026.
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
