@@ -87,8 +87,7 @@ A stadium can generate sales, hotel, property, income, admissions, and other tax
 
 A proper fiscal analysis should compare:
 
-> **Incremental public revenue caused by the project**  
-> **minus the full incremental public cost of the project**
+> **Incremental public revenue caused by the project minus the full incremental public cost of the project**
 
 Full public costs may include:
 
