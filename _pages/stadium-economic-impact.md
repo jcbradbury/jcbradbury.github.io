@@ -104,7 +104,7 @@ Full public costs may include:
 **Related research:**  
 - [Sports Stadiums and Local Economic Activity: Evidence from Sales Tax Collections](https://doi.org/10.1080/07352166.2022.2044837) by J.C. Bradbury
 
-## What is wrong with many stadium economic impact studies?
+## What is wrong commissioned economic impact "studies"?
 
 Proposed stadium projects are often accompanied by economic impact reports, often referred to as "studies." However, the estimates they present are not the product of objective research and are not comparable to peer-reviewed studies conducted by academic researchers, which consistently find limited economic impacts. These documents are typically created by private consultants commissioned by project advocates seeking to bolster their case for public subsidies. They present motivated analysis with the goal of promoting the desired stadium project. 
 
