@@ -59,8 +59,8 @@ The most important distinction is between:
 Economic benefit claims often emphasize the first measure. Public policy should be evaluated using the second.
 
 **Related research:**  
-- [The Impact of Professional Sports Franchises and Venues on Local Economies: A Comprehensive Survey](https://onlinelibrary.wiley.com/doi/10.1111/joes.12533)  
-- [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/abs/10.1002/pam.22534)
+- [The Impact of Professional Sports Franchises and Venues on Local Economies: A Comprehensive Survey](https://onlinelibrary.wiley.com/doi/10.1111/joes.12533)  by J.C. Bradbury, Dennis Coates, and Brad Humphreys
+- [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/abs/10.1002/pam.22534) by J.C. Bradbury, Dennis Coates, and Brad Humphreys
 
 ## Do stadiums create jobs?
 
@@ -74,6 +74,10 @@ Building and operating a venue requires workers; however, the relevant question 
 - Stadium building is expensive and requires many skilled and highly paid workers, but again this does not reflect a net gain in employment, rather it represents a shift from other construction projects
 
 A useful evaluation should separate temporary and permanent employment, report full-time-equivalent positions, and explain how many jobs are genuinely new to the region.
+
+**Related research:**  
+
+- [The Economic Impact of Sports Stadium Construction: The Case of the Construction Industry in St. Louis, MO](https://doi.org/10.1111/1467-9906.00120), by Phillip A. Miller
 
 ## Do stadiums pay for themselves through tax revenue?
 
