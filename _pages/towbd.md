@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "This One Will Be Different"
-show_title: false
+excerpt: "False Promises and Fiscal Realities of Publicly Funded Stadiums, by economist J.C. Bradbury."
 permalink: /towbd/
 author_profile: true
 ---
