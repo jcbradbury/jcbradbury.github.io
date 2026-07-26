@@ -126,7 +126,7 @@ Commissioned economic impact reports often commit the following errors:
 **Related research:**  
 - [Suggestions for the Needed Standardization of Determining the Local Economic Impact of Professional Sports”](https://doi.org/10.1177/0891242416636685) by Robert W. Wassmer, Ryan S. Ong, and Geoffrey Propheter  
 - [The Use and Misuse of Economic Impact Analysis](https://doi.org/10.1177/0193723501251003) by Ian Hudson  
-- [Analysis of Sports Facilities and Events: Eleven Sources of Misapplication](https://doi.org/10.1123/jsm.9.1.14) by John A.Crompton  
+- [Analysis of Sports Facilities and Events: Eleven Sources of Misapplication](https://doi.org/10.1123/jsm.9.1.14) by John A. Crompton  
 - [Estimating the Fiscal Impact of Stadium Developments: Evaluating a Pro Forma Model](https://journals.sagepub.com/doi/10.1177/10911421231199517) by Robert Baumann and J.C. Bradbury
 
 ## What is the substitution effect?
