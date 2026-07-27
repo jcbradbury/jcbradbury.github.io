@@ -224,7 +224,6 @@ Minor-league stadiums are smaller and usually cost less than major-league venues
 
 Public contributions should be evaluated relative to realistic benefits rather than compared only with the much larger subsidies provided to major-league teams.
 
-<!-- EDIT: Add two or three sentences summarizing the central finding and magnitude from your 2026 Economic Inquiry article. -->
 
 **Related research:**  
 - [The Public Cost of Minor League Baseball Stadium Subsidies](https://doi.org/10.1111/ecin.70055)
@@ -245,6 +244,9 @@ Analysts should ask:
 Special events can produce short-run visitor spending, but recurring league games often rely heavily on local spectators.
 
 **Related research:**  
+- [Hotel Demand Before, During, and After Sports Events: Evidence from Charlotte, North Carolina](https://doi.org/10.1111/ecin.12572)
+- [The NFL Draft and Host-City Hotel Occupancy](https://doi.org/10.1111/coep.70034) by Frank Stephenson
+- [The Impact of MLB Team Relocation on Hotel Demand](https://doi.org/10.1177/13548166251405295) by J.C. Bradbury and Frank Stephenson
 
 
 ## What about civic pride and quality-of-life benefits?
