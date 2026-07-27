@@ -160,7 +160,7 @@ The Battery Atlanta as been similarly unsuccessful at generating a positive retu
 
 It's unsurprising that the individuals who advocated on behalf of the project continue to insist that the substantial public investment has paid off. The accounting comparison that the County uses to show the stadium is a net fiscal positive only looks at Cobb's contribution through property taxes. This is inappropriate, because a majority of the government funding comes non-property tax sources. When the additional public contributions from special district, hotel, and car rental taxes are included, the net return is negative. 
 
-The Cobb Chamber of Commerce, which helped orchestrate the stadium deal, has also commissioned several studies that purport to show that the stadium has been an economic success. All these analyses are deeply flawed and present motivated analysis. I have reviewed and responded to all such claims, demonstrating why they are not credible. My studies of the Cobb stadium project have been peer reviewed by other scholars and none of them have received a scholarly rebuttal.
+The Cobb Chamber of Commerce, which helped orchestrate the stadium deal, has also commissioned several studies that purport to show that the stadium has been an economic success. All these analyses are deeply flawed and present motivated analysis. I have reviewed and responded to all such claims, demonstrating why they are not credible. My studies of the Cobb stadium project have been peer reviewed by other scholars and none of them have received a rebuttal in the appropriate academic forum.
 
 **Related research:**  
 - [This One Will Be Different, Chapter 9](https://doi.org/10.1093/9780197820247.003.0009) by J.C. Bradbury
@@ -175,20 +175,16 @@ The Cobb Chamber of Commerce, which helped orchestrate the stadium deal, has als
 
 Studies of the effects of stadiums on nearby property values are somewhat mixed, with the direction and size of the effect being  ambiguous. 
 
-Potential positive effects include:
+Potential positive effects:
 
-- new restaurants, entertainment, and amenities;
-- redevelopment of underused land;
-- increased demand to live or operate near the venue.
+- Development of underused land,, which may include bars, restaurants, and other sports-complementary establishments.
+- Increased business activity in the area
 
-Potential negative effects include:
+Potential negative effects:
 
-- congestion;
-- noise;
-- crime or disorder;
-- parking pressure;
-- disruption on event days;
-- public tax burdens.
+- Congestion, noise, and crime on event days
+- Deterring businesses like grocery stores, retail shops, and offices  from locating in the area due to game-day disruptions 
+- Increased tax burdens
 
 Even when property values rise near a venue, three additional questions matter:
 
@@ -196,7 +192,12 @@ Even when property values rise near a venue, three additional questions matter:
 2. Did gains near the venue come partly at the expense of other locations?
 3. Did additional tax revenue approach the size of the public subsidy?
 
+Though stadiums may foster some development of complementary enterprises, the negative effects may be greater. Thus, there is no general expectation that a proposed stadium project will have positive development effects on the surrounding neighborhood. 
+
 **Related research:**  
+- [This One Will Be Different, Chapter 9](https://doi.org/10.1093/9780197820247.003.0009) by J.C. Bradbury
+- [This One Will Be Different, Chapter 12](https://doi.org/10.1093/9780197820247.003.0012) by J.C. Bradbury
+- [This One Will Be Different, Chapter 16](https://doi.org/10.1093/9780197820247.003.0016) by J.C. Bradbury
 - [Does Hosting a Professional Sports Team Benefit the Local Community? Evidence from Property Assessments](https://link.springer.com/article/10.1007/s10101-022-00268-z) by J.C. Bradbury
 - [The Impact of Sports Stadiums on Localized Commercial Activity](https://doi.org/10.1111/jors.12560) by J.C. Bradbury
 - [New Sports Facilities and Residential Housing Markets](https://doi.org/10.1111/jors.12120) by Haifang Huang and Brad Humphreys  
