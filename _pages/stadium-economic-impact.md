@@ -156,15 +156,20 @@ Mixed-use developments connected to sports venues have not always proved to be s
 
 The Battery Atlanta as been similarly unsuccessful at generating a positive return to cover its construction and operating costs. [My review](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6159506) of Cobb County financial data shows that the stadium =operates an an annual deficit of -$15 million per year.
 
-### But Cobb County officials claim that the stadium is in fact generating enough tax revenue to pay for itself. Is this not accurate?
+### But Cobb County officials claim that Truist Park and The Battery are in fact generating enough tax revenue to pay for the public investment. Is this not accurate?
 
-It's unsurprising that the individuals who advocated on behalf of the project continue to insist that the substantial public investment has paid off. The accounting comparison that the County claims to show the stadium is a net fiscal positive only looks at Cobb's contribution through property taxes. This is inappropriate, because a majority of the government funding comes non-property tax sources. When the additional public contributions from special district, hotel, and car rental taxes are included, the net return is negative. 
+It's unsurprising that the individuals who advocated on behalf of the project continue to insist that the substantial public investment has paid off. The accounting comparison that the County uses to show the stadium is a net fiscal positive only looks at Cobb's contribution through property taxes. This is inappropriate, because a majority of the government funding comes non-property tax sources. When the additional public contributions from special district, hotel, and car rental taxes are included, the net return is negative. 
+
+The Cobb Chamber of Commerce, which helped orchestrate the stadium deal, has also commissioned several studies that purport to show that the stadium has been an economic success. All these analyses are deeply flawed and present motivated analysis. I have reviewed and responded to all such claims, demonstrating why they are not credible. My studies of the Cobb stadium project have been peer reviewed by other scholars and none of them have received a scholarly rebuttal.
 
 **Related research:**  
 - [This One Will Be Different, Chapter 9](https://doi.org/10.1093/9780197820247.003.0009) by J.C. Bradbury
+- [This One Will Be Different, Chapter 26](https://doi.org/10.1093/9780197820247.003.0026) by J.C. Bradbury
+- [This One Will Be Different, Chapter 27](https://doi.org/10.1093/9780197820247.003.0027) by J.C. Bradbury
 - [A Home Run for Cobb? A Comprehensive Report on the Economic Impact of Truist Park and The Battery Atlanta on Cobb County](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6159506)  by J.C. Bradbury
 - [Sports Stadiums and Local Economic Activity: Evidence from Sales Tax Collections](/https://www.tandfonline.com/doi/full/10.1080/07352166.2022.2044837)  by J.C. Bradbury
 - [The Impact of Sports Stadiums on Localized Commercial Activity](https://doi.org/10.1111/jors.12560) by J.C. Bradbury
+- [Estimating the Fiscal Impact of Stadium Developments: Evaluating a Pro Forma Model](https://journals.sagepub.com/doi/10.1177/10911421231199517) by Robert Baumann and J.C. Bradbury
 
 ## Do stadiums increase nearby property values?
 
