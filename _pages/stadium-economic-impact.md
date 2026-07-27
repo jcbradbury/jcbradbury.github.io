@@ -71,8 +71,8 @@ Crowding out is one reason why stadiums can appear economically important at the
 
 **Related research:** 
 - *This One Will Be Different*, [Chapter 4](https://doi.org/10.1093/9780197820247.003.0004) by J.C. Bradbury
-- [The Impact of Professional Sports Franchises and Venues on Local Economies: A Comprehensive Survey](https://onlinelibrary.wiley.com/doi/abs/10.1002/pam.22534) by J.C. Bradbury, Dennis Coates, and Brad Humphreys
-- [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/10.1111/joes.12533) by J.C. Bradbury, Dennis Coates, and Brad Humphreys
+- [The Impact of Professional Sports Franchises and Venues on Local Economies: A Comprehensive Survey](https://onlinelibrary.wiley.com/doi/10.1111/joes.12533)  by J.C. Bradbury, Dennis Coates, and Brad Humphreys
+- [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/abs/10.1002/pam.22534)by J.C. Bradbury, Dennis Coates, and Brad Humphreys
 
 ## Do stadiums create jobs?
 
@@ -172,13 +172,13 @@ Mixed-use developments connected to sports venues have not always proved to be s
 - [The Impact of Sports Stadiums on Localized Commercial Activity](https://doi.org/10.1111/jors.12560) by J.C. Bradbury
 - [Estimating the Fiscal Impact of Stadium Developments: Evaluating a Pro Forma Model](https://journals.sagepub.com/doi/10.1177/10911421231199517) by Robert Baumann and J.C. Bradbury
 
-## Has Truist Park and The Battery paid for itself?
+## Has Truist Park generated a positive return on Cobb's public investment?
 
-The Battery Atlanta has been similarly unsuccessful at generating a positive return to cover its construction and operating costs. [My review](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6159506) of Cobb County financial data shows that the stadium operates with an annual deficit of -$15 million per year.
+Even with The Battery, Truist Park has been unsuccessful at generating a positive return to cover Cobb County's construction and operating costs. [My review](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6159506) of Cobb financial data shows that the stadium operates with an annual deficit of -$15 million per year.
 
-It's unsurprising that the individuals who advocated on behalf of the project continue to insist that the substantial public investment has paid off. The accounting comparison that the County uses to show the stadium is a net fiscal positive only looks at Cobb's contribution through property taxes. This is inappropriate, because a majority of the government funding comes from non-property tax sources. When the additional public contributions from special district, hotel, and car rental taxes are included, the net return is negative. 
+County leaders claim that the stadium-development generates enough revenue to cover the taxpayers' investment in Truist Park; however, the accounting comparison that the Cobb officials uses to show the stadium is a net fiscal positive only looks at the public contribution through property taxes. This is inappropriate, because a majority of the government funding comes from non-property tax sources. When the additional public contributions from special district, hotel, and car rental taxes are included, the net return is negative.  It's unsurprising that the individuals who advocated on behalf of the Braves stadium project maintain that it has paid off, but the government's own numbers show that this is not the case.
 
-The Cobb Chamber of Commerce, which helped orchestrate the stadium deal, has also commissioned several studies that purport to show that the stadium has been an economic success. These analyses contain serious methodological weaknesses and were commissioned by organizations that supported the project. I have reviewed and responded to all such claims, demonstrating why they are not credible. My studies of the Cobb stadium project have been peer reviewed by other scholars and none of them have received a rebuttal in the appropriate academic forum.
+The Cobb Chamber of Commerce and the Atlanta Braves have also commissioned studies that purport to show that the stadium has been an economic success. These analyses contain serious methodological weaknesses and were commissioned by organizations that supported the project. I have reviewed and responded to all such claims, demonstrating why they are not credible. My studies of the Cobb stadium project have been peer reviewed by other scholars and none of them have received a rebuttal in the appropriate academic forum.
 
 **Related research:**  
 - *This One Will Be Different*, [Chapter 9](https://doi.org/10.1093/9780197820247.003.0009), [Chapter 26](https://doi.org/10.1093/9780197820247.003.0026),  [Chapter 27](https://doi.org/10.1093/9780197820247.003.0027) by J.C. Bradbury
@@ -288,7 +288,7 @@ Although it is not as widely known, because the fiscal case is most often used t
 
 1. Consumer surveys. Economists have borrowed a tool that environmental economists use for valuing non-consumption benefits of natural assets, such as wildlife preserves and national parks. The contingent valuation method (CVM) estimates the willingness to pay for non-consumption benefits of hosting a sports team (like the pride  that comes from living in a "big-league city") by administering a series of survey questions. 
 
-Existing studies generally find that intangible benefits are positive in some communities but far below the hundreds of millions—or billions—of dollars now commonly committed to stadium projects. These benefits may support some public contribution, perhaps tens of millions of dollars. [A review]((https://onlinelibrary.wiley.com/doi/10.1111/joes.12533) ) of studies of intangible benefits of hosting teams indicates that the social value amounts to less than 20% of the subsidies provided.
+Existing studies generally find that intangible benefits are positive in some communities but far below the hundreds of millions—or billions—of dollars now commonly committed to stadium projects. These benefits may support some public contribution, perhaps tens of millions of dollars. [A review](https://onlinelibrary.wiley.com/doi/10.1111/joes.12533) of studies of intangible benefits of hosting teams indicates that the social value amounts to less than 20% of the subsidies provided.
 
 2. Property values. If citizens value living in communities with sports teams, then they should be willing to pay higher prices for homes cities with sports teams.  As noted [above](#do-stadiums-increase-nearby-property-values), the effects of teams and venues on property values are ambiguous, which is consistent with CVM estimates that indicate the social value benefits are relatively small. 
 
