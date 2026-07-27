@@ -269,66 +269,27 @@ Voter referendums offer a democratic mechanism for assessing how much community 
 
 ## Why do governments continue to subsidize stadiums?
 
-Stadium subsidies persist for political and institutional reasons even though the economic evidence is unfavorable.
+The long-dominant theory among economists  for why stadium subsidies persist is the monopoly power of sports league. By restricting the number of teams, owners can extract subsidies by threatening to move to new markets. However, it's common for subsidies to be granted without any relocation threat and subsidy allocations have been growing at an increasing rate even as leagues have expanded, which reduces relocation options. Thus, monopoly power does not appear to be the primary driver of venue subsidies.
 
-Important factors include:
+I make the case in [This One Will Be Different](/towbd/) that the chief culprit is politicians, who value the perks associated with supporting the local sports teams. Access to exclusive events and spaces, while hobnobbing with local insiders and celebrities, provides substantial benefits to elected officials, who can pass much of the costs onto taxpayers. The fondness for sports among civic boosters (aka, the local growth coalition), who have considerable sway in local policy debates, reinforces the favorable disposition of government leaders.  
 
-- professional leagues restrict the number and location of teams;
-- teams can threaten to relocate or withhold future investment;
-- benefits are concentrated among teams, developers, contractors, and nearby property owners;
-- costs are spread across many taxpayers;
-- stadium deals are complicated and often negotiated with limited public scrutiny;
-- elected officials value the visibility, prestige, and political relationships associated with major sports projects;
-- proponents can claim that a new proposal is different from previous projects;
-- projected benefits arrive immediately in public debate, while actual outcomes are measured years later.
+**Related research:**  
+-[Urban Power Structures and Publicly Financed Stadiums](https://doi.org/10.1111/j.1573-7861.2007.00022.x) by Kevin J. Delaney and Rick Eckstein
+- [Public Dollars, Private Stadiums: The Battle over Building Sports Stadiums](https://www.rutgersuniversitypress.org/public-dollars-private-stadiums/9780813533438) by Kevin J. Delaney and Rick Eckstein
+- [Public Policy Toward Professional Sports Stadiums: A Review](/https://onlinelibrary.wiley.com/doi/10.1111/joes.12533) by J.C. Bradbury, Dennis Coates, and Brad Humphreys
 
-My book, [*This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums*](/towbd/), examines why these deals persist and how the policy process can be improved.
 
-## Questions journalists should ask about a stadium proposal
+## What steps can individuals take to stop stadium subsidies? 
 
-1. **What is the total public commitment over the full life of the agreement?**
-2. **Are land, infrastructure, tax exemptions, financing, maintenance, and future renovations included?**
-3. **Is the reported economic impact gross activity or net new activity?**
-4. **How much spending is expected to come from outside the jurisdiction?**
-5. **How much local spending would occur anyway?**
-6. **What geographic area is being evaluated?**
-7. **What comparison group or counterfactual is used?**
-8. **Who commissioned and paid for the analysis?**
-9. **Are the assumptions, model, and underlying data publicly available?**
-10. **Are temporary construction jobs separated from permanent employment?**
-11. **Are costs and benefits reported in present-value terms?**
-12. **Who bears cost overruns and future capital expenses?**
-13. **Which taxes are legally dedicated to the project?**
-14. **What happens if projected revenue falls short?**
-15. **Could the team or development proceed with a smaller subsidy—or none at all?**
-16. **Will an independent retrospective evaluation be conducted after the project opens?**
+In [This One Will Be Different](/towbd/) I offer advice to four key constituencies for combatting public stadium proposals.
+- Economists: Continue to research and speak out in inform the public about the economics of stadiums
+- Policymakers: All stadium proposals should be put to a public vote.
+  - This lessens the influence of politicians' generally favorable view of sports.
+  - Allows citizens to express how much intangible value they place on hosting teams.
+- Media Members: Provide appropriate critical coverage of public stadium proposals.
+  - Avoid "bothsides" reporting that pits non-credible commissioned reports against credible economics research.
+- Citizens: Grassroots coalitions often play a key role in stopping public stadium proposals.
 
-## How should a stadium proposal be evaluated?
-
-A credible evaluation should:
-
-1. identify the full public cost;
-2. define the relevant geographic area;
-3. estimate only incremental benefits;
-4. account for substitution and leakage;
-5. compare the project with a credible counterfactual;
-6. distinguish private profits from public benefits;
-7. include both tangible and intangible effects;
-8. discount future costs and benefits appropriately;
-9. test assumptions with alternative scenarios;
-10. make the data and methods publicly available.
-
-The burden should be on subsidy proponents to demonstrate that projected public benefits exceed public costs using transparent and independently reviewable evidence.
-
-## Selected research and resources
-
-<!-- EDIT: Replace this compact list with direct article links if desired. -->
-
-- [Recent peer-reviewed research and replication materials](/research/)
-- [Book: *This One Will Be Different*](/towbd/)
-- [Economic consensus on publicly funded sports facilities](https://jcbradbury.com/files/Bradbury_HumphreysEDQ_accepted.pdf)
-- [Historical stadium data](/research/)
-- [Media inquiries and interviews](/media/)
 
 **Last reviewed:** July 2026 
 
