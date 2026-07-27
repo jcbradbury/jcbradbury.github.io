@@ -29,7 +29,7 @@ The answer is a clear and unambiguous **NO!** A [recent review](https://onlineli
 
 This finding may seem odd, because the spending in and around stadiums is easily observable. However, it fails to increase overall economic output, because much of it is redirected from other local entertainment and consumption. Money spent at a game is often money that area residents would have spent somewhere else in the community. When researchers account for the reallocation of existing local economic activity, the estimated economic effects are usually small.
 
-# Frequently Asked Questions #
+# FAQ: The Economics of Stadiums #
 
 ## Is there an economic consensus about public policy regarding stadium subsidies?
 
