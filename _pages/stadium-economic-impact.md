@@ -12,8 +12,8 @@ toc_sticky: true
 share: true
 sitemap: true
 
-og_image: /images/stadium-economic-impact-share.png
-og_image_alt: "Do Sports Stadiums Help Local Economies? A primer on stadium economics by J.C. Bradbury."
+header:
+  image: stadium-economic-impact-share.png
 ---
 
 ## A Primer on the Economic Impact of Stadiums
