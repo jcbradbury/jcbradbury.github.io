@@ -98,20 +98,22 @@ A proper fiscal analysis should compare:
 
 > **Incremental public revenue caused by the project minus the full incremental public cost of the project**
 
-Full public costs may include:
+Full public costs include:
 
-- direct construction subsidies;
-- land acquisition and site preparation;
-- roads, utilities, parking, and transit;
-- tax exemptions and tax rebates;
-- interest and financing costs;
-- ongoing operations and maintenance;
-- future renovations and capital improvements;
-- public safety and traffic management;
-- opportunity costs from committing public resources elsewhere.
+- Direct construction subsidies
+- Land acquisition and site preparation
+- Roads, utilities, parking, and transit
+- Tax exemptions and tax rebates
+- Interest and financing costs;
+- Ongoing operations and maintenance;
+- Future renovations and capital improvements;
+- Public safety and traffic management;
+- Opportunity costs from committing public resources elsewhere
 
 **Related research:**  
 - [This One Will Be Different, Chapter 13](https://doi.org/10.1093/9780197820247.003.0013) by J.C. Bradbury
+- [Public-Private Partnerships for Major League Sports Facilities](https://doi.org/10.4324/9780203077276) by Judith Grant Long
+- [Major League Sports and the Property Tax: Costs and Implications of a Stealth Tax Expenditure](https://link.springer.com/book/10.1007/978-3-031-18790-2) by Geoffrey Propheter 
 - [Sports Stadiums and Local Economic Activity: Evidence from Sales Tax Collections](https://doi.org/10.1080/07352166.2022.2044837) by J.C. Bradbury
 
 ## A private economic impact assessment of a proposed stadium in my community concluded that the project will generate large enough economic benefits to cover the cost to taxpayers. Does this invalidate past economics research?
