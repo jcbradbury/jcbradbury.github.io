@@ -104,10 +104,10 @@ Full public costs include:
 - Land acquisition and site preparation
 - Roads, utilities, parking, and transit
 - Tax exemptions and tax rebates
-- Interest and financing costs;
-- Ongoing operations and maintenance;
-- Future renovations and capital improvements;
-- Public safety and traffic management;
+- Interest and financing costs
+- Ongoing operations and maintenance
+- Future renovations and capital improvements
+- Public safety and traffic management
 - Opportunity costs from committing public resources elsewhere
 
 **Related research:**  
@@ -146,17 +146,20 @@ The reality is that there is no reliable method for projecting the future econom
 
 
 
-
 ## What about the addition of complementary mixed-use stadium developments?
 
 Mixed-use developments combine a stadium with apartments, offices, hotels, restaurants, retail, and entertainment. These projects can create successful and attractive districts. But their existence does not improve their economic outcomes for communities. 
 
+Atlanta Braves' Truist Park in Cobb County, Georgia is often cited as successful public investment because of it was constructed with The Battery Atlanta mixed-use development. Though it is touted as unique, it's an old idea. For example, in 1890 St. Louis Browns owner added a honky-tonk, wine room, and amusement park outside his stadium, marketing it as "the Cony Island of the West." When the Houston Astrodome opened in 1965 it was part of the larger Astrodomain development, which included shopping, hotels, and an amusement park. 
+
+Mixed-use developments connected to sports venues have not always proved to be successes, either. Glendale, Arizona's Westgate City Center entertainment center outside Gila River Arena and State Farm Stadium was [foreclosed upon](https://www.glendalestar.com/news/jobing-com-arena-turns-ten-years-old/article_03e1c006-6686-11e3-94be-0019bb2963f4.html) in 2011. Kansas City's Power & Light District situated next to the T-Mobile Center basketball arena has been such a consistent money loser, that its [city manager stated](https://www.kansascity.com/news/politics-government/article9530081.html), "I don’t think there will be a point at any time in the foreseeable future, probably the next 20 years, where it actually pays for itself."
+
+The Battery Atlanta as been similarly unsuccessful at generating a positive return to cover its construction and operating costs. [My review](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6159506) of Cobb County financial data shows that the stadium =operates an an annual deficit of -$15 million per year.
 
 
-
-<!-- EDIT: Add your preferred summary of Truist Park and The Battery Atlanta here. -->
 
 **Related research:**  
+- [This One Will Be Different, Chapter 9](https://doi.org/10.1093/9780197820247.003.0009) by J.C. Bradbury
 - [A Home Run for Cobb? A Comprehensive Report on the Economic Impact of Truist Park and The Battery Atlanta on Cobb County](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6159506)  by J.C. Bradbury
 - [Sports Stadiums and Local Economic Activity: Evidence from Sales Tax Collections](/https://www.tandfonline.com/doi/full/10.1080/07352166.2022.2044837)  by J.C. Bradbury
 - [The Impact of Sports Stadiums on Localized Commercial Activity](https://doi.org/10.1111/jors.12560) by J.C. Bradbury
