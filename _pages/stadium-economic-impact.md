@@ -76,19 +76,19 @@ Economic benefit claims often emphasize the first measure. Public policy should 
 ## Do stadiums create jobs?
 
 Building and operating a venue requires workers; however, the relevant question is whether the project produces a lasting net increase in local employment. Several factors limit the effect:
-
-- Commissioned economic impact reports often count all jobs connected to a project without subtracting jobs displaced elsewhere.  
+  
 - The jobs created to serve stadium patrons reflect the reallocation of spending form other local business; thus, they represent shifted employment, not net new jobs.
-
 - Most stadium jobs are part-time, seasonal, or tied to a limited number of event days.
-
 - Stadium building is expensive and requires many skilled and highly paid workers, but again this does not reflect a net gain in employment, rather it represents a shift from other construction projects
+- Commissioned economic impact reports often count all jobs connected to a project without subtracting jobs displaced elsewhere.
 
 A useful evaluation should separate temporary and permanent employment, report full-time-equivalent positions, and explain how many jobs are genuinely new to the region.
 
 **Related research:**  
-
+- [The Effect of Professional Sports on Earnings and Employment in the Services and Retail Sectors in U.S. Cities](https://www.sciencedirect.com/science/article/abs/pii/S0166046202000108) by Dennis Coates and Brad Humphreys
+- [Bright Lights, Big City: Do Professional Sports Teams Increase Employment?](https://doi.org/10.1111/0735-2166.00027) by Ian Hudson
 - [The Economic Impact of Sports Stadium Construction: The Case of the Construction Industry in St. Louis, MO](https://doi.org/10.1111/1467-9906.00120), by Phillip A. Miller
+
 
 ## Do stadiums pay for themselves through tax revenue?
 
