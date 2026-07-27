@@ -156,7 +156,9 @@ Mixed-use developments connected to sports venues have not always proved to be s
 
 The Battery Atlanta as been similarly unsuccessful at generating a positive return to cover its construction and operating costs. [My review](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6159506) of Cobb County financial data shows that the stadium =operates an an annual deficit of -$15 million per year.
 
+### But Cobb County officials claim that the stadium is in fact generating enough tax revenue to pay for itself. Is this not accurate?
 
+It's unsurprising that the individuals who advocated on behalf of the project continue to insist that the substantial public investment has paid off. The accounting comparison that the County claims to show the stadium is a net fiscal positive only looks at Cobb's contribution through property taxes. This is inappropriate, because a majority of the government funding comes non-property tax sources. When the additional public contributions from special district, hotel, and car rental taxes are included, the net return is negative. 
 
 **Related research:**  
 - [This One Will Be Different, Chapter 9](https://doi.org/10.1093/9780197820247.003.0009) by J.C. Bradbury
