@@ -20,8 +20,8 @@ main:
   - title: "Media"
     url: /media/
 
- # - title: "Teaching"
-  #  url: /teaching/    
+ -  title: "Stadium Economics Primer"
+    url: /stadium-economic-impact/   
     
   #- title: "Portfolio"
   #  url: /portfolio/
