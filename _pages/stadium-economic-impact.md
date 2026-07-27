@@ -26,7 +26,7 @@ Before publishing:
 4. Preview locally before pushing.
 -->
 
- **By [J.C. Bradbury](/), Professor of Economics at Kennesaw State University and author of [*This One Will Be Different*](/towbd/)**
+ **By [J.C. Bradbury](/), author of [*This One Will Be Different*](/towbd/)**  
 **Last reviewed:** July 2026 
 
 I've written quite a bit on the economics of professional sports venues, especially relating to their public financing. It's the subject of my recent book [*This One Will Be Different*](/towbd/), which includes a detailed (but not complex) review of the evidence. I created this page to provide a more general summary the major findings of economics research, explain common misunderstandings, and offer questions that journalists and policymakers should ask when evaluating stadium proposals. I include links to relevant research that you can investigate further. 
@@ -42,13 +42,13 @@ The answer is a clear and unambiguous **NO!** A [recent review](https://onlineli
 
 This finding may seem odd, because the spending in and around stadiums is easily observable. However, it fails to increase overall economic output, because much of it is redirected from other local entertainment and consumption. Money spent at a game is often money that area residents would have spent somewhere else in the community. When researchers account for the reallocation of existing local economic activity, the estimated economic effects are usually small.
 
-# Frequently Asked Questions # 
+# Frequently Asked Questions #
 
 ## Do stadiums create economic growth?
 
 The general finding from peer-reviewed economic research is that professional sports facilities have little measurable effect on metropolitan income, employment, or overall economic activity.
 
-This does not mean that nobody benefits. A stadium may increase spending at nearby bars, restaurants, hotels, and entertainment businesses. A team or developer may also profit from the venue and surrounding real estate. But localized gains do not necessarily represent growth for the broader community. Activity simply moves from one neighborhood, business, or entertainment option to another.
+This does not mean that nobody benefits. A stadium may increase spending at nearby bars, restaurants, hotels, and entertainment businesses. A team or developer may also profit from the venue and surrounding real estate, but localized gains do not necessarily represent growth for the broader community. Activity simply moves from one neighborhood, business, or entertainment option to another.
 
 The most important distinction is between:
 
@@ -107,13 +107,14 @@ Full public costs may include:
 
 Proposed stadium projects are often accompanied by economic impact reports, often referred to as "studies." However, the estimates they present are not the product of objective research and are not comparable to peer-reviewed studies conducted by academic researchers, which consistently find limited economic impacts. These documents are typically created by private consultants commissioned by project advocates seeking to bolster their case for public subsidies. They present motivated analysis with the goal of promoting the desired stadium project. 
 
+Commissioned reports are typically forward-looking, based on a host of assumptions about what *might* happen in the future. This isn't how economic researchers study economic effects. Academic research is retrospective in nature, examining the experiences of past stadium projects based on demonstrated outcomes. These studies consistently find no positive economic effects; thus, projecting positive future effects, as private consulting reports often do, is not supported by existing evidence.  
 
-Commissioned economic impact reports often commit the following errors:
+Public policy researchers have reviewed commissioned economic impact reports to identify their failure a accurately forecast economic outcomes, finding that they often commit the following errors:
 
-- Treating gross consumer spending as new spending
-  - This ignored displaced local activity
-- Using multipliers that increase projected output through so-called "induced spending"
-  - Research confirms that economic multipliers should be no greater than 1
+- Treating gross consumer spending as new spending.
+  - This ignored displaced local activity.
+- Using multipliers that increase projected output through so-called "induced spending."
+  - Research confirms that economic multipliers should be no greater than 1.
 - Focusing on benefits without including all public costs.
 - Assuming that all out-of-town spectators travel to the city for the events they attend.
   - A large share of visiting attendees did not come to town for the event, it's just one of many local entertainment options they chose to do.  
