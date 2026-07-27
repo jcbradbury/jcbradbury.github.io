@@ -247,6 +247,7 @@ Special events can produce short-run visitor spending, but recurring league game
 - [Hotel Demand Before, During, and After Sports Events: Evidence from Charlotte, North Carolina](https://doi.org/10.1111/ecin.12572)
 - [The NFL Draft and Host-City Hotel Occupancy](https://doi.org/10.1111/coep.70034) by Frank Stephenson
 - [The Impact of MLB Team Relocation on Hotel Demand](https://doi.org/10.1177/13548166251405295) by J.C. Bradbury and Frank Stephenson
+- [Bringing Home the Gold? A Review of the Economic Impact of Hosting Mega-Events](https://www.hks.harvard.edu/centers/cid/publications/faculty-working-papers/bringing-home-gold) by Douglas Barrios, Stuart Russell, and Matt Andrews
 
 
 ## What about civic pride and quality-of-life benefits?
@@ -257,7 +258,7 @@ Economic research does not require these benefits to be ignored. The question is
 
 Existing studies generally find that intangible benefits are positive in some communities but far below the hundreds of millions—or billions—of dollars now commonly committed to stadium projects. These benefits may support some public contribution, but they do not ordinarily justify the full subsidy requested by teams.
 
-
+**Related research:**  
 
 ## Why do governments continue to subsidize stadiums?
 
