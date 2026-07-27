@@ -187,10 +187,16 @@ Potential negative effects:
 Even when property values rise near a venue, three additional questions matter:
 
 1. Did the stadium cause the increase?
+Stadiums tend to be located in growing cities in area that are primed for redevelopment. Thus, even when property values increase, it is not clear that stadiums *caused* the growth. Econometric methods designed for identifying causal effects often find that property value growth around stadiums is not attributable to the stadium itself. 
+
 2. Did gains near the venue come partly at the expense of other locations?
+If a stadium is responsible for some new commercial activity in the neighborhood, it may come at the expense of businesses elsewhere in the jurisdiction. Research suggests that development effects are limited to approximately 1 mile from the venue, and often draw customers away for competing establishments located in the same community. 
+
 3. Did additional tax revenue approach the size of the public subsidy?
 
-Though stadiums may foster some development of complementary enterprises, the negative effects may be greater. Thus, there is no general expectation that a proposed stadium project will have positive development effects on the surrounding neighborhood. 
+Even when a stadium project has net positive commercial effects on the jurisdiction, it is normally not sufficient to cover the public cost.
+
+Though stadiums may foster some development of complementary enterprises, the negative effects may be greater. Thus, there is no general expectation that a proposed stadium project will have  neighborhood property values. 
 
 **Related research:**  
 - *This One Will Be Different*, [Chapter 9](https://doi.org/10.1093/9780197820247.003.0009), [Chapter 12](https://doi.org/10.1093/9780197820247.003.0012), [Chapter 16](https://doi.org/10.1093/9780197820247.003.0016) by J.C. Bradbury
