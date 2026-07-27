@@ -56,11 +56,11 @@ That conclusion does not mean that every stadium has identical effects or that s
 - [Public Policy Toward Professional Sports Stadiums: A Review](/https://onlinelibrary.wiley.com/doi/10.1111/joes.12533) by J.C. Bradbury, Dennis Coates, and Brad Humphreys
 
 
-## Do stadiums create economic growth?
+## Do stadiums generate economic benefits for host communities?
 
 The general finding from peer-reviewed economic research is that professional sports facilities have little measurable effect on metropolitan income, employment, or overall economic activity.
 
-This does not mean that nobody benefits. A stadium may increase spending at nearby bars, restaurants, hotels, and entertainment businesses. A team or developer may also profit from the venue and surrounding real estate, but localized gains do not necessarily represent growth for the broader community. Activity simply moves from one neighborhood, business, or entertainment option to another.
+A stadium may increase spending at nearby bars, restaurants, hotels, and entertainment businesses. A team or developer may also profit from the venue and surrounding real estate, but localized gains do not necessarily represent growth for the broader community. Activity simply moves from one neighborhood, business, or entertainment option to another.
 
 The most important distinction is between:
 
@@ -115,23 +115,23 @@ Full public costs may include:
 **Related research:**  
 - [Sports Stadiums and Local Economic Activity: Evidence from Sales Tax Collections](https://doi.org/10.1080/07352166.2022.2044837) by J.C. Bradbury
 
-## What is wrong commissioned economic impact "studies"?
+## How reliable are commissioned economic impact "studies"?
 
-Proposed stadium projects are often accompanied by economic impact reports, often referred to as "studies." However, the estimates they present are not the product of objective research and are not comparable to peer-reviewed studies conducted by academic researchers, which consistently find limited economic impacts. These documents are typically created by private consultants commissioned by project advocates seeking to bolster their case for public subsidies. They present motivated analysis with the goal of promoting the desired stadium project. 
+Proposed stadium projects are frequently accompanied by private economic impact assessments, often referred to as "studies"; however, the estimates they present are not comparable to objective peer-reviewed studies conducted by academic researchers, which consistently find limited economic impacts. These reports are  created by private consultants commissioned by project advocates seeking to bolster their case for public subsidies. They present motivated analysis with the goal of promoting the desired stadium project. 
 
 Commissioned reports are typically forward-looking, based on a host of assumptions about what *might* happen in the future. This isn't how economic researchers study economic effects. Academic research is retrospective in nature, examining the experiences of past stadium projects based on demonstrated outcomes. These studies consistently find no positive economic effects; thus, projecting positive future effects, as private consulting reports often do, is not supported by existing evidence.  
 
 Public policy researchers have reviewed commissioned economic impact reports to identify their failure a accurately forecast economic outcomes, finding that they often commit the following errors:
 
 - Treating gross consumer spending as new spending.
-  - This ignored displaced local activity.
+  - This ignores displaced local activity.
 - Using multipliers that increase projected output through so-called "induced spending."
-  - Research confirms that economic multipliers should be no greater than 1.
-- Focusing on benefits without including all public costs.
-- Assuming that all out-of-town spectators travel to the city for the events they attend.
-  - A large share of visiting attendees did not come to town for the event, it's just one of many local entertainment options they chose to do.  
+  - Research confirms that economic multipliers are no greater than 1.
+- Focusing on benefits without including all public costs.  
 - Assuming that a stadium will stimulate surrounding economic development, which will generate enough tax revenue to cover the cost of the public contribution.  
   - Stadiums are generally poor development anchors. There are no documented cases of sports venues generating sufficient tax revenue to pay for themselves. 
+- Assuming that all out-of-town spectators travel to the city for the events they attend.
+  - A large share of visiting attendees did not come to town for the event, it's just one of many local entertainment options they chose to do.
 
 
 
@@ -147,37 +147,30 @@ Crowding out (sometimes referred to as the substitution effect) occurs when cons
 
 For example, a resident who spends $150 attending a game may reduce spending at restaurants, movies, concerts, retail stores, or other entertainment options. The stadium records $150 in activity, but the metropolitan economy has not necessarily gained $150. Much of the spending has changed location rather than increased total local spending.
 
-Substitution is one reason stadiums can appear economically important at the project site while producing little measurable growth across the larger region.
+Crowding out is one reason why stadiums can appear economically important at the project site while producing little measurable growth across the larger region.
 
 
-## What about mixed-use stadium developments?
+## What about the addition of complementary mixed-use stadium developments?
 
-Mixed-use developments combine a stadium with apartments, offices, hotels, restaurants, retail, and entertainment. These projects can create successful and attractive districts. But their existence does not prove that the stadium produced net regional growth or that taxpayers received a positive return.
+Mixed-use developments combine a stadium with apartments, offices, hotels, restaurants, retail, and entertainment. These projects can create successful and attractive districts. But their existence does not improve their economic outcomes for communities. 
 
-Four separate questions should be distinguished:
 
-1. **Is the project profitable for the team or developer?**
-2. **Has economic activity increased within the development district?**
-3. **Has the project created net new activity for the city, county, or metropolitan area?**
-4. **Do incremental public revenues and social benefits exceed the full public cost?**
 
-A project can succeed under the first two tests and fail under the latter two. Development may also have occurred without a stadium or with a smaller public subsidy.
 
 <!-- EDIT: Add your preferred summary of Truist Park and The Battery Atlanta here. -->
 
 **Related research:**  
-- [A Home Run for Cobb? A Comprehensive Report on the Economic Impact of Truist Park and The Battery Atlanta on Cobb County](/research/)  
-- [Sports Stadiums and Local Economic Activity: Evidence from Sales Tax Collections](/research/)  
-- [The Impact of Sports Stadiums on Localized Commercial Activity](/research/)
+- [A Home Run for Cobb? A Comprehensive Report on the Economic Impact of Truist Park and The Battery Atlanta on Cobb County](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6159506)  by J.C. Bradbury
+- [Sports Stadiums and Local Economic Activity: Evidence from Sales Tax Collections](/https://www.tandfonline.com/doi/full/10.1080/07352166.2022.2044837)  by J.C. Bradbury
+- [The Impact of Sports Stadiums on Localized Commercial Activity](https://doi.org/10.1111/jors.12560) by J.C. Bradbury
 
 ## Do stadiums increase nearby property values?
 
-A stadium may affect nearby property values, but the direction and size of the effect depend on location and local circumstances.
+Studies of the effects of stadiums on nearby property values are somewhat mixed, with the direction and size of the effect being  ambiguous. 
 
 Potential positive effects include:
 
 - new restaurants, entertainment, and amenities;
-- infrastructure improvements;
 - redevelopment of underused land;
 - increased demand to live or operate near the venue.
 
@@ -197,7 +190,13 @@ Even when property values rise near a venue, three additional questions matter:
 3. Did additional tax revenue approach the size of the public subsidy?
 
 **Related research:**  
-- [Does Hosting a Professional Sports Team Benefit the Local Community? Evidence from Property Assessments](/research/)
+- [Does Hosting a Professional Sports Team Benefit the Local Community? Evidence from Property Assessments](https://link.springer.com/article/10.1007/s10101-022-00268-z) by J.C. Bradbury
+- [The Impact of Sports Stadiums on Localized Commercial Activity](https://doi.org/10.1111/jors.12560) by J.C. Bradbury
+- [New Sports Facilities and Residential Housing Markets](https://doi.org/10.1111/jors.12120) by Haifang Huang and Brad Humphreys  
+- [Professional Sports Facilities, Teams and Property Values: Evidence from NBA Team Departure](https://doi.org/10.1016/j.regsciurbeco.2017.06.001) by Brad Humphreys and Adam Nowak
+- [The Impact of Professional Sports Franchises and Venues on Local Economies: A Comprehensive Survey](https://onlinelibrary.wiley.com/doi/10.1111/joes.12533)  by J.C. Bradbury, Dennis Coates, and Brad Humphreys
+- [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/abs/10.1002/pam.22534) by J.C. Bradbury, Dennis Coates, and Brad Humphreys
+
 
 ## Do stadiums help nearby businesses?
 
@@ -213,6 +212,12 @@ A complete analysis should distinguish between:
 - gains captured by private owners;
 - returns received by taxpayers.
 
+**Related research:**  
+- [Do New Sports Facilities Attract New Businesses?](https://doi.org/10.1177/1527002516641168) by Kaitlyn Harger, Brad Humphreys, and Amanda Ross
+- [NBA Sweet Spots: Distance-Based Impacts on Establishment-Level Sales](https://doi.org/10.1111/grow.12262) by Brandli Stitzel and Cynthia L. Rogers
+- [The Impact of Sports Stadiums on Localized Commercial Activity](https://doi.org/10.1111/jors.12560) by J.C. Bradbury
+
+
 ## Are minor-league stadiums different?
 
 Minor-league stadiums are smaller and usually cost less than major-league venues, but they also generate less revenue and attract fewer visitors. Their lower cost does not necessarily make them good public investments.
@@ -222,7 +227,7 @@ Public contributions should be evaluated relative to realistic benefits rather t
 <!-- EDIT: Add two or three sentences summarizing the central finding and magnitude from your 2026 Economic Inquiry article. -->
 
 **Related research:**  
-- [The Public Cost of Minor League Baseball Stadium Subsidies](/research/)
+- [The Public Cost of Minor League Baseball Stadium Subsidies](https://doi.org/10.1111/ecin.70055)
 
 ## What about tourism and visitors from outside the area?
 
@@ -238,6 +243,9 @@ Analysts should ask:
 - Were public event and security costs included?
 
 Special events can produce short-run visitor spending, but recurring league games often rely heavily on local spectators.
+
+**Related research:**  
+
 
 ## What about civic pride and quality-of-life benefits?
 
