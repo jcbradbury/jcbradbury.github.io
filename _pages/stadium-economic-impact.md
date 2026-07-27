@@ -192,9 +192,7 @@ Stadiums tend to be located in growing cities in area that are primed for redeve
 2. Did gains near the venue come partly at the expense of other locations?
 If a stadium is responsible for some new commercial activity in the neighborhood, it may come at the expense of businesses elsewhere in the jurisdiction. Research suggests that development effects are limited to approximately 1 mile from the venue, and often draw customers away for competing establishments located in the same community. 
 
-3. Did additional tax revenue approach the size of the public subsidy?
-
-Even when a stadium project has net positive commercial effects on the jurisdiction, it is normally not sufficient to cover the public cost.
+3. **Did additional tax revenue approach the size of the public subsidy?** Even when a stadium project has net positive commercial effects on the jurisdiction, it is normally not sufficient to cover the public cost.
 
 Though stadiums may foster some development of complementary enterprises, the negative effects may be greater. Thus, there is no general expectation that a proposed stadium project will have  neighborhood property values. 
 
