@@ -20,10 +20,6 @@ sitemap: false
 
 My recent book [*This One Will Be Different*](/towbd/) provides a thorough and detailed (but hopefully not too complex) review of the economics of public stadium financing. I created this page to provide a more general summary of the major findings of economics research, explain common misunderstandings, and offer questions that journalists and policymakers should ask when evaluating stadium proposals. I provide links to relevant research (including chapters in my book) that you can investigate further. 
 
-<!--
-> **The key takeaway:** Sports venues do not produce meaningful net economic benefits for their host communities. Stadiums can create visible activity near a venue and generate benefits for teams, fans, nearby businesses, and property owners. But decades of economic research find that any economic and social benefits are generally too small to justify the large public subsidies commonly provided for stadium construction and related development.
--->
-
 
 Local leaders and team officials often pitch stadiums and arenas as economic development catalysts, promising increased commercial activity that brings new jobs, increased consumer spending, higher property values, neighborhood revitalization, and additional tax revenue. Though hosted events are associated with spending in and around venues, the relevant policy question is whether they create *net new* economic activity that would not otherwise have occurred; and if any gains exist, do they exceed the full public cost. 
 
@@ -32,6 +28,9 @@ The evidence provides a clear answer: stadiums do not generate economic benefits
 >Nearly all empirical studies find little to no tangible impacts of sports teams and facilities on local economic activity, and the level of venue subsidies typically provided far exceeds any observed economic benefits. In total, the deep agreement in research findings demonstrates that sports venues are not an appropriate channel for local economic development policy.
 
 This finding may seem odd, because the spending in and around stadiums is easily observable. However, it fails to increase overall economic output because much of it is redirected from other local entertainment and consumption. Money spent at a game is often money that area residents would have spent somewhere else in the community. When researchers account for the reallocation of existing local economic activity, the estimated economic effects are usually small.
+
+>**The key takeaway:** Stadiums may create visible activity near a venue, but decades of research find that their economic and social benefits are generally too small to justify the public subsidies they receive.
+
 
  <div style="margin-top: 2.5rem; margin-bottom: 1rem; padding-bottom: 0.35rem; border-bottom: 2px solid currentColor; font-size: 1.25rem; font-weight: 700;">
   FAQ: The Economics of Stadiums
@@ -82,7 +81,7 @@ Building and operating a venue requires workers; however, the relevant question 
   
 - The jobs created to serve stadium patrons reflect the reallocation of spending from other local businesses; thus, they represent shifted employment, not net new jobs.
 - Most stadium jobs are part-time, seasonal, or tied to a limited number of event days.
-- Stadium construction is expensive and requires many skilled and highly paid workers, but again this does not reflect a net gain in employment, rather it represents a shift from other construction projects.
+- Stadium construction requires many skilled and highly paid workers, but this does not necessarily represent a net employment gain; it may instead shift workers from other construction projects.
 - Commissioned economic impact reports often count all jobs connected to a project without subtracting jobs displaced elsewhere.
 
 A useful evaluation should separate temporary and permanent employment, report full-time-equivalent positions, and explain how many jobs are genuinely new to the region.
@@ -123,7 +122,7 @@ Full public costs include:
 
 Proposed stadium projects are frequently accompanied by commissioned economic/fiscal impact reports. Though they are often referred to as "studies," the estimates they present are not comparable to objective peer-reviewed studies conducted by academic researchers, which consistently find limited economic impacts. These forecasts are created by consultants hired by project advocates seeking to bolster their case for public subsidies; thus, the seemingly independent assessments present motivated analysis with the goal of promoting the desired stadium project. 
 
-Commissioned reports are typically forward-looking, based on a host of assumptions about what *might* happen in the future. This isn't how economic researchers study economic effects. Social science research is retrospective in nature, examining the experiences of past stadium projects based on demonstrated outcomes, and retrospective studies consistently find no positive economic effects. Private consulting reports almost always forecast large economic benefits, even though positive outcomes are rarely observed in historical experiences.
+Commissioned reports are typically forward-looking, based on a host of assumptions about what *might* happen in the future. This isn't how economic researchers study economic effects. The strongest evidence on stadium effects is retrospective, examining actual outcomes from completed projects, and retrospective studies consistently find no positive economic effects. Private consulting reports almost always forecast large economic benefits, even though positive outcomes are rarely observed in historical experiences.
 
 The reality is that there is no reliable method for projecting the future economic outcomes of stadium projects---it simply does not exist. Any consultant who claims to project positive economic returns should be asked to provide examples of past analyses of stadium projects that produced reliable forecasts. Until such a tool is developed, policymakers should rely on the results of academic economic studies that consistently demonstrate that sports venues do not generate significant economic benefits.
 
@@ -158,7 +157,7 @@ Public policy researchers have reviewed commissioned economic impact reports to 
 
 ## Do mixed-use stadium developments change the economic case for public funding?
 
-Mixed-use developments combine a stadium with apartments, offices, hotels, restaurants, retail, and entertainment. These projects can create successful and attractive districts. But their existence does not improve their economic outcomes for communities. 
+Mixed-use developments combine a stadium with apartments, offices, hotels, restaurants, retail, and entertainment. These projects can create successful and attractive districts. But adding mixed-use development does not materially improve the economic case for public funding.
 
 The Atlanta Braves' Truist Park in Cobb County, Georgia is often cited as a successful public investment because it was constructed with The Battery Atlanta mixed-use development. Though it is touted as unique, it's an old idea. For example, in 1890 St. Louis Browns owner Chris Von der Ahe added a honky-tonk, wine room, and amusement park outside his stadium, marketing it as "the Coney Island of the West." When the Houston Astrodome opened in 1965 it was part of the larger Astrodomain development, which included shopping, hotels, and an amusement park. 
 
@@ -173,9 +172,9 @@ Mixed-use developments connected to sports venues have not always proved to be s
 
 ## Has Truist Park generated a positive return on Cobb's public investment?
 
-Though The Battery development has been lucrative for the Atlanta Braves, Truist Park has been unsuccessful at generating a positive return to cover Cobb County's construction and operating costs. [My review](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6159506) of Cobb financial data shows that the stadium operates with an annual deficit of -$15 million per year.
+Though The Battery development has been lucrative for the Atlanta Braves, Truist Park has been unsuccessful at generating a positive return to cover Cobb County's construction and operating costs. [My review](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6159506) of Cobb financial data shows that the stadium operates with an annual deficit of approximately $15 million per year.
 
-County leaders claim that the stadium-development generates enough revenue to cover the taxpayers' investment in Truist Park; however, the accounting comparison that the Cobb officials uses to show the stadium is a net fiscal positive only looks at the public contribution through property taxes. This is inappropriate, because a majority of the government funding comes from non-property tax sources. When the additional public contributions from special district, hotel, and car rental taxes are included, the net return is negative.  It's unsurprising that the individuals who advocated on behalf of the Braves stadium project maintain that it has paid off, but the government's own numbers show that this is not the case.
+County leaders claim that the stadium-development generates enough revenue to cover the taxpayers' investment in Truist Park; however, the accounting comparison that the Cobb officials use to show the stadium is a net fiscal positive only looks at the public contribution through property taxes. This is inappropriate, because a majority of the government funding comes from non-property tax sources. When the additional public contributions from special district, hotel, and car rental taxes are included, the net return is negative.  It's unsurprising that the individuals who advocated on behalf of the Braves stadium project maintain that it has paid off, but the government's own numbers show that this is not the case.
 
 The Cobb Chamber of Commerce and the Atlanta Braves have also commissioned studies that purport to show that the stadium has been an economic success. These analyses contain serious methodological errors and were commissioned by organizations that supported the project. I have reviewed and responded to all such claims, demonstrating why they are not credible. My studies of the Cobb stadium project have been peer reviewed by other scholars and none of them have received a rebuttal.
 
@@ -291,7 +290,7 @@ Although it is not as widely known, because the fiscal case is most often used t
 
 2. **Property values.** If citizens value living in communities with sports teams, then they should be willing to pay higher prices for homes in cities with sports teams.  As noted [above](#do-stadiums-increase-nearby-property-values), the effects of teams and venues on property values are ambiguous, which is consistent with CVM estimates that indicate the social benefits are relatively small. 
 
-3. **Voting.** A common method for valuing unpriced community assets is to vote on them. Votes on stadium projects do not produce consistent results, which may depend on the size of the subsidy ask and location and type of venue.  However, voters are much more likely to oppose public stadium projects than representative bodies. 
+3. **Voting.** A common method for valuing unpriced community assets is to vote on them. Votes on stadium projects do not produce consistent results, which may depend on the size of the subsidy requested, location, and type of venue.  However, voters are much more likely to oppose public stadium projects than representative bodies. 
 
 
 It is my view that voter referendums offer the best mechanism for assessing how much community members are willing to pay to subsidize sports venues. 
@@ -339,8 +338,8 @@ In [This One Will Be Different](/towbd/) I offer advice to four key constituenci
 
 ## How should journalists approach public stadium proposals?
 - **Be skeptical.** 50 years of economics research consistently finds stadiums do not generate large economic benefits. You should immediately question the claim that "this one will be different."
-- **Bring in credible outside experts.** Stadium financing is complex and not easy to understand. Reach out to an economics professor at a local university, preferably a researcher with a record of publishing studies on public finance.
-- **Do not take commissioned economic impact studies at face value.** Commissioned studies are advocacy documents, not independent research. Their estimates should not be presented as equivalent to peer-reviewed economic evidence or providing an equally credible perspective.
+- **Bring in credible outside experts.** Stadium financing is complex and not easy to understand. Reach out to a local university economics professor , preferably one with a record of publishing research on public finance. 
+- **Do not take commissioned economic impact studies at face value.** Commissioned studies are advocacy documents, not independent research. Their estimates should not be presented as equivalent to peer-reviewed economic evidence or as offering an equally credible perspective.
 - **Avoid false balance.** Reporting on stadium projects often results in bothsidesism, in which the non-credible commissioned reports are balanced against credible economics research. Your coverage should give accurate weight to the evidence, not equal weight.     
 
 **Related research:**  
@@ -356,7 +355,7 @@ Before reporting claims about a stadium’s economic benefits, journalists shoul
 
 - **Who paid for the economic impact report?** A forecast commissioned by the team, developer, or project advocates should not be treated as equivalent to peer-reviewed academic research. Ask whether the same method has accurately predicted outcomes at previous stadium projects. If no examples are provided, this should be noted in your reporting.
 
-- **What assumptions drive the estimate?** Examine attendance, visitor spending, job creation, surrounding development, and economic multipliers. All assumptions should be justified with reasonable explanations.
+- **What assumptions drive the estimate?** Examine attendance, visitor spending, job creation, surrounding development, and economic multipliers. All assumptions should be clearly explained and supported with evidence.
 
 - **Who receives the revenue and who bears the risk?** Identify who controls tickets, naming rights, parking, concessions, and surrounding real estate. Who pays if costs rise or revenues fall short of projections?
 
