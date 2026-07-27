@@ -195,7 +195,7 @@ Even when property values rise near a venue, three additional questions matter:
 Though stadiums may foster some development of complementary enterprises, the negative effects may be greater. Thus, there is no general expectation that a proposed stadium project will have  neighborhood property values. 
 
 **Related research:**  
-- *This One Will Be Different*, [Chapter 9](https://doi.org/10.1093/9780197820247.003.0009), [Chapter 12](https://doi.org/10.1093/9780197820247.003.0012), [Chapter 16](https://doi.org/10.1093/9780197820247.003.0016) by J.C. Bradbury
+- *This One Will Be Different*, [Chapter 9](https://doi.org/10.1093/9780197820247.003.0009), [Chapter 12](https://doi.org/10.1093/9780197820247.003.0012), [Chapter 15](https://doi.org/10.1093/9780197820247.003.0015), [Chapter 16](https://doi.org/10.1093/9780197820247.003.0016) by J.C. Bradbury
 - [Does Hosting a Professional Sports Team Benefit the Local Community? Evidence from Property Assessments](https://link.springer.com/article/10.1007/s10101-022-00268-z) by J.C. Bradbury
 - [The Impact of Sports Stadiums on Localized Commercial Activity](https://doi.org/10.1111/jors.12560) by J.C. Bradbury
 - [New Sports Facilities and Residential Housing Markets](https://doi.org/10.1111/jors.12120) by Haifang Huang and Brad Humphreys  
@@ -212,13 +212,12 @@ But business-level gains should not automatically be interpreted as community-wi
 
 A complete analysis should distinguish between:
 
-- benefits to selected businesses;
-- changes within the immediate district;
-- net changes across the relevant jurisdiction;
-- gains captured by private owners;
-- returns received by taxpayers.
+- Benefits to nearby businesses versus looses to competing local establishments
+- Improvements within the immediate are versus net changes across the entire jurisdiction
+- Gains captured by private team owners versus returns that flow to taxpayers
 
 **Related research:**  
+- *This One Will Be Different*, [Chapter 12](https://doi.org/10.1093/9780197820247.003.0012), [Chapter 16](https://doi.org/10.1093/9780197820247.003.0016) by J.C. Bradbury
 - [Do New Sports Facilities Attract New Businesses?](https://doi.org/10.1177/1527002516641168) by Kaitlyn Harger, Brad Humphreys, and Amanda Ross
 - [NBA Sweet Spots: Distance-Based Impacts on Establishment-Level Sales](https://doi.org/10.1111/grow.12262) by Brandli Stitzel and Cynthia L. Rogers
 - [The Impact of Sports Stadiums on Localized Commercial Activity](https://doi.org/10.1111/jors.12560) by J.C. Bradbury
@@ -226,13 +225,17 @@ A complete analysis should distinguish between:
 
 ## Are minor-league stadiums different?
 
-Minor-league stadiums are smaller and usually cost less than major-league venues, but they also generate less revenue and attract fewer visitors. Their lower cost does not necessarily make them good public investments.
+The economics of minor-league stadiums is the same as it is for major-league venues. Stadium-related spending is mostly reallocated from other local spending, and thus does not reflect increased economic activity. 
 
-Public contributions should be evaluated relative to realistic benefits rather than compared only with the much larger subsidies provided to major-league teams.
+Minor-league stadiums are smaller and usually cost less than major-league venues, but they also generate less revenue and attract fewer visitors. Their lower cost does not necessarily make them good public investments. This is especially true in smaller communities that do not have a large tax base that can absorb the losses. 
+ 
+Public contributions should be evaluated relative to realistic benefits rather than compared only with the much larger subsidies provided to major-league teams. Academic studies of minor-league venues generally do not identify net positive returns. 
 
 
 **Related research:**  
-- [The Public Cost of Minor League Baseball Stadium Subsidies](https://doi.org/10.1111/ecin.70055)
+- *This One Will Be Different*, [Chapter 19](https://doi.org/10.1093/9780197820247.003.0019) by J.C. Bradbury
+- [The Public Cost of Minor League Baseball Stadium Subsidies](https://doi.org/10.1111/ecin.70055) by J.C. Bradbury
+- [The Braves Play Taxpayers better than They Play Baseball](https://www.bloomberg.com/features/2016-atlanta-braves-stadium/) by Ira Boudway and Kate Smith
 
 ## What about tourism and visitors from outside the area?
 
