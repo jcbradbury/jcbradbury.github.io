@@ -133,13 +133,14 @@ Public policy researchers have reviewed commissioned economic impact reports to 
 - Assuming that all out-of-town spectators travel to the city for the events they attend.
   - A large share of visiting attendees did not come to town for the event, it's just one of many local entertainment options they chose to do.
 
-The reality is that there is no reliable tool for projecting the future economic outcomes of stadium projects---it simply does not exist. Any consultant who claims to project positive economic returns so should be asked to provide examples of past analyses of stadium projects that produced reliable forecasts. Until such a tool is developed, policymakers should rely on the results of academic economic studies that consistently demonstrate that sports venues do not generate significant economic benefits.
+The reality is that there is no reliable method for projecting the future economic outcomes of stadium projects---it simply does not exist. Any consultant who claims to project positive economic returns so should be asked to provide examples of past analyses of stadium projects that produced reliable forecasts. Until such a tool is developed, policymakers should rely on the results of academic economic studies that consistently demonstrate that sports venues do not generate significant economic benefits.
 
 **Related research:**  
 - [Suggestions for the Needed Standardization of Determining the Local Economic Impact of Professional Sports”](https://doi.org/10.1177/0891242416636685) by Robert W. Wassmer, Ryan S. Ong, and Geoffrey Propheter  
 - [The Use and Misuse of Economic Impact Analysis](https://doi.org/10.1177/0193723501251003) by Ian Hudson  
 - [Analysis of Sports Facilities and Events: Eleven Sources of Misapplication](https://doi.org/10.1123/jsm.9.1.14) by John A. Crompton  
 - [Estimating the Fiscal Impact of Stadium Developments: Evaluating a Pro Forma Model](https://journals.sagepub.com/doi/10.1177/10911421231199517) by Robert Baumann and J.C. Bradbury
+- [Yes, There Is an Economic Consensus that Professional Sports Facilities Are Inadvisable Public Investments](https://doi.org/10.1177/08912424261418035)  by J.C. Bradbury and Brad Humphreys
 
 ## What is "crowding out"?
 
