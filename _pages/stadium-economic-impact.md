@@ -36,7 +36,7 @@ I've written quite a bit on the economics of professional sports venues, especia
 
 Local leaders and team officials often pitch stadiums and arenas as economic development projects, promising increased commercial activity that brings new jobs, increased consumer spending, higher property values, neighborhood revitalization, and additional tax revenue. Though hosted events are associated with spending in and around venues, the relevant policy question is whether they creates *net new* economic activity that would not otherwise have occurred; and if any gains exist, do they exceed the full public cost. 
 
-The answer is a clear and unambiguous **NO!** A [recent review](https://onlinelibrary.wiley.com/doi/10.1111/joes.12533) of more than 100 peer-reviewed economic studies by Dennis Coates, Brad Humphreys and myself concluded: 
+The answer is a clear and unambiguous **NO!** A [recent review](https://onlinelibrary.wiley.com/doi/10.1111/joes.12533) of more than 100 peer-reviewed studies concluded: 
 
 >Nearly all empirical studies find little to no tangible impacts of sports teams and facilities on local economic activity, and the level of venue subsidies typically provided far exceeds any observed economic benefits. In total, the deep agreement in research findings demonstrates that sports venues are not an appropriate channel for local economic development policy.
 
@@ -256,7 +256,9 @@ Sports teams can generate real benefits that do not appear in conventional measu
 
 Economic research does not require these benefits to be ignored. The question is how large they are relative to the subsidy.
 
-Existing studies generally find that intangible benefits are positive in some communities but far below the hundreds of millions—or billions—of dollars now commonly committed to stadium projects. These benefits may support some public contribution, but they do not ordinarily justify the full subsidy requested by teams.
+Existing studies generally find that intangible benefits are positive in some communities but far below the hundreds of millions—or billions—of dollars now commonly committed to stadium projects. These benefits may support some public contribution, perhaps tens of millions of dollars. [A review]((/https://onlinelibrary.wiley.com/doi/10.1111/joes.12533) ) of studies of intangible benefits of hosting teams indicates that the social value amounts to less than 20% of the value of subsidies allocated.
+
+Voter referendums offer a democratic mechanism for assessing how much community members are willing to pay to subsidize sports venues. 
 
 **Related research:**  
 - [Public Funding of Professional Sports Stadiums: Public Choice or Civic Pride?](https://www.jstor.org/stable/40326145) by Peter A. Groothuis, Bruce K. Johnson, and John C. Whitehead 
