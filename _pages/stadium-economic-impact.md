@@ -11,6 +11,10 @@ toc_label: "On this page"
 toc_sticky: true
 share: true
 sitemap: true
+
+header:
+  og_image: /images/stadium-economic-impact-share.png
+  og_image_alt: "Do Sports Stadiums Help Local Economies? A primer on stadium economics by J.C. Bradbury."
 ---
 
 ## A Primer on the Economic Impact of Stadiums
@@ -373,14 +377,7 @@ Before reporting claims about a stadium’s economic benefits, journalists shoul
 
 [J.C. Bradbury](/) is a professor of economics at Kennesaw State University. His research focuses on sports economics, public finance, and local economic-development policy. He is the author of [*This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums*](/towbd/), published by Oxford University Press.
 
-<!--
-OPTIONAL FAQ STRUCTURED DATA
 
-Important:
-- Google does not guarantee a rich FAQ result.
-- Keep these answers consistent with the visible answers above.
-- Whenever you materially change an answer above, update this block too.
--->
 
 <script type="application/ld+json">
 {
