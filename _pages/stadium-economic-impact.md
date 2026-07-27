@@ -115,13 +115,11 @@ Full public costs may include:
 **Related research:**  
 - [Sports Stadiums and Local Economic Activity: Evidence from Sales Tax Collections](https://doi.org/10.1080/07352166.2022.2044837) by J.C. Bradbury
 
-## The local team/government/chamber of commerce released an independent economic impact assessment of a proposed stadium in my community, which states it will generate large enough economic benefits to cover the cost to taxpayers. Doesn't this call into question the findings of economists?
+## A private economic impact assessment of a proposed stadium in my community concluded that the project will generate large enough economic benefits to cover the cost to taxpayers. Does this invalidate past economics research?
 
 Proposed stadium projects are frequently accompanied by commissioned economic/fiscal impact reports, often referred to as "studies"; however, the estimates they present are not comparable to objective peer-reviewed studies conducted by academic researchers, which consistently find limited economic impacts. These forecasts are created by consultants hired by project advocates seeking to bolster their case for public subsidies; thus the seemingly independent assessments present motivated analysis with the goal of promoting the desired stadium project. 
 
 Commissioned reports are typically forward-looking, based on a host of assumptions about what *might* happen in the future. This isn't how economic researchers study economic effects. Academic research is retrospective in nature, examining the experiences of past stadium projects based on demonstrated outcomes. These studies consistently find no positive economic effects. Though private consulting reports almost always project strong economic outcomes, the positive effects are not observable in retrospective academic reviews.
-
-The reality is that there is no reliable tool for projecting the future economic outcomes of stadium projects--it simply does not exist. Any consultant who claims to project positive economic returns so should be asked to provide examples of past analyses of stadium projects that produced reliable forecasts. Until such a tool is developed, policymakers should rely on the results of academic economic studies that consistently demonstrate that sports venues do not generate significant economic benefits.
 
 Public policy researchers have reviewed commissioned economic impact reports to identify their failure a accurately forecast economic outcomes, finding that they often commit the following errors:
 
@@ -135,7 +133,7 @@ Public policy researchers have reviewed commissioned economic impact reports to 
 - Assuming that all out-of-town spectators travel to the city for the events they attend.
   - A large share of visiting attendees did not come to town for the event, it's just one of many local entertainment options they chose to do.
 
-
+The reality is that there is no reliable tool for projecting the future economic outcomes of stadium projects---it simply does not exist. Any consultant who claims to project positive economic returns so should be asked to provide examples of past analyses of stadium projects that produced reliable forecasts. Until such a tool is developed, policymakers should rely on the results of academic economic studies that consistently demonstrate that sports venues do not generate significant economic benefits.
 
 **Related research:**  
 - [Suggestions for the Needed Standardization of Determining the Local Economic Impact of Professional Sports”](https://doi.org/10.1177/0891242416636685) by Robert W. Wassmer, Ryan S. Ong, and Geoffrey Propheter  
