@@ -38,7 +38,7 @@ Yes. The prevailing conclusion among economists who study stadiums is that profe
 That conclusion does not mean that every stadium has identical effects or that sports teams have no social value. It reflects the consistent finding that measurable economic and fiscal benefits, combined with estimated intangible benefits, are normally smaller than the public costs of subsidized stadium projects.
 
 **Related research:** 
-- [This One Will Be Different, Chapter 4](https://doi.org/10.1093/9780197820247.003.0004) by J.C. Bradbury
+- *This One Will Be Different*, [Chapter 4](https://doi.org/10.1093/9780197820247.003.0004) by J.C. Bradbury
 - [Yes, There Is an Economic Consensus that Professional Sports Facilities Are Inadvisable Public Investments](https://doi.org/10.1177/08912424261418035)  by J.C. Bradbury and Brad Humphreys
 - [The Impact of Professional Sports Franchises and Venues on Local Economies: A Comprehensive Survey](https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22534)  by J.C. Bradbury, Dennis Coates, and Brad Humphreys
 - [Public Policy Toward Professional Sports Stadiums: A Review](/https://onlinelibrary.wiley.com/doi/10.1111/joes.12533) by J.C. Bradbury, Dennis Coates, and Brad Humphreys
