@@ -142,7 +142,7 @@ Public policy researchers have reviewed commissioned economic impact reports to 
 - Treating gross consumer spending as new spending.
   - This ignores displaced local activity.
 - Using multipliers that increase projected output through so-called "induced spending."
-  - Research confirms that economic multipliers are no greater than 1.
+  - For stadium spending, which largely reallocates existing local spending rather than creating new spending, credible local multipliers should not exceed 1. A multiplier of 1.3 may appear modest, but it increases the forecasted economic impact by 30%. 
 - Focusing on benefits without including all public costs.  
 - Assuming that a stadium will stimulate surrounding economic development, which will generate enough tax revenue to cover the cost of the public contribution.  
   - Stadiums are generally poor development anchors. I am not aware of a credible retrospective study finding that a publicly subsidized professional sports venue generated enough incremental tax revenue to cover its full public cost. If you know of one, please share it with me.
