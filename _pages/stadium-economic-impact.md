@@ -239,24 +239,26 @@ Public contributions should be evaluated relative to realistic benefits rather t
 
 ## What about tourism and visitors from outside the area?
 
-Spending by visitors from outside the local economy is more likely to represent genuinely new activity. However, estimates should not assume that every nonlocal attendee traveled solely because of the stadium or event.
+Sports events do attract some visitors from out of the area, which may represent new spending imported into the local economy; however, the tourism effects of sport have been estimated to be small. Most of the attendees of professional sports games are local residents. 
 
-Analysts should ask:
+Not all out-of town spectators represent net new spending. 
+- Casuals: Visitors who chose to attend a sports event among many potential leisure options (e.g., dinning out at a local restaurant or visiting a local attraction) represent a reallocation of tourist spending. 
+-Time-switchers:  Attendees who adjust their visits to coincide with games also would have otherwise spent their money in the area. For example, grandparents may choose to visit their grandchildren during the baseball season in order to catch a game, rather than coming visiting during Thanksgiving.  
 
-- How many attendees are genuinely from outside the region?
-- Was the event the primary reason for the trip?
-- Would the visitor have come to the area anyway?
-- Did ordinary tourists avoid the area because of congestion or higher prices?
-- How much visitor spending remained within the jurisdiction?
-- Were public event and security costs included?
+The benefits of attracting visitors is also not evenly distributed across the hospitality industry. For example, hotel taxes that are often used to fund the sports projects are typically paid by all hotels in the jurisdiction. However, the benefits tend to accrue to lodging establishments close to event venues at the expense of hotels further away. Even if some positive tourism effects exist, a recent economic study [concluded]((https://doi.org/10.1111/ecin.12572)): 
+>"The evidence suggests that increased tourism, and associated increased tourism-related tax revenue, is a rather tenuous reason to justify public subsidies of venues and events."
 
-Special events can produce short-run visitor spending, but recurring league games often rely heavily on local spectators.
+Special mega-events like the Super Bowl, Olympics, or World Cup do attract many visitors to cities; however not all visitors represent a net increase in tourist activity. Mega-event hosts are chosen because of their capacity to serve visitors, and thus most events displaced tourist activity that otherwise would be happening. For example, a Super Bowl hosted in Florida will displace visitors seeking a sunny refuge during winter. And while tourism generally increases at the time of the event, there is normally a hangover effect after the events of decreased tourism. In general, the net tourism effect of hosting premier mega-events is positive, but the gains are typically less than the subsidies provided to host the event. For example, a survey of studies of the economic effects of mega-events concluded: 
+>"mega-events can have a positive influence on visitor growth and on the image of the host as a tourist destination. However, this positive impact tends to be short-lived, conditional and well below ex-ante expectations.... Overall, the supposed economic benefits of hosting an event are vastly overstated in ex-ante studies. In practice, the real benefits are outweighed by the costs associated with event preparation."
 
 **Related research:**  
+- *This One Will Be Different*, [Chapter 14](https://doi.org/10.1093/9780197820247.003.0014) by J.C. Bradbury
+- [Sports‐Led Tourism, Spatial Displacement, and Hotel Demand](https://doi.org/10.1111/ecin.12820) by Yulia Chikish, Brad Humphreys, Crocker Liu, and Adam Nowak
 - [Hotel Demand Before, During, and After Sports Events: Evidence from Charlotte, North Carolina](https://doi.org/10.1111/ecin.12572)
 - [The NFL Draft and Host-City Hotel Occupancy](https://doi.org/10.1111/coep.70034) by Frank Stephenson
 - [The Impact of MLB Team Relocation on Hotel Demand](https://doi.org/10.1177/13548166251405295) by J.C. Bradbury and Frank Stephenson
 - [Bringing Home the Gold? A Review of the Economic Impact of Hosting Mega-Events](https://www.hks.harvard.edu/centers/cid/publications/faculty-working-papers/bringing-home-gold) by Douglas Barrios, Stuart Russell, and Matt Andrews
+- [How Does the Super Bowl Affect Host City Tourism?](https://doi.org/10.1177/1527002520959393) by Lauren Heller and Frank Stephenson
 
 
 ## What about civic pride and quality-of-life benefits?
