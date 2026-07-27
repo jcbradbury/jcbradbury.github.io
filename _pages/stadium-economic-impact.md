@@ -57,6 +57,14 @@ The most important distinction is between:
 
 Economic benefit claims often emphasize the first measure. Public policy should be evaluated using the second.
 
+### What is "crowding out"?
+
+Crowding out (sometimes referred to as the substitution effect) occurs when consumers shift spending from one local activity to another.
+
+For example, a resident who spends $150 attending a game may reduce spending at restaurants, movies, concerts, retail stores, or other entertainment options. The stadium records $150 in activity, but the metropolitan economy has not necessarily gained $150. Much of the spending has changed location rather than increased total local spending.
+
+Crowding out is one reason why stadiums can appear economically important at the project site while producing little measurable growth across the larger region.
+
 **Related research:** 
 - [This One Will Be Different, Chapter 4](https://doi.org/10.1093/9780197820247.003.0004) by J.C. Bradbury 
 - [The Impact of Professional Sports Franchises and Venues on Local Economies: A Comprehensive Survey](https://onlinelibrary.wiley.com/doi/10.1111/joes.12533)  by J.C. Bradbury, Dennis Coates, and Brad Humphreys
@@ -134,13 +142,7 @@ The reality is that there is no reliable method for projecting the future econom
 - [Estimating the Fiscal Impact of Stadium Developments: Evaluating a Pro Forma Model](https://journals.sagepub.com/doi/10.1177/10911421231199517) by Robert Baumann and J.C. Bradbury
 - [Yes, There Is an Economic Consensus that Professional Sports Facilities Are Inadvisable Public Investments](https://doi.org/10.1177/08912424261418035)  by J.C. Bradbury and Brad Humphreys
 
-### What is "crowding out"?
 
-Crowding out (sometimes referred to as the substitution effect) occurs when consumers shift spending from one local activity to another.
-
-For example, a resident who spends $150 attending a game may reduce spending at restaurants, movies, concerts, retail stores, or other entertainment options. The stadium records $150 in activity, but the metropolitan economy has not necessarily gained $150. Much of the spending has changed location rather than increased total local spending.
-
-Crowding out is one reason why stadiums can appear economically important at the project site while producing little measurable growth across the larger region.
 
 
 ## What about the addition of complementary mixed-use stadium developments?
