@@ -57,7 +57,8 @@ The most important distinction is between:
 
 Economic benefit claims often emphasize the first measure. Public policy should be evaluated using the second.
 
-**Related research:**  
+**Related research:** 
+- [This One Will Be Different, Chapter 4](https://doi.org/10.1093/9780197820247.003.0004) by J.C. Bradbury 
 - [The Impact of Professional Sports Franchises and Venues on Local Economies: A Comprehensive Survey](https://onlinelibrary.wiley.com/doi/10.1111/joes.12533)  by J.C. Bradbury, Dennis Coates, and Brad Humphreys
 - [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/abs/10.1002/pam.22534) by J.C. Bradbury, Dennis Coates, and Brad Humphreys
 
@@ -73,6 +74,7 @@ Building and operating a venue requires workers; however, the relevant question 
 A useful evaluation should separate temporary and permanent employment, report full-time-equivalent positions, and explain how many jobs are genuinely new to the region.
 
 **Related research:**  
+- [This One Will Be Different, Chapter 4](https://doi.org/10.1093/9780197820247.003.0004) by J.C. Bradbury
 - [The Effect of Professional Sports on Earnings and Employment in the Services and Retail Sectors in U.S. Cities](https://www.sciencedirect.com/science/article/abs/pii/S0166046202000108) by Dennis Coates and Brad Humphreys
 - [Bright Lights, Big City: Do Professional Sports Teams Increase Employment?](https://doi.org/10.1111/0735-2166.00027) by Ian Hudson
 - [The Economic Impact of Sports Stadium Construction: The Case of the Construction Industry in St. Louis, MO](https://doi.org/10.1111/1467-9906.00120), by Phillip A. Miller
@@ -101,6 +103,7 @@ Full public costs may include:
 - opportunity costs from committing public resources elsewhere.
 
 **Related research:**  
+- [This One Will Be Different, Chapter 13](https://doi.org/10.1093/9780197820247.003.0013) by J.C. Bradbury
 - [Sports Stadiums and Local Economic Activity: Evidence from Sales Tax Collections](https://doi.org/10.1080/07352166.2022.2044837) by J.C. Bradbury
 
 ## A private economic impact assessment of a proposed stadium in my community concluded that the project will generate large enough economic benefits to cover the cost to taxpayers. Does this invalidate past economics research?
@@ -124,6 +127,7 @@ Public policy researchers have reviewed commissioned economic impact reports to 
 The reality is that there is no reliable method for projecting the future economic outcomes of stadium projects---it simply does not exist. Any consultant who claims to project positive economic returns so should be asked to provide examples of past analyses of stadium projects that produced reliable forecasts. Until such a tool is developed, policymakers should rely on the results of academic economic studies that consistently demonstrate that sports venues do not generate significant economic benefits.
 
 **Related research:**  
+- [This One Will Be Different, Chapter 11](https://doi.org/10.1093/9780197820247.003.0011) by J.C. Bradbury
 - [Suggestions for the Needed Standardization of Determining the Local Economic Impact of Professional Sports”](https://doi.org/10.1177/0891242416636685) by Robert W. Wassmer, Ryan S. Ong, and Geoffrey Propheter  
 - [The Use and Misuse of Economic Impact Analysis](https://doi.org/10.1177/0193723501251003) by Ian Hudson  
 - [Analysis of Sports Facilities and Events: Eleven Sources of Misapplication](https://doi.org/10.1123/jsm.9.1.14) by John A. Crompton  
