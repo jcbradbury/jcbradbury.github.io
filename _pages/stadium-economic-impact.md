@@ -52,9 +52,9 @@ That conclusion does not mean that every stadium has identical effects or that s
 
 **Related research:**  
 - [Survey of US Panel of Economic Experts on Stadium Subsidies](https://kentclarkcenter.org/surveys/sports-stadiums/)
-- [Yes, There Is an Economic Consensus that Professional Sports Facilities Are Inadvisable Public Investments](https://doi.org/10.1177/08912424261418035)  
-- [The Impact of Professional Sports Franchises and Venues on Local Economies: A Comprehensive Survey](https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22534)  
-- [Public Policy Toward Professional Sports Stadiums: A Review](/https://onlinelibrary.wiley.com/doi/10.1111/joes.12533)
+- [Yes, There Is an Economic Consensus that Professional Sports Facilities Are Inadvisable Public Investments](https://doi.org/10.1177/08912424261418035)  by J.C. Bradbury and Brad Humphreys
+- [The Impact of Professional Sports Franchises and Venues on Local Economies: A Comprehensive Survey](https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22534)  by J.C. Bradbury, Dennis Coates, and Brad Humphreys
+- [Public Policy Toward Professional Sports Stadiums: A Review](/https://onlinelibrary.wiley.com/doi/10.1111/joes.12533) by J.C. Bradbury, Dennis Coates, and Brad Humphreys
 
 
 ## Do stadiums create economic growth?
