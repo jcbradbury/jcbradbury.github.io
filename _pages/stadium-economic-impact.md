@@ -338,28 +338,35 @@ In [This One Will Be Different](/towbd/) I offer advice to four key constituenci
 **Related research:**  
 - *This One Will Be Different*, [Chapter 28](https://doi.org/10.1093/9780197820247.003.0028) by J.C. Bradbury
 
+## How should journalists approach public stadium proposals?
+- **Be skeptical.** 50 years of economics research consistently finds stadiums do not generate large economic benefits. You should immediately question the claim that "this one will be different."
+- **Bring in credible outside experts.** Stadium financing is complex and not easy to understand. Reach out to an economics professor at a local university, preferably a researcher with a record of publishing studies on public finance.
+- **Do not take commissioned economic impact studies at face value.** Commissioned studies are propaganda, not credible research. You do not have to report their estimates, and they should not be presenting as offering a reasonable perspective. 
+- **Avoid false balance.** Reporting on stadium projects often results in bothsidesism, in which the non-credible commissioned reports are balanced against credible economic research. Your coverage should give accurate weight to the evidence, not equal weight.     
+
+**Related research:**  
+- *This One Will Be Different*, [Chapter 23](https://doi.org/10.1093/9780197820247.003.0023), [Chapter 28](https://doi.org/10.1093/9780197820247.003.0028) by J.C. Bradbury
 
 ## Questions journalists should ask about a stadium proposal
 
 Before reporting claims about a stadium’s economic benefits, journalists should ask:
 
-- **What is the full public cost?** Include land, infrastructure, tax exemptions, financing, maintenance, and future renovations—not just the announced construction subsidy.
+- **What is the full public cost?** Don't report the announced construction subsidy only. Include land, infrastructure, tax exemptions, financing, maintenance, and future renovations.
 
--  **Are the claimed benefits gross or net?** Spending at the stadium may simply replace spending at other local businesses.
+-  **Are the claimed benefits gross or net?** Does the forecasted spending at the stadium account for spending reallocated from other local businesses.
 
-* **Who paid for the economic-impact report?** A forecast commissioned by the team, developer, or project advocates should not be treated as equivalent to independent academic research.
+- **Who paid for the economic impact report?** A forecast commissioned by the team, developer, or project advocates should not be treated as equivalent to scholarly academic research. You should ask for examples of past projections using the same methods that turned out to be correct. Ask author to explain why their analysis projects such large benefits when economic research finds no benefits.
 
-* **What assumptions drive the estimate?** Examine attendance, visitor spending, job creation, surrounding development, and economic multipliers. A multiplier of 1.3 increases the estimated impact by 30%.
+- **What assumptions drive the estimate?** Examine attendance, visitor spending, job creation, surrounding development, and economic multipliers. All assumptions should be justified with reasonable explanations.
 
-* **What would happen without the subsidy?** The relevant comparison is not necessarily a stadium versus no development. The team may stay, the venue may be renovated, or the site may be developed another way.
+- **Who receives the revenue and who bears the risk?** Identify who controls tickets, naming rights, parking, concessions, and surrounding real estate. Who pays the if costs rise or revenues don't meet the projected expectations.
 
-* **Who receives the revenue and who bears the risk?** Identify who controls tickets, naming rights, parking, concessions, and surrounding real estate—and who pays if costs rise or revenues fall.
+- **Are mixed-use development gains being attributed to the stadium?** Apartments, hotels, offices, and restaurants may be viable without the venue or public subsidy.
 
-* **Are mixed-use development gains being attributed to the stadium?** Apartments, hotels, offices, and restaurants may be viable without the venue or public subsidy.
+- **What happened at comparable projects?** Compare the forecast with independent retrospective studies that measure actual changes in employment, income, tax revenue, property values, and tourism.
 
-* **What happened at comparable projects?** Compare the forecast with independent retrospective studies that measure actual changes in employment, income, tax revenue, property values, and tourism.
-
-For a more detailed reporting guide, see [How Journalists Should Evaluate a Stadium Proposal](/stadium-journalist-checklist/).
+**Related research:**  
+- *This One Will Be Different*, [Chapter 11](https://doi.org/10.1093/9780197820247.003.0011), [Chapter 23](https://doi.org/10.1093/9780197820247.003.0023), [Chapter 28](https://doi.org/10.1093/9780197820247.003.0028) by J.C. Bradbury
 
 
 **Last reviewed:** July 2026 
