@@ -27,7 +27,7 @@ Before publishing:
 -->
 
  **By [J.C. Bradbury](/)**   
-**Last reviewed:** July 2026 
+
 
 I've written quite a bit on the economics of professional sports venues, especially relating to their public financing. It's the subject of my recent book [*This One Will Be Different*](/towbd/), which includes a detailed (but not complex) review of the evidence. I created this page to provide a more general summary the major findings of economics research, explain common misunderstandings, and offer questions that journalists and policymakers should ask when evaluating stadium proposals. I include links to relevant research that you can investigate further. 
 
@@ -308,6 +308,8 @@ The burden should be on subsidy proponents to demonstrate that projected public 
 - [Economic consensus on publicly funded sports facilities](https://jcbradbury.com/files/Bradbury_HumphreysEDQ_accepted.pdf)
 - [Historical stadium data](/research/)
 - [Media inquiries and interviews](/media/)
+
+**Last reviewed:** July 2026 
 
 ## About the author
 
