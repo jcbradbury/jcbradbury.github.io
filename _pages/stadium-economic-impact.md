@@ -16,14 +16,14 @@ sitemap: true
  **By [J.C. Bradbury](/)**   
 
 
-I've written quite a bit on the economics of professional sports venues, especially relating to their public financing. It's the subject of my recent book [*This One Will Be Different*](/towbd/), which includes a detailed (but hopefully not too complex) review of the evidence. I created this page to provide a more general summary of the major findings of economics research, explain common misunderstandings, and offer questions that journalists and policymakers should ask when evaluating stadium proposals. I provide links to relevant research (including chapters in my book) that you can investigate further. 
+My recent book [*This One Will Be Different*](/towbd/), provides a thorough  and detailed (but hopefully not too complex) review of the economics of public stadium financing. I created this page to provide a more general summary of the major findings of economics research, explain common misunderstandings, and offer questions that journalists and policymakers should ask when evaluating stadium proposals. I provide links to relevant research (including chapters in my book) that you can investigate further. 
 
 > **The key takeaway:** Sports venues do not produce meaningful net economic benefits for their host communities. Stadiums can create visible activity near a venue and generate benefits for teams, fans, nearby businesses, and property owners. But decades of economic research find that any economic and social benefits are generally too small to justify the large public subsidies commonly provided for stadium construction and related development.
 
 
 Local leaders and team officials often pitch stadiums and arenas as economic development projects, promising increased commercial activity that brings new jobs, increased consumer spending, higher property values, neighborhood revitalization, and additional tax revenue. Though hosted events are associated with spending in and around venues, the relevant policy question is whether they create *net new* economic activity that would not otherwise have occurred; and if any gains exist, do they exceed the full public cost. 
 
-The answer is a clear and unambiguous **NO!** A [recent review](https://onlinelibrary.wiley.com/doi/10.1111/joes.12533) of more than 100 peer-reviewed studies concluded: 
+The evidence provides a clear answer: stadiums do not generate economic benefits large enough to justify the public subsidies they typically receive. A [recent review](https://onlinelibrary.wiley.com/doi/10.1111/joes.12533) of more than 100 peer-reviewed studies concluded: 
 
 >Nearly all empirical studies find little to no tangible impacts of sports teams and facilities on local economic activity, and the level of venue subsidies typically provided far exceeds any observed economic benefits. In total, the deep agreement in research findings demonstrates that sports venues are not an appropriate channel for local economic development policy.
 
@@ -116,23 +116,11 @@ Full public costs include:
 - [Major League Sports and the Property Tax: Costs and Implications of a Stealth Tax Expenditure](https://link.springer.com/book/10.1007/978-3-031-18790-2) by Geoffrey Propheter 
 - [Sports Stadiums and Local Economic Activity: Evidence from Sales Tax Collections](https://doi.org/10.1080/07352166.2022.2044837) by J.C. Bradbury
 
-## A private economic impact assessment of a proposed stadium in my community concluded that the project will generate large enough economic benefits to cover the cost to taxpayers. Does this invalidate past economics research?
+## How do commissioned economic impact studies differ from academic research?
 
 Proposed stadium projects are frequently accompanied by commissioned economic/fiscal impact reports, often referred to as "studies"; however, the estimates they present are not comparable to objective peer-reviewed studies conducted by academic researchers, which consistently find limited economic impacts. These forecasts are created by consultants hired by project advocates seeking to bolster their case for public subsidies; thus the seemingly independent assessments present motivated analysis with the goal of promoting the desired stadium project. 
 
 Commissioned reports are typically forward-looking, based on a host of assumptions about what *might* happen in the future. This isn't how economic researchers study economic effects. Academic research is retrospective in nature, examining the experiences of past stadium projects based on demonstrated outcomes. These studies consistently find no positive economic effects. Though private consulting reports almost always project strong economic outcomes, the positive effects are not observable in retrospective academic reviews.
-
-Public policy researchers have reviewed commissioned economic impact reports to identify their failure to accurately forecast economic outcomes, finding that they often commit the following errors:
-
-- Treating gross consumer spending as new spending.
-  - This ignores displaced local activity.
-- Using multipliers that increase projected output through so-called "induced spending."
-  - Research confirms that economic multipliers are no greater than 1.
-- Focusing on benefits without including all public costs.  
-- Assuming that a stadium will stimulate surrounding economic development, which will generate enough tax revenue to cover the cost of the public contribution.  
-  - Stadiums are generally poor development anchors. There are no documented cases of sports venues generating sufficient tax revenue to pay for themselves. 
-- Assuming that all out-of-town spectators travel to the city for the events they attend.
-  - A large share of visiting attendees did not come to town for the event, because it's just one of many local entertainment options they chose to do.
 
 The reality is that there is no reliable method for projecting the future economic outcomes of stadium projects---it simply does not exist. Any consultant who claims to project positive economic returns so should be asked to provide examples of past analyses of stadium projects that produced reliable forecasts. Until such a tool is developed, policymakers should rely on the results of academic economic studies that consistently demonstrate that sports venues do not generate significant economic benefits.
 
@@ -144,6 +132,25 @@ The reality is that there is no reliable method for projecting the future econom
 - [Estimating the Fiscal Impact of Stadium Developments: Evaluating a Pro Forma Model](https://journals.sagepub.com/doi/10.1177/10911421231199517) by Robert Baumann and J.C. Bradbury
 - [Yes, There Is an Economic Consensus that Professional Sports Facilities Are Inadvisable Public Investments](https://doi.org/10.1177/08912424261418035)  by J.C. Bradbury and Brad Humphreys
 
+## What errors commonly appear in stadium impact reports?
+Public policy researchers have reviewed commissioned economic impact reports to identify their failure to accurately forecast economic outcomes, finding that they often commit the following errors:
+
+- Treating gross consumer spending as new spending.
+  - This ignores displaced local activity.
+- Using multipliers that increase projected output through so-called "induced spending."
+  - Research confirms that economic multipliers are no greater than 1.
+- Focusing on benefits without including all public costs.  
+- Assuming that a stadium will stimulate surrounding economic development, which will generate enough tax revenue to cover the cost of the public contribution.  
+  - Stadiums are generally poor development anchors. I am not aware of a credible retrospective study finding that a publicly subsidized professional sports venue generated enough incremental tax revenue to cover its full public cost. If you know of one, please share it with me.
+- Assuming that all out-of-town spectators travel to the city for the events they attend.
+  - A large share of visiting attendees did not come to town for the event, because it's just one of many local entertainment options they chose to do.
+
+**Related research:**  
+- *This One Will Be Different*, [Chapter 11](https://doi.org/10.1093/9780197820247.003.0011) by J.C. Bradbury
+- [Suggestions for the Needed Standardization of Determining the Local Economic Impact of Professional Sports”](https://doi.org/10.1177/0891242416636685) by Robert W. Wassmer, Ryan S. Ong, and Geoffrey Propheter  
+- [The Use and Misuse of Economic Impact Analysis](https://doi.org/10.1177/0193723501251003) by Ian Hudson  
+- [Analysis of Sports Facilities and Events: Eleven Sources of Misapplication](https://doi.org/10.1123/jsm.9.1.14) by John A. Crompton  
+- [Estimating the Fiscal Impact of Stadium Developments: Evaluating a Pro Forma Model](https://journals.sagepub.com/doi/10.1177/10911421231199517) by Robert Baumann and J.C. Bradbury
 
 
 ## What about the addition of complementary mixed-use stadium developments?
@@ -160,7 +167,7 @@ The Battery Atlanta has been similarly unsuccessful at generating a positive ret
 
 It's unsurprising that the individuals who advocated on behalf of the project continue to insist that the substantial public investment has paid off. The accounting comparison that the County uses to show the stadium is a net fiscal positive only looks at Cobb's contribution through property taxes. This is inappropriate, because a majority of the government funding comes non-property tax sources. When the additional public contributions from special district, hotel, and car rental taxes are included, the net return is negative. 
 
-The Cobb Chamber of Commerce, which helped orchestrate the stadium deal, has also commissioned several studies that purport to show that the stadium has been an economic success. All these analyses are deeply flawed and present motivated analysis. I have reviewed and responded to all such claims, demonstrating why they are not credible. My studies of the Cobb stadium project have been peer reviewed by other scholars and none of them have received a rebuttal in the appropriate academic forum.
+The Cobb Chamber of Commerce, which helped orchestrate the stadium deal, has also commissioned several studies that purport to show that the stadium has been an economic success. These analyses contain serious methodological weaknesses and were commissioned by organizations that supported the project. I have reviewed and responded to all such claims, demonstrating why they are not credible. My studies of the Cobb stadium project have been peer reviewed by other scholars and none of them have received a rebuttal in the appropriate academic forum.
 
 **Related research:**  
 - *This One Will Be Different*, [Chapter 9](https://doi.org/10.1093/9780197820247.003.0009), [Chapter 26](https://doi.org/10.1093/9780197820247.003.0026),  [Chapter 27](https://doi.org/10.1093/9780197820247.003.0027) by J.C. Bradbury
