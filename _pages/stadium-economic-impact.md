@@ -343,9 +343,9 @@ In [This One Will Be Different](/towbd/) I offer advice to four key constituenci
 
 Before reporting claims about a stadium’s economic benefits, journalists should ask:
 
-* **What is the full public cost?** Include land, infrastructure, tax exemptions, financing, maintenance, and future renovations—not just the announced construction subsidy.
+- **What is the full public cost?** Include land, infrastructure, tax exemptions, financing, maintenance, and future renovations—not just the announced construction subsidy.
 
-* **Are the claimed benefits gross or net?** Spending at the stadium may simply replace spending at other local businesses.
+-  **Are the claimed benefits gross or net?** Spending at the stadium may simply replace spending at other local businesses.
 
 * **Who paid for the economic-impact report?** A forecast commissioned by the team, developer, or project advocates should not be treated as equivalent to independent academic research.
 
