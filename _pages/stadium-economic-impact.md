@@ -338,6 +338,30 @@ In [This One Will Be Different](/towbd/) I offer advice to four key constituenci
 **Related research:**  
 - *This One Will Be Different*, [Chapter 28](https://doi.org/10.1093/9780197820247.003.0028) by J.C. Bradbury
 
+
+## Questions journalists should ask about a stadium proposal
+
+Before reporting claims about a stadium’s economic benefits, journalists should ask:
+
+* **What is the full public cost?** Include land, infrastructure, tax exemptions, financing, maintenance, and future renovations—not just the announced construction subsidy.
+
+* **Are the claimed benefits gross or net?** Spending at the stadium may simply replace spending at other local businesses.
+
+* **Who paid for the economic-impact report?** A forecast commissioned by the team, developer, or project advocates should not be treated as equivalent to independent academic research.
+
+* **What assumptions drive the estimate?** Examine attendance, visitor spending, job creation, surrounding development, and economic multipliers. A multiplier of 1.3 increases the estimated impact by 30%.
+
+* **What would happen without the subsidy?** The relevant comparison is not necessarily a stadium versus no development. The team may stay, the venue may be renovated, or the site may be developed another way.
+
+* **Who receives the revenue and who bears the risk?** Identify who controls tickets, naming rights, parking, concessions, and surrounding real estate—and who pays if costs rise or revenues fall.
+
+* **Are mixed-use development gains being attributed to the stadium?** Apartments, hotels, offices, and restaurants may be viable without the venue or public subsidy.
+
+* **What happened at comparable projects?** Compare the forecast with independent retrospective studies that measure actual changes in employment, income, tax revenue, property values, and tourism.
+
+For a more detailed reporting guide, see [How Journalists Should Evaluate a Stadium Proposal](/stadium-journalist-checklist/).
+
+
 **Last reviewed:** July 2026 
 
 ## About the author
