@@ -31,7 +31,9 @@ The evidence provides a clear answer: stadiums do not generate economic benefits
 
 This finding may seem odd, because the spending in and around stadiums is easily observable. However, it fails to increase overall economic output, because much of it is redirected from other local entertainment and consumption. Money spent at a game is often money that area residents would have spent somewhere else in the community. When researchers account for the reallocation of existing local economic activity, the estimated economic effects are usually small.
 
- <u><strong>FAQ: The Economics of Stadiums</strong></u>
+ <div style="margin-top: 2.5rem; margin-bottom: 1rem; padding-bottom: 0.35rem; border-bottom: 2px solid currentColor; font-size: 1.25rem; font-weight: 700;">
+  FAQ: The Economics of Stadiums
+</div>
 
 ## Is there an economic consensus about public policy regarding stadium subsidies?
 
