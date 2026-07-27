@@ -44,6 +44,19 @@ This finding may seem odd, because the spending in and around stadiums is easily
 
 # Frequently Asked Questions #
 
+## Is there an economic consensus about stadium subsidies?
+
+Yes. The prevailing conclusion among economists who study stadiums is that professional sports facilities are generally inadvisable public investments. For example, a 2017 [University of Chicago panel of economic experts](https://kentclarkcenter.org/surveys/sports-stadiums/) overwhelming agreed with the statement "Providing state and local subsidies to build stadiums for professional sports teams is likely to cost the relevant taxpayers more than any local economic benefits that are generated."
+
+That conclusion does not mean that every stadium has identical effects or that sports teams have no social value. It reflects the consistent finding that measurable economic and fiscal benefits, combined with estimated intangible benefits, are normally smaller than the public costs of subsidized stadium projects.
+
+**Related research:**  
+- [Survey of US Panel of Economic Experts on Stadium Subsidies](https://kentclarkcenter.org/surveys/sports-stadiums/)
+- [Yes, There Is an Economic Consensus that Professional Sports Facilities Are Inadvisable Public Investments](https://doi.org/10.1177/08912424261418035)  
+- [The Impact of Professional Sports Franchises and Venues on Local Economies: A Comprehensive Survey](https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22534)  
+- [Public Policy Toward Professional Sports Stadiums: A Review](/https://onlinelibrary.wiley.com/doi/10.1111/joes.12533)
+
+
 ## Do stadiums create economic growth?
 
 The general finding from peer-reviewed economic research is that professional sports facilities have little measurable effect on metropolitan income, employment, or overall economic activity.
@@ -235,16 +248,7 @@ Economic research does not require these benefits to be ignored. The question is
 
 Existing studies generally find that intangible benefits are positive in some communities but far below the hundreds of millions—or billions—of dollars now commonly committed to stadium projects. These benefits may support some public contribution, but they do not ordinarily justify the full subsidy requested by teams.
 
-## Is there an economic consensus about stadium subsidies?
 
-Yes. The prevailing conclusion among economists who study stadiums is that professional sports facilities are generally inadvisable public investments.
-
-That conclusion does not mean that every stadium has identical effects or that sports teams have no social value. It reflects the consistent finding that measurable economic and fiscal benefits, combined with estimated intangible benefits, are normally smaller than the public costs of subsidized stadium projects.
-
-**Related research:**  
-- [Yes, There Is an Economic Consensus that Professional Sports Facilities Are Inadvisable Public Investments](https://jcbradbury.com/files/Bradbury_HumphreysEDQ_accepted.pdf)  
-- [The Impact of Professional Sports Franchises and Venues on Local Economies: A Comprehensive Survey](/research/)  
-- [Public Policy Toward Professional Sports Stadiums: A Review](/research/)
 
 ## Why do governments continue to subsidize stadiums?
 
