@@ -134,7 +134,7 @@ The reality is that there is no reliable method for projecting the future econom
 - [Estimating the Fiscal Impact of Stadium Developments: Evaluating a Pro Forma Model](https://journals.sagepub.com/doi/10.1177/10911421231199517) by Robert Baumann and J.C. Bradbury
 - [Yes, There Is an Economic Consensus that Professional Sports Facilities Are Inadvisable Public Investments](https://doi.org/10.1177/08912424261418035)  by J.C. Bradbury and Brad Humphreys
 
-## What is "crowding out"?
+### What is "crowding out"?
 
 Crowding out (sometimes referred to as the substitution effect) occurs when consumers shift spending from one local activity to another.
 
