@@ -12,8 +12,7 @@ toc_sticky: true
 share: true
 sitemap: true
 
-header:
-  image: stadium-economic-impact-share.png
+
 ---
 
 ## A Primer on the Economic Impact of Stadiums
