@@ -13,6 +13,8 @@ share: true
 sitemap: true
 ---
 
+# A Primer on the Economic Impact of Stadiums
+
  **By [J.C. Bradbury](/)**   
 
 
@@ -153,7 +155,7 @@ Public policy researchers have reviewed commissioned economic impact reports to 
 - [Estimating the Fiscal Impact of Stadium Developments: Evaluating a Pro Forma Model](https://journals.sagepub.com/doi/10.1177/10911421231199517) by Robert Baumann and J.C. Bradbury
 
 
-## What about the addition of complementary mixed-use stadium developments?
+## Do mixed-use stadium developments change the economic case for public funding?
 
 Mixed-use developments combine a stadium with apartments, offices, hotels, restaurants, retail, and entertainment. These projects can create successful and attractive districts. But their existence does not improve their economic outcomes for communities. 
 
@@ -161,9 +163,16 @@ Atlanta Braves' Truist Park in Cobb County, Georgia is often cited as successful
 
 Mixed-use developments connected to sports venues have not always proved to be successes, either. Glendale, Arizona's Westgate City Center entertainment center outside Gila River Arena and State Farm Stadium was [foreclosed upon](https://www.glendalestar.com/news/jobing-com-arena-turns-ten-years-old/article_03e1c006-6686-11e3-94be-0019bb2963f4.html) in 2011. Kansas City's Power & Light District situated next to the T-Mobile Center basketball arena has been such a consistent money loser, that its [city manager stated](https://www.kansascity.com/news/politics-government/article9530081.html), "I don’t think there will be a point at any time in the foreseeable future, probably the next 20 years, where it actually pays for itself."
 
-The Battery Atlanta has been similarly unsuccessful at generating a positive return to cover its construction and operating costs. [My review](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6159506) of Cobb County financial data shows that the stadium operates an an annual deficit of -$15 million per year.
+**Related research:**  
+- *This One Will Be Different*, [Chapter 9](https://doi.org/10.1093/9780197820247.003.0009) by J.C. Bradbury
+- [A Home Run for Cobb? A Comprehensive Report on the Economic Impact of Truist Park and The Battery Atlanta on Cobb County](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6159506)  by J.C. Bradbury
+- [Sports Stadiums and Local Economic Activity: Evidence from Sales Tax Collections](https://www.tandfonline.com/doi/full/10.1080/07352166.2022.2044837)  by J.C. Bradbury
+- [The Impact of Sports Stadiums on Localized Commercial Activity](https://doi.org/10.1111/jors.12560) by J.C. Bradbury
+- [Estimating the Fiscal Impact of Stadium Developments: Evaluating a Pro Forma Model](https://journals.sagepub.com/doi/10.1177/10911421231199517) by Robert Baumann and J.C. Bradbury
 
-### But Cobb County officials claim that Truist Park and The Battery are in fact generating enough tax revenue to pay for the public investment. Is this not accurate?
+## Has Truist Park and The Battery paid for itself?
+
+The Battery Atlanta has been similarly unsuccessful at generating a positive return to cover its construction and operating costs. [My review](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6159506) of Cobb County financial data shows that the stadium operates an an annual deficit of -$15 million per year.
 
 It's unsurprising that the individuals who advocated on behalf of the project continue to insist that the substantial public investment has paid off. The accounting comparison that the County uses to show the stadium is a net fiscal positive only looks at Cobb's contribution through property taxes. This is inappropriate, because a majority of the government funding comes non-property tax sources. When the additional public contributions from special district, hotel, and car rental taxes are included, the net return is negative. 
 
@@ -249,8 +258,9 @@ Public contributions should be evaluated relative to realistic benefits rather t
 Sports events do attract some visitors from out of the area, which may represent new spending imported into the local economy; however, the tourism effects of sport have been estimated to be small. Most of the attendees of professional sports games are local residents. 
 
 Not all out-of town spectators represent net new spending. 
-- Casuals: Visitors who chose to attend a sports event among many potential leisure options (e.g., dining out at a local restaurant or visiting a local attraction) represent a reallocation of tourist spending. 
--Time-switchers:  Attendees who adjust their visits to coincide with games also would have otherwise spent their money in the area. For example, grandparents may choose to visit their grandchildren during the baseball season in order to catch a game, rather than coming visiting during Thanksgiving.  
+
+- **Casual visitors:** Visitors who chose to attend a sports event among many potential leisure options (e.g., dining out at a local restaurant or visiting a local attraction) represent a reallocation of tourist spending. 
+- **Time-switchers:** Attendees who adjust their visits to coincide with games also would have otherwise spent their money in the area. For example, grandparents may choose to visit their grandchildren during the baseball season in order to catch a game, rather than coming visiting during Thanksgiving.  
 
 The benefits of attracting visitors are also not evenly distributed across the hospitality industry. For example, hotel taxes that are often used to fund the sports projects are typically paid by all hotels in the jurisdiction. However, the benefits tend to accrue to lodging establishments close to event venues at the expense of hotels further away. Even if some positive tourism effects exist, a recent economic study [concluded]((https://doi.org/10.1111/ecin.12572): 
 >"The evidence suggests that increased tourism, and associated increased tourism-related tax revenue, is a rather tenuous reason to justify public subsidies of venues and events."
@@ -307,7 +317,7 @@ I make the case in [This One Will Be Different](/towbd/) that the chief culprit 
 
 **Related research:**  
 - *This One Will Be Different*, [Chapter 18](https://doi.org/10.1093/9780197820247.003.0018) by J.C. Bradbury
--[Urban Power Structures and Publicly Financed Stadiums](https://doi.org/10.1111/j.1573-7861.2007.00022.x) by Kevin J. Delaney and Rick Eckstein
+- [Urban Power Structures and Publicly Financed Stadiums](https://doi.org/10.1111/j.1573-7861.2007.00022.x) by Kevin J. Delaney and Rick Eckstein
 - [Public Dollars, Private Stadiums: The Battle over Building Sports Stadiums](https://www.rutgersuniversitypress.org/public-dollars-private-stadiums/9780813533438) by Kevin J. Delaney and Rick Eckstein
 - [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/10.1111/joes.12533) by J.C. Bradbury, Dennis Coates, and Brad Humphreys
 
