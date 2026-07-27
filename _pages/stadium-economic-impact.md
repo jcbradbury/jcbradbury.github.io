@@ -13,7 +13,7 @@ share: true
 sitemap: true
 ---
 
-# A Primer on the Economic Impact of Stadiums
+## A Primer on the Economic Impact of Stadiums
 
  **By [J.C. Bradbury](/)**   
 
