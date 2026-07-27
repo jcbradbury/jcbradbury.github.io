@@ -44,7 +44,7 @@ This finding may seem odd, because the spending in and around stadiums is easily
 
 # Frequently Asked Questions #
 
-## Is there an economic consensus about stadium subsidies?
+## Is there an economic consensus about public policy regarding stadium subsidies?
 
 Yes. The prevailing conclusion among economists who study stadiums is that professional sports facilities are generally inadvisable public investments. For example, a 2017 [University of Chicago panel of economic experts](https://kentclarkcenter.org/surveys/sports-stadiums/) overwhelming agreed with the statement "Providing state and local subsidies to build stadiums for professional sports teams is likely to cost the relevant taxpayers more than any local economic benefits that are generated."
 
