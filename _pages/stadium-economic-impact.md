@@ -193,9 +193,7 @@ Even when property values rise near a venue, three additional questions matter:
 Though stadiums may foster some development of complementary enterprises, the negative effects may be greater. Thus, there is no general expectation that a proposed stadium project will have positive development effects on the surrounding neighborhood. 
 
 **Related research:**  
-- [This One Will Be Different, Chapter 9](https://doi.org/10.1093/9780197820247.003.0009) by J.C. Bradbury
-- [This One Will Be Different, Chapter 12](https://doi.org/10.1093/9780197820247.003.0012) by J.C. Bradbury
-- [This One Will Be Different, Chapter 16](https://doi.org/10.1093/9780197820247.003.0016) by J.C. Bradbury
+- *This One Will Be Different*, [Chapter 9](https://doi.org/10.1093/9780197820247.003.0009), [Chapter 12](https://doi.org/10.1093/9780197820247.003.0012), [Chapter 16](https://doi.org/10.1093/9780197820247.003.0016) by J.C. Bradbury
 - [Does Hosting a Professional Sports Team Benefit the Local Community? Evidence from Property Assessments](https://link.springer.com/article/10.1007/s10101-022-00268-z) by J.C. Bradbury
 - [The Impact of Sports Stadiums on Localized Commercial Activity](https://doi.org/10.1111/jors.12560) by J.C. Bradbury
 - [New Sports Facilities and Residential Housing Markets](https://doi.org/10.1111/jors.12120) by Haifang Huang and Brad Humphreys  
