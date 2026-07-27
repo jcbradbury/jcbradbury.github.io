@@ -12,19 +12,9 @@ toc_sticky: true
 share: true
 sitemap: true
 
-header:
-  image: stadium-economic-impact-share.png
----
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Do Sports Stadiums Help Local Economies?">
-<meta name="twitter:description" content="What economic research shows about stadiums, jobs, tax revenue, development, public subsidies, and common economic impact claims.">
-<meta name="twitter:image" content="https://jcbradbury.com/images/stadium-economic-impact-share.png">
 
-<style>
-.page__hero {
-  display: none;
-}
-</style>
+---
+
 
 ## A Primer on the Economic Impact of Stadiums
 
