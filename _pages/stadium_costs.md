@@ -19,7 +19,7 @@ sitemap: false
 
  **By [J.C. Bradbury](/)** 
 
- ## How much do U.S. sports stadiums cost?
+## How much do U.S. sports stadiums cost?
 
 ## How much have taxpayers spent on sports stadiums?
 
