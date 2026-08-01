@@ -9,3 +9,41 @@
   overflow: visible !important; /* stop clipping to an oval */
 }
 
+.video-platforms {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3.5rem;
+  margin: 1rem 0;
+}
+
+.video-platforms a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.video-platforms i {
+  font-size: 1.5rem;
+}
+
+.video-platforms a:nth-child(1) {
+  color: #ff0000;
+}
+
+.video-platforms a:nth-child(2) {
+  color: #e1306c;
+}
+
+.video-platforms a:nth-child(3) {
+  color: #000000;
+}
+
+.video-platforms a:hover {
+  opacity: 0.75;
+}
+
+.video-platforms a:hover span {
+  text-decoration: underline;
+}
