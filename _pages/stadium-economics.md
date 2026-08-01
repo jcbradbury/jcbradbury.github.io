@@ -33,7 +33,6 @@ Stadium financing involves many difficult economic issuers that can be confusing
 - How Should Media Members Cover Public Stadium Projects? - Stadium projects are considered infrequently by communities, and thus journalists may be unfamiliar with the basic issues. As the son of two journalists, I and sympathetic to the difficulties that reporters may face in covering the issue. This page summarizes the relevant policy considerations and makes recommendations for how local media members can properly inform their readers/viewers. 
 
 ## Video Shorts
-YouTube, Instagram, TikTok
 <div class="video-platforms">
   <a href="https://www.youtube.com/@YOURHANDLE"
      target="_blank"
