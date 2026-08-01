@@ -21,7 +21,7 @@ I've conducted much research on the economics of stadiums, and some of it may no
 
 ## Articles 
 Stadium financing involves many difficult economic issuers that can be confusing. I've written some general summaries to explain the relevant economic issues and concepts. 
-- [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22534), with Dennis Coates and Brad Humphreys, *Journal of Policy Analysis and Management* (This is an academic article; however, it is geared toward policymakers.)
+- [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22534), with Dennis Coates and Brad Humphreys, *Journal of Policy Analysis and Management* (This is published in an academic journal, but we wrote it so that it would be accessible to policymakers.)
 - [Do Sports Stadiums Help Local Economies? A Primer on the Economic Impact of Stadiums](/_pages/stadium-economic-impact.md)
 - [How Much Do Sports Stadiums Cost?](/_pages/stadium-costs.md)
 
