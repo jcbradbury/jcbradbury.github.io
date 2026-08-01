@@ -14,9 +14,8 @@ sitemap: false
 
 
 ---
- 
- 
- **By [J.C. Bradbury](/)**
+
+A General Guide to the Economics of Stadiums
  
 
 ## Articles 
