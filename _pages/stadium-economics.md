@@ -38,6 +38,7 @@ YouTube, Instagram, TikTok
 - Denver's LoDo
 - Cleveland 
 
-### Presentation Slides
- - [An Economic History of Ballparks](/files/bradbury_sabr2026.pdf), presented at SABR 54 (Cleveland, July 31, 2026)
+### Presentations
+ - [An Economic History of Ballparks](/files/bradbury_sabr2026.pdf), presented at SABR 54 (Cleveland, July 31, 2026, presentation slides)
+ - Testimony, Nashville Stadium Committee, Nashville Metro Council (November 2022)
 
