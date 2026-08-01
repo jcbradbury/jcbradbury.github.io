@@ -17,6 +17,7 @@ sitemap: false
 
 A General Guide to the Economics of Stadiums
  
+I've conducted much research on the economics of stadiums, but not all of it is easily accessible to to non-economists. This page contains resources that are geared to cover the basic issues for non-economists. It includes articles, video shorts, and public presentation slides. 
 
 ## Articles 
 Stadium financing involves many difficult economic issuers that can be confusing. I've written some general summaries to explain the relevant economic issues and concepts. 
