@@ -65,9 +65,9 @@ Stadium financing involves many difficult economic issuers that can be confusing
 - [Why Stadiums Aren't Economic Catalysts](https://youtube.com/shorts/SIsK1wDDHyA)
 
 ### Stadium Issues
--  Portland's Moda Center
-- Chicago Fire
-- Denver's LoDo
+- [Is the Moda Center Renovation a Good Public Investment?](https://youtube.com/shorts/8NoYN5d_PNE)
+- [Chicago Fire's "Privately Financed" Stadium](https://youtube.com/shorts/RxOrCmAW8pY)
+- [Did Coors Field Revitalize Downtown Denver?](https://youtube.com/shorts/QNVGAXnqNZk)
 - Cleveland 
 
 ### Presentations
