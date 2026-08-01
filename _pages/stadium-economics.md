@@ -14,8 +14,13 @@ sitemap: false
 
 
 ---
- ## Articles ##
+ 
+ 
+ **By [J.C. Bradbury](/)**
+ 
+
+## Articles 
 - [Primer on Stadium Economics](/_pages/stadium-economic-impact.md)
 - [How Much Do Sports Stadiums Cost?](/_pages/stadium-costs.md)
 
- ## Video Shorts ##
+ ## Video Shorts
