@@ -34,6 +34,31 @@ Stadium financing involves many difficult economic issuers that can be confusing
 
 ## Video Shorts
 YouTube, Instagram, TikTok
+<div class="video-platforms">
+  <a href="https://www.youtube.com/@YOURHANDLE"
+     target="_blank"
+     rel="noopener noreferrer"
+     aria-label="YouTube">
+    <i class="fab fa-youtube" aria-hidden="true"></i>
+    <span>YouTube</span>
+  </a>
+
+  <a href="https://www.instagram.com/YOURUSERNAME/"
+     target="_blank"
+     rel="noopener noreferrer"
+     aria-label="Instagram">
+    <i class="fab fa-instagram" aria-hidden="true"></i>
+    <span>Instagram</span>
+  </a>
+
+  <a href="https://www.tiktok.com/@YOURUSERNAME"
+     target="_blank"
+     rel="noopener noreferrer"
+     aria-label="TikTok">
+    <i class="fab fa-tiktok" aria-hidden="true"></i>
+    <span>TikTok</span>
+  </a>
+</div>
 
 ### Playlist 1
 - What Is The Cost of Stadium Subsidies?
