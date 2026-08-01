@@ -19,6 +19,7 @@ A General Guide to the Economics of Stadiums
  
 
 ## Articles 
+Stadium financing involves many difficult economic issuers that can be confusing. I've written some general summaries to explain the relevant economic issues and concepts. 
 - [Primer on Stadium Economics](/_pages/stadium-economic-impact.md)
 - [How Much Do Sports Stadiums Cost?](/_pages/stadium-costs.md)
 
