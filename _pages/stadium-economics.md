@@ -61,8 +61,8 @@ Stadium financing involves many difficult economic issuers that can be confusing
 </div>
 
 ### Playlist 1
-- What Is The Cost of Stadium Subsidies?
-- Are Stadiums Economic Catalysts?
+- [America's Addiction to Stadium Subsidies](https://youtube.com/shorts/0V_HpyQxZIU)
+- [Why Stadiums Aren't Economic Catalysts](https://youtube.com/shorts/SIsK1wDDHyA)
 
 ### Stadium Issues
 -  Portland's Moda Center
