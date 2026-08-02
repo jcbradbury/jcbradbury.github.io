@@ -60,15 +60,17 @@ Stadium financing involves many difficult economic issuers that can be confusing
   </a>
 </div>
 
-### Playlist 1
+### The Economics of Publicly Funded Stadiums
 - [America's Addiction to Stadium Subsidies](https://youtube.com/shorts/0V_HpyQxZIU)
 - [Why Stadiums Aren't Economic Catalysts](https://youtube.com/shorts/SIsK1wDDHyA)
+- Why do we keep subsidizing stadiums? (to come)
+- Improving public policy toward stadiums (to come)
 
 ### Stadium Issues
 - [Is the Moda Center Renovation a Good Public Investment?](https://youtube.com/shorts/8NoYN5d_PNE)
 - [Chicago Fire's "Privately Financed" Stadium](https://youtube.com/shorts/RxOrCmAW8pY)
 - [Did Coors Field Revitalize Downtown Denver?](https://youtube.com/shorts/QNVGAXnqNZk)
-- Cleveland 
+
 
 ### Presentations
  - [An Economic History of Ballparks](/files/bradbury_sabr2026.pdf), presented at SABR 54 (Cleveland, July 31, 2026, presentation slides).
