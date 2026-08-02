@@ -17,7 +17,7 @@ sitemap: false
 
 A General Guide to the Economics of Stadiums
  
-Economists have been researching the economics of stadiums since the 1970s, publishing more than 100 studies that consistently find that sports venues have limited economic benefits.  I describe many of the important studies and findings in my book [This One Will Be Different](/townbd/), and this page provides links to resources that summarize the the available evidence. 
+Economists have been researching the economics of stadiums since the 1970s, publishing more than 100 studies that consistently find that sports venues have limited economic benefits.  I describe many of the important studies and findings in my book [This One Will Be Different](/towbd/), and this page provides links to resources that summarize the the available evidence. 
 
 The resources below include [articles](#articles), [video shorts](#video-shorts), and [public presentations](#presentations). 
 
