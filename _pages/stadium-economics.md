@@ -71,6 +71,6 @@ Stadium financing involves many difficult economic issuers that can be confusing
 - Cleveland 
 
 ### Presentations
- - [An Economic History of Ballparks](/files/bradbury_sabr2026.pdf), presented at SABR 54 (Cleveland, July 31, 2026, presentation slides)
- - Testimony, Nashville Stadium Committee, Nashville Metro Council (November 2022)
+ - [An Economic History of Ballparks](/files/bradbury_sabr2026.pdf), presented at SABR 54 (Cleveland, July 31, 2026, presentation slides).
+ - [Testimony](https://www.nashville.gov/departments/council/boards/metro-council/meetings/metropolitan-council-east-bank-stadium-committee-meeting-november-17-2022), Nashville East Bank Stadium Committee, Nashville Metro Council (November 17, 2022).
 
