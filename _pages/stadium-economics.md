@@ -43,7 +43,7 @@ Stadium financing involves many difficult economic issuers that can be confusing
     <span>YouTube</span>
   </a>
 
-  <a href="https://www.instagram.com/YOURUSERNAME/"
+  <a href="https://www.instagram.com/jc_bradbury/"
      target="_blank"
      rel="noopener noreferrer"
      aria-label="Instagram">
@@ -51,7 +51,7 @@ Stadium financing involves many difficult economic issuers that can be confusing
     <span>Instagram</span>
   </a>
 
-  <a href="https://www.tiktok.com/@YOURUSERNAME"
+  <a href="https://www.tiktok.com/@jcbradbury"
      target="_blank"
      rel="noopener noreferrer"
      aria-label="TikTok">
