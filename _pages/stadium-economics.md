@@ -9,7 +9,7 @@ classes: wide
 toc: true
 toc_label: "On this page"
 toc_sticky: true
-share: true
+share: false
 sitemap: false
 
 
