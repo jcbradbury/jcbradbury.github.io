@@ -22,7 +22,8 @@ Economists have been researching the economics of stadiums since the 1970s, publ
 I will be adding additional articles, so please check back in the future for updates. And if there is topic you would like to read more about, please let me know, because I am always looking to fill knowledge gaps.
 
 ## Articles 
-Stadium financing involves many difficult economic issues that can be confusing. I've written some general summaries to explain the relevant economic issues and concepts.
+Stadium financing involves many difficult economic issues that can be confusing. I've written some general summaries to explain the relevant economic issues and concepts. The articles include references and links to other sources that may help you better understand the relevant issues. 
+ 
 - [Do Sports Stadiums Help Local Economies? A Primer on the Economic Impact of Stadiums](/stadium-economic-impact/) -  Start here if you are unfamiliar with the economics of stadiums. 
 - [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22534), with Dennis Coates and Brad Humphreys, *Journal of Policy Analysis and Management* - This is published in an academic journal, but we wrote it so that it would be accessible to policymakers.
 
