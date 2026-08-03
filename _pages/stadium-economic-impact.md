@@ -63,7 +63,7 @@ The most important distinction is between:
 - **Gross spending:** all spending associated with the stadium or development.
 - **Net new spending:** spending and income that would not have occurred in the local economy without the project.
 
-Economic benefit claims often emphasize the first measure. Public policy should be evaluated using the second.
+Economic benefit claims often emphasize the first measure, which doesn't account for the "crowding out" of existing economic activity. Public policy should be evaluated using the second.
 
 ### What is "crowding out"?
 
