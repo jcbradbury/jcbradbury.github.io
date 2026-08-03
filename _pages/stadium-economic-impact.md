@@ -370,7 +370,7 @@ Before reporting claims about a stadium’s economic benefits, journalists shoul
 - *This One Will Be Different*, [Chapter 11](https://doi.org/10.1093/9780197820247.003.0011), [Chapter 23](https://doi.org/10.1093/9780197820247.003.0023), [Chapter 28](https://doi.org/10.1093/9780197820247.003.0028) by J.C. Bradbury
 
 
-**Originally published:** July 28, 2026  
+**First published:** July 28, 2026  
 **Last updated:** August 3, 2026 
 
 ## About the author
