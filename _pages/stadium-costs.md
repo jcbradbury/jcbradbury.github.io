@@ -84,7 +84,7 @@ Though I described the progression of venue construction costs generally below, 
 
 ## Which U.S. sports venues cost the most?
 
-The tables below rank the costs of stadiums (typically more expensive ) and arenas, and they include both completed and approved future venues. See [Appendix A](https://academic.oup.com/book/62944/chapter-abstract/564467903?redirectedFrom=fulltext) in [*This One Will Be Different*](/towbd/) for a complete list of construction costs for all US major-league sports venues.
+The tables below rank the costs of stadiums (typically more expensive ) and arenas, and they include both completed and approved future venues. See [Appendix A](https://doi.org/10.1093/9780197820247.005.0001) in [*This One Will Be Different*](/towbd/) for a complete list of construction costs for all US major-league sports venues.
 
 ### Top 10 Most Expensive Stadiums (MLB and NFL)
 
@@ -175,7 +175,7 @@ The costs reported here reflect publicly reported capital costs on building, lan
 
 Data on stadium construction and funding were compiled from several sources. Judith Grant Long's [*Public-Private Partnerships for Major League Sports Facilities*](https://doi.org/10.4324/9780203077276)  (Table 2.1)  is the source for much of the cost data through 2010. Its consistent valuation framework and expert review make it a particularly useful source for historical comparisons. I collected post-2010 and a few other missing observations from various media sources. Publicly reported costs often differ across sources, and reporting standards are not identical over time or across publications; therefore, the cost estimates are based on accounts that I determined to be the most credible. These data represent *ballpark figures*---literally and figuratively---but they are sufficiently reliable to reflect general trends in venue construction, financing, and costs.
 
-[Appendix A](https://academic.oup.com/book/62944/chapter-abstract/564467903?redirectedFrom=fulltext) in [*This One Will Be Different*](/towbd/) provides a full description of included costs, collection methods, and sources. 
+[Appendix A](https://doi.org/10.1093/9780197820247.005.0001) in [*This One Will Be Different*](/towbd/) provides a full description of included costs, collection methods, and sources. 
 
 
 ## What costs are commonly omitted from stadium subsidy estimates?
