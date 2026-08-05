@@ -68,7 +68,9 @@ Since governments began contributing public funds to professional sports venues 
 
 ## How have stadium construction costs changed over time?
 
-Professional sports venues were entirely private ventures at the beginning of the 20th century, when MLB teams constructed their first modern concrete and steel stadiums. These initial venues were improvements over the impermanent wooden structures they replaced, which were prone to fire, but they were very basic facilities for seating spectators. The durable nature of reinforced concrete allowed the early ballparks to last 60 years or longer---inaugural era ballparks Fenway Park (Boston) and Wrigley Field (Chicago) continue to host major-league teams.
+Professional sports venues were entirely private ventures in the early 1900s, when MLB teams constructed their first modern concrete and steel stadiums. These initial venues were improvements over the impermanent wooden structures they replaced, which were prone to fire, but they were very basic facilities for seating spectators. The durable nature of reinforced concrete allowed the early ballparks to last 60 years or longer---inaugural era ballparks Fenway Park (Boston) and Wrigley Field (Chicago) continue to host major-league teams. Typical total construction costs for venues that opened during the first-half of the 20th century ranged from $15 million to $70 million. Financing switched from being fully private to almost entirely public in the 1930s.  
+
+In the 1960s, teams began replacing inaugural era venues with municipally owned multi-sport stadiums that could host baseball and football (as well as arenas that could host basketball and hockey). These superstadiums were not only larger than their predecessors, but they included improved designs with more restrooms, concessions, and parking. They operated with a revenue model of attracting more fans through the turnstiles. Typical construction costs for superstadium era venues that opened in the ine 1960s thorough the 1980s were more expensive than the facilities they replaced, typically costing between $100 million and $300 million. 
 
 ## Which U.S. stadiums cost the most?
 
