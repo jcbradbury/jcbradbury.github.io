@@ -3,7 +3,7 @@ layout: single
 title: "How Much Do Sports Stadiums Cost? US Stadium Construction Costs and Public Subsidies"
 permalink: /stadium-costs/
 published: false
-excerpt: "Current estimates of the construction costs and public costs of US professional sports stadiums, including historical trends, public financing, and inflation-adjusted totals."
+excerpt: "Current estimates of the construction costs and public subsidies associated with US professional sports stadiums, including historical trends, public financing, and inflation-adjusted totals."
 author_profile: true
 classes: wide
 toc: true
@@ -88,7 +88,7 @@ The tables below rank the costs of stadiums and less expensive arenas. The lists
 
 ### Top 10 Most Expensive Stadiums (MLB and NFL)
 
-|	Rank	|	Venue	|	Year Open	|	Teams	|	Total  Cost	|	Public Cost	|
+|	Rank	|	Venue	|	Year Opened	|	Teams	|	Total  Cost	|	Public Cost	|
 |	:---	|	:---	|	:---:	|	:---	|	---:	|	---:	|
 |	1	|	SoFi Stadium	|	2020	|	Los Angeles Chargers & Rams	|	$6,655	|	$0	|
 |	2	|	New Chiefs Stadium	|	2031	|	Kansas City Chiefs	|	$3,000	|	$1,800	|
@@ -107,7 +107,7 @@ The tables below rank the costs of stadiums and less expensive arenas. The lists
 
 ### Top 10 Most Expensive Arenas (NBA and NHL)
 
-|	Rank	|	Venue	|	Year Open	|	Teams	|	Total Cost	|	Public Cost	|
+|	Rank	|	Venue	|	Year Opened	|	Teams	|	Total Cost	|	Public Cost	|
 |	:---	|	:---	|	:---:	|	:---	|	---:	|	---:	|
 |	1	|	Intuit Dome	|	2024	|	Los Angeles Clippers	|	$1,800	|	$0	|
 |	2	|	Chase Center	|	2019	|	Golden State Warriors	|	$1,722	|	$0	|
@@ -130,7 +130,7 @@ The tables below rank the costs of stadiums and less expensive arenas. The lists
 
 ### Top 10 Largest Stadium Subsidies (MLB and NFL)
 
-|	Rank	|	Venue	|	Year Open	|	Teams	|	Total Cost	|	Public Cost	|	Public Share	|
+|	Rank	|	Venue	|	Year Opened	|	Teams	|	Total Cost	|	Public Cost	|	Public Share	|
 |	:---	|	:---	|	:---:	|	:---	|	---:	|	---:	|	---:	|
 |	1	|	New Chiefs Stadium	|	2031	|	Kansas City Chiefs	|	$3,000	|	$1,800	|	60%	|
 |	2	|	Olympic Stadium	|	1976	|	Montreal Expos	|	$2,970	|	$1,488	|	50%	|
@@ -149,7 +149,7 @@ The tables below rank the costs of stadiums and less expensive arenas. The lists
 
 ### Top 10 Largest Arena Subsidies (NBA and NHL)
 
-|	Rank	|	Venue	|	Year Open	|	Teams	|	Total Cost	|	Public Cost	|	Public Share	|
+|	Rank	|	Venue	|	Year Opened	|	Teams	|	Total Cost	|	Public Cost	|	Public Share	|
 |	:---	|	:---	|	:---:	|	:---	|	---:	|	---:	|	---:	|
 |	1	|	New Thunder Arena	|	2029	|	Oklahoma City Thunder	|	$900	|	$850	|	94%	|
 |	2	|	New Spurs Arena	|	2032	|	San Antonio Spurs	|	$1,300	|	$800	|	62%	|
@@ -171,7 +171,7 @@ The tables below rank the costs of stadiums and less expensive arenas. The lists
 
 ## How are stadium costs measured?
 
-The costs reported here reflect publicly reported capital costs on building, land, and infrastructure for constructing new venues that served as the primary regular long-term home for a major-league team. The costs do not include maintenance and operations expenditures and may not account for additional in-kind donations of public land or accommodating infrastructure, because they are often not reported.
+The estimates reflect publicly reported capital costs for buildings, land, and infrastructure associated with constructing venues that serve as the primary long-term home of a major-league team. The costs do not include maintenance and operating expenditures and may not capture additional in-kind contributions of public land or supporting infrastructure, which are often not reported.
 
 Data on stadium construction and funding were compiled from several sources. Judith Grant Long's [*Public-Private Partnerships for Major League Sports Facilities*](https://doi.org/10.4324/9780203077276)  (Table 2.1)  is the source for much of the cost data through 2010. Its consistent valuation framework and expert review make it a particularly useful source for historical comparisons. I collected post-2010 and a few other missing observations from various media sources. Publicly reported costs often differ across sources, and reporting standards are not identical over time or across publications; therefore, the cost estimates are based on accounts that I determined to be the most credible. These data represent *ballpark figures*---literally and figuratively---but they are sufficiently reliable to reflect general trends in venue construction, financing, and costs.
 
@@ -180,9 +180,9 @@ Data on stadium construction and funding were compiled from several sources. Jud
 
 ## What costs are commonly omitted from stadium subsidy estimates?
 
-The costs reported here do not include additional government direct and in-kind subsidies that public stadiums often receive, but these very real costs are often not publicly recorded in a consistent manner so that they can be reliably tracked over time. Supplementary contributions include area infrastructure improvements, capital maintenance and upgrades, ongoing operations, and tax abatements and exemptions.  So, it is possible that a venue listed as receiving zero subsidies did benefit from some public contributions.  Urban planning scholar Judith Grant Long (see [here](https://doi.org/10.4324/9780203077276) and [here](https://doi.org/10.1177/1527002504264614))  has estimated that these added expenses can increase the taxpayer burden beyond the officially budgeted costs by between 25 and 40%.
+The estimates do not include all direct and in-kind government subsidies that sports venues receive. Because these costs are not consistently reported, they cannot be reliably tracked over time.  Supplementary contributions include area infrastructure improvements, capital maintenance and upgrades, ongoing operations, and tax abatements and exemptions.  Thus, a venue listed as receiving zero subsidies may have benefited from some public contributions.  Urban planning scholar Judith Grant Long (see [here](https://doi.org/10.4324/9780203077276) and [here](https://doi.org/10.1177/1527002504264614))  has estimated that these added expenses can increase the taxpayer burden beyond officially budgeted costs by 25% to 40%
 
-Public policy researcher [Geoffrey Propheter](https://link.springer.com/book/10.1007/978-3-031-18790-2) estimated that the tax benefits from government ownership of stadiums  translated to an additional $22 billion in foregone local government revenue through the lives of active venues (in 2021)---approximately $7.5 million per year, with 40% of the diversion in funds coming from K–12 education and 19% from public safety.
+Public policy researcher [Geoffrey Propheter](https://link.springer.com/book/10.1007/978-3-031-18790-2) estimated that the tax benefits from government ownership of stadiums  translated to an additional $22 billion in foregone local government revenue over the remaining lives of venues active in 2021---approximately $7.5 million per year, with 40% of the diverted funds coming from K–12 education.
 
 Stadiums financed through municipal bonds are sometimes eligible for a federal tax exemption, which economists [Austin Drukker, Ted Gayer, and Alexander Gold](https://doi.org/10.17310/ntj.2020.1.05) estimate to have cost $5.4 billion in lost tax revenue between 2000 and 2020. 
 
@@ -193,7 +193,7 @@ Stadiums financed through municipal bonds are sometimes eligible for a federal t
 
 It is common for venues to undergo extensive renovations to extend their hosting lives, and upgrades of public facilities are frequently accompanied by lease extensions of approximately 15 years. Capital improvements often include reconfiguring large sections of seats, remodeling entertainment spaces like luxury suites and private clubs, redesigning or replacing the building facade, and upgrading concession spaces.
 
-From 1995 through 2024, 41 major-league venues (18 arenas and 23 stadiums) received major renovations, ranging from $58 million to $1.35 billion, with the median cost of $185 million. Twenty-three venues (12 arenas and 11 stadiums) have planned future renovations from 2025 and beyond. Renovation costs span from $150 million to $1.4 billion, with an average public cost of $330 million and a middle-50% range of $134 million to $725 million (*note: future renovations in announced dollar values*). 
+From 1995 through 2024, 41 major-league venues (18 arenas and 23 stadiums) received major renovations, ranging from $58 million to $1.35 billion, with the median cost of $185 million. Twenty-three venues (12 arenas and 11 stadiums) have planned future renovations from 2025 and beyond. Projected renovation costs span from $150 million to $1.4 billion, with an average public cost of $330 million and a middle-50% range of $134 million to $725 million (*note: future renovations are stated in announced dollar values*). 
 
 Overall, venue renovations are cheaper than replacement, but they can still be costly. In some cases, renovation subsidies approach average public contributions for new facilities (for example, Jacksonville Jaguars' $725 million subsidy to renovate EverBank Stadium). 
 
@@ -201,7 +201,7 @@ Overall, venue renovations are cheaper than replacement, but they can still be c
 
 ## How much do minor-league baseball stadiums cost?
 
-Minor-league ballparks are cheaper than their major-league counterparts, but their construction costs are similarly increasing. Among facilities hosting MLB-affiliated minor-league teams in 2025, the median construction cost for ballparks built in the 2020s was $59 million. That is nearly three times the median cost of ballparks built in the 1990s, when minor-league baseball experienced its own stadium-construction boom. These facilities also receive substantial public support, with a median public share of 78%.
+Minor-league ballparks are cheaper than their major-league counterparts, but their construction costs have also risen. Among facilities hosting MLB-affiliated minor-league teams in 2025, the median construction cost for ballparks built in the 2020s was $59 million. That is nearly three times the median cost of ballparks built in the 1990s, when minor-league baseball experienced its own stadium-construction boom. These facilities also receive substantial public support, with a median public share of 78%.
 
 <figure style="text-align: center;">
   <img src="/images/Fig19.3.png"
@@ -217,6 +217,7 @@ Minor-league stadiums also regularly receive renovations, which are often heavil
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
+For more details on minor-league baseball stadium financing, see my study
 
 For more details on minor-league baseball stadium financing, see my study [The Public Cost of Minor League Baseball Stadium Subsidies](https://doi.org/10.1111/ecin.70055) and [Chapter 19](https://doi.org/10.1093/9780197820247.003.0019) of [*This One Will Be Different*](/towbd/).
 
