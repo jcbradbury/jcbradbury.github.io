@@ -82,9 +82,9 @@ Though I described the progression of venue construction costs generally below, 
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
-## Which U.S. stadiums cost the most?
+## Which U.S. sports venues cost the most?
 
-### Top-10 Most Expensive Stadiums
+### Top-10 Most Expensive Stadiums (MLB and NFL)
 
 |		|	Venue	|	Year Open	|	Teams	|	Total Cost	|	Public Cost	|
 |	:---	|	:---	|	:---:	|	:---	|	---:	|	---:	|
@@ -103,7 +103,7 @@ Though I described the progression of venue construction costs generally below, 
 <strong>Notes:</strong> Costs for open venues are in millions of 2024 dollars. Future venue costs are announced values.
 </p>
 
-### Top-10 Most Expensive Arenas
+### Top-10 Most Expensive Arenas (NBA and NHL)
 
 |	Rank	|	Venue	|	Year Open	|	Teams	|	Total Cost	|	Public Cost	|
 |	:---	|	:---	|	:---:	|	:---	|	---:	|	---:	|
@@ -122,8 +122,13 @@ Though I described the progression of venue construction costs generally below, 
 <strong>Notes:</strong> Costs for open venues are in millions of 2024 dollars. Future venue costs are announced values.
 </p>
 
+## Which sports venues received the largest public subsidies?
 
-## Which stadiums received the largest public subsidies?
+### Top-10 Largest Stadium Subsidies (MLB and NFL)
+
+### Top-10 Largest Arena Subsidies (NBA and NHL)
+
+
 
 ## How are stadium costs measured?
 
