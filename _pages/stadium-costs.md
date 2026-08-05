@@ -43,11 +43,11 @@ Median total construction costs vary by league, ranging from $614 million for NF
 <sup>‡</sup>Excludes facilities shared with MLB or NFL teams and Inter Miami's temporary facility.
 </p>
 
-The figure below shows the middle range of total and public venue construction costs by league, from highest to lowest.
+The figure below compares the distributions of total and public venue construction costs by league. The boxes show the middle 50% of observations, while the line within each box marks the median.
 
 <figure style="text-align: center;">
   <img src="/images/ven_cost_box.png"
-       alt="Box plot showing the distribution of sports stadium construction costs."
+       alt="Box plots comparing total and public construction costs for U.S. professional sports venues by league. NFL and MLB venues have the highest median total costs, while MLS venues have the lowest."
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
