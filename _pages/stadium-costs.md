@@ -55,7 +55,7 @@ The figure below compares the distributions of total and public venue constructi
 
 ## How much have taxpayers spent on sports stadiums?
 
-Since governments contributing public funds to professional sports venues in the 1920s, taxpayers have, so far, committed a total of $51 billion to new stadiums and arena construction. 
+Since governments began contributing public funds to professional sports venues in the 1920s, taxpayers have committed a total of $51 billion to new stadiums and arena construction. 
 
 <figure style="text-align: center;">
   <img src="/images/cum_cost_past.png"
@@ -64,13 +64,15 @@ Since governments contributing public funds to professional sports venues in the
 </figure>
 
 
-## How are stadium costs measured?
+
 
 ## How have stadium construction costs changed over time?
 
 ## Which U.S. stadiums cost the most?
 
 ## Which stadiums received the largest public subsidies?
+
+## How are stadium costs measured?
 
 ## What costs are commonly omitted from stadium subsidy estimates?
 
