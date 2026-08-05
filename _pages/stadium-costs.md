@@ -19,8 +19,10 @@ sitemap: false
 
  **By [J.C. Bradbury](/)** 
 
-## How much do U.S. sports stadiums cost? 
-The median total construction costs for the 132 sports venues that hosted the 5 US-based major professional sports leagues  in 2025 was $393 million. The median public contribution was $227 million, and th median public share was 58%.  
+## How much does the typical U.S. sports venue cost? 
+The construction costs of sports venues can be measured in several ways, but the median (middle) value provides a benchmark estimate of typical venues. The median total new venue construction costs for the 132 stadiums and arenas that hosted the 5 US-based major professional sports leagues  in 2025 was $393 million. The median public contribution was $227 million, and the median public share was 58%.  
+
+However, the costs vary by league, ranging from $614 million for the NFL to $278 million for MLS. The median public share ranges from 64% to 70% for big-4 leagues, while the typical MLS share is 41%.  Shared NBA/NHL arenas are often privately financed, perhaps due to their cost effectiveness.  
 
 |	League	|	Venues	|	Total Cost	|	Public Cost	|	Public Share	|
 |	---	|	---	|	---	|	---	|	---	|
