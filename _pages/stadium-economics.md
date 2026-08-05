@@ -2,7 +2,6 @@
 layout: single
 title: "Stadium Economics"
 permalink: /stadium-economics/
-published: false
 excerpt: "Research, articles, videos, presentations, and data on stadium subsidies, financing, construction costs, and local economic effects."
 author_profile: true
 classes: wide
@@ -10,7 +9,8 @@ toc: true
 toc_label: "On this page"
 toc_sticky: true
 share: false
-sitemap: false
+published: true
+sitemap: true
 
 
 ---

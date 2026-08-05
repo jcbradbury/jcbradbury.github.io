@@ -2,7 +2,6 @@
 layout: single
 title: "How Much Do Sports Stadiums Cost? US Stadium Construction Costs and Public Subsidies"
 permalink: /stadium-costs/
-published: false
 excerpt: "Current estimates of the construction costs and public subsidies associated with US professional sports stadiums, including historical trends, public financing, and inflation-adjusted totals."
 author_profile: true
 classes: wide
@@ -10,7 +9,8 @@ toc: true
 toc_label: "On this page"
 toc_sticky: true
 share: false
-sitemap: false
+published: true
+sitemap: true
 
 
 ---
