@@ -38,7 +38,7 @@ However, the costs vary by league, ranging from $614 million for the NFL to $278
 <strong>Notes:</strong> In millions of 2024 dollars. *Excludes Sacramento A's (temporary). ^Excludes Seattle Kraken (heavily renovated). ~Excludes MLB/ NFL-shared facilities  and Inter Miami (temporary).
 </p>
 
-The figure below shows the cost distribution of total and public construction costs by league, from highest to lowest.
+The figure below shows the middle range of total and public venue construction costs by league, from highest to lowest.
 
 <figure style="text-align: center;">
   <img src="/images/ven_cost_box.png"
