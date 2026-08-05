@@ -28,7 +28,7 @@ Median total construction costs vary by league, ranging from $614 million for NF
 
 
 
-| League | Venues | Median Total Cost | Median Public Cost | Median Public Share |
+| League | Venues | Median <br> Total Cost | Median <br>  Public Cost | Median <br>  Public Share |
 |:---|:---:|:---:|:---:|:---:|
 |	NFL	|	30	|	$614	|	$377	|	68%	|
 |	MLB<sup>*</sup>	|	29	|	$569	|	$361	|	70%	|
