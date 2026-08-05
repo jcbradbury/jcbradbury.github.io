@@ -74,6 +74,14 @@ In the 1960s, teams began replacing inaugural era venues with municipally owned 
 
 The lifespans of mid-century venues would be closer to 30 years. In the 1990s, teams began building sport-specific facilities, with retro/classic designs  that mimicked designs of inaugural area architecture. Replacing multi-sport venues two at a time resulted in a stadium mania construction wave that peeked around 2000. Facilities became smaller and generated greater revenue from luxury amenities like private suites, club seats, and non-sports entertainment. Construction costs jumped again,  with median construction costs continuously increasing from $358 million in the 1990s, to $580 million in 2000s, and $864 million in the 2010s. Though the public share declined, median public contributions grew from $205 million in the 1990s to $605 million in the 2010s. 
 
+Though I described the progression of venue construction costs generally below, the following figure provides a more detailed graphical summary by decade and venue type. 
+
+<figure style="text-align: center;">
+  <img src="/images/Fig5.3.png"
+       alt="Combined bar-and-line chart showing median major-league arena and stadium construction costs by decade from 1900 through the 2020s, in millions of 2024 dollars, along with the median public share. Costs rise sharply over time, especially after 1990. Median venue costs exceed $1 billion in the 2010s and $2 billion for stadiums in the 2020s. The median public share is near 100% through the mid-20th century, falls to about 72% in the 1990s, 47% in the 2010s, and 38% in the 2020s."
+       style="max-width: 850px; width: 100%; height: auto;">
+</figure>
+
 ## Which U.S. stadiums cost the most?
 
 ## Which stadiums received the largest public subsidies?
