@@ -139,7 +139,9 @@ Though I described the progression of venue construction costs generally below, 
 |	9	|	Mercedes-Benz Stadium	|	2017	|	Atlanta Falcons	|	2,048	|	896	|	44%	|
 |	10	|	New Highmark Stadium	|	2026	|	Buffalo Bills	|	2,200	|	850	|	39%	|
 
-
+<p style="font-size: 0.75em; margin-top: 0.4em;">
+<strong>Notes:</strong> Costs for open venues are in millions of 2024 dollars. Future venue costs are announced values.
+</p>
 
 ### Top-10 Largest Arena Subsidies (NBA and NHL)
 
@@ -156,6 +158,9 @@ Though I described the progression of venue construction costs generally below, 
 |	9	|	Rogers Place	|	2016	|	Edmonton Oilers	|	469	|	341	|	73%	|
 |	10	|	Gainbridge Fieldhouse	|	1999	|	Indiana Pacers	|	335	|	335	|	100%	|
 
+<p style="font-size: 0.75em; margin-top: 0.4em;">
+<strong>Notes:</strong> Costs for open venues are in millions of 2024 dollars. Future venue costs are announced values.
+</p>
 
 ## How are stadium costs measured?
 
