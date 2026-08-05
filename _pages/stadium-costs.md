@@ -24,7 +24,7 @@ sitemap: false
 ## How much does the typical U.S. sports venue cost? 
 The construction costs of sports venues can be measured in several ways, but the median (middle) value provides a benchmark estimate of typical venues. Among the 132 stadiums and arenas that hosted teams in the five major U.S.-based professional sports leagues in 2025, the median construction cost was $393 million. The median public contribution was $227 million, representing 58% of total construction costs.
 
-Median total construction costs vary by league, ranging from $614 million for NFL venues to $278 million for MLS venues. Among venues used primarily as single-sport venues by the traditional Big-4 sports leagues (MLB, NFL, NBA, NHL), median public shares range from 64% to 74%.  Nine of 11 shared NBA/NHL arenas were privately financed, possibly because sharing a facility improves cost-effectiveness. The median public share for MLS venues is 41%. 
+Median total construction costs vary by league, ranging from $614 million for NFL venues to $278 million for MLS venues. Among venues used primarily as single-sport facilities by the traditional Big-4 sports leagues (MLB, NFL, NBA, NHL), median public shares range from 64% to 74%.  Nine of 11 shared NBA/NHL arenas were privately financed, possibly because sharing a facility improves cost-effectiveness. The median public share for MLS venues is 41%. 
 
 
 
@@ -68,11 +68,11 @@ Since governments began contributing public funds to professional sports venues 
 
 ## How have stadium construction costs changed over time?
 
-Professional sports venues were entirely private ventures in the early 1900s, when MLB teams constructed their first modern concrete and steel stadiums. These initial venues were improvements over the impermanent wooden structures they replaced, which were prone to fire, but they remained simple facilities with the basic function of seating spectators. The durable nature of reinforced concrete allowed the early ballparks to last 60 years or longer---inaugural era ballparks Fenway Park (Boston) and Wrigley Field (Chicago) continue to host major-league teams. Typical total construction costs for venues that opened during the first half of the 20th century ranged from $15 million to $70 million. Financing switched from being fully private to almost entirely public in the 1930s.  
+Professional sports venues were entirely private ventures in the early 1900s, when MLB teams constructed their first modern concrete and steel stadiums. These ballparks were improvements over the impermanent wooden structures they replaced, which were prone to fire, but they remained simple facilities that served the basic function of seating spectators. The durable nature of reinforced concrete allowed them to last 60 years or longer---inaugural era ballparks Fenway Park (Boston) and Wrigley Field (Chicago) continue to host major-league teams. Typical total construction costs for venues that opened during the first half of the 20th century ranged from $15 million to $70 million. Financing switched from being fully private to almost entirely public in the 1930s.  
 
 In the 1960s, teams began replacing inaugural era venues with municipally owned multi-sport stadiums that could host baseball and football (as well as arenas that could host basketball and hockey). These superstadiums were not only larger than their predecessors, but they included improved designs with more restrooms, concessions, and parking. They operated with a revenue model of attracting more fans through the turnstiles. Typical construction costs for superstadium era venues that opened in the 1960s thorough the 1980s were more expensive than the facilities they replaced, typically costing between $100 million and $300 million, with the vast majority of the cost covered by taxpayers. 
 
-The lifespans of mid-century venues would be closer to 30 years. In the 1990s, teams began building sport-specific facilities, with retro/classic designs  that mimicked designs of inaugural-era architecture. Replacing multi-sport venues two at a time resulted in a stadium mania construction wave that peaked around 2000. Facilities became smaller and generated greater revenue from luxury amenities like private suites, club seats, and non-sports entertainment. Construction costs jumped again,  with median construction costs continuously increasing from $358 million in the 1990s, to $580 million in the 2000s, and $864 million in the 2010s. Though the public share declined, median public contributions grew from $205 million in the 1990s to $605 million in the 2010s. 
+The lifespans of mid-century venues would be closer to 30 years. In the 1990s, teams began building sport-specific facilities, with retro/classic designs that mimicked  inaugural-era architecture. Replacing multi-sport venues two at a time resulted in the ["stadium mania"](https://link.springer.com/chapter/10.1007/978-3-031-39248-1_2) construction wave that peaked around 2000. Facilities became smaller and generated greater revenue from luxury amenities like private suites, club seats, and non-sports entertainment. Construction costs jumped again,  with median construction costs continuously increasing from $358 million in the 1990s, to $580 million in the 2000s, and $864 million in the 2010s. Though the public share declined, median public contributions grew from $205 million in the 1990s to $605 million in the 2010s. 
 
 Though I described the progression of venue construction costs generally below, the following figure provides a more detailed graphical summary by decade and venue type. 
 
@@ -222,7 +222,7 @@ See my paper [The Public Cost of Minor League Baseball Stadium Subsidies](https:
 
 
 
-**Last reviewed:** August 2026 
+**First published:**  August 5, 2026 
 
 ## About the author
 
