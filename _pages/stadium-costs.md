@@ -35,7 +35,7 @@ However, the costs vary by league, ranging from $614 million for the NFL to $278
 |	Total	|	132	|	$393	|	$227	|	58%	|  
 
 <p style="font-size: 0.75em; margin-top: 0.4em;">
-In millions of 2024 dollars. *Excludes Sacramento A's (temporary). ^Excludes Seattle Kraken (heavily renovated). ~Excludes MLB/ NFL-shared facilities  and Inter Miami (temporary).
+<strong>Notes:</strong> In millions of 2024 dollars. *Excludes Sacramento A's (temporary). ^Excludes Seattle Kraken (heavily renovated). ~Excludes MLB/ NFL-shared facilities  and Inter Miami (temporary).
 </p>
 
 <figure style="text-align: center;">
