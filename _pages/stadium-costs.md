@@ -57,11 +57,11 @@ The figure below compares the distributions of total and public venue constructi
 
 ## How are stadium costs measured?
 
+## How have stadium construction costs changed over time?
+
 ## Which U.S. stadiums cost the most?
 
 ## Which stadiums received the largest public subsidies?
-
-## How have stadium construction costs changed over time?
 
 ## What costs are commonly omitted from stadium subsidy estimates?
 
