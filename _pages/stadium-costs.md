@@ -20,9 +20,11 @@ sitemap: false
  **By [J.C. Bradbury](/)** 
 
 ## How much does the typical U.S. sports venue cost? 
-The construction costs of sports venues can be measured in several ways, but the median (middle) value provides a benchmark estimate of typical venues. The median total new venue construction costs for the 132 stadiums and arenas that hosted the 5 US-based major professional sports leagues  in 2025 was $393 million. The median public contribution was $227 million, and the median public share was 58%.  
+The construction costs of sports venues can be measured in several ways, but the median (middle) value provides a benchmark estimate of typical venues. Among the 132 stadiums and arenas that hosted teams in the five major U.S.-based professional sports leagues in 2025, the median construction cost was $393 million. The median public contribution was $227 million, representing 58% of total construction costs.
 
-However, the costs vary by league, ranging from $614 million for the NFL to $278 million for MLS. The median public share ranges from 64% to 70% for big-4 leagues, while the typical MLS share is 41%.  Shared NBA/NHL arenas are often privately financed, perhaps due to their cost effectiveness.  
+Median total construction costs vary by league, ranging from $614 million for NFL venues to $278 million for MLS venues. Among venues used primarily by the traditional Big-4 sports leagues, median public shares range from 64% for NHL arenas to 74% for NBA arenas. The median public share for MLS venues is 41%.  9 of 11 shared NBA/NHL arenas in the sample were privately financed, possibly because sharing a facility improves cost effectiveness.
+
+
 
 |	League	|	Venues	|	Total Cost	|	Public Cost	|	Public Share	|
 |	---	|	---	|	---	|	---	|	---	|
@@ -32,10 +34,13 @@ However, the costs vary by league, ranging from $614 million for the NFL to $278
 |	NBA	|	19	|	$341	|	$263	|	74%	|
 |	NHL^	|	20	|	$306	|	$182	|	64%	|
 |	MLS~	|	23	|	$278	|	$68	|	41%	|
-|	Total	|	132	|	$393	|	$227	|	58%	|  
+|	All	|	132	|	$393	|	$227	|	58%	|  
 
 <p style="font-size: 0.75em; margin-top: 0.4em;">
-<strong>Notes:</strong> In millions of 2024 dollars. *Excludes Sacramento A's (temporary). ^Excludes Seattle Kraken (heavily renovated). ~Excludes MLB/ NFL-shared facilities  and Inter Miami (temporary).
+<strong>Notes:</strong> Costs are in millions of 2024 dollars. 
+* Excludes the Sacramento A's temporary facility. 
+^ Excludes the Seattle Kraken's heavily renovated arena. 
+~ Excludes facilities shared with MLB or NFL teams and Inter Miami's temporary facility.
 </p>
 
 The figure below shows the middle range of total and public venue construction costs by league, from highest to lowest.
