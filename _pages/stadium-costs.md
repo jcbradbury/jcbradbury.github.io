@@ -19,7 +19,7 @@ sitemap: false
 
  **By [J.C. Bradbury](/)** 
 
- This page presents construction costs and public subsidies associated with U.S. professional sports venues. The estimates draw on venue-level cost data covering major-league stadiums and arenas, with all historical costs converted to 2024 dollars. I describe the venue construction costs on more detail in [Chapter 5](https://academic.oup.com/book/62944/chapter-abstract/564466341?redirectedFrom=fulltext) of [This One Will Be Different](/towbd/).
+ This page presents construction costs and public subsidies associated with U.S. professional sports venues. The estimates draw on venue-level cost data covering major-league stadiums and arenas, with all historical costs converted to 2024 dollars. I describe the venue construction costs on more detail in [Chapter 5](https://academic.oup.com/book/62944/chapter-abstract/564466341?redirectedFrom=fulltext) of *[This One Will Be Different]*(/towbd/).
 
 ## How much does the typical U.S. sports venue cost? 
 The construction costs of sports venues can be measured in several ways, but the median (middle) value provides a benchmark estimate of typical venues. Among the 132 stadiums and arenas that hosted teams in the five major U.S.-based professional sports leagues in 2025, the median construction cost was $393 million. The median public contribution was $227 million, representing 58% of total construction costs.
