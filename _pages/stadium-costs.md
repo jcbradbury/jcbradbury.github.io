@@ -84,6 +84,8 @@ Though I described the progression of venue construction costs generally below, 
 
 ## Which U.S. stadiums cost the most?
 
+### Top-10 Most Expensive Stadiums
+
 |		|	Venue	|	Year Open	|	Teams	|	Total Cost	|	Public Cost	|
 |	:---	|	:---	|	:---:	|	:---	|	---:	|	---:	|
 |	1	|	SoFi Stadium	|	2020	|	Los Angeles Chargers & Rams	|	$6,655	|	$0	|
@@ -100,6 +102,26 @@ Though I described the progression of venue construction costs generally below, 
 <p style="font-size: 0.75em; margin-top: 0.4em;">
 <strong>Notes:</strong> Costs for open venues are in millions of 2024 dollars. Future venue costs are announced values.
 </p>
+
+### Top-10 Most Expensive Arenas
+
+|	Rank	|	Venue	|	Year Open	|	Teams	|	Total Cost	|	Public Cost	|
+|	:---	|	:---	|	:---:	|	:---	|	---:	|	---:	|
+|	1	|	Intuit Dome	|	2024	|	Los Angeles Clippers	|	$1,800	|	$0	|
+|	2	|	Chase Center	|	2019	|	Golden State Warriors	|	$1,722	|	$0	|
+|	3	|	Barclays Center	|	2012	|	Brooklyn Nets & New York Islanders	|	$1,370	|	$722	|
+|	4	|	New Spurs Arena	|	2032	|	San Antonio Spurs	|	$1,300	|	$800	|
+|	5	|	UBS Arena	|	2021	|	New York Islanders	|	$1,276	|	$0	|
+|	6	|	Madison Square Garden	|	1968	|	New York Knicks & Rangers	|	$1,198	|	$0	|
+|	7	|	Little Caesars Arena	|	2017	|	Detroit Pistons & Red Wings	|	$1,105	|	$415	|
+|	8	|	New Thunder Arena	|	2029	|	Oklahoma City Thunder	|	$900	|	$850	|
+|	9	|	Golden 1 Center	|	2016	|	Sacramento Kings	|	$701	|	$334	|
+|	10	|	American Airlines Center	|	2001	|	Dallas Mavericks & Stars	|	$690	|	$221	|
+
+<p style="font-size: 0.75em; margin-top: 0.4em;">
+<strong>Notes:</strong> Costs for open venues are in millions of 2024 dollars. Future venue costs are announced values.
+</p>
+
 
 ## Which stadiums received the largest public subsidies?
 
