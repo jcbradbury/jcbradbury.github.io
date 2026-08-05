@@ -84,7 +84,7 @@ Though I described the progression of venue construction costs generally below, 
 
 ## Which U.S. sports venues cost the most?
 
-The tables below rank the costs of stadiums (typically more expensive ) and arenas, and they include both completed and approved future venues. See [Appendix A](https://doi.org/10.1093/9780197820247.005.0001) in [*This One Will Be Different*](/towbd/) for a complete list of construction costs for all US major-league sports venues.
+The tables below rank the costs of stadiums (typically more expensive ) and arenas, and they include both completed and approved future venues. See the Historical Database of US Major-League Venues in [Appendix A](https://doi.org/10.1093/9780197820247.005.0001) of [*This One Will Be Different*](/towbd/) for a complete list of construction costs for all US major-league sports venues.
 
 ### Top 10 Most Expensive Stadiums (MLB and NFL)
 
