@@ -188,12 +188,11 @@ Stadiums financed through municipal bonds are sometimes eligible for a federal t
 (Note: Dollar values in this section converted to 2024 dollars.)
 
 
-
 ## How costly are venue renovations?
 
 ## How much do minor league baseball stadiums cost?
 
-## Stadium cost data and methodology
+
 
 **Last reviewed:** August 2026 
 
