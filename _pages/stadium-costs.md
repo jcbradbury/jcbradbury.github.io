@@ -19,7 +19,7 @@ sitemap: false
 
  **By [J.C. Bradbury](/)** 
 
- This page presents construction costs and public subsidies associated with U.S. professional sports venues. The estimates draw on venue-level cost data covering major-league stadiums and arenas, with all historical costs adjusted for inflation to 2024 dollars. I describe the venue construction costs in more detail in [Chapter 5](https://academic.oup.com/book/62944/chapter-abstract/564466341?redirectedFrom=fulltext) of [*This One Will Be Different*](/towbd/).
+ This page presents construction costs and public subsidies associated with U.S. professional sports venues. The estimates draw on venue-level cost data covering major-league stadiums and arenas, with all historical costs adjusted for inflation to 2024 dollars. I describe the venue construction costs in more detail in [Chapter 5](https://doi.org/10.1093/9780197820247.003.0005) of [*This One Will Be Different*](/towbd/).
 
 ## How much does the typical U.S. sports venue cost? 
 The construction costs of sports venues can be measured in several ways, but the median (middle) value provides a benchmark estimate of typical venues. Among the 132 stadiums and arenas that hosted teams in the five major U.S.-based professional sports leagues in 2025, the median construction cost was $393 million. The median public contribution was $227 million, representing 58% of total construction costs.
@@ -171,20 +171,20 @@ The tables below rank the costs of stadiums (typically more expensive ) and aren
 
 ## How are stadium costs measured?
 
-The costs reported here reflect publicly reported capital costs on building, land, and infrastructure for constructing new sports stadiums and arenas that served as the primary regular long-term hosting venue for a major-league team. The costs do not include maintenance and operations expenditures and may not account for additional in-kind donations of public land or accommodating infrastructure, because they are not reported.
+The costs reported here reflect publicly reported capital costs on building, land, and infrastructure for constructing new venues that served as the primary regular long-term home for a major-league team. The costs do not include maintenance and operations expenditures and may not account for additional in-kind donations of public land or accommodating infrastructure, because they are often not reported.
 
-Data on stadium construction and funding were compiled from several sources. Judith Grant Long's [*Public-Private Partnerships for Major League Sports Facilities*](https://doi.org/10.4324/9780203077276)  (Table 2.1)  is the source for much of the cost data through 2010. Its consistent valuation framework and expert review make it a particularly useful source for historical comparisons. I collected post-2010 and a few other missing observations from various media sources. Publicly reported costs often differ across sources, and reporting standards are not identical over time or across publications; therefore, the cost estimates are based on accounts that I determined to be the most credible. Keep in mind that the presented data represent ballpark figures---literally and figuratively---but they are sufficiently reliable to reflect general trends in venue construction, financing, and costs.
+Data on stadium construction and funding were compiled from several sources. Judith Grant Long's [*Public-Private Partnerships for Major League Sports Facilities*](https://doi.org/10.4324/9780203077276)  (Table 2.1)  is the source for much of the cost data through 2010. Its consistent valuation framework and expert review make it a particularly useful source for historical comparisons. I collected post-2010 and a few other missing observations from various media sources. Publicly reported costs often differ across sources, and reporting standards are not identical over time or across publications; therefore, the cost estimates are based on accounts that I determined to be the most credible. These data represent *ballpark figures*---literally and figuratively---but they are sufficiently reliable to reflect general trends in venue construction, financing, and costs.
 
-[Appendix A](https://academic.oup.com/book/62944/chapter-abstract/564467903?redirectedFrom=fulltext) in [*This One Will Be Different*](/towbd/) provides a full description of included costs, as well as collection methods and sources. 
+[Appendix A](https://academic.oup.com/book/62944/chapter-abstract/564467903?redirectedFrom=fulltext) in [*This One Will Be Different*](/towbd/) provides a full description of included costs, collection methods, and sources. 
 
 
 ## What costs are commonly omitted from stadium subsidy estimates?
 
-The costs reported here do not include additional government direct and in-kind subsidies that public stadiums often receive, but these very real costs are often not publicly recorded in a consistent manner so that they can be reliably tracked over time. Supplementary contributions include area infrastructure improvements, capital maintenance and upgrades, ongoing operations, and tax abatements and exemptions.   Urban planning scholar Judith Grant Long (see [here](https://doi.org/10.4324/9780203077276) and [here](https://doi.org/10.1177/1527002504264614)) has estimated that these added expenses can increase the taxpayer burden beyond the officially budgeted costs by between 25 and 40%.
+The costs reported here do not include additional government direct and in-kind subsidies that public stadiums often receive, but these very real costs are often not publicly recorded in a consistent manner so that they can be reliably tracked over time. Supplementary contributions include area infrastructure improvements, capital maintenance and upgrades, ongoing operations, and tax abatements and exemptions.  So, it is possible that a venue listed as receiving zero subsidies did benefit from some public contributions.  Urban planning scholar Judith Grant Long (see [here](https://doi.org/10.4324/9780203077276) and [here](https://doi.org/10.1177/1527002504264614))  has estimated that these added expenses can increase the taxpayer burden beyond the officially budgeted costs by between 25 and 40%.
 
-Public policy researcher [Geoffrey Propheter](https://link.springer.com/book/10.1007/978-3-031-18790-2) estimated that the tax benefits from government ownership of stadiums  translate to an additional $22 billion in foregone local government revenue through the lives of current venue leases---approximately $7.5 million per year, with 40% of the diversion in funds coming from K–12 education and 19% from public safety.
+Public policy researcher [Geoffrey Propheter](https://link.springer.com/book/10.1007/978-3-031-18790-2) estimated that the tax benefits from government ownership of stadiums  translated to an additional $22 billion in foregone local government revenue through the lives of active venues (in 2021)---approximately $7.5 million per year, with 40% of the diversion in funds coming from K–12 education and 19% from public safety.
 
-Stadiums financed through municipal bonds are sometimes eligible for a federal tax exemption, which economists [Austin Drukker, Ted Gayer, and Alexander Gold](https://doi.org/10.17310/ntj.2020.1.05) estimate to have cost $5.4 billion in tax revenue between 2000 and 2020. 
+Stadiums financed through municipal bonds are sometimes eligible for a federal tax exemption, which economists [Austin Drukker, Ted Gayer, and Alexander Gold](https://doi.org/10.17310/ntj.2020.1.05) estimate to have cost $5.4 billion in lost tax revenue between 2000 and 2020. 
 
 (*Note: Dollar values in this section converted from reported year dollar to 2024 dollars.*)
 
@@ -193,9 +193,9 @@ Stadiums financed through municipal bonds are sometimes eligible for a federal t
 
 It is common for venues to undergo extensive renovations to extend their hosting lives, and upgrades of public facilities are frequently accompanied by lease extensions of approximately 15 years. Capital improvements often include reconfiguring large sections of seats, remodeling entertainment spaces like luxury suites and private clubs, redesigning or replacing the building facade, and upgrading concession spaces.
 
-From 1995 through 2024, 41 major-league venues (18 arenas and 23 stadiums) received major renovations, ranging from $58 million to $1.35 billion, with the median cost of $185 million. Twenty-three venues (12 arenas and 11 stadiums) have planned future renovations from 2025 and beyond ranging from $150 million to $1.4 billion, with an average public cost of $330 million and a middle-50% range of $134 million to $725 million (note: future renovations in announced dollar values). 
+From 1995 through 2024, 41 major-league venues (18 arenas and 23 stadiums) received major renovations, ranging from $58 million to $1.35 billion, with the median cost of $185 million. Twenty-three venues (12 arenas and 11 stadiums) have planned future renovations from 2025 and beyond. Renovation costs span from $150 million to $1.4 billion, with an average public cost of $330 million and a middle-50% range of $134 million to $725 million (*note: future renovations in announced dollar values*). 
 
-Overall, venue renovations are cheaper than replacement, but they are still costly. In some cases, renovation subsidies approach average public contributions for new facilities. 
+Overall, venue renovations are cheaper than replacement, but they can still be costly. In some cases, renovation subsidies approach average public contributions for new facilities (for example, Jacksonville Jaguars' $725 million subsidy to renovate EverBank Stadium). 
 
  
 
@@ -218,7 +218,7 @@ Minor-league stadiums also regularly receive renovations, which are often heavil
 </figure>
 
 
-See my paper [The Public Cost of Minor League Baseball Stadium Subsidies](https://doi.org/10.1111/ecin.70055) for more details on minor-league baseball stadiums.
+For for more details on minor-league baseball stadium financing, see my study [The Public Cost of Minor League Baseball Stadium Subsidies](https://doi.org/10.1111/ecin.70055) and  [Chapter 19](https://doi.org/10.1093/9780197820247.003.0019) of [*This One Will Be Different*](/towbd/).
 
 
 
