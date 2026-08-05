@@ -170,12 +170,14 @@ See [Appenix A](https://academic.oup.com/book/62944/chapter-abstract/564467903?r
 
 ## How are stadium costs measured?
 
+[Appenix A](https://academic.oup.com/book/62944/chapter-abstract/564467903?redirectedFrom=fulltext) in [*This One Will Be Different*](/towbd/) provides a full description of included costs.
+
 The costs reported here reflect publicly reported capital costs on building, land, and infrastructure for constructing new sports stadiums and arenas that served as the primary regular long-term hosting venue for a major-league team. The costs do not include maintenance and operations expenditures and may not account for additional in-kind donations of public land or accommodating infrastructure, because they are not reported.
 
-Data on stadium construction and funding were compiled from several sources. [Public-Private Partnerships for Major League Sports Facilities](https://doi.org/10.4324/9780203077276) (Table 2.1) by Judith Grant Long is the source for much of the data through 2010, which provides a consistent source of valuation over the sample that has been closely vetted by an expert for consistency.I collected post-2010 and a few other missing observations from various media sources. Publicly reported costs often differ across sources, and reporting standards are not identical over time or across publications; therefore, the cost estimates are based on accounts that I determined to be the most credible. Keep in mind that the presented data represent ballpark figures—literally and figuratively—but they are sufficiently reliable to reflect general trends in venue construction, duration, and costs.
+Data on stadium construction and funding were compiled from several sources. [Public-Private Partnerships for Major League Sports Facilities](https://doi.org/10.4324/9780203077276)  (Table 2.1) by Judith Grant Long is the source for much of the data through 2010, which provides a consistent source of valuation over the sample that has been closely vetted by an expert for consistency. I collected post-2010 and a few other missing observations from various media sources. Publicly reported costs often differ across sources, and reporting standards are not identical over time or across publications; therefore, the cost estimates are based on accounts that I determined to be the most credible. Keep in mind that the presented data represent ballpark figures---literally and figuratively---but they are sufficiently reliable to reflect general trends in venue construction, duration, and costs.
 
 
-See [Appenix A](https://academic.oup.com/book/62944/chapter-abstract/564467903?redirectedFrom=fulltext) in [*This One Will Be Different*](/towbd/) for a full description of included costs.
+
 
 ## What costs are commonly omitted from stadium subsidy estimates?
 
