@@ -84,6 +84,21 @@ Though I described the progression of venue construction costs generally below, 
 
 ## Which U.S. stadiums cost the most?
 
+|		|	Venue	|	Year Open	|	Teams	|	Total Cost	|	Public Cost	|
+|	:---	|	:---	|	:---:	|	:---	|	---:	|	---:	|
+|	1	|	SoFi Stadium	|	2020	|	Los Angeles Chargers & Rams	|	$6,655	|	$0	|
+|	2	|	New Chiefs Stadium	|	2031	|	Kansas City Chiefs	|	$3,000	|	$1,800	|
+|	3	|	Olympic Stadium	|	1976	|	Montreal Expos	|	$2,970	|	$1,488	|
+|	4	|	New Commanders Stadium	|	2030	|	Washington Commanders	|	$2,700	|	$930	|
+|	5	|	New Browns Stadium	|	2029	|	Cleveland Browns	|	$2,400	|	$900	|
+|	6	|	Allegiant Stadium	|	2020	|	Las Vegas Raiders	|	$2,384	|	$908	|
+|	7	|	MetLife Stadium	|	2010	|	New York Giants & Jets	|	$2,261	|	$0	|
+|	8	|	New Highmark Stadium	|	2026	|	Buffalo Bills	|	$2,200	|	$850	|
+|	9	|	New Nissan Stadium	|	2027	|	Tennessee Titans	|	$2,200	|	$1,260	|
+|	10	|	Mercedes-Benz Stadium	|	2017	|	Atlanta Falcons	|	$2,048	|	$896	|
+
+
+
 ## Which stadiums received the largest public subsidies?
 
 ## How are stadium costs measured?
