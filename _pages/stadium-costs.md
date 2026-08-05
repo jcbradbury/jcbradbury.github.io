@@ -36,7 +36,14 @@ However, the costs vary by league, ranging from $614 million for the NFL to $278
 
 In millions of 2024 dollars. *Excludes Sacramento A's (temporary). ^Excludes Seattle Kraken (heavily renovated). ~Excludes MLB/ NFL-shared facilities  and Inter Miami (temporary).
 
-![Distribution of stadium construction costs](/images/ven_cost_box.png)
+<figure style="text-align: center;">
+  <img src="/images/ven_cost_box.png"
+       alt="Box plot showing the distribution of sports stadium construction costs."
+       style="max-width: 850px; width: 100%; height: auto;">
+  <figcaption>
+    Distribution of sports stadium construction costs.
+  </figcaption>
+</figure>
 
 ## How much have taxpayers spent on sports stadiums?
 
