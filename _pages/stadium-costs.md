@@ -183,12 +183,20 @@ The costs reported here do not include additional government direct and in-kind 
 
 Public policy researcher [Goeffrey Propheter](https://link.springer.com/book/10.1007/978-3-031-18790-2) estimated that the tax benefits from government ownership of stadiums  translates to an additional $22 billion in foregone local government revenue through the lives of current venue leases---approximately $7.5 million per year, with 40% of the diversion in funds coming from K–12 education and 19% from public safety.
 
-Stadiums financed through municipal bonds are sometimes eligible for a federal tax exemption, which economists [Austin Drukker, Ted Gayer, and Alexander Gold](https://doi.org/10.17310/ntj.2020.1.05) estimate to have cost $5.4 billion in tax revenue. 
+Stadiums financed through municipal bonds are sometimes eligible for a federal tax exemption, which economists [Austin Drukker, Ted Gayer, and Alexander Gold](https://doi.org/10.17310/ntj.2020.1.05) estimate to have cost $5.4 billion in tax revenue between 2000 and 2020. 
 
 (Note: Dollar values in this section converted to 2024 dollars.)
 
 
 ## How costly are venue renovations?
+
+It is common for venues to undergo extensive renovations to extend their hosting lives, and upgrades of public facilities are frequently accompanied by lease extensions of approximately 15 years. Capital improvements often include reconfiguring large sections of seats, remodeling entertainment spaces like luxury suites and private clubs, redesigning or replacing the building facade, and upgrading concession spaces.
+
+From 1995 through 2024, 41 major-league venues (18 arenas and 23 stadiums) received major renovations, ranging from $58 million to $1.35 billion, with the median cost of $185 million. Twenty-three venues (12 arenas and 11 stadiums) have planned future renovations from 2025 and beyond ranging from $150 million to $1.4 billion, with an average public cost of $330 million, with the middle-50% range of $134 million to $725 million (note: future renovations in announced dollar values).
+
+Overall, venue renovations are cheaper than replacement, but they are still costly. In some cases, renovation subsidies approach average public contributions for new facilities. 
+
+ 
 
 ## How much do minor league baseball stadiums cost?
 
