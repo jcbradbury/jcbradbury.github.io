@@ -68,11 +68,11 @@ Since governments began contributing public funds to professional sports venues 
 
 ## How have stadium construction costs changed over time?
 
-Professional sports venues were entirely private ventures in the early 1900s, when MLB teams constructed their first modern concrete and steel stadiums. These initial venues were improvements over the impermanent wooden structures they replaced, which were prone to fire, but they remained simple facilities with the basic function of seating spectators. The durable nature of reinforced concrete allowed the early ballparks to last 60 years or longer---inaugural era ballparks Fenway Park (Boston) and Wrigley Field (Chicago) continue to host major-league teams. Typical total construction costs for venues that opened during the first-half of the 20th century ranged from $15 million to $70 million. Financing switched from being fully private to almost entirely public in the 1930s.  
+Professional sports venues were entirely private ventures in the early 1900s, when MLB teams constructed their first modern concrete and steel stadiums. These initial venues were improvements over the impermanent wooden structures they replaced, which were prone to fire, but they remained simple facilities with the basic function of seating spectators. The durable nature of reinforced concrete allowed the early ballparks to last 60 years or longer---inaugural era ballparks Fenway Park (Boston) and Wrigley Field (Chicago) continue to host major-league teams. Typical total construction costs for venues that opened during the first half of the 20th century ranged from $15 million to $70 million. Financing switched from being fully private to almost entirely public in the 1930s.  
 
-In the 1960s, teams began replacing inaugural era venues with municipally owned multi-sport stadiums that could host baseball and football (as well as arenas that could host basketball and hockey). These superstadiums were not only larger than their predecessors, but they included improved designs with more restrooms, concessions, and parking. They operated with a revenue model of attracting more fans through the turnstiles. Typical construction costs for superstadium era venues that opened in the ine 1960s thorough the 1980s were more expensive than the facilities they replaced, typically costing between $100 million and $300 million, with the vast majority of the cost covered by taxpayers. 
+In the 1960s, teams began replacing inaugural era venues with municipally owned multi-sport stadiums that could host baseball and football (as well as arenas that could host basketball and hockey). These superstadiums were not only larger than their predecessors, but they included improved designs with more restrooms, concessions, and parking. They operated with a revenue model of attracting more fans through the turnstiles. Typical construction costs for superstadium era venues that opened in the 1960s thorough the 1980s were more expensive than the facilities they replaced, typically costing between $100 million and $300 million, with the vast majority of the cost covered by taxpayers. 
 
-The lifespans of mid-century venues would be closer to 30 years. In the 1990s, teams began building sport-specific facilities, with retro/classic designs  that mimicked designs of inaugural area architecture. Replacing multi-sport venues two at a time resulted in a stadium mania construction wave that peeked around 2000. Facilities became smaller and generated greater revenue from luxury amenities like private suites, club seats, and non-sports entertainment. Construction costs jumped again,  with median construction costs continuously increasing from $358 million in the 1990s, to $580 million in 2000s, and $864 million in the 2010s. Though the public share declined, median public contributions grew from $205 million in the 1990s to $605 million in the 2010s. 
+The lifespans of mid-century venues would be closer to 30 years. In the 1990s, teams began building sport-specific facilities, with retro/classic designs  that mimicked designs of inaugural-era architecture. Replacing multi-sport venues two at a time resulted in a stadium mania construction wave that peaked around 2000. Facilities became smaller and generated greater revenue from luxury amenities like private suites, club seats, and non-sports entertainment. Construction costs jumped again,  with median construction costs continuously increasing from $358 million in the 1990s, to $580 million in the 2000s, and $864 million in the 2010s. Though the public share declined, median public contributions grew from $205 million in the 1990s to $605 million in the 2010s. 
 
 Though I described the progression of venue construction costs generally below, the following figure provides a more detailed graphical summary by decade and venue type. 
 
@@ -84,7 +84,7 @@ Though I described the progression of venue construction costs generally below, 
 
 ## Which U.S. sports venues cost the most?
 
-
+The tables below rank the costs of stadiums (typically more expensive ) and arenas, and they include both completed and approved future venues. See [Appendix A](https://academic.oup.com/book/62944/chapter-abstract/564467903?redirectedFrom=fulltext) in [*This One Will Be Different*](/towbd/) for a complete list of construction costs for all US major-league sports venues.
 
 ### Top-10 Most Expensive Stadiums (MLB and NFL)
 
@@ -124,9 +124,10 @@ Though I described the progression of venue construction costs generally below, 
 <strong>Notes:</strong> Costs for open venues are in millions of 2024 dollars. Future venue costs are announced values.
 </p>
 
-See [Appenix A](https://academic.oup.com/book/62944/chapter-abstract/564467903?redirectedFrom=fulltext) in [*This One Will Be Different*](/towbd/) for a complete list of construction costs for all US major-league sports venues.
 
 ## Which sports venues received the largest public subsidies?
+
+The tables below rank the costs of stadiums (typically more expensive ) and arenas, and they include both completed and approved future venues. See [Appendix A](https://academic.oup.com/book/62944/chapter-abstract/564467903?redirectedFrom=fulltext) in [*This One Will Be Different*](/towbd/) for a complete list of construction costs for all US major-league sports venues.
 
 ### Top-10 Largest Stadium Subsidies (MLB and NFL)
 
@@ -166,11 +167,11 @@ See [Appenix A](https://academic.oup.com/book/62944/chapter-abstract/564467903?r
 <strong>Notes:</strong> Costs for open venues are in millions of 2024 dollars. Future venue costs are announced values.
 </p>
 
-See [Appenix A](https://academic.oup.com/book/62944/chapter-abstract/564467903?redirectedFrom=fulltext) in [*This One Will Be Different*](/towbd/) for a complete list of construction costs for all US major-league sports venues.
+
 
 ## How are stadium costs measured?
 
-[Appenix A](https://academic.oup.com/book/62944/chapter-abstract/564467903?redirectedFrom=fulltext) in [*This One Will Be Different*](/towbd/) provides a full description of included costs.
+[Appendix A](https://academic.oup.com/book/62944/chapter-abstract/564467903?redirectedFrom=fulltext) in [*This One Will Be Different*](/towbd/) provides a full description of included costs.
 
 The costs reported here reflect publicly reported capital costs on building, land, and infrastructure for constructing new sports stadiums and arenas that served as the primary regular long-term hosting venue for a major-league team. The costs do not include maintenance and operations expenditures and may not account for additional in-kind donations of public land or accommodating infrastructure, because they are not reported.
 
@@ -181,7 +182,7 @@ Data on stadium construction and funding were compiled from several sources. [Pu
 
 The costs reported here do not include additional government direct and in-kind subsidies that public stadiums often receive, but these very real costs are often not publicly recorded in a consistent manner so that they can be reliably tracked over time. Supplementary contributions include area infrastructure improvements, capital maintenance and upgrades, ongoing operations, and tax abatements and exemptions.   Urban planning scholar Judith Grant Long (see [here](https://doi.org/10.4324/9780203077276) and [here](https://doi.org/10.1177/1527002504264614)) has estimated that these added expenses can increase the taxpayer burden beyond the officially budgeted costs by between 25 and 40%.
 
-Public policy researcher [Goeffrey Propheter](https://link.springer.com/book/10.1007/978-3-031-18790-2) estimated that the tax benefits from government ownership of stadiums  translates to an additional $22 billion in foregone local government revenue through the lives of current venue leases---approximately $7.5 million per year, with 40% of the diversion in funds coming from K–12 education and 19% from public safety.
+Public policy researcher [Geoffrey Propheter](https://link.springer.com/book/10.1007/978-3-031-18790-2) estimated that the tax benefits from government ownership of stadiums  translate to an additional $22 billion in foregone local government revenue through the lives of current venue leases---approximately $7.5 million per year, with 40% of the diversion in funds coming from K–12 education and 19% from public safety.
 
 Stadiums financed through municipal bonds are sometimes eligible for a federal tax exemption, which economists [Austin Drukker, Ted Gayer, and Alexander Gold](https://doi.org/10.17310/ntj.2020.1.05) estimate to have cost $5.4 billion in tax revenue between 2000 and 2020. 
 
@@ -200,7 +201,7 @@ Overall, venue renovations are cheaper than replacement, but they are still cost
 
 ## How much do minor-league baseball stadiums cost?
 
-Minor-league ballparks are cheaper than their major-league counterparts, but their construction costs are similarly increasing. For teams that hosted MLB-affiliated minor-league franchises 2025 the median cost for facilities the 2020s was $59 million, which is nearly three times as costly venues build in the 1990s, when minor-league baseball experienced a corresponding stadium boom.  These minor-league facilities also receive relatively more public support, with the median public share of 78%
+Minor-league ballparks are cheaper than their major-league counterparts, but their construction costs are similarly increasing. Among facilities hosting MLB-affiliated minor-league teams in 2025, the median construction cost for ballparks built in the 2020s was $59 million. That is nearly three times the median cost of ballparks built in the 1990s, when minor-league baseball experienced its own stadium-construction boom. These facilities also receive substantial public support, with a median public share of 78%.
 
 <figure style="text-align: center;">
   <img src="/images/Fig19.3.png"
@@ -208,7 +209,7 @@ Minor-league ballparks are cheaper than their major-league counterparts, but the
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
-Minor-league stadiums also regularly receive renovations, which are often heavily subsidized. The cumulative construction and renovation costs of the 132 minor-league facilities amounts to $8.7 billion, and $6.8 billion was covered by taxpayers. 
+Minor-league stadiums also regularly receive renovations, which are often heavily subsidized. The cumulative construction and renovation costs of the 132 minor-league facilities amount to $8.7 billion, and $6.8 billion was covered by taxpayers. 
 
 <figure style="text-align: center;">
   <img src="/images/Fig19.2.png"
