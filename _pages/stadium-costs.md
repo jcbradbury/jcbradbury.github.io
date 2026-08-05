@@ -143,6 +143,18 @@ Though I described the progression of venue construction costs generally below, 
 
 ### Top-10 Largest Arena Subsidies (NBA and NHL)
 
+|	Rank	|	Venue	|	Year Open	|	Teams	|	Total Cost	|	Public Cost	|	Public Share	|
+|	:---	|	:---	|	:---:	|	:---	|	---:	|	---:	|	---:	|
+|	1	|	New Thunder Arena	|	2029	|	Oklahoma City Thunder	|	900	|	850	|	94%	|
+|	2	|	New Spurs Arena	|	2032	|	San Antonio Spurs	|	1,300	|	800	|	62%	|
+|	3	|	Barclays Center	|	2012	|	Brooklyn Nets & New York Islanders	|	1,370	|	722	|	53%	|
+|	4	|	Kia Center	|	2010	|	Orlando Magic	|	547	|	475	|	87%	|
+|	5	|	PPG Paints Arena	|	2010	|	Pittsburgh Penguins	|	462	|	442	|	96%	|
+|	6	|	Little Caesars Arena	|	2017	|	Detroit Pistons & Red Wings	|	1,105	|	415	|	38%	|
+|	7	|	FedEx Forum	|	2004	|	Memphis Grizzlies	|	415	|	344	|	83%	|
+|	8	|	Northlands Coliseum	|	1974	|	Edmonton Oilers	|	343	|	343	|	100%	|
+|	9	|	Rogers Place	|	2016	|	Edmonton Oilers	|	469	|	341	|	73%	|
+|	10	|	Gainbridge Fieldhouse	|	1999	|	Indiana Pacers	|	335	|	335	|	100%	|
 
 
 ## How are stadium costs measured?
