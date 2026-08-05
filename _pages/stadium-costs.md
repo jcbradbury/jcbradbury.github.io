@@ -177,9 +177,17 @@ The costs reported here reflect publicly reported capital costs on building, lan
 Data on stadium construction and funding were compiled from several sources. [Public-Private Partnerships for Major League Sports Facilities](https://doi.org/10.4324/9780203077276)  (Table 2.1) by Judith Grant Long is the source for much of the data through 2010, which provides a consistent source of valuation over the sample that has been closely vetted by an expert for consistency. I collected post-2010 and a few other missing observations from various media sources. Publicly reported costs often differ across sources, and reporting standards are not identical over time or across publications; therefore, the cost estimates are based on accounts that I determined to be the most credible. Keep in mind that the presented data represent ballpark figures---literally and figuratively---but they are sufficiently reliable to reflect general trends in venue construction, duration, and costs.
 
 
-
-
 ## What costs are commonly omitted from stadium subsidy estimates?
+
+The costs reported here do not include additional government direct and in-kind subsidies that public stadiums often receive, but these very real costs are often not publicly recorded in a consistent manner so that they can be reliably tracked over time. Supplementary contributions include area infrastructure improvements, capital maintenance and upgrades, ongoing operations, and tax abatements and exemptions.   Urban planning scholar Judith Grant Long (see [here](https://doi.org/10.4324/9780203077276) and [here](https://doi.org/10.1177/1527002504264614)) has estimated that these added expenses can increase the taxpayer burden beyond the officially budgeted costs by between 25 and 40%.
+
+Public policy researcher [Goeffrey Propheter](https://link.springer.com/book/10.1007/978-3-031-18790-2) estimated that the tax benefits from government ownership of stadiums  translates to an additional $22 billion in foregone local government revenue through the lives of current venue leases---approximately $7.5 million per year, with 40% of the diversion in funds coming from K–12 education and 19% from public safety.
+
+Stadiums financed through municipal bonds are sometimes eligible for a federal tax exemption, which economists [Austin Drukker, Ted Gayer, and Alexander Gold](https://doi.org/10.17310/ntj.2020.1.05) estimate to have cost $5.4 billion in tax revenue. 
+
+(Note: Dollar values in this section converted to 2024 dollars.)
+
+
 
 ## How costly are venue renovations?
 
