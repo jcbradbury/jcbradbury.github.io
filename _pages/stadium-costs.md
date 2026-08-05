@@ -86,7 +86,7 @@ Though I described the progression of venue construction costs generally below, 
 
 The tables below rank the costs of stadiums (typically more expensive ) and arenas, and they include both completed and approved future venues. See [Appendix A](https://academic.oup.com/book/62944/chapter-abstract/564467903?redirectedFrom=fulltext) in [*This One Will Be Different*](/towbd/) for a complete list of construction costs for all US major-league sports venues.
 
-### Top-10 Most Expensive Stadiums (MLB and NFL)
+### Top 10 Most Expensive Stadiums (MLB and NFL)
 
 |		|	Venue	|	Year Open	|	Teams	|	Total Cost	|	Public Cost	|
 |	:---	|	:---	|	:---:	|	:---	|	---:	|	---:	|
@@ -105,7 +105,7 @@ The tables below rank the costs of stadiums (typically more expensive ) and aren
 <strong>Notes:</strong> Costs for open venues are in millions of 2024 dollars. Future venue costs are announced values.
 </p>
 
-### Top-10 Most Expensive Arenas (NBA and NHL)
+### Top 10 Most Expensive Arenas (NBA and NHL)
 
 |	Rank	|	Venue	|	Year Open	|	Teams	|	Total Cost	|	Public Cost	|
 |	:---	|	:---	|	:---:	|	:---	|	---:	|	---:	|
@@ -128,7 +128,7 @@ The tables below rank the costs of stadiums (typically more expensive ) and aren
 ## Which sports venues received the largest public subsidies?
 
 
-### Top-10 Largest Stadium Subsidies (MLB and NFL)
+### Top 10 Largest Stadium Subsidies (MLB and NFL)
 
 |	Rank	|	Venue	|	Year Open	|	Teams	|	Total Cost	|	Public Cost	|	Public Share	|
 |	:---	|	:---	|	:---:	|	:---	|	---:	|	---:	|	---:	|
@@ -147,7 +147,7 @@ The tables below rank the costs of stadiums (typically more expensive ) and aren
 <strong>Notes:</strong> Costs for open venues are in millions of 2024 dollars. Future venue costs are announced values.
 </p>
 
-### Top-10 Largest Arena Subsidies (NBA and NHL)
+### Top 10 Largest Arena Subsidies (NBA and NHL)
 
 |	Rank	|	Venue	|	Year Open	|	Teams	|	Total Cost	|	Public Cost	|	Public Share	|
 |	:---	|	:---	|	:---:	|	:---	|	---:	|	---:	|	---:	|
@@ -173,7 +173,7 @@ The tables below rank the costs of stadiums (typically more expensive ) and aren
 
 The costs reported here reflect publicly reported capital costs on building, land, and infrastructure for constructing new sports stadiums and arenas that served as the primary regular long-term hosting venue for a major-league team. The costs do not include maintenance and operations expenditures and may not account for additional in-kind donations of public land or accommodating infrastructure, because they are not reported.
 
-Data on stadium construction and funding were compiled from several sources. [Public-Private Partnerships for Major League Sports Facilities](https://doi.org/10.4324/9780203077276)  (Table 2.1) by Judith Grant Long is the source for much of the data through 2010, which provides a consistent source of valuation over the sample that has been closely vetted by an expert for consistency. I collected post-2010 and a few other missing observations from various media sources. Publicly reported costs often differ across sources, and reporting standards are not identical over time or across publications; therefore, the cost estimates are based on accounts that I determined to be the most credible. Keep in mind that the presented data represent ballpark figures---literally and figuratively---but they are sufficiently reliable to reflect general trends in venue construction, duration, and costs.
+Data on stadium construction and funding were compiled from several sources. Judith Grant Long's [*Public-Private Partnerships for Major League Sports Facilities*](https://doi.org/10.4324/9780203077276)  (Table 2.1)  is the source for much of the cost data through 2010. Its consistent valuation framework and expert review make it a particularly useful source for historical comparisons. I collected post-2010 and a few other missing observations from various media sources. Publicly reported costs often differ across sources, and reporting standards are not identical over time or across publications; therefore, the cost estimates are based on accounts that I determined to be the most credible. Keep in mind that the presented data represent ballpark figures---literally and figuratively---but they are sufficiently reliable to reflect general trends in venue construction, financing, and costs.
 
 [Appendix A](https://academic.oup.com/book/62944/chapter-abstract/564467903?redirectedFrom=fulltext) in [*This One Will Be Different*](/towbd/) provides a full description of included costs, as well as collection methods and sources. 
 
@@ -193,7 +193,7 @@ Stadiums financed through municipal bonds are sometimes eligible for a federal t
 
 It is common for venues to undergo extensive renovations to extend their hosting lives, and upgrades of public facilities are frequently accompanied by lease extensions of approximately 15 years. Capital improvements often include reconfiguring large sections of seats, remodeling entertainment spaces like luxury suites and private clubs, redesigning or replacing the building facade, and upgrading concession spaces.
 
-From 1995 through 2024, 41 major-league venues (18 arenas and 23 stadiums) received major renovations, ranging from $58 million to $1.35 billion, with the median cost of $185 million. Twenty-three venues (12 arenas and 11 stadiums) have planned future renovations from 2025 and beyond ranging from $150 million to $1.4 billion, with an average public cost of $330 million, with the middle-50% range of $134 million to $725 million (note: future renovations in announced dollar values).
+From 1995 through 2024, 41 major-league venues (18 arenas and 23 stadiums) received major renovations, ranging from $58 million to $1.35 billion, with the median cost of $185 million. Twenty-three venues (12 arenas and 11 stadiums) have planned future renovations from 2025 and beyond ranging from $150 million to $1.4 billion, with an average public cost of $330 million and a middle-50% range of $134 million to $725 million (note: future renovations in announced dollar values). 
 
 Overall, venue renovations are cheaper than replacement, but they are still costly. In some cases, renovation subsidies approach average public contributions for new facilities. 
 
