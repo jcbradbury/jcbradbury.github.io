@@ -127,7 +127,6 @@ The tables below rank the costs of stadiums (typically more expensive ) and aren
 
 ## Which sports venues received the largest public subsidies?
 
-The tables below rank the costs of stadiums (typically more expensive ) and arenas, and they include both completed and approved future venues. See [Appendix A](https://academic.oup.com/book/62944/chapter-abstract/564467903?redirectedFrom=fulltext) in [*This One Will Be Different*](/towbd/) for a complete list of construction costs for all US major-league sports venues.
 
 ### Top-10 Largest Stadium Subsidies (MLB and NFL)
 
