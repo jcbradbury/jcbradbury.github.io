@@ -132,16 +132,16 @@ The tables below rank the costs of stadiums (typically more expensive ) and aren
 
 |	Rank	|	Venue	|	Year Open	|	Teams	|	Total Cost	|	Public Cost	|	Public Share	|
 |	:---	|	:---	|	:---:	|	:---	|	---:	|	---:	|	---:	|
-|	1	|	New Chiefs Stadium	|	2031	|	Kansas City Chiefs	|	3,000	|	1,800	|	60%	|
-|	2	|	Olympic Stadium	|	1976	|	Montreal Expos	|	2,970	|	1,488	|	50%	|
-|	3	|	New Nissan Stadium	|	2027	|	Tennessee Titans	|	2,200	|	1,260	|	57%	|
-|	4	|	Caesars Superdome	|	1975	|	New Orleans Saints	|	950	|	950	|	100%	|
-|	5	|	New Commanders Stadium	|	2030	|	Washington Commanders	|	2,700	|	930	|	34%	|
-|	6	|	Allegiant Stadium	|	2020	|	Las Vegas Raiders	|	2,384	|	908	|	38%	|
-|	7	|	Lucas Oil Stadium	|	2008	|	Indianapolis Colts	|	1,051	|	905	|	86%	|
-|	8	|	New Browns Stadium	|	2029	|	Cleveland Browns	|	2,400	|	900	|	38%	|
-|	9	|	Mercedes-Benz Stadium	|	2017	|	Atlanta Falcons	|	2,048	|	896	|	44%	|
-|	10	|	New Highmark Stadium	|	2026	|	Buffalo Bills	|	2,200	|	850	|	39%	|
+|	1	|	New Chiefs Stadium	|	2031	|	Kansas City Chiefs	|	$3,000	|	$1,800	|	60%	|
+|	2	|	Olympic Stadium	|	1976	|	Montreal Expos	|	$2,970	|	$1,488	|	50%	|
+|	3	|	New Nissan Stadium	|	2027	|	Tennessee Titans	|	$2,200	|	$1,260	|	57%	|
+|	4	|	Caesars Superdome	|	1975	|	New Orleans Saints	|	$950	|	$950	|	100%	|
+|	5	|	New Commanders Stadium	|	2030	|	Washington Commanders	|	$2,700	|	$930	|	34%	|
+|	6	|	Allegiant Stadium	|	2020	|	Las Vegas Raiders	|	$2,384	|	$908	|	38%	|
+|	7	|	Lucas Oil Stadium	|	2008	|	Indianapolis Colts	|	$1,051	|	$905	|	86%	|
+|	8	|	New Browns Stadium	|	2029	|	Cleveland Browns	|	$2,400	|	$900	|	38%	|
+|	9	|	Mercedes-Benz Stadium	|	2017	|	Atlanta Falcons	|	$2,048	|	$896	|	44%	|
+|	10	|	New Highmark Stadium	|	2026	|	Buffalo Bills	|	$2,200	|	$850	|	39%	|
 
 <p style="font-size: 0.75em; margin-top: 0.4em;">
 <strong>Notes:</strong> Costs for open venues are in millions of 2024 dollars. Future venue costs are announced values.
@@ -151,16 +151,17 @@ The tables below rank the costs of stadiums (typically more expensive ) and aren
 
 |	Rank	|	Venue	|	Year Open	|	Teams	|	Total Cost	|	Public Cost	|	Public Share	|
 |	:---	|	:---	|	:---:	|	:---	|	---:	|	---:	|	---:	|
-|	1	|	New Thunder Arena	|	2029	|	Oklahoma City Thunder	|	900	|	850	|	94%	|
-|	2	|	New Spurs Arena	|	2032	|	San Antonio Spurs	|	1,300	|	800	|	62%	|
-|	3	|	Barclays Center	|	2012	|	Brooklyn Nets & New York Islanders	|	1,370	|	722	|	53%	|
-|	4	|	Kia Center	|	2010	|	Orlando Magic	|	547	|	475	|	87%	|
-|	5	|	PPG Paints Arena	|	2010	|	Pittsburgh Penguins	|	462	|	442	|	96%	|
-|	6	|	Little Caesars Arena	|	2017	|	Detroit Pistons & Red Wings	|	1,105	|	415	|	38%	|
-|	7	|	FedEx Forum	|	2004	|	Memphis Grizzlies	|	415	|	344	|	83%	|
-|	8	|	Northlands Coliseum	|	1974	|	Edmonton Oilers	|	343	|	343	|	100%	|
-|	9	|	Rogers Place	|	2016	|	Edmonton Oilers	|	469	|	341	|	73%	|
-|	10	|	Gainbridge Fieldhouse	|	1999	|	Indiana Pacers	|	335	|	335	|	100%	|
+|	1	|	New Thunder Arena	|	2029	|	Oklahoma City Thunder	|	$900	|	$850	|	94%	|
+|	2	|	New Spurs Arena	|	2032	|	San Antonio Spurs	|	$1,300	|	$800	|	62%	|
+|	3	|	Barclays Center	|	2012	|	Brooklyn Nets & New York Islanders	|	$1,370	|	$722	|	53%	|
+|	4	|	Kia Center	|	2010	|	Orlando Magic	|	$547	|	$475	|	87%	|
+|	5	|	PPG Paints Arena	|	2010	|	Pittsburgh Penguins	|	$462	|	$442	|	96%	|
+|	6	|	Little Caesars Arena	|	2017	|	Detroit Pistons & Red Wings	|	$1,105	|	$415	|	38%	|
+|	7	|	FedEx Forum	|	2004	|	Memphis Grizzlies	|	$415	|	$344	|	83%	|
+|	8	|	Northlands Coliseum	|	1974	|	Edmonton Oilers	|	$343	|	$343	|	100%	|
+|	9	|	Rogers Place	|	2016	|	Edmonton Oilers	|	$469	|	$341	|	73%	|
+|	10	|	Gainbridge Fieldhouse	|	1999	|	Indiana Pacers	|	$335	|	$335	|	100%	|
+
 
 <p style="font-size: 0.75em; margin-top: 0.4em;">
 <strong>Notes:</strong> Costs for open venues are in millions of 2024 dollars. Future venue costs are announced values.
