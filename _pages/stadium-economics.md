@@ -71,10 +71,12 @@ Stadium financing involves economic and public-policy issues that can be difficu
 ### The Economics of Publicly Funded Stadiums
 - [America's Addiction to Stadium Subsidies](https://youtube.com/shorts/0V_HpyQxZIU)
 - [Why Stadiums Aren't Economic Catalysts](https://youtube.com/shorts/SIsK1wDDHyA)
+
 <!--
 - Why do we keep subsidizing stadiums? (to come)
 - Improving public policy toward stadiums (to come)
 -->
+
 ### Stadium Case Studies
 - [Is the Moda Center Renovation a Good Public Investment?](https://youtube.com/shorts/8NoYN5d_PNE)
 - [Chicago Fire's "Privately Financed" Stadium](https://youtube.com/shorts/RxOrCmAW8pY)
