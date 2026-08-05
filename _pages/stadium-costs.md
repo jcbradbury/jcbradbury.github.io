@@ -20,15 +20,18 @@ sitemap: false
  **By [J.C. Bradbury](/)** 
 
 ## How much do U.S. sports stadiums cost? 
-League	|	Venues	|	Total Cost	|	Public Cost	|	Public Share	|
----	|	---	|	---	|	---	|	---	|
-NFL	|	30	|	$614	|	$377	|	68%	|
-MLB	|	29	|	$569	|	$361	|	70%	|
-NBA/NHL	|	11	|	$390	|	$0	|	0%	|
-NBA	|	19	|	$341	|	$263	|	74%	|
-NHL	|	20	|	$306	|	$182	|	64%	|
-MLS	|	23	|	$278	|	$68	|	41%	|
-Total	|	132	|	$393	|	$227	|	58%	|
+The median total construction costs for sports venues that host the 5 US-based major professional sports leagues is $393 million.
+
+|	League	|	Venues	|	Total Cost	|	Public Cost	|	Public Share	|
+|	---	|	---	|	---	|	---	|	---	|
+|	NFL	|	30	|	$614	|	$377	|	68%	|
+|	MLB	|	29	|	$569	|	$361	|	70%	|
+|	NBA/NHL	|	11	|	$390	|	$0	|	0%	|
+|	NBA	|	19	|	$341	|	$263	|	74%	|
+|	NHL	|	20	|	$306	|	$182	|	64%	|
+|	MLS	|	23	|	$278	|	$68	|	41%	|
+|	Total	|	132	|	$393	|	$227	|	58%	|
+
 
 
 ## How much have taxpayers spent on sports stadiums?
