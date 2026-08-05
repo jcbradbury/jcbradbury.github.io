@@ -198,7 +198,26 @@ Overall, venue renovations are cheaper than replacement, but they are still cost
 
  
 
-## How much do minor league baseball stadiums cost?
+## How much do minor-league baseball stadiums cost?
+
+Minor-league ballparks are cheaper than their major-league counterparts, but their construction costs are similarly increasing. For teams that hosted MLB-affiliated minor-league franchises 2025 the median cost for facilities the 2020s was $59 million, which is nearly three times as costly venues build in the 1990s, when minor-league baseball experienced a corresponding stadium boom.  These minor-league facilities also receive relatively more public support, with the median public share of 78%
+
+<figure style="text-align: center;">
+  <img src="/images/Fig19.3.png"
+       alt=""
+       style="max-width: 850px; width: 100%; height: auto;">
+</figure>
+
+Minor-league stadiums also regularly receive renovations, which are often heavily subsidized. The cumulative construction and renovation costs of the 132 minor-league facilities amounts to $8.7 billion, and $6.8 billion was covered by taxpayers. 
+
+<figure style="text-align: center;">
+  <img src="/images/Fig19.2.png"
+       alt=""
+       style="max-width: 850px; width: 100%; height: auto;">
+</figure>
+
+
+See my paper [The Public Cost of Minor League Baseball Stadium Subsidies](https://doi.org/10.1111/ecin.70055) for more details on minor-league baseball stadiums.
 
 
 
