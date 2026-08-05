@@ -88,7 +88,7 @@ The tables below rank the costs of stadiums (typically more expensive ) and aren
 
 ### Top 10 Most Expensive Stadiums (MLB and NFL)
 
-|		|	Venue	|	Year Open	|	Teams	|	Total Cost	|	Public Cost	|
+|		|	Venue	|	Year<br>Open	|	Teams	|	Total <br> Cost	|	Public <br> Cost	|
 |	:---	|	:---	|	:---:	|	:---	|	---:	|	---:	|
 |	1	|	SoFi Stadium	|	2020	|	Los Angeles Chargers & Rams	|	$6,655	|	$0	|
 |	2	|	New Chiefs Stadium	|	2031	|	Kansas City Chiefs	|	$3,000	|	$1,800	|
