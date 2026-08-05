@@ -29,18 +29,18 @@ Median total construction costs vary by league, ranging from $614 million for NF
 |	League	|	Venues	|	Total Cost	|	Public Cost	|	Public Share	|
 |	---	|	---	|	---	|	---	|	---	|
 |	NFL	|	30	|	$614	|	$377	|	68%	|
-|	MLB*	|	29	|	$569	|	$361	|	70%	|
+|	MLB<sup>*</sup>	|	29	|	$569	|	$361	|	70%	|
 |	NBA/NHL	|	11	|	$390	|	$0	|	0%	|
 |	NBA	|	19	|	$341	|	$263	|	74%	|
-|	NHL^	|	20	|	$306	|	$182	|	64%	|
-|	MLS~	|	23	|	$278	|	$68	|	41%	|
+|	NHL<sup>†</sup>	|	20	|	$306	|	$182	|	64%	|
+|	MLS<sup>‡</sup>	|	23	|	$278	|	$68	|	41%	|
 |	All	|	132	|	$393	|	$227	|	58%	|  
 
 <p style="font-size: 0.75em; margin-top: 0.4em;">
 <strong>Notes:</strong> Costs are in millions of 2024 dollars. 
-* Excludes the Sacramento A's temporary facility. 
-^ Excludes the Seattle Kraken's heavily renovated arena. 
-~ Excludes facilities shared with MLB or NFL teams and Inter Miami's temporary facility.
+<sup>*</sup> Excludes the Sacramento A's temporary facility. 
+<sup>†</sup>Excludes the Seattle Kraken's heavily renovated arena. 
+<sup>‡</sup>Excludes facilities shared with MLB or NFL teams and Inter Miami's temporary facility.
 </p>
 
 The figure below shows the middle range of total and public venue construction costs by league, from highest to lowest.
