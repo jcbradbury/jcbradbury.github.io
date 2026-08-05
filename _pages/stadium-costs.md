@@ -30,7 +30,7 @@ The median total construction costs for the 132 sports venues that hosted the 5 
 |	NBA	|	19	|	$341	|	$263	|	74%	|
 |	NHL^	|	20	|	$306	|	$182	|	64%	|
 |	MLS~	|	23	|	$278	|	$68	|	41%	|
-|	Total	|	132	|	$393	|	$227	|	58%	|
+|	Total	|	132	|	$393	|	$227	|	58%	|  
 In millions of 2024 dollars. *Excludes Sacramento A's. ^Excludes Seattle Kraken. ~Excludes stadiums shared with MLB, NFL, and Inter Miami.
 
 
