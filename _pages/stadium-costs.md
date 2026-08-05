@@ -97,7 +97,9 @@ Though I described the progression of venue construction costs generally below, 
 |	9	|	New Nissan Stadium	|	2027	|	Tennessee Titans	|	$2,200	|	$1,260	|
 |	10	|	Mercedes-Benz Stadium	|	2017	|	Atlanta Falcons	|	$2,048	|	$896	|
 
-
+<p style="font-size: 0.75em; margin-top: 0.4em;">
+<strong>Notes:</strong> Costs for open venues are in millions of 2024 dollars. Future venue costs are announced values.
+</p>
 
 ## Which stadiums received the largest public subsidies?
 
