@@ -68,6 +68,8 @@ Since governments began contributing public funds to professional sports venues 
 
 ## How have stadium construction costs changed over time?
 
+Professional sports venues were entirely private ventures at the beginning of the 20th century, when MLB teams constructed their first modern concrete and steel stadiums. These initial venues were improvements over the impermanent wooden structures they replaced, which were prone to fire, but they were very basic facilities for seating spectators. The durable nature of reinforced concrete allowed the early ballparks to last 60 years or longer---inaugural era ballparks Fenway Park (Boston) and Wrigley Field (Chicago) continue to host major-league teams.
+
 ## Which U.S. stadiums cost the most?
 
 ## Which stadiums received the largest public subsidies?
