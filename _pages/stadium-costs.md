@@ -204,7 +204,7 @@ Minor-league ballparks are cheaper than their major-league counterparts, but the
 
 <figure style="text-align: center;">
   <img src="/images/Fig19.3.png"
-       alt=""
+       alt="Connected box and whisker plot showing the distribution of total and public construction costs for new minor-league ballparks by decade, in millions of 2024 dollars. Median total costs rise from $26 million in the 1990s to $49 million in the 2000s, $64 million in the 2010s, and $59 million in the 2020s. Median public costs increase from $21 million to $40 million, $49 million, and $56 million, respectively. The middle 50% of costs also widens over time, especially in the 2010s and 2020s."
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
@@ -212,7 +212,7 @@ Minor-league stadiums also regularly receive renovations, which are often heavil
 
 <figure style="text-align: center;">
   <img src="/images/Fig19.2.png"
-       alt=""
+       alt="Stacked area chart showing cumulative construction costs for minor-league ballparks from 1985 through 2025, in billions of 2024 dollars. Total costs rise from about $0.9 billion by 1990 to $3.4 billion by 2000, $5.8 billion by 2010, $7.9 billion by 2020, and $8.7 billion by 2025. Public costs account for most of the total, increasing from about $0.8 billion in 1990 to $2.7 billion in 2000, $4.7 billion in 2010, $6.4 billion in 2020, and $6.8 billion in 2025."
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
