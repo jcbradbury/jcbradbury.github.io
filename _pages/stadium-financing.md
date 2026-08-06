@@ -31,25 +31,27 @@ Though the public share has been decreasing since the 1980s, the total public co
 
 Because of the split funding burden, stadium projects are often referred to as "public-private partnerships." Though it may seem to be an appropriate description of the relationship due to the shared nature of the project, the moniker is misleading. *Business* partnerships typically involve investments from multiple private partners whose expected future revenue returns are commensurate with the size of each party's financial stake in the project. For example, an investor who covers 30% of the cost of the project expects to receive 30% of the future profits. Stadium partnerships normally involve a public funding contribution, while the private team partner receives 100% of the revenue.  
 
+## How are municipal bonds used to finance stadiums?
+
+## What taxes are used to pay for sports stadiums?
+[General introduction.]
+
 ### How are property taxes used to finance stadiums?
 
 [Add explanation.]
 
-## How are municipal bonds used to finance stadiums?
-
-## What taxes are used to pay for sports stadiums?
-
-[General introduction.]
 
 ### How are sales taxes used to finance stadiums?
 
 [Add explanation.]
 
-### How are hotel taxes used to finance stadiums?
+### How are visitor taxes used to finance stadiums?
+
+#### How are hotel taxes used to finance stadiums?
 
 [Add explanation.]
 
-### How are rental-car taxes used to finance stadiums?
+#### How are rental-car taxes used to finance stadiums?
 
 [Add explanation.]
 
@@ -62,8 +64,7 @@ Because of the split funding burden, stadium projects are often referred to as "
 [Add explanation.]
 
 
-
-## How do tax-increment financing and special tax districts pay for stadiums?
+### How do tax-increment financing and special tax districts pay for stadiums?
 
 ## What tax breaks do stadiums and teams receive?
 
@@ -82,6 +83,9 @@ Because of the split funding burden, stadium projects are often referred to as "
 ## What happens if stadium tax revenue falls short?
 
 [Discuss guarantees, reserve funds, general-fund support, and refinancing.]
+
+## What is fiscal illusion, and how does it influence public stadium financing?
+
 
 ## About the author
 
