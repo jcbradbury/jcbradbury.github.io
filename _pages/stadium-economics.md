@@ -84,6 +84,7 @@ Stadium financing involves economic and public-policy issues that can be difficu
 
 
 ## Presentations
+ - [The Economics of Publicly Funded Stadiums](https://youtu.be/3BqOjrFFNK0?si=E1Ukdy_kY0DHJ81D),  Webinar discussion focusing on proposed Moda Center renovation in Portland, Oregon (August 5, 2026).
  - [An Economic History of Ballparks](/files/bradbury_sabr2026.pdf), presented at SABR 54 (Cleveland, July 31, 2026, presentation slides).
  - [Testimony](https://www.nashville.gov/departments/council/boards/metro-council/meetings/metropolitan-council-east-bank-stadium-committee-meeting-november-17-2022), Nashville East Bank Stadium Committee, Nashville Metro Council (November 17, 2022).
 
