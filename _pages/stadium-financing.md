@@ -19,13 +19,17 @@ This page explains how professional sports stadiums and arenas are financed, inc
 
 ## Who pays for professional sports stadiums?
 
-Professional sports venues have been financed in may ways over time. At the beginning of the 20th century, stadiums were entirely privately projects, paid for by team owners. Stadiums become mostly public projects from the 1930s through the 1970s. Since that time, sports venues have largely been public projects with varying levels of private contributions. Though the public share has been decreasing since the 1980s, the total public contribution has been increasing---the latter amount is what is most important for evaluating policy, because it represent an increase in devoting public resources to venue projects.  
+Professional sports venues have been financed in may ways over time. At the beginning of the 20th century, stadiums were entirely privately projects, paid for by team owners. Stadiums become mostly public projects from the 1930s through the 1970s. Since that time, sports venues have largely been public projects with varying levels of private contributions. 
 
 <figure style="text-align: center;">
   <img src="/images/Fig5.3.png"
        alt="ar-and-line chart showing median major-league arena and stadium construction costs by decade from 1900 through the 2020s, in millions of 2024 dollars, along with the median public share. Construction costs rise sharply over time, especially after 1990. Stadium costs exceed $2 billion in the 2020s, while the median public share declines from about 100% in the early and mid-20th century to 38% in the 2020s."
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
+
+Though the public share has been decreasing since the 1980s, the total public contribution has been increasing---the latter amount is what is most important for evaluating policy, because it represent an increase in devoting public resources to venue projects.  
+
+Because of the split funding burden, stadium projects are often referred to as "public-private partnerships." Though it may seem to be an appropriate description of the relationship due to the shared nature of the project, the moniker is misleading. *Business* partnerships typically involve investments from multiple private partners whose expected future revenue returns are commensurate with the size of each party's financial stake in the project. For example, an investor who covers 30% of the cost of the project expects to receive 30% of the future profits. Stadium partnerships normally involve a public funding contribution, while the private team partner receives 100% of the revenue.  
 
 ### How are property taxes used to finance stadiums?
 
