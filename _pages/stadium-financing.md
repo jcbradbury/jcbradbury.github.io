@@ -83,7 +83,7 @@ Sometimes sales taxes are assessed in special districts, or attached to specific
 The market response to a tax on a particular good or service is demonstrated using basic supply and demand analysis below. In this example, an identical fixed-dollar per unit tax (e.g., $3 per hotel room night) is assessed on either buyers or sellers. The shaded gray boxes reflect the total tax revenue collected by the government and the different shades separate the individual shares contributed by both parties.
 
 <figure style="text-align: center;">
-  <img src="/images/Tax_incidence.png"
+  <img src="/images/tax_crop.png"
        alt=""
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
