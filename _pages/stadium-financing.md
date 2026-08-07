@@ -60,12 +60,13 @@ Property tax increases often require  voter approval, and thus elected officials
 In most cases, property is taxed at a rate of an assessed value. For example, where I live in Cobb County, Georgia, the assessed residential property tax value is determined by 40% of the fair market value of the property, as estimated by county tax assessor. This means that taxable value of a $200,000 house would be $80,000 (40% x $200,000). The taxes owed are determined by a tax rate, which is often expressed as millage (per $1,000) rather than a percent (per $100). In 2025, [Cobb's total millage rate](https://www.cobbtax.gov/property/millage_rates.php) was 30.13 (18.70 mills are devoted to schools,  8.46 mills go into the county's general fund, and 2.9 mills support the county fire fund), which would result in a tax bill of $2,410 ($80,000	x 0.03013) for a $200,000 house.	
 
  
- 
-
 
 ### How are sales taxes used to finance stadiums?
 
-[Add explanation.]
+Stadiums are sometimes funded from sales taxes, which devote a share of all purchases in the community to pay for a venue project. For example, the Oklahoma City Thunder's new arena is funded by a special sales tax, which devotes a penny from every dollar spent to funding its construction and future maintenance. Like property taxes, sales taxes are transparent, and thus voters are often prone to reject them when asked to approve them at the ballot box. 
+
+Sometimes sales taxes are assessed in special districts, or attached to specific purchases (like alcohol, hotel rooms). 
+
 
 ### How are visitor taxes used to finance stadiums?
 
