@@ -22,8 +22,8 @@ This page explains how professional sports stadiums and arenas are financed, inc
 Professional sports venues have been financed in may ways over time. At the beginning of the 20th century, stadiums were entirely privately projects, paid for by team owners. Stadiums become mostly public projects from the 1930s through the 1970s. Since that time, sports venues have largely been public projects with varying levels of private contributions. 
 
 <figure style="text-align: center;">
-  <img src="/images/Fig5.3.png"
-       alt="ar-and-line chart showing median major-league arena and stadium construction costs by decade from 1900 through the 2020s, in millions of 2024 dollars, along with the median public share. Construction costs rise sharply over time, especially after 1990. Stadium costs exceed $2 billion in the 2020s, while the median public share declines from about 100% in the early and mid-20th century to 38% in the 2020s."
+  <img src="/images/med_cost_share.png"
+       alt="Bar-and-line chart showing median major-league arena and stadium construction costs by decade from 1900 through the 2020s, in millions of 2024 dollars, along with the median public share. Construction costs rise sharply over time, especially after 1990. Stadium costs exceed $2 billion in the 2020s, while the median public share declines from about 100% in the early and mid-20th century to 38% in the 2020s."
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
