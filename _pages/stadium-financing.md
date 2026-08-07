@@ -80,7 +80,23 @@ Sometimes sales taxes are assessed in special districts, or attached to specific
 
 #### Are hotel and rental-car taxes paid only by tourists?
 
-[Discuss tax incidence and alternative uses of tourism taxes.]
+The market response to a tax on a particular good or service is demonstrated using basic supply and demand analysis below. In this example, an identical fixed-dollar per unit tax (e.g., $3 per hotel room night) is assessed on either buyers or sellers. The shaded gray boxes reflect the total tax revenue collected by the government and the different shades separate the individual shares contributed by both parties.
+
+<figure style="text-align: center;">
+  <img src="/images/Tax_incidence.png"
+       alt=""
+       style="max-width: 850px; width: 100%; height: auto;">
+</figure>
+
+When buyers are responsible for paying the tax (left), it raises the price that they must pay to purchase the taxed good, which results in a reduced willingness to purchase it, effectively shifting the demand function to the left. Sellers are willing to sell fewer units due to the reduced revenue they receive from the lower after-tax price. In this case, sellers are willing to sell more units at a lower price than buyers are willing to buy at a higher price, which is reflected by the relatively steeper slope of the supply function. The end result is that sellers end up bearing a larger burden of the tax in terms of lost revenue (dark gray rectangle) than buyers experience through paying higher prices (light gray rectangle). 
+
+When sellers are responsible for paying the tax (right), they receive less revenue per unit sold, and thus they are willing to sell fewer units, effectively shifting the supply function to the left. Some buyers remain willing to pay higher prices per unit, which offsets part of the tax that sellers remit to the government; however, just like when buyers are responsible for paying the tax, sellers end up bearing the greater burden, in terms of foregone revenue paid to the government.
+
+Sellers bear a larger share of the tax burden in both cases, because sellers are less sensitive to price changes than buyers: in economic terms, sellers are more price inelastic than buyers. When buyers are less sensitive to price, they face a steeper (inelastic) demand function and bear a larger share of the tax burden. When sellers are less sensitive to price, they face a steeper (inelastic) supply function and bear a larger share of the tax burden. No matter who pays the tax, the end result is the same,  and the government collects tax revenue equal to the sum of the buyer and seller burdens (both rectangles).
+
+
+This example demonstrates an important lesson of tax incidence: the burden of paying taxes is determined by the relative price sensitivity (elasticities) of buyers and sellers, not by the party who is responsible for paying the tax.
+
 
 ### How are ticket taxes and facility fees used?
 
