@@ -65,7 +65,7 @@ In most cases, property is taxed at a rate of an assessed value. For example, wh
 
 Stadiums are sometimes funded from sales taxes, which devote a share of all purchases in the community to pay for a venue project. For example, the Oklahoma City Thunder's new arena is funded by a special sales tax, which devotes a penny from every dollar spent to funding its construction and future maintenance. Like property taxes, sales taxes are transparent, and thus voters are often prone to reject them when asked to approve them at the ballot box. 
 
-Sometimes sales taxes are assessed in special districts, or attached to specific purchases (like alcohol, hotel rooms). 
+Sometimes sales taxes are assessed in special districts, or attached to specific purchases (like alcohol, hotel rooms), which I discuss below. 
 
 
 ### How are visitor taxes used to finance stadiums?
