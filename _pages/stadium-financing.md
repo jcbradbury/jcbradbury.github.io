@@ -94,4 +94,10 @@ Because of the split funding burden, stadium projects are often referred to as "
 
 [J.C. Bradbury](/) is a professor of economics at Kennesaw State University. His research focuses on sports economics, public finance, and local economic-development policy. He is the author of [*This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums*](/towbd/), published by Oxford University Press.
 
-The strongest search headings are probably:
+## Related resources
+
+- [Do Sports Stadiums Help Local Economies?](/stadium-economic-impact/) — A primer on the economic effects of stadiums.
+- [How Much Do Sports Stadiums Cost?](/stadium-costs/) — Construction costs, public subsidies, renovations, and historical trends.
+- [Stadium Economics](/stadium-economics/) — Articles, research, videos, and public presentations.
+- [*This One Will Be Different*](/towbd/) — A comprehensive examination of publicly funded sports stadiums.
+
