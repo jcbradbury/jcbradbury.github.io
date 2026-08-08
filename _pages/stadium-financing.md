@@ -91,6 +91,9 @@ Sellers bear a larger share of the tax burden in both cases, because sellers are
 
 >This example demonstrates an important lesson of tax incidence: *The burden of paying taxes is determined by the relative price sensitivity (elasticities) of buyers and sellers, not by the party who is responsible for paying the tax.*
 
+So, who bears the burden of hotel taxes? Research on the subject is somewhat limited, but market conditions for lodging suggests that hotel owners bear a considerable share of the cost. 
+
+>*When it comes to hotel taxes, visitors have many ways to respond to the added expense, such as staying fewer nights, sharing rooms with coworkers or friends, holding professional conferences in another city, or traveling to an alternative tourist destination. In contrast, hotels have a fixed number of rooms; thus, hotel proprietors can only respond by adjusting prices—raising rental rates when consumer demand is high and lowering prices as vacancy rates grow. In order to stem losses from unrented empty rooms resulting from the added cost of guest taxes, hotels end up taking on some of the burden by lowering room rates, which results in reduced revenue. How much of the burden is borne by owners and patrons is a difficult empirical question to answer.*
 
 ### How are ticket taxes and facility fees used?
 
