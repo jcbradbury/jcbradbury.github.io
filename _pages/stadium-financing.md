@@ -94,7 +94,9 @@ Sellers bear a larger share of the tax burden in both cases, because sellers are
 So, who bears the burden of hotel taxes? Research on the subject is somewhat limited, but market conditions for lodging suggests that hotel owners bear a considerable share of the cost.  On the buyer's side, guests many respond to the added expense of hotel taxes by staying fewer nights, sharing rooms, or traveling to an alternative tourist destination. On the seller's side, hotels have a fixed number of rooms, and thus can only respond by raising prices when consumer demand is high and lowering prices to fill vacant rooms. Therefore, it's likely that hotels taking on much of the burden by lowering room rates, which results in reduced revenue. 
 
 As for car rentals, buyers have many choices to get around a city---such as ride shares, and public transportation---and car rental agencies can move unrented cars to other markets. In general, care rental taxes are easily avoided and raise very little revenue from tourists.
- 
+
+And while sports events are often touted as tourist drivers that bring new spending into town, economics {research suggests that sports venues have limited benefits from  attracting new out of town visitors](/stadium-economic-impact/#what-about-tourism-and-visitors-from-outside-the-area). In addition, most of the people who attend games are locals, who do not stay in hotel rooms; yet, hotel taxes are charged year-round and can be costly to the overall hospitality industry. 
+
 
 ### How are ticket taxes and facility fees used?
 
