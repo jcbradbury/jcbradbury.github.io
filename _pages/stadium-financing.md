@@ -64,7 +64,7 @@ Property tax increases often require voter approval, and when sports venue refer
 
 ### How are sales taxes used to finance stadiums?
 
-Stadiums are sometimes funded from sales taxes, which devote a share of all purchases in the community to pay for a venue project. For example, the Oklahoma City Thunder's new arena is funded by a special sales tax, which devotes a penny from every dollar spent to funding its construction and future maintenance. Like property taxes, sales taxes are transparent, and thus voters are often prone to reject them when asked to approve them at the ballot box. 
+Stadiums are sometimes funded from general sales taxes, which devote a share of all purchases in the community to pay for a venue project. For example, the Oklahoma City Thunder's new arena is funded by an additional 1% sales tax. Like property taxes, sales taxes are transparent, and thus voters are often prone to reject them when asked to approve them at the ballot box. Though [Oklahoma City's arena plan was approved](https://apnews.com/article/oklahoma-city-thunder-arena-tax-f1ede25523b793e9f5326b907246d35e) by a voter referendum, a sales tax measure for a new [Kansas City Royals stadium was voted down](https://apnews.com/article/chiefs-royals-kansas-city-stadiums-e9605296b85e91699441e4ba10e83212).  
 
 Sometimes sales taxes are assessed in special districts, or attached to specific purchases (like alcohol, hotel rooms), which I discuss below. 
 
