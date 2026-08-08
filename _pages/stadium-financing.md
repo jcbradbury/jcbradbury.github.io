@@ -89,7 +89,7 @@ When sellers are responsible for paying the tax (right), they receive less reven
 
 Sellers bear a larger share of the tax burden in both cases, because sellers are less sensitive to price changes than buyers: in economic terms, sellers are more price inelastic than buyers. When buyers are less sensitive to price, they face a steeper (inelastic) demand function and bear a larger share of the tax burden. When sellers are less sensitive to price, they face a steeper (inelastic) supply function and bear a larger share of the tax burden. No matter who pays the tax, the end result is the same,  and the government collects tax revenue equal to the sum of the buyer and seller burdens (both rectangles).
 
->This example demonstrates an important lesson of tax incidence: *The burden of paying taxes is determined by the relative price sensitivity (elasticities) of buyers and sellers, not by the party who is responsible for paying the tax.*
+>**This example demonstrates an important lesson of tax incidence:** *The burden of paying taxes is determined by the relative price sensitivity (elasticities) of buyers and sellers, not by the party who is responsible for paying the tax.*
 
 So, who bears the burden of hotel taxes? Research on the subject is somewhat limited, but market conditions for lodging suggests that hotel owners bear a considerable share of the cost. 
 
