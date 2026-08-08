@@ -68,18 +68,12 @@ Stadiums are sometimes funded from general sales taxes, which devote a share of 
 
 Sometimes sales taxes are assessed in special districts, or attached to specific purchases (like alcohol, hotel rooms), which I discuss below. 
 
+### How are visitor taxes, like taxes on hotel stays and cor rental cars, used to finance stadiums?
 
-### How are visitor taxes used to finance stadiums?
+Some governments fund sports venue projects with taxes on purchases associated with out-of-town visitors, such as hotel rooms and car rentals. The idea is to export the funding costs off residents onto visitors. It would seem that taxing something like hotel rooms, which are largely rented by non-locals would lower the funding cost borne by area citizens; however, the allocation of tax burdens is not this simple.
 
-#### How are hotel taxes used to finance stadiums?
+Tax incidence is a key concept taught in introductory microeconomics courses. Because buyers and sellers adjust their purchases/sales according to the prices they pay/receive both parties will respond to tax burdens, even when they do not directly pay the tax.
 
-[Add explanation.]
-
-#### How are rental-car taxes used to finance stadiums?
-
-[Add explanation.]
-
-#### Are hotel and rental-car taxes paid only by tourists?
 
 The market response to a tax on a particular good or service is demonstrated using basic supply and demand analysis below. In this example, an identical fixed-dollar per unit tax (e.g., $3 per hotel room night) is assessed on either buyers or sellers. The shaded gray boxes reflect the total tax revenue collected by the government and the different shades separate the individual shares contributed by both parties.
 
@@ -95,8 +89,7 @@ When sellers are responsible for paying the tax (right), they receive less reven
 
 Sellers bear a larger share of the tax burden in both cases, because sellers are less sensitive to price changes than buyers: in economic terms, sellers are more price inelastic than buyers. When buyers are less sensitive to price, they face a steeper (inelastic) demand function and bear a larger share of the tax burden. When sellers are less sensitive to price, they face a steeper (inelastic) supply function and bear a larger share of the tax burden. No matter who pays the tax, the end result is the same,  and the government collects tax revenue equal to the sum of the buyer and seller burdens (both rectangles).
 
-
-This example demonstrates an important lesson of tax incidence: the burden of paying taxes is determined by the relative price sensitivity (elasticities) of buyers and sellers, not by the party who is responsible for paying the tax.
+**This example demonstrates an important lesson of tax incidence:** *The burden of paying taxes is determined by the relative price sensitivity (elasticities) of buyers and sellers, not by the party who is responsible for paying the tax.*
 
 
 ### How are ticket taxes and facility fees used?
