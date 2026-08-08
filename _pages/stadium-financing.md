@@ -117,15 +117,11 @@ And while sports events are often touted as tourist drivers that bring new spend
 
 ## Do stadiums generate enough tax revenue to pay for themselves?
 
-[Distinguish gross from net revenue and new from displaced spending.]
+[Economics research](/stadium-economic-impact/) consistently finds that building stadiums and hosting sports venues do not generate sufficient revenue to cover typical levels of public subsidies. This is because most commercial activity that occurs in and around venues is spending that is transferred from elsewhere in the local economy. Thus, any taxes collected from this spending and devoted to the stadium would otherwise have generated the same tax revenue
 
-## What happens if stadium tax revenue falls short?
 
-[Discuss guarantees, reserve funds, general-fund support, and refinancing.]
 
 ## What is fiscal illusion, and how does it influence public stadium financing?
-
-## What is tax incidence, and what does it reveal about who bears the burden of taxes?
 
 
 
