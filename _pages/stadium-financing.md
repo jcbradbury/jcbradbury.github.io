@@ -91,9 +91,10 @@ Sellers bear a larger share of the tax burden in both cases, because sellers are
 
 >**This example demonstrates an important lesson of tax incidence:** *The burden of paying taxes is determined by the relative price sensitivity (elasticities) of buyers and sellers, not by the party who is responsible for paying the tax.*
 
-So, who bears the burden of hotel taxes? Research on the subject is somewhat limited, but market conditions for lodging suggests that hotel owners bear a considerable share of the cost. 
+So, who bears the burden of hotel taxes? Research on the subject is somewhat limited, but market conditions for lodging suggests that hotel owners bear a considerable share of the cost.  On the buyer's side, guests many respond to the added expense of hotel taxes by staying fewer nights, sharing rooms, or traveling to an alternative tourist destination. On the seller's side, hotels have a fixed number of rooms, and thus can only respond by raising prices when consumer demand is high and lowering prices to fill vacant rooms. Therefore, it's likely that hotels taking on much of the burden by lowering room rates, which results in reduced revenue. 
 
->*When it comes to hotel taxes, visitors have many ways to respond to the added expense, such as staying fewer nights, sharing rooms with coworkers or friends, holding professional conferences in another city, or traveling to an alternative tourist destination. In contrast, hotels have a fixed number of rooms; thus, hotel proprietors can only respond by adjusting prices—raising rental rates when consumer demand is high and lowering prices as vacancy rates grow. In order to stem losses from unrented empty rooms resulting from the added cost of guest taxes, hotels end up taking on some of the burden by lowering room rates, which results in reduced revenue. How much of the burden is borne by owners and patrons is a difficult empirical question to answer.*
+As for car rentals, buyers have many choices to get around a city---such as ride shares, and public transportation---and car rental agencies can move unrented cars to other markets. In general, care rental taxes are easily avoided and raise very little revenue from tourists.
+ 
 
 ### How are ticket taxes and facility fees used?
 
