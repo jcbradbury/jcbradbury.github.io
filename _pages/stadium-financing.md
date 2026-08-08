@@ -95,7 +95,7 @@ So, who bears the burden of hotel taxes? Research on the subject is somewhat lim
 
 As for car rentals, buyers have many choices to get around a city---such as ride shares, and public transportation---and car rental agencies can move unrented cars to other markets. In general, care rental taxes are easily avoided and raise very little revenue from tourists.
 
-And while sports events are often touted as tourist drivers that bring new spending into town, economics [research suggests that sports venues have limited benefits from  attracting new out of town visitors](/stadium-economic-impact/#what-about-tourism-and-visitors-from-outside-the-area). In addition, most of the people who attend games are locals, who do not stay in hotel rooms; yet, hotel taxes are charged year-round and can be costly to the overall hospitality industry. 
+And while sports events are often touted as tourist drivers that bring new spending into town, economics [research suggests that tourism effects from sports venues and events is small](/stadium-economic-impact/#what-about-tourism-and-visitors-from-outside-the-area). In addition, most of the people who attend games are locals, who do not stay in hotel rooms; yet, hotel taxes are charged year-round and can be costly to the overall hospitality industry. 
 
 
 ### How are ticket taxes and facility fees used?
