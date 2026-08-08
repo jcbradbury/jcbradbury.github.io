@@ -19,7 +19,7 @@ This page explains how professional sports stadiums and arenas are financed, inc
 
 ## Who pays for professional sports stadiums?
 
-Professional sports venues have been financed in may ways over time. At the beginning of the 20th century, stadiums were private endeavors, paid for entirely by team owners. Stadiums become mostly public projects from the 1930s through the 1970s. Since that time, sports venues have largely been public projects with varying levels of private contributions. 
+Professional sports venue financing has changed over time, with private and public owners using many funding mechanisms to build them. At the beginning of the 20th century, stadiums were entirely private endeavors, paid for by team owners. Venues become mostly public projects from the 1930s through the 1970s. Since that time, facilities have largely been public projects with varying levels of private contributions. 
 
 <figure style="text-align: center;">
   <img src="/images/med_cost_share.png"
@@ -27,7 +27,7 @@ Professional sports venues have been financed in may ways over time. At the begi
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
-Though the public share has been decreasing since the 1980s, the total public contribution has been generally increasing. The latter amount is what is most important for evaluating policy, because it represents an increasing allocation of public resources to venue projects.  For example, a publicly provided $500 million subsidy means that $500 million must be reallocated from other government projects, or collected from taxpayers. It does not matter whether that represents 30%, 50%, or 100% of the total cost, the opportunity cost of what those funds could be used for (publicly or privately) is the same. 
+Though the public share has been decreasing since the 1980s, the total public contribution has been generally increasing. The latter amount is what is most important for evaluating policy, because it represents an increasing allocation of public resources to venue projects.  For example, a publicly provided $500 million subsidy means that $500 million must be reallocated from other government projects, or collected from taxpayers. It does not matter whether that represents 30%, 50%, or 100% of the total cost; the opportunity cost of what those funds could be used for (publicly or privately) is the same. 
 
 ## Is government funding devoted to stadiums really a *subsidy*, or should it be considered an *investment* in a public-private partnership?
 
