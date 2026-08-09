@@ -37,7 +37,7 @@ Though the public share has been decreasing since the 1980s, the total public co
 
 ## Is it possible for stadiums to be 100% privately financed?
 
-Yes. Stadiums were originally fully private endeavors, and though public subsidies are now common, many professional sports facilities are private venues. The US's major professional sports leagues are successful businesses that generate billions of dollars in annual revenue, which is their teams can pay athletes salaries in the millions of dollars.  Professional sports teams could easily self-fund their operations without any public assistance. 
+Yes. Stadiums were originally fully private endeavors, and though public subsidies are now common, many professional sports facilities operate as private venues. The major US professional sports leagues are highly profitable businesses that generate billions of dollars in annual revenue, which is their teams can pay athletes salaries in the millions of dollars.  Professional sports teams could easily self-fund their operations without any public assistance. 
 
 ## Is government funding devoted to stadiums really a *subsidy*, or should it be considered an *investment* in a public-private partnership?
 
