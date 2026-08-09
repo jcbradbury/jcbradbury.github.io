@@ -233,6 +233,6 @@ For more details on minor-league baseball stadium financing, see my study [The P
 ## Related resources
 
 - [Do Sports Stadiums Help Local Economies?](/stadium-economic-impact/) — A primer on the economic effects of stadiums.
-- [How Are Stadiums Paid For? ](/stadium-financing/) — A primer on public financing of stadiums
+- [How Are Stadiums Paid For? ](/stadium-financing/) — A primer on public financing of stadiums.
 - [Stadium Economics](/stadium-economics/) — Articles, research, videos, and public presentations.
 - [*This One Will Be Different*](/towbd/) — A comprehensive examination of publicly funded sports stadiums.
