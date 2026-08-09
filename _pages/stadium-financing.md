@@ -134,9 +134,7 @@ The reality is that stadium-district taxes are paid primarily by local residents
 
 Stadiums often benefit from tax exemptions and abatements. Sales tax exemptions are sometimes granted on construction materials, and because most stadiums are publicly owned, they are not taxed as private property.  These exemptions represent a cost to the taxing jurisdiction because they result in lost revenue that private businesses pay to cover municipal services from which they benefit, such as public safety and transportation infrastructure.
 
-Public policy researcher Geoffrey Propheter's book [Major League Sports and the Property Tax: Costs and Implications of a Stealth Tax Expenditure](https://link.springer.com/book/10.1007/978-3-031-18790-2) provides an excellent summary of tax breaks often provided to stadiums. He estimates that the tax benefits from government ownership of stadiums translated to an additional $22 billion in foregone local government revenue over the remaining lives of venues active in 2021---approximately $7.5 million per year, with 40% of the diverted funds coming from K–12 education.*
-
-(*Dollar values converted from reported-year dollars to 2024 dollars.*)
+Public policy researcher Geoffrey Propheter's book [Major League Sports and the Property Tax: Costs and Implications of a Stealth Tax Expenditure](https://link.springer.com/book/10.1007/978-3-031-18790-2) provides an excellent summary of tax breaks often provided to stadiums. He estimates that the tax benefits from government ownership of stadiums translated to an additional $22 billion in foregone local government revenue over the remaining lives of venues active in 2021 (in 2024 dollars).
 
 
 ## Who pays for stadium operations and maintenance of public stadiums?
