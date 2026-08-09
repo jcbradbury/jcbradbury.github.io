@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "How Are Sports Stadiums Financed? Taxes, Bonds, and Public Subsidies"
+title: "How Are Stadiums Paid For? A Primer on Public Financing of Stadiums"
 permalink: /stadium-financing/
 published: false
-excerpt: "A guide to the taxes, bonds, private contributions, public authorities, and other financing mechanisms used to pay for professional sports stadiums and arenas."
+excerpt: "A guide to the taxes, bonds, and other financing mechanisms used to pay for professional sports stadiums and arenas."
 author_profile: true
 classes: wide
 toc: true
