@@ -11,7 +11,15 @@ toc_label: "On this page"
 toc_sticky: true
 share: false
 sitemap: true
+
+header:
+  image: stadium-financing-share.png
 ---
+<style>
+.page__hero {
+  display: none;
+}
+</style> 
 
 **By [J.C. Bradbury](/)**
 
