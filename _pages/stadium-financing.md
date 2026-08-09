@@ -145,6 +145,7 @@ There is no costless way to raise revenue to cover the cost of building a new st
 
 ## What is fiscal illusion, and how does it influence public stadium financing?
 
+The public finance concept of fiscal illusion involves using fiscal policy instruments that promote the appearance that a policy choice as being less costly or more beneficial than it actually is to taxpayers. Because [sports venue projects tend to be viewed more favorably by elected officials and local leaders](/stadium-economic-impact/#if-sports-venues-are-such-bad-public-investments-then-why-do-governments-continue-to-subsidize-them), their funding plans are often designed to make them more appealing the general public. Many taxes used to fund stadiums discussed above are chosen not because they are the most efficient way to raise revenue, but because the foster the fiscal illusion that they are worthwhile public investments. 
 
 
 ## About the author
