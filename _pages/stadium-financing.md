@@ -33,7 +33,7 @@ Professional sports venue financing has changed over time. At the beginning of t
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
-Though the public share has been decreasing since the 1980s, the total public contribution has been growing. The latter amount is what is most important for evaluating policy, because it reflects the increasing opportunity cost from allocating public resources to venue projects.  For example, a public subsidy of $500 million subsidy requires that $500 million must be reallocated from other government projects, or collected from taxpayers. It does not matter whether that represents 30%, 50%, or 100% of the total cost; the opportunity cost of what those funds could be used for (publicly or privately) is the same. 
+Though the public share has been decreasing since the 1980s, the total public contribution has been growing. The latter amount is what is most important for evaluating policy, because it reflects the increasing opportunity cost from allocating public resources to venue projects.  For example, a public subsidy of $500 million requires that $500 million be reallocated from other government projects or collected from taxpayers.  It does not matter whether that represents 30%, 50%, or 100% of the total cost; the opportunity cost of what those funds could be used for (publicly or privately) is the same. 
 
 ## Is it possible for stadiums to be 100% privately financed?
 
@@ -46,7 +46,7 @@ Because of the shared funding burden, stadium projects are often referred to as 
 
 However, when it comes to jointly funded venue projects, the financial arrangements operate differently from standard business partnerships.  The public-private relationship consists of a public funding contribution without granting rights to future income that flows from the project---the private team partner is entitled to 100% of the revenue, while the government is not entitled to any future revenue.  Instead, the supposed public "return" derives from subsequent economic activity that the stadium hypothetically creates, which is presumed to generate sufficient tax receipts that more than cover the cost of the public outlay. In practice this does not happen, as decades of economics research consistently demonstrates that [sports venues have limited to no economic impacts](/stadium-economic-impact/) that would generate a positive financial return to taxpayers. 
 
-Thus, it is more appropriate to describe any public contribution to sports venues as a subsidy, rather than an investment, which falsely implies that the government is a business partner a profit-making venture that is expected to generate net fiscal benefits taxpayers.
+Thus, it is more appropriate to describe any public contribution to sports venues as a subsidy rather than an investment, which falsely implies that the government is a business partner in a profit-making venture expected to generate net fiscal benefits for taxpayers.
 
 ## How are municipal bonds used to finance stadiums?
 
@@ -61,14 +61,14 @@ Municipalities use a variety of taxes to fund sports venue projects, from genera
 
 ### How are property taxes used to finance stadiums?
 
-Most local governments assess property taxes that go into a general fund to support their basic operations. When municipalities began building stadiums in the middle of the 20th century, they often drew from general fund property taxes to cover the the bond debt. 
+Most local governments assess property taxes that go into a general fund to support their basic operations. When municipalities began building stadiums in the middle of the 20th century, they often drew from general fund property taxes to cover the bond debt. 
 
 Different tax jurisdictions tend to assess property taxes in their own way, but the taxes collected normally reflect the value of the property.<sup>*</sup> For this reason, an attribute of taxing property is that it reflects the added value of public amenities. For example, a home located in a city with nice parks and good schools will tend to attract more residents, which results in higher property values that generate higher tax revenue. This allows the jurisdiction to fund more local projects or lower the tax rate needed to maintain its provided services. Thus, if hosting a sports team in a public venue is something that most residents value, then it should be reflected in the increased value of property tax assessments. Economists have looked for this effect, and the evidence is mixed---[studies have found positive, negative, and no effects](/stadium-economic-impact/#do-stadiums-increase-nearby-property-values)---which suggests that the amenity value of having a hometown team is not large or guaranteed to be positive.
 
 Property tax increases often require voter approval, and when sports venue referendums started to fail in the 1980s, elected officials who promoted stadium projects often relied upon alternate tax sources to fund them.   
 
 
-*<sup>*</sup> In most cases, property is taxed at a rate of an assessed value. For example, where I live in Cobb County, Georgia, the assessed residential property tax value is determined by 40% of the fair market value of the property. This means that taxable value of a $200,000 house would be $80,000 (40% x $200,000). The taxes owed are determined by a tax rate, which is often expressed as a millage (per $1,000) rather than a percent (per $100). In 2025, [Cobb's total millage rate](https://www.cobbtax.gov/property/millage_rates.php) was 30.13, which would result in a tax bill of $2,410 ($80,000	x 0.03013) for a $200,000 house.*	
+*<sup>*</sup> In most cases, property is taxed at a rate of an assessed value. For example, where I live in Cobb County, Georgia, the assessed residential property tax value is determined by 40% of the fair market value of the property. This means that the taxable value of a $200,000 house would be $80,000 (40% × $200,000). The taxes owed are determined by a tax rate, which is often expressed as a millage (per $1,000) rather than a percent (per $100). In 2025, [Cobb's total millage rate](https://www.cobbtax.gov/property/millage_rates.php) was 30.13, which would result in a tax bill of $2,410 ($80,000	× 0.03013) for a $200,000 house.*	
 
  
 
@@ -82,7 +82,7 @@ Sometimes sales taxes are assessed in special districts, or attached to specific
 
 Some governments fund sports venue projects with taxes on purchases associated with out-of-town visitors, such as hotel rooms and car rentals. The idea is to export the funding costs off residents onto visitors. It would seem that taxing items largely purchased by non-locals would lower the cost paid by area citizens; however, the allocation of tax burdens is not this simple.
 
-Because buyers and sellers adjust their purchases/sales according to the prices they pay/receive---which includes the added cost/reduced revenue from taxes---both parties will adust their consumption/sales in response, even when they do not directly pay the tax.  Thus, determining tax burdens requires *tax incidence analysis*, which is an economic concept that is so fundamental that it is taught in introductory microeconomics courses.
+Because buyers and sellers adjust their purchases/sales according to the prices they pay/receive---which includes the added cost/reduced revenue from taxes---both parties will adjust their consumption/sales in response, even when they do not directly pay the tax.  Thus, determining tax burdens requires *tax incidence analysis*, which is an economic concept that is so fundamental that it is taught in introductory microeconomics courses.
 
 
 I demonstrate how tax incidence analysis is used to identify tax burdens in the following example. An identical fixed-dollar per unit tax (e.g., $3 per hotel room night) is assessed on either buyers (hotel guests) or sellers (hotel owners). The shaded gray boxes reflect the total tax revenue collected by the government and the different shades separate the individual shares contributed by both parties.
@@ -101,7 +101,7 @@ Sellers bear a larger share of the tax burden in both cases, because sellers are
 
 >**This example demonstrates an important lesson of tax incidence:** *The burden of paying taxes is determined by the relative price sensitivity (elasticities) of buyers and sellers, not by the party who is responsible for paying the tax.*
 
-So, who bears the burden of hotel taxes? Empirical research on the subject is somewhat limited, but market conditions for lodging suggests that hotel owners bear a considerable share of the cost.  On the buyer's side, guests may respond to the added expense of hotel taxes by staying fewer nights, sharing rooms, or traveling to an alternative tourist destination. On the seller's side, hotels have a fixed number of rooms, and thus can only respond by raising prices when consumer demand is high and lowering prices to fill vacant rooms. Therefore, it's likely that hotels take on much of the burden by lowering room rates, which results in reduced revenue. 
+So, who bears the burden of hotel taxes? Empirical research on the subject is somewhat limited, but market conditions for lodging suggest that hotel owners bear a considerable share of the cost.  On the buyer's side, guests may respond to the added expense of hotel taxes by staying fewer nights, sharing rooms, or traveling to an alternative tourist destination. On the seller's side, hotels have a fixed number of rooms, and thus can only respond by raising prices when consumer demand is high and lowering prices to fill vacant rooms. Therefore, it's likely that hotels take on much of the burden by lowering room rates, which results in reduced revenue. 
 
 As for car rentals, buyers have many choices to get around a city---such as ride shares, and public transportation---and car rental agencies can move unrented cars to other markets. In general, car rental taxes are easily avoided and raise very little revenue from visitors. 
 
@@ -110,11 +110,11 @@ And while sports events are often touted as tourist drivers that bring new spend
 
 ### How are sin taxes used to fund stadiums?
 
-Some communities raise revenue for sports venue projects by allocating taxes from sales of vices, like alcohol and tobacco, or using gambling proceeds. While the the funding  burden not fall equally on all citizens, they are still mostly paid by local residents and stores that buy and sell these items.  Perhaps these are appropriate items for government to raise revenue, but it is unconnected to stadium-related commerce. Also, using the funds to finance a sports venue has the opportunity cost devoting the income to other public priorities. 
+Some communities raise revenue for sports venue projects by allocating taxes from sales of vices, such as alcohol and tobacco, or by using gambling proceeds. Though the funding burden does not fall equally on all citizens, these revenues are still derived largely from local residents and businesses that buy and sell these products. These may be appropriate items to tax, but they are unrelated to stadium-generated commerce. Using the funds to finance a sports venue also carries the opportunity cost of not devoting the revenue to other public priorities.
 
 ### How are ticket taxes and facility fees used to fund stadiums?
 
-It's common for stadium financing plans to include a tax on tickets or in-stadium purchases that go toward funding the venue. An attribute of these taxes is that the the individuals who consume the benefits are paying some of the costs. However, if customers can pay off the cost of the venue with their attendance, then there is no need for government to fund the venue at all. Team owners could self-fund the stadium by charging higher ticket prices, and no one would have to incur the administrative costs of collecting and distributing the tax revenue.   
+It's common for stadium financing plans to include a tax on tickets or in-stadium purchases that go toward funding the venue. An attribute of these taxes is that the individuals who consume the benefits are paying some of the costs. However, if customers can pay off the cost of the venue with their attendance, then there is no need for government to fund the venue at all. Team owners could self-fund the stadium by charging higher ticket prices, and no one would have to incur the administrative costs of collecting and distributing the tax revenue.   
 
 Ticket taxes have the political advantage of implying that users are paying for the venue---they are only paying a small part---but team owners dislike taxing attendees, because it lowers the private revenue they collect. In most cases, venue-assessed taxes make up only a small part of the public funding plan, with the bulk of funds coming from other tax sources. 
 
@@ -127,23 +127,23 @@ Because stadium-district taxes collect revenue from nearby commerce, they are of
 
 It is well documented that stadiums do not create new economic activity, they reallocate existing spending. [The same is true for commerce within a stadium district](/stadium-economic-impact/#do-mixed-use-stadium-developments-change-the-economic-case-for-public-funding). Money spent at stadium-district establishments comes at the expense of less spending outside the TIF district. For example, customers of restaurants within the special tax zone would have otherwise patronized restaurants outside the area, thereby reducing the income of non-district restaurants.
 
-The reality is that stadium-district taxes are paid primarily by local residents who reallocate their spending to the district, without creating any new wealth that can be used to pay for the venue. And the taxes collected from non-district establishments that was previously used to fund other government services is also reduced. This means that funds used for covering other public priorities is now devoted to paying off the stadium, and perhaps development of a surrounding commercial/entertainment district.
+The reality is that stadium-district taxes are paid primarily by local residents who reallocate their spending to the district, without creating any new wealth that can be used to pay for the venue. And the taxes collected from non-district establishments that were previously used to fund other government services is also reduced. This means that revenue previously available for other public priorities is instead devoted to paying off the stadium and, in some cases, developing the surrounding commercial or entertainment district.
 
 
 ## What tax breaks do stadiums and teams receive?
 
-Stadiums often benefit from tax exemptions and abatements. Sales tax exemptions are sometimes granted on construction materials, and because most stadiums are publicly owned, they are not taxed as private property.  These exemptions represent a cost to the taxing jurisdiction because they result in lost revenue that private businesses pay to cover municipal services that they benefit from like public safety and transportation infrastructure.
+Stadiums often benefit from tax exemptions and abatements. Sales tax exemptions are sometimes granted on construction materials, and because most stadiums are publicly owned, they are not taxed as private property.  These exemptions represent a cost to the taxing jurisdiction because they result in lost revenue that private businesses pay to cover municipal services from which they benefit, such as public safety and transportation infrastructure.
 
 Public policy researcher Geoffrey Propheter's book [Major League Sports and the Property Tax: Costs and Implications of a Stealth Tax Expenditure](https://link.springer.com/book/10.1007/978-3-031-18790-2) provides an excellent summary of tax breaks often provided to stadiums. He estimates that the tax benefits from government ownership of stadiums translated to an additional $22 billion in foregone local government revenue over the remaining lives of venues active in 2021---approximately $7.5 million per year, with 40% of the diverted funds coming from K–12 education.*
 
-( Dollar values converted from reported-year dollars to 2024 dollars.*)
+(*Dollar values converted from reported-year dollars to 2024 dollars.*)
 
 
 ## Who pays for stadium operations and maintenance of public stadiums?
 
-Responsibility for daily operations and regular maintenance vary across facilities. Obligations of the team tenant and public landlord are normally spelled out in stadium operating agreements. Urban planning scholar Judith Grant Long describes many common working agreements between teams and municipal landlords in he book [Public-Private Partnerships for Major League Sports Facilities](https://doi.org/10.4324/9780203077276).
+Responsibility for daily operations and regular maintenance vary across facilities. Obligations of the team tenant and public landlord are normally spelled out in stadium operating agreements. Urban planning scholar Judith Grant Long describes many common working agreements between teams and municipal landlords in her book [Public-Private Partnerships for Major League Sports Facilities](https://doi.org/10.4324/9780203077276).
 
-Teams do sometimes pay rent, which is intended to compensate for taxpayer contributions to facility upkeep, but team lease contributions tend to be insufficient to cover the costs. Long observed that though the general public is more likely to hear about rent being paid by the team than taxpayer commitments: "there is little actual evidence that leases produce significant net revenues. ...The problem is that the extent of operating expenses that public partners agree to take on in these agreements off sets all, or nearly all, of these revenues" (p. 100).
+Teams do sometimes pay rent, which is intended to compensate for taxpayer contributions to facility upkeep, but team lease contributions tend to be insufficient to cover the costs. Long observes that the public is more likely to hear about rent paid by teams than about taxpayer commitments, yet: "there is little actual evidence that leases produce significant net revenues. ...The problem is that the extent of operating expenses that public partners agree to take on in these agreements offsets all, or nearly all, of these revenues" (p. 100).
 
 
 
@@ -151,13 +151,13 @@ Teams do sometimes pay rent, which is intended to compensate for taxpayer contri
 
 [Economics research](/stadium-economic-impact/) consistently finds that building stadiums and hosting sports venues do not generate sufficient revenue to cover typical levels of public subsidies. This is because most commercial activity that occurs in and around venues is spending that is transferred from elsewhere in the local economy. Thus, any taxes collected from this spending and devoted to the stadium would otherwise have generated the same tax revenue.
 
-There is no costless way to raise revenue to cover the cost of building a new stadium. If $500 million of public funds are collected to go to the stadium, that is $500 million reallocated from elsewhere in the economy that could have been spend on other public or private purchases. 
+There is no costless way to raise revenue to cover the cost of building a new stadium. If $500 million of public funds are collected to go to the stadium, that is $500 million reallocated from elsewhere in the economy that could have been spent on other public or private purchases. 
 
 
 
 ## What is fiscal illusion, and how does it influence public stadium financing?
 
-The public finance concept of fiscal illusion involves using fiscal policy instruments that promote the appearance that a policy choice as being less costly or more beneficial than it actually is to taxpayers. Because [sports venue projects tend to be viewed more favorably by elected officials and local leaders](/stadium-economic-impact/#if-sports-venues-are-such-bad-public-investments-then-why-do-governments-continue-to-subsidize-them), their funding plans are often designed to make them more appealing to the general public. Many taxes used to fund stadiums discussed above are chosen not because they are the most efficient way to raise revenue, but because they foster the fiscal illusion that they are worthwhile public investments. 
+The public finance concept of fiscal illusion involves using fiscal-policy instruments that make a policy choice appear less costly or more beneficial to taxpayers than it actually is. Because [sports venue projects tend to be viewed more favorably by elected officials and local leaders](/stadium-economic-impact/#if-sports-venues-are-such-bad-public-investments-then-why-do-governments-continue-to-subsidize-them), their funding plans are often designed to make them more appealing to the general public. Many taxes used to fund stadiums discussed above are chosen not because they are the most efficient way to raise revenue, but because they foster the fiscal illusion that they are worthwhile public investments. 
 
  
 **First published:**  August 10, 2026 
