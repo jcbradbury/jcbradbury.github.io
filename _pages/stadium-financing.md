@@ -15,6 +15,7 @@ sitemap: true
 header:
   image: stadium-financing-share.png
 ---
+
 <style>
 .page__hero {
   display: none;
