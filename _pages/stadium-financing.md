@@ -15,7 +15,7 @@ sitemap: false
 
 **By [J.C. Bradbury](/)**
 
-This page explains how professional sports stadiums and arenas are financed, including the principal sources of private funding, public subsidies, taxes, bonds, and other government assistance.
+This page explains how professional sports stadiums and arenas are financed, including the principal sources of private funding, public subsidies, taxes, bonds, and other government assistance. Much of the information is summarized from [Chapter 10](https://doi.org/10.1093/9780197820247.003.0010) of *This One Will Be Different*.
 
 ## Who pays for professional sports stadiums?
 
@@ -107,9 +107,14 @@ Ticket taxes have the political advantage of implying that users are paying for 
 
 ### How do special stadium districts and tax increment financing (TIF) pay for stadiums?
 
-Tax increment financing (TIF) of stadium districts is an increasingly common taxing strategy being employed to pay for stadiums. The expectation is that stimulated new development in the TIF districts will generate future tax revenue that can be used to pay off the stadium. This may involve implementing new taxes  (e.g., sales, property, hotel) on top of existing assessments or reallocating existing tax collections in the area to fund the project.
+Using the tax increment financing (TIF) model of taxing economic activity within stadium districts is an increasingly common taxing strategy being employed to pay for stadiums. The expectation is that stimulated new development in the TIF districts will generate future tax revenue that can be used to pay off the stadium. This may involve implementing new taxes  (e.g., sales, property, hotel) or reallocating existing tax collections in the area to fund the project.
 
-Because stadium-district taxes collect revenue from nearby commercial activity, they are often pitched as a way to pay for a public sports venue without actually raising taxes, based on the rational that the income derives from stadium-related spending. However, this presumption fails to account for where the stadium district spending comes from.  It is well documented that stadiums do not create new economic activity, they reallocate existing spending. The same is true for commerce within a stadium district. Money spent at stadium-district establishments comes at the expense of less spending outside the TIF district. For example, customers of restaurants within the special tax zone comes would have otherwise patronized restaurants outside the area, thereby reducing their income. And the taxes collected from non-district establishments that was previously used to fund other government services is also reduced, which means that funds used for covering other public priorities is now devoted to paying off the stadium, and perhaps development of a surrounding commercial/entertainment district.
+Because stadium-district taxes collect revenue from nearby commerce, they are often pitched as a way to pay for a public sports venue without actually raising taxes, based on the rational that the income derives from stadium-related spending. However, this presumption fails to account for where the stadium district spending comes from.  
+
+It is well documented that stadiums do not create new economic activity, they reallocate existing spending. The same is true for commerce within a stadium district. Money spent at stadium-district establishments comes at the expense of less spending outside the TIF district. For example, customers of restaurants within the special tax zone comes would have otherwise patronized restaurants outside the area, thereby reducing their income. 
+
+The reality is that special district taxes are paid primarily by local residents who reallocate their spending to the district, without creating any new wealth that can be used to pay for the venue. And the taxes collected from non-district establishments that was previously used to fund other government services is also reduced, which means that funds used for covering other public priorities is now devoted to paying off the stadium, and perhaps development of a surrounding commercial/entertainment district.
+
 
 ## What tax breaks do stadiums and teams receive?
 
