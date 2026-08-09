@@ -17,7 +17,7 @@ sitemap: false
 
 This page explains how professional sports stadiums and arenas are financed, including the principal sources of private funding, public subsidies, taxes, bonds, and other government assistance. Much of the information is summarized from [Chapter 10](https://doi.org/10.1093/9780197820247.003.0010) of *This One Will Be Different*.
 
-Different taxes may somewhat change the distribution of the funding burden, but there is no way to reduce the cost of a stadium by selecting different tax instruments. Devoting resources for one purpose necessarily means not using them for something else. Spending hundreds of millions of taxpayer dollars on a stadium requires extracting that same amount of wealth from the tax jurisdiction, which means the community has less money for private and public consumption. 
+Different taxes may somewhat change the distribution of the funding burden, but there is no way to reduce the cost of a stadium by selecting different tax instruments. Devoting resources for one purpose necessarily means not using them for something else. Spending hundreds of millions of taxpayer dollars on a stadium requires extracting that same amount of wealth from the tax jurisdiction, which means the community has money available to use for private and public consumption. 
 
 >**Key takeaway:** No matter what funding mechanisms are used to pay for a stadium, the cost of public stadiums is primarily borne by local taxpayers.
 
@@ -62,7 +62,7 @@ Different tax jurisdictions tend to assess property taxes in their own way, but 
 Property tax increases often require voter approval, and when sports venue referendums started to fail in the 1980s, elected officials who promoted stadium projects often relied upon other taxes revenue sources to fund them.   
 
 
-*<sup>*</sup> In most cases, property is taxed at a rate of an assessed value. For example, where I live in Cobb County, Georgia, the assessed residential property tax value is determined by 40% of the fair market value of the property, as estimated by county tax assessor. This means that taxable value of a $200,000 house would be $80,000 (40% x $200,000). The taxes owed are determined by a tax rate, which is often expressed as millage (per $1,000) rather than a percent (per $100). In 2025, [Cobb's total millage rate](https://www.cobbtax.gov/property/millage_rates.php) was 30.13 (18.70 mills are devoted to schools,  8.46 mills go into the county's general fund, and 2.9 mills support the county fire fund), which would result in a tax bill of $2,410 ($80,000	x 0.03013) for a $200,000 house.*	
+*<sup>*</sup> In most cases, property is taxed at a rate of an assessed value. For example, where I live in Cobb County, Georgia, the assessed residential property tax value is determined by 40% of the fair market value of the property, as estimated by county tax assessor. This means that taxable value of a $200,000 house would be $80,000 (40% x $200,000). The taxes owed are determined by a tax rate, which is often expressed as millage (per $1,000) rather than a percent (per $100). In 2025, [Cobb's total millage rate](https://www.cobbtax.gov/property/millage_rates.php) was 30.13, which would result in a tax bill of $2,410 ($80,000	x 0.03013) for a $200,000 house.*	
 
  
 
@@ -72,11 +72,11 @@ Stadiums are sometimes funded from general sales taxes, which devote a share of 
 
 Sometimes sales taxes are assessed in special districts, or attached to specific purchases (like alcohol, hotel rooms), which I discuss below. 
 
-### Do stadiums funded by tourist taxes, like taxes on hotel stays and car rental cars, shift the funding burden off local residents?
+### Do stadiums funded by visitor-targeted taxes, like taxes on hotel stays and rental cars, shift the funding burden off local residents?
 
-Some governments fund sports venue projects with taxes on purchases associated with out-of-town visitors, such as hotel rooms and car rentals. The idea is to export the funding costs off residents onto visitors. It would seem that taxing something like hotel rooms, which are largely rented by non-locals, would lower the cost paid by area citizens; however, the allocation of tax burdens is not this simple.
+Some governments fund sports venue projects with taxes on purchases associated with out-of-town visitors, such as hotel rooms and car rentals. The idea is to export the funding costs off residents onto visitors. It would seem that taxing items largely purchased by non-locals would lower the cost paid by area citizens; however, the allocation of tax burdens is not this simple.
 
- Because buyers and sellers adjust their purchases/sales according to the prices they pay/receive, which includes the added cost/reduced revenue from taxes, both parties will respond to tax burdens, even when they do not directly pay the tax.  Thus, determining tax burdens requires tax incidence analysis, which is economic concept that is so fundamental that it is taught in introductory microeconomics courses.
+Because buyers and sellers adjust their purchases/sales according to the prices they pay/receive, which includes the added cost/reduced revenue from taxes, both parties will respond to tax burdens, even when they do not directly pay the tax.  Thus, determining tax burdens requires *tax incidence analysis*, which is economic concept that is so fundamental that it is taught in introductory microeconomics courses.
 
 
 I demonstrate how tax incidence analysis is used to identify tax burdens it the following example. An identical fixed-dollar per unit tax (e.g., $3 per hotel room night) is assessed on either buyers (hotel guests) or sellers (hotel owners). The shaded gray boxes reflect the total tax revenue collected by the government and the different shades separate the individual shares contributed by both parties.
@@ -122,7 +122,8 @@ The reality is that special district taxes are paid primarily by local residents
 
 ## What tax breaks do stadiums and teams receive?
 
-[Property-tax exemptions, sales-tax exemptions, abatements, and government ownership benefits.]
+Stadiums often benefits from tax exemptions and abatements. Sales tax exemptions are sometimes granted on construction materials, and because most stadiums are publicly owned, they are not taxed as private property.  These exemptions represent a cost to the taxing jurisdiction because they result in lost revenue that private businesses pay to cover government services like  public safety and transportation infrastructure.
+
 
 ## Who pays for stadium operations and maintenance?
 
