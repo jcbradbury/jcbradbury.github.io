@@ -223,7 +223,7 @@ For more details on minor-league baseball stadium financing, see my study [The P
 
 
 
-**First published:**  August 5, 2026 
+**First published:**  August 5, 2026  
 **Last updated:**  August 9, 2026
 
 ## About the author
