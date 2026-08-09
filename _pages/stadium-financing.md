@@ -124,14 +124,14 @@ The reality is that special district taxes are paid primarily by local residents
 
 Stadiums often benefits from tax exemptions and abatements. Sales tax exemptions are sometimes granted on construction materials, and because most stadiums are publicly owned, they are not taxed as private property.  These exemptions represent a cost to the taxing jurisdiction because they result in lost revenue that private businesses pay to cover municipal services like public safety and transportation infrastructure that benefit teams.
 
-Public policy researcher [Geoffrey Propheter](https://link.springer.com/book/10.1007/978-3-031-18790-2) estimated that the tax benefits from government ownership of stadiums  translated to an additional $22 billion in foregone local government revenue over the remaining lives of venues active in 2021---approximately $7.5 million per year, with 40% of the diverted funds coming from K–12 education.
+Public policy researcher Geoffrey Propheter's book [Major League Sports and the Property Tax: Costs and Implications of a Stealth Tax Expenditure](https://link.springer.com/book/10.1007/978-3-031-18790-2) provides an excellent summary of tax breaks often provided to stadiums. He estimates that the tax benefits from government ownership of stadiums translated to an additional $22 billion in foregone local government revenue over the remaining lives of venues active in 2021---approximately $7.5 million per year, with 40% of the diverted funds coming from K–12 education. 
 
 
 ## Who pays for stadium operations and maintenance of public stadiums?
 
 Responsibility for daily operations and regular maintenance vary across facilities. Responsibilities of the team tenant and public landlord are normally spelled out in stadium operating agreements. Urban planning scholar Judith Grant Long describes many common working agreements between teams and municipal landlords in [Public-Private Partnerships for Major League Sports Facilities](https://doi.org/10.4324/9780203077276).
 
-Though it is true that teams sometimes pay rent that that is intended to compensate for taxpayer contributions to facility upkeep; in practice, team lease contributions tend not to be sufficient to cover the costs. Long observed that though the general public is more likely to hear about rent being paid by the team than taxpayer commitments: "there is little actual evidence that leases produce significant net revenues. ...The problem is that the extent of operating expenses that public partners agree to take on in these agreements off sets all, or nearly all, of these revenues" (p. 100).
+Teams do sometimes pay rent that that is intended to compensate for taxpayer contributions to facility upkeep, but team lease contributions tend to be insufficient to cover the costs. Long observed that though the general public is more likely to hear about rent being paid by the team than taxpayer commitments: "there is little actual evidence that leases produce significant net revenues. ...The problem is that the extent of operating expenses that public partners agree to take on in these agreements off sets all, or nearly all, of these revenues" (p. 100).
 
 
 
