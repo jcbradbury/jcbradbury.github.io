@@ -17,6 +17,10 @@ sitemap: false
 
 This page explains how professional sports stadiums and arenas are financed, including the principal sources of private funding, public subsidies, taxes, bonds, and other government assistance. Much of the information is summarized from [Chapter 10](https://doi.org/10.1093/9780197820247.003.0010) of *This One Will Be Different*.
 
+Different taxes may somewhat change the distribution of the funding burden, but there is no way to reduce the cost of a stadium by selecting different tax instruments. Devoting resources for one purpose necessarily means not using them for something else. Spending hundreds of millions of taxpayer dollars on a stadium requires extracting that same amount of wealth from the tax jurisdiction, which means the community has less money for private and public consumption. 
+
+>Key takeaway: No matter what tax revenue sources are used to pay for a stadium, the cost of public stadiums is primarily borne by local residents.
+
 ## Who pays for professional sports stadiums?
 
 Professional sports venue financing has changed over time, with private and public owners using many funding mechanisms to build them. At the beginning of the 20th century, stadiums were entirely private endeavors, paid for by team owners. Venues become mostly public projects from the 1930s through the 1970s. Since that time, facilities have largely been public projects with varying levels of private contributions. 
