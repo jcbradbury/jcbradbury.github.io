@@ -35,6 +35,10 @@ Professional sports venue financing has changed over time, with private and publ
 
 Though the public share has been decreasing since the 1980s, the total public contribution has been generally increasing. The latter amount is what is most important for evaluating policy, because it represents an increasing allocation of public resources to venue projects.  For example, a publicly provided $500 million subsidy means that $500 million must be reallocated from other government projects, or collected from taxpayers. It does not matter whether that represents 30%, 50%, or 100% of the total cost; the opportunity cost of what those funds could be used for (publicly or privately) is the same. 
 
+## Is it possible for stadiums to be 100% privately financed?
+
+Yes. Stadiums were originally fully private endeavors, and though public subsidies are now common, many professional sports facilities are private venues. The US's major professional sports leagues are successful businesses that generate billions of dollars in annual revenue, which is their teams can pay athletes salaries in the millions of dollars.  Professional sports teams could easily self-fund their operations without any public assistance. 
+
 ## Is government funding devoted to stadiums really a *subsidy*, or should it be considered an *investment* in a public-private partnership?
 
 Because of the shared funding burden, stadium projects are often referred to as "public-private partnerships." Though it may seem to be an appropriate description of the relationship due to the joint nature of the project, the moniker is misleading. "Partnership" implies that the government is participating in a *business* partnership, which typically involves investments from private partners who expect to receive a share of future income that reflects the size of their financial contributions. For example, an investor who provides 30% of the cost of the project normally expects to receive 30% of the future income it generates. 
@@ -149,9 +153,7 @@ There is no costless way to raise revenue to cover the cost of building a new st
 
 The public finance concept of fiscal illusion involves using fiscal policy instruments that promote the appearance that a policy choice as being less costly or more beneficial than it actually is to taxpayers. Because [sports venue projects tend to be viewed more favorably by elected officials and local leaders](/stadium-economic-impact/#if-sports-venues-are-such-bad-public-investments-then-why-do-governments-continue-to-subsidize-them), their funding plans are often designed to make them more appealing the general public. Many taxes used to fund stadiums discussed above are chosen not because they are the most efficient way to raise revenue, but because the foster the fiscal illusion that they are worthwhile public investments. 
 
-## Is it possible for stadiums to be 100% privately financed?
-
-Yes. Stadiums were originally fully private endeavors, and though public subsidies are now common, many professional sports facilities are private venues. The US's major professional sports leagues are successful businesses that generate billions of dollars in annual revenue, which is their teams can pay athletes salaries in the millions of dollars.  Professional sports teams could easily self-fund their operations without any public assistance.  
+ 
 
 
 ## About the author
