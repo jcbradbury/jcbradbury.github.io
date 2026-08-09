@@ -108,7 +108,11 @@ As for car rentals, buyers have many choices to get around a city---such as ride
 And while sports events are often touted as tourist drivers that bring new spending into town, economics [research suggests that tourism effects from sports venues and events are small](/stadium-economic-impact/#what-about-tourism-and-visitors-from-outside-the-area). In addition, most of the people who attend games are locals, who do not stay in hotel rooms; yet, hotel taxes are charged year-round and can be costly to the overall hospitality industry. 
 
 
-### How are ticket taxes and facility fees used?
+### How are sin taxes used to fund stadiums?
+
+Some communities raise revenue for sports venue projects by allocating taxes from sales of vices, like alcohol and tobacco, or using gambling proceeds. While the taxes assessed do not fall equally on all taxpayers, they are still mostly paid by local residents and stores that buy and sell these items.  Perhaps these are appropriate items for government to raise revenue, but spending the money on a stadium comes with the opportunity cost devoting the income to other public priorities. 
+
+### How are ticket taxes and facility fees used to fund stadiums?
 
 It's common for stadium financing plans to include a tax on tickets or in-stadium purchases that go toward funding the venue. An attribute of these taxes is that the the individuals who consume the benefits are paying some of the costs. However, if customers can pay off the cost of the venue with their attendance, then there is no need for government to fund the venue at all. Team owners could self-fund the stadium by charging higher ticket prices, and no one would have to incur the administrative costs of collecting and distributing the tax revenue.   
 
