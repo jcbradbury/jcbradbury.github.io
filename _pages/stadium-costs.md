@@ -186,7 +186,7 @@ Public policy researcher [Geoffrey Propheter](https://link.springer.com/book/10.
 
 Stadiums financed through municipal bonds are sometimes eligible for a federal tax exemption, which economists [Austin Drukker, Ted Gayer, and Alexander Gold](https://doi.org/10.17310/ntj.2020.1.05) estimate to have cost $5.4 billion in lost tax revenue between 2000 and 2020. 
 
-(*Note: Dollar values in this section converted from reported-year dollar to 2024 dollars.*)
+(*Note: Dollar values in this section converted from reported-year dollars to 2024 dollars.*)
 
 
 ## How costly are venue renovations?
