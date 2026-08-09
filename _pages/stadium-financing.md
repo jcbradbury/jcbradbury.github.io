@@ -15,9 +15,9 @@ sitemap: false
 
 **By [J.C. Bradbury](/)**
 
-This page explains how professional sports stadiums and arenas are financed, including the principal sources of private funding, public subsidies, taxes, bonds, and other government assistance. Much of the information is summarized from [Chapter 10](https://doi.org/10.1093/9780197820247.003.0010) of *This One Will Be Different*.
+This page describes common ways that professional sports stadiums and arenas are publicly financed, including the principal sources public subsidies from taxes, bonds, and other government assistance. Much of the information is summarized from [Chapter 10](https://doi.org/10.1093/9780197820247.003.0010) of *This One Will Be Different*.
 
-Different taxes may somewhat change the distribution of the funding burden, but there is no way to eliminate the public cost of a stadium by selecting different tax instruments. Devoting resources for one purpose necessarily means not using them for something else. Spending hundreds of millions of taxpayer dollars on a stadium requires extracting that same amount of wealth from the tax jurisdiction, which means the community has money available to use for private and public consumption. 
+An important lesson is that different taxes may somewhat change the distribution of the funding burden, but there is no way to eliminate the public cost of a stadium by selecting certain tax instruments. Taxpayer-funded stadiums have opportunity costs: devoting resources for one purpose necessarily means not using them for something else. Spending hundreds of millions of taxpayer dollars on a stadium requires extracting that same amount of wealth from the tax jurisdiction, which means the community has money available to use for private and public consumption. 
 
 >**Key takeaway:** No matter what funding mechanisms are used to pay for a stadium, the cost of public stadiums is primarily borne by local taxpayers.
 
@@ -148,6 +148,10 @@ There is no costless way to raise revenue to cover the cost of building a new st
 ## What is fiscal illusion, and how does it influence public stadium financing?
 
 The public finance concept of fiscal illusion involves using fiscal policy instruments that promote the appearance that a policy choice as being less costly or more beneficial than it actually is to taxpayers. Because [sports venue projects tend to be viewed more favorably by elected officials and local leaders](/stadium-economic-impact/#if-sports-venues-are-such-bad-public-investments-then-why-do-governments-continue-to-subsidize-them), their funding plans are often designed to make them more appealing the general public. Many taxes used to fund stadiums discussed above are chosen not because they are the most efficient way to raise revenue, but because the foster the fiscal illusion that they are worthwhile public investments. 
+
+## Is it possible for stadiums to be 100% privately financed?
+
+Yes. Stadiums were originally fully private endeavors, and though public subsidies are now common, many professional sports facilities are private venues. The US's major professional sports leagues are successful businesses that generate billions of dollars in annual revenue, which is their teams can pay athletes salaries in the millions of dollars.  Professional sports teams could easily self-fund their operations without any public assistance.  
 
 
 ## About the author
