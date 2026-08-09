@@ -70,12 +70,12 @@ Sometimes sales taxes are assessed in special districts, or attached to specific
 
 ### Do stadiums funded by tourist taxes, like taxes on hotel stays and car rental cars, shift the funding burden off local residents?
 
-Some governments fund sports venue projects with taxes on purchases associated with out-of-town visitors, such as hotel rooms and car rentals. The idea is to export the funding costs off residents onto visitors. It would seem that taxing something like hotel rooms, which are largely rented by non-locals would lower the funding cost borne by area citizens; however, the allocation of tax burdens is not this simple.
+Some governments fund sports venue projects with taxes on purchases associated with out-of-town visitors, such as hotel rooms and car rentals. The idea is to export the funding costs off residents onto visitors. It would seem that taxing something like hotel rooms, which are largely rented by non-locals, would lower the cost paid by area citizens; however, the allocation of tax burdens is not this simple.
 
-Tax incidence is a key concept taught in introductory microeconomics courses. Because buyers and sellers adjust their purchases/sales according to the prices they pay/receive both parties will respond to tax burdens, even when they do not directly pay the tax.
+ Because buyers and sellers adjust their purchases/sales according to the prices they pay/receive, which includes the added cost/reduced revenue from taxes, both parties will respond to tax burdens, even when they do not directly pay the tax.  Thus, determining tax burdens requires tax incidence analysis, which is economic concept that is so fundamental that it is taught in introductory microeconomics courses.
 
 
-The market response to a tax on a particular good or service is demonstrated using basic supply and demand analysis below. In this example, an identical fixed-dollar per unit tax (e.g., $3 per hotel room night) is assessed on either buyers or sellers. The shaded gray boxes reflect the total tax revenue collected by the government and the different shades separate the individual shares contributed by both parties.
+I demonstrate how tax incidence analysis is used to identify tax burdens it the following example. An identical fixed-dollar per unit tax (e.g., $3 per hotel room night) is assessed on either buyers (hotel guests) or sellers (hotel owners). The shaded gray boxes reflect the total tax revenue collected by the government and the different shades separate the individual shares contributed by both parties.
 
 <figure style="text-align: center;">
   <img src="/images/tax_crop.png"
@@ -91,16 +91,18 @@ Sellers bear a larger share of the tax burden in both cases, because sellers are
 
 >**This example demonstrates an important lesson of tax incidence:** *The burden of paying taxes is determined by the relative price sensitivity (elasticities) of buyers and sellers, not by the party who is responsible for paying the tax.*
 
-So, who bears the burden of hotel taxes? Research on the subject is somewhat limited, but market conditions for lodging suggests that hotel owners bear a considerable share of the cost.  On the buyer's side, guests many respond to the added expense of hotel taxes by staying fewer nights, sharing rooms, or traveling to an alternative tourist destination. On the seller's side, hotels have a fixed number of rooms, and thus can only respond by raising prices when consumer demand is high and lowering prices to fill vacant rooms. Therefore, it's likely that hotels taking on much of the burden by lowering room rates, which results in reduced revenue. 
+So, who bears the burden of hotel taxes? Empirical research on the subject is somewhat limited, but market conditions for lodging suggests that hotel owners bear a considerable share of the cost.  On the buyer's side, guests many respond to the added expense of hotel taxes by staying fewer nights, sharing rooms, or traveling to an alternative tourist destination. On the seller's side, hotels have a fixed number of rooms, and thus can only respond by raising prices when consumer demand is high and lowering prices to fill vacant rooms. Therefore, it's likely that hotels taking on much of the burden by lowering room rates, which results in reduced revenue. 
 
-As for car rentals, buyers have many choices to get around a city---such as ride shares, and public transportation---and car rental agencies can move unrented cars to other markets. In general, care rental taxes are easily avoided and raise very little revenue from tourists.
+As for car rentals, buyers have many choices to get around a city---such as ride shares, and public transportation---and car rental agencies can move unrented cars to other markets. In general, care rental taxes are easily avoided and raise very little revenue from visitors. 
 
 And while sports events are often touted as tourist drivers that bring new spending into town, economics [research suggests that tourism effects from sports venues and events is small](/stadium-economic-impact/#what-about-tourism-and-visitors-from-outside-the-area). In addition, most of the people who attend games are locals, who do not stay in hotel rooms; yet, hotel taxes are charged year-round and can be costly to the overall hospitality industry. 
 
 
 ### How are ticket taxes and facility fees used?
 
-[Add explanation.]
+It's common for stadium financing plans to include a tax on tickets or in-stadium purchases that go toward funding the venue. An attribute of these taxes is that the the individuals who consume the benefits are paying some of the costs. However, if customers can pay off the cost of the venue with their attendance, then there is no need for government to fund the venue at all. Team owners could self-fund the stadium by charging higher ticket prices, and no one would have to incur the administrative costs of collecting and distributing the tax revenue.   
+
+Ticket taxes have the political advantage of implying that users are paying for the venue---they are only paying a small part---but team owners dislike taxing attendees, because it lowers the private revenue they collect. In most cases, venue-assessed taxes make up only a small part of the public funding plan, with the bulk of funds coming from other tax sources. 
 
 
 ### How do tax-increment financing and special tax districts pay for stadiums?
