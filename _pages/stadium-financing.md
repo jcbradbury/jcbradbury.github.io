@@ -89,7 +89,7 @@ I demonstrate how tax incidence analysis is used to identify tax burdens in the 
 
 <figure style="text-align: center;">
   <img src="/images/tax_crop.png"
-       alt=""
+       alt="Two-panel supply-and-demand diagram illustrating tax incidence. The left panel shows a per-unit tax formally paid by buyers, shifting demand downward; the right panel shows the same tax formally paid by sellers, shifting supply upward. In both cases, the post-tax quantity falls, buyers pay a higher price, sellers receive a lower price, and the total tax burden is split between buyers and sellers. The shaded tax-revenue rectangles show that sellers bear the larger share of the burden in this example, regardless of which side is legally responsible for paying the tax."
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
