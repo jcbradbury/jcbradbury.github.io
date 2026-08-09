@@ -2,7 +2,7 @@
 layout: single
 title: "How Are Stadiums Paid For? A Primer on Public Financing of Stadiums"
 permalink: /stadium-financing/
-published: false
+published: true
 excerpt: "A guide to the taxes, bonds, and other financing mechanisms used to pay for professional sports stadiums and arenas."
 author_profile: true
 classes: wide
@@ -10,7 +10,7 @@ toc: true
 toc_label: "On this page"
 toc_sticky: true
 share: false
-sitemap: false
+sitemap: true
 ---
 
 **By [J.C. Bradbury](/)**
@@ -158,7 +158,7 @@ There is no costless way to raise revenue to cover the cost of building a new st
 The public finance concept of fiscal illusion involves using fiscal-policy instruments that make a policy choice appear less costly or more beneficial to taxpayers than it actually is. Because [sports venue projects tend to be viewed more favorably by elected officials and local leaders](/stadium-economic-impact/#if-sports-venues-are-such-bad-public-investments-then-why-do-governments-continue-to-subsidize-them), their funding plans are often designed to make them more appealing to the general public. Many taxes used to fund stadiums discussed above are chosen not because they are the most efficient way to raise revenue, but because they foster the fiscal illusion that they are worthwhile public investments. 
 
  
-**First published:**  August 10, 2026 
+**First published:**  August 9, 2026 
 
 ## About the author
 

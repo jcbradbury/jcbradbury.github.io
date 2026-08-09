@@ -371,12 +371,19 @@ Before reporting claims about a stadium’s economic benefits, journalists shoul
 
 
 **First published:** July 28, 2026  
-**Last updated:** August 3, 2026 
+**Last updated:** August 9, 2026
 
 ## About the author
 
 [J.C. Bradbury](/) is a professor of economics at Kennesaw State University. His research focuses on sports economics, public finance, and local economic-development policy. He is the author of [*This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums*](/towbd/), published by Oxford University Press.
 
+
+## Related resources
+
+- [How Much Do Sports Stadiums Cost?](/stadium-costs/) — Construction costs, public subsidies, renovations, and historical trends.
+- [How Are Stadiums Paid For? ](/stadium-financing/) — A primer on public financing of stadiums
+- [Stadium Economics](/stadium-economics/) — Articles, research, videos, and public presentations.
+- [*This One Will Be Different*](/towbd/) — A comprehensive examination of publicly funded sports stadiums.
 
 
 <script type="application/ld+json">

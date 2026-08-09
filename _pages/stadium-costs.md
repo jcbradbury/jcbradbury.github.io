@@ -229,3 +229,10 @@ For more details on minor-league baseball stadium financing, see my study [The P
 ## About the author
 
 [J.C. Bradbury](/) is a professor of economics at Kennesaw State University. His research focuses on sports economics, public finance, and local economic-development policy. He is the author of [*This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums*](/towbd/), published by Oxford University Press.
+
+## Related resources
+
+- [Do Sports Stadiums Help Local Economies?](/stadium-economic-impact/) — A primer on the economic effects of stadiums.
+- [How Are Stadiums Paid For? ](/stadium-financing/) — A primer on public financing of stadiums
+- [Stadium Economics](/stadium-economics/) — Articles, research, videos, and public presentations.
+- [*This One Will Be Different*](/towbd/) — A comprehensive examination of publicly funded sports stadiums.
