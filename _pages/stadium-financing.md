@@ -110,7 +110,7 @@ And while sports events are often touted as tourist drivers that bring new spend
 
 ### How are sin taxes used to fund stadiums?
 
-Some communities raise revenue for sports venue projects by allocating taxes from sales of vices, like alcohol and tobacco, or using gambling proceeds. While the taxes assessed do not fall equally on all taxpayers, they are still mostly paid by local residents and stores that buy and sell these items.  Perhaps these are appropriate items for government to raise revenue, but spending the money on a stadium comes with the opportunity cost devoting the income to other public priorities. 
+Some communities raise revenue for sports venue projects by allocating taxes from sales of vices, like alcohol and tobacco, or using gambling proceeds. While the the funding  burden not fall equally on all citizens, they are still mostly paid by local residents and stores that buy and sell these items.  Perhaps these are appropriate items for government to raise revenue, but it is unconnected to stadium-related commerce. Also, using the funds to finance a sports venue has the opportunity cost devoting the income to other public priorities. 
 
 ### How are ticket taxes and facility fees used to fund stadiums?
 
