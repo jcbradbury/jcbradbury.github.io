@@ -16,10 +16,6 @@ header:
   image: stadium-financing-share.png
 ---
 
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="How Are Stadiums Paid For?">
-<meta name="twitter:description" content="A guide to the taxes, bonds, and other financing mechanisms used to pay for professional sports stadiums and arenas.">
-<meta name="twitter:image" content="https://jcbradbury.com/images/stadium-financing-share.png">
 
 
 <style>
