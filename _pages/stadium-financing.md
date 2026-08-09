@@ -105,7 +105,11 @@ It's common for stadium financing plans to include a tax on tickets or in-stadiu
 Ticket taxes have the political advantage of implying that users are paying for the venue---they are only paying a small part---but team owners dislike taxing attendees, because it lowers the private revenue they collect. In most cases, venue-assessed taxes make up only a small part of the public funding plan, with the bulk of funds coming from other tax sources. 
 
 
-### How do tax-increment financing and special tax districts pay for stadiums?
+### How do special stadium districts and tax increment financing (TIF) pay for stadiums?
+
+An increasingly common taxing strategy being employed to pay for stadiums is to use the tax increment financing (TIF) model. The expectation is that stimulated new development in the TIF districts will generate future tax revenue that can be used to pay off the stadium. This may involve implementing new taxes  (e.g., sales, property, hotel) on top of existing assessments or reallocating existing tax collections in the area to fund the project.
+
+Stadium-district taxes that collect revenue from surrounding commercial activity are often pitched as a way to pay for a public sports venue without really raising taxes, based on the rationale that the collections come from stadium-related spending. However, it is well documented that stadium create new economic activity, they reallocate existing spending.  Thus, the taxes collected from merchants in the stadium district comes at the expense of less spending outside the special tax district. For example, patrons of restaurants near the venue would have otherwise gone out to eat at other restaurants whose taxes were previously used to fund other government services. Now that money goes towards paying off the stadium, and perhaps development of a surrounding commercial/entertainment district, instead of covering other public priorities. 
 
 ## What tax breaks do stadiums and teams receive?
 
