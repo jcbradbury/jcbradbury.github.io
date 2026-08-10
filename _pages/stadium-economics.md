@@ -12,8 +12,17 @@ share: false
 published: true
 sitemap: true
 
+header:
+  image: stadium-economics-share.png
 
 ---
+
+
+<style>
+.page__hero {
+  display: none;
+}
+</style>
 
 A General Guide to the Economics of Stadiums
  
