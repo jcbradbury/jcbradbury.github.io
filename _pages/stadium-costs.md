@@ -13,7 +13,17 @@ published: true
 sitemap: true
 
 
+header:
+  image: stadium-costs-share.png
 ---
+
+
+
+<style>
+.page__hero {
+  display: none;
+}
+</style>
 
 
 
