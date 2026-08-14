@@ -4,7 +4,19 @@ title: "This One Will Be Different"
 excerpt: "False Promises and Fiscal Realities of Publicly Funded Stadiums, by economist J.C. Bradbury."
 permalink: /towbd/
 author_profile: true
+
+
+header:
+  image: towbd_oxford.png
+
 ---
+
+
+<style>
+.page__hero {
+  display: none;
+}
+</style>
 
 My book **This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums** will be released on August 21, 2026. <!-- 
 You can read the first chapter [here](https://academic.oup.com/book/62944/chapter/564466104). 
