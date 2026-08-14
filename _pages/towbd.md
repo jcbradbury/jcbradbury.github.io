@@ -7,7 +7,7 @@ author_profile: true
 
 
 header:
-  image: towbd_oxford.png
+  image: towbd-share.png
 
 ---
 
