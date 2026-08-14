@@ -18,7 +18,7 @@ header:
 }
 </style>
 
-My book **This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums** is scheduled to be released this fall. <!-- 
+My book **This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums** is scheduled to be released on October 9. <!-- 
 You can read the first chapter [here](https://academic.oup.com/book/62944/chapter/564466104). 
 -->
 
