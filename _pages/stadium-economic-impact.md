@@ -4,7 +4,7 @@ title: "Do Sports Stadiums Help Local Economies?"
 permalink: /stadium-economic-impact/
 published: true
 excerpt: "What economic research shows about stadiums, jobs, tax revenue, development, public subsidies, and common economic impact claims."
-author_profile: false
+author_profile: true
 classes: wide
 toc: true
 toc_label: "On this page"
