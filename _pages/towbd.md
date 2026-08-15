@@ -33,6 +33,9 @@ You can read the first chapter [here](https://academic.oup.com/book/62944/chapte
   <div style="flex: 1;">
     <ul>
       <li><a href="https://global.oup.com/academic/product/this-one-will-be-different-9780197820216?cc=us&lang=en&">Oxford University Press</a></li>
+        <ul>
+        <li>Publisher 30% Discount code: AUFLY30</li>
+        </ul>
       <li><a href="https://www.amazon.com/This-One-Will-Different-Realities/dp/0197820212">Amazon</a></li>
       <li><a href="https://www.barnesandnoble.com/w/this-one-will-be-different-j-c-bradbury/1149008693?ean=9780197820216">Barnes & Noble</a></li>
       <li><a href="https://www.booksamillion.com/p/This-One-Will-Be-Different/J-C-Bradbury/9780197820216">Books-A-Million</a></li>
