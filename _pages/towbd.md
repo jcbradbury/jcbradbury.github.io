@@ -40,7 +40,7 @@ You can read the first chapter [here](https://academic.oup.com/book/62944/chapte
       <li><a href="https://www.barnesandnoble.com/w/this-one-will-be-different-j-c-bradbury/1149008693?ean=9780197820216">Barnes & Noble</a></li>
       <li><a href="https://www.booksamillion.com/p/This-One-Will-Be-Different/J-C-Bradbury/9780197820216">Books-A-Million</a></li>
       <li><a href="https://bookshop.org/p/books/this-one-will-be-different-false-promises-and-fiscal-realities-of-publicly-funded-stadiums-professor-of-economics-j-c-bradbury/3fcfe692cf812a1b?ean=9780197820216&next=t">IndieBound</a></li>   
-      <li><a href="https://play.google.com/store/books/details/J_C_Bradbury_This_One_Will_Be_Different?id=wLzwEQAAQBAJ">Google Play</a> (available now)</li>   
+      <li><a href="https://play.google.com/store/books/details/J_C_Bradbury_This_One_Will_Be_Different?id=wLzwEQAAQBAJ">Google Play</a></li>   
       <li><a href="https://www.goodreads.com/book/show/245768742">Goodreads</a></li>
       <li>Journalists/course instructors seeking a review copy:</li> 
         <ul>
