@@ -15,7 +15,11 @@ sitemap: false
 
 **By [J.C. Bradbury](/)**  
 
-The National Football League (NFL) was formed after the era of modern concrete and steel stadiums had begun. Following its founding in 1920, it gradually evolved to challenge baseball's status as the country's national pastime in the middle of the 20th century.  In the early days of the league, NFL teams played in existing stadiums that were not built primarily for them, or even to host football.  
+The National Football League (NFL) was founded in 1920 after the era of modern concrete and steel stadiums had begun. Though it's early organization was somewhat chaotic, 
+In the early days of the league, NFL teams played in existing stadiums that were not built primarily for them, or even to host football.  
 
-Many NFL franchises played in ballparks, which were privately owned by MLB team owners, who who were happy to collect the additional revenue. It may have been convenient arrangement, but playing football in a ballpark was not an ideal arrangement. I required squeezing football's rectangular gridiron within ballpark dimensions, which meant walls abutted the playing field  and made for difficult viewing from spectators. Early MLB parks that hosted NFL teams included Philadelphia Athletics' Shibe Park   
+Many NFL franchises played  in MLB ballparks. Playing in the local ballpark may have been convenient, and MLB team owners valued the additional revenue a football tenant provided to their private venues, but it was not an ideal arrangement. It required squeezing football's rectangular gridiron within ballpark dimensions, which meant walls abutted the playing field  and made for difficult viewing from spectators.  
 
+Some teams played in college football stadiums or municipal public stadiums owned by the host city. For example, the Philadelphia Eagles would play in all three types of venues, playing at the public Philadelphia Municipal Stadium, Shibe Park (home of the AL Athletics and NL Phillies), and Franklin Field (home of the Penn Quakers).
+
+As NFL grew gained popularity in the middle of the 20th century, teams sought better facilities that would allow them to host more fans as well as give them more control over ticket and concession sales. 
