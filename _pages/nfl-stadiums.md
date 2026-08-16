@@ -18,13 +18,20 @@ sitemap: false
 
 The National Football League (NFL) got off to tenuous start during its first few decades of operation, but it would ultimately evolve to supplant Major League Baseball (MLB) as the US's preeminent major sports league.  The NFL was founded in 1920 after the era of modern concrete and steel stadiums had begun, thus its early members were able to rely upon existing venues that were built for other purposes, but now its teams play in the largest and most expensive in the country, and their costs of construction continue to grow higher.
 
+In our article [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22534), Dennis Coates and Brad Humphreys and I separate stadium construction into three eras, which are distinguished by venue designs and construction costs. I describe how NFL venues progressed through period, and then examine the next generation of stadium-building, which is currently ramping up. 
 
 ## The Inaugural Era
 
-In the early days of the league, NFL teams played in existing stadiums that were not built primarily for them, or even to host football.  Many NFL franchises played in MLB ballparks. Playing in existing local ballparks was convenient, and MLB team owners valued the additional revenue a football tenant provided to their private venues, but it was not an ideal arrangement. It required squeezing football's rectangular gridiron within ballpark dimensions, which meant walls abutted the playing field  and made for difficult viewing from spectators.  Some teams played in college football stadiums or municipal public stadiums owned by the host city. For example, the Philadelphia Eagles would play in all three types of venues, playing at the public Philadelphia Municipal Stadium, Shibe Park (home of the AL Athletics and NL Phillies), and Franklin Field (home of the Penn Quakers).
+In the early days of the NFL, as its teams searched to build an audience, resulting in a churn in membership, it's franchises founds homes in existing stadiums that were not built primarily for them, or even to host football.  Many NFL teams played in local ballparks, which provide MLB team owners  an additional revenue source for their private venues. However, this was not an ideal arrangement, because it required squeezing football's rectangular gridiron within ballpark dimensions, which meant walls abutted the playing field  and made for difficult viewing from spectators. Even into the 1950s, bigger stadiums like Milwaukee County Stadium (Green Bay Packers) and Metropolitan Stadium (Minnesota Vikings) were not well suited for football, and their NFL teams were secondary tenants. 
+
+ Some teams played in college football stadiums or public stadiums built and owned by the host municipality. In this sense, the NFL was a leader in transitioning stadiums from being privately to publicly provided. 
+ 
+ Because of their subordinate status, NFL franchises often moved from stadium to stadium. For example, the Philadelphia Eagles would play in all three types of venues, playing in two ballparks the Baker Bowl (Phillies) and Shibe Park (Athletics and Phillies), the public Philadelphia Municipal Stadium, and Franklin Field (home of the Penn Quakers).
 
 ## The Superstadium Era
-As NFL grew gained popularity in the middle of the 20th century, teams sought better facilities that would allow them to host more fans as well as give them more control over ticket and concession sales. 
+As NFL grew gained popularity in the middle of the 20th century, teams sought better facilities that would allow them to host more fans as well as give them more control over ticket and concession sales. Shared multipurpose stadiums provided by local authorities offered the solution of replacing facilities built at the beginning of the century, which could serve both baseball and football.  
+
+These stadiums were build large enough to handle both baseball and football field playing dimensions. Perhaps they were not aesthetically pleasing, but they were functional. These venue also included adequate restrooms and concessions, and were surrounded by large parking lots the serve the growing automobile culture of US cities. These grand stadiums were considerably more expensive then their predecessors, but they were considered prudent investments because they could handle two major sports---three if they were domed.  
 
 ## Stadium Mania
 
