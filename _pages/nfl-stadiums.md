@@ -164,6 +164,8 @@ NFL teams finally got the football-first designs befitting the country's dominan
 
 The shift from inaugural venues to superstadiums resulted in a ratcheting up in the cast of stadium building. A similar cost jump occurred with the beginning of stadium mania, but it wasn't a one time event. As owners continued to build stadiums their costs grew at an increasing rate, as owners tried to one-up each other with every new venue that opened.  While the real cost of venues remained relatively constant during from the 1960s through the 1980s, from the 1990s through to 2010s, the median cost of NFL stadiums more than quadrupled. 
 
+Though public subsidies have not kept pace with overall construction costs, they continued to grow, increasing the taxpayer burden.
+
 <figure style="text-align: center;">
   <img src="/images/med_nfl.png"
        alt="Bar chart showing median construction costs for NFL stadiums by decade from the 1900s through the 2030s, in millions of 2024 dollars. Median total costs rise from $36 million in the 1900s and remain below $400 million through the 1980s, before increasing to $422 million in the 1990s, $708 million in the 2000s, $1.89 billion in the 2010s, $2.38 billion in the 2020s, and $2.85 billion in the 2030s. Median public costs are shown in gray and reach $544 million in the 2010s, $900 million in the 2020s, and $1.37 billion in the 2030s."
@@ -172,7 +174,7 @@ The shift from inaugural venues to superstadiums resulted in a ratcheting up in 
 
 The visual comparison between the Atlanta Falcons' two stadium-mania era venues is illustrative of how facilities improved.  The Georgia Dome, which opened in 1992, is dwarfed by its replacement Mercedez-Benz Stadium, which opened in 1997.  Though seating capacities are nearly identical, the newer venue uses a larger footprint to furnish its upgraded amenities.
 
-Though public subsidies have not kept pace with overall construction costs, they continued to grow, increasing the taxpayer burden.
+
 
 <figure style="text-align: center; margin: 0;">
   <a
