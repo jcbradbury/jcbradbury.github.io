@@ -257,7 +257,7 @@ The 2020s have already been a productive and expensive era for NFL stadium-build
       <img
         src="/images/Allegiantstadiumjune2020.jpg"
         alt="Aerial view of Allegiant Stadium in Las Vegas, Nevada, in June 2020."
-        style="width: 100%; height: 340px; object-fit: cover; cursor: zoom-in;"
+        style="width: 100%; height: 300px; object-fit: cover; cursor: zoom-in;"
       >
     </a>
     <figcaption>
