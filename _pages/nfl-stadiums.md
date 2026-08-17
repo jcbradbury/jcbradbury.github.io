@@ -59,7 +59,7 @@ In the early days of the NFL, as its teams searched to build an audience, result
       style="width: 100%; height: auto;"
     >
     <figcaption>
-      Milwaukee County Stadium (1953–2000) set up to host a football game, circa 1955 (then the home of the Milwaukee Braves). It was the part-time host of the NFL Green Bay Packers and later hosted the MLB Brewers. [Marquette University, Department of Archival Collections and Institutional Repository].
+      Milwaukee County Stadium (1953–2000) set up to host a football game, circa 1955. Home of the Milwaukee Braves (1953–2000), Green Bay Packers (1953–1994, part-time), and Milwaukee Brewers (1970–2000). [Marquette University, Department of Archival Collections and Institutional Repository].
     </figcaption>
   </figure>
 
