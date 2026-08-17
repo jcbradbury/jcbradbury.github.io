@@ -48,7 +48,7 @@ In the early days of the NFL, as its teams searched to build an audience, result
       style="width: 100%; height: auto;"
     >
     <figcaption>
-      Braves Field (1915–1952), home of baseball's Boston Braves, configured for a Boston Braves NFL football game in 1932. [National Baseball Hall of Fame collection; image hosted by SABR].
+      Braves Field (1915–1952), home of NL's Boston Braves, configured for a NFL Boston Braves football game in 1932. [National Baseball Hall of Fame collection; image hosted by SABR].
     </figcaption>
   </figure>
 
