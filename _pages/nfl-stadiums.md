@@ -162,7 +162,7 @@ Not only did more venues open, but their designs changed. MLB teams sought to re
 
 NFL teams finally got the football-first designs befitting the country's dominant major sports league. Though Miami Dolphins owner Joe Robbie had privately funded his stadium to also host a baseball team, his funding model proved to owners the value of catering to high-end patrons with luxury amenities and exclusive spaces. Robbie was able to build his showpiece with advance sales of skyboxes and club seats, and owners wanted to capitalize on this consumer cohort, but without sharing it with another tenant while still having taxpayers cover much of the cost.
 
-The shift from inaugural venues to superstadiums resulted in a ratcheting up in the cast of stadium building. A similar cost jump occurred with the beginning of stadium mania, but it wasn't a one time event. As owners continued to build stadiums their costs grew at an increasing rate. 
+The shift from inaugural venues to superstadiums resulted in a ratcheting up in the cast of stadium building. A similar cost jump occurred with the beginning of stadium mania, but it wasn't a one time event. As owners continued to build stadiums their costs grew at an increasing rate, as owners tried to one-up each other with every new venue that opened.  While the real cost of venues remained relatively constant during from the 1960s through the 1980s, from the 1990s through to 2010s, the median cost of NFL stadiums more than quadrupled. 
 
 <figure style="text-align: center;">
   <img src="/images/med_nfl.png"
@@ -170,6 +170,17 @@ The shift from inaugural venues to superstadiums resulted in a ratcheting up in 
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
+
+<figure style="text-align: center;">
+  <img
+    src="/images/MB_GAdome.jpg"
+    alt=""
+    style="max-width: 100%; height: auto;"
+  >
+  <figcaption>
+    
+  </figcaption>
+</figure>
 
 ## The Next Generation (2020 -- )
 
