@@ -46,7 +46,7 @@ In the early days of the NFL, as its teams searched to build an audience, result
     style="max-width: 100%; height: auto;"
   >
   <figcaption>
-    Aerial view of Milwaukee County Stadium, circa 1955 (then the home of the Milwaukee Braves), set up to host a football game: [Marquette University, Department of Archival Collections and Institutional Repository].
+    Aerial view of Milwaukee County Stadium, circa 1955 (then the home of the Milwaukee Braves), set up to host a football game [Marquette University, Department of Archival Collections and Institutional Repository].
   </figcaption>
 </figure>
 
@@ -54,6 +54,17 @@ In the early days of the NFL, as its teams searched to build an audience, result
 As NFL grew gained popularity in the middle of the 20th century, teams sought better facilities that would allow them to host more fans as well as give them more control over gameday operations and revenue. Shared multipurpose stadiums provided by local authorities offered the solution of replacing aging private ballparks and basic municipal facilities, with expanded venues that could serve both baseball and football.  
 
 These superstadiums were build large enough to handle both baseball and football field playing dimensions. Many of these venues were so similar in design that they were referred to as "cookie-cutter" stadiums. Perhaps they were not aesthetically pleasing, but they were upgrades over inaugural era venues, which more restrooms and concessions. They also catered to growing automobile culture of US cities, surrounded by large parking lots. These grand stadiums were considerably more expensive then their predecessors, and offered comforts that their predecessors lacked, but they were considered prudent investments because they could handle two major sports---three if they were domed.  
+
+ <figure style="text-align: center;">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Three_Rivers_Stadium_aerial_view_1996.jpg"
+    alt="Aerial view of Three Rivers Stadium hosting an NFL game for the Pittsburgh Steelers versus the Baltimore Ravens on September 8, 1996. (PHOTO/PAUL M. WALSH)"
+    style="max-width: 100%; height: auto;"
+  >
+  <figcaption>
+    Pittsburgh's Three Rivers Stadium, in 1996, during the game against the Ravens. It hosted the Pirates and Steelers from 1970 -- 2000. [Photo by Paul M. Walsh]
+  </figcaption>
+</figure>
 
 ## Stadium Mania (1990s -- 2010s)
 
