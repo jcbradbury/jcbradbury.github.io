@@ -22,11 +22,11 @@ sitemap: false
   line-height: 1.5;
 ">
  <strong>About this article.</strong>
-  <a href="https://doi.org/10.1093/9780197820247.003.0003"
+  This article traces the economic history of NFL stadiums, from the league's early use of baseball parks and municipal stadiums through the modern era of increasingly expensive, football-specific venues.   <a href="https://doi.org/10.1093/9780197820247.003.0003"
      target="_blank"
      rel="noopener noreferrer">Chapter 3</a>
   of <a href="/towbd/"><i>This One Will Be Different</i></a>
-  presents a general history of stadium construction for all major-league venues.   This article traces the economic history of NFL stadiums, from the league's early use of baseball parks and municipal stadiums through the modern era of increasingly expensive, football-specific venues.
+  presents a general history of stadium construction for all major-league venues. 
 
 </div>
 
