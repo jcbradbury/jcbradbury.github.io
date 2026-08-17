@@ -65,6 +65,44 @@ In the early days of the NFL, as its teams searched to build an audience, result
 
 </div>
 
+<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
+
+  <figure style="flex: 1 1 320px; margin: 0; text-align: center;">
+    <a
+      href="https://dev.sabr.org/wp-content/uploads/2012/10/USE-Stadiums-Braves-Field-Boston-10827.94-CSU.jpg"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="https://dev.sabr.org/wp-content/uploads/2012/10/USE-Stadiums-Braves-Field-Boston-10827.94-CSU.jpg"
+        alt="Boston Braves football game at Braves Field in 1932, showing the football field laid out inside the baseball ballpark."
+        style="width: 100%; height: auto; cursor: zoom-in;"
+      >
+    </a>
+    <figcaption>
+      Braves Field (1915–1952), home of NL's Boston Braves, configured for a NFL Boston Braves football game in 1932. [National Baseball Hall of Fame collection; image hosted by SABR].
+    </figcaption>
+  </figure>
+
+  <figure style="flex: 1 1 320px; margin: 0; text-align: center;">
+    <a
+      href="https://cdm16280.contentdm.oclc.org/digital/api/singleitem/image/p16280coll1/12780/default.jpg"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="https://cdm16280.contentdm.oclc.org/digital/api/singleitem/image/p16280coll1/12780/default.jpg"
+        alt="Aerial view of Milwaukee County Stadium, circa 1955, configured for a football game."
+        style="width: 100%; height: auto; cursor: zoom-in;"
+      >
+    </a>
+    <figcaption>
+      Milwaukee County Stadium (1953–2000) set up to host a football game, circa 1955. Home of the Milwaukee Braves (1953–1965), Green Bay Packers (1953–1994, part-time), and Milwaukee Brewers (1970–2000). [Marquette University, Department of Archival Collections and Institutional Repository].
+    </figcaption>
+  </figure>
+
+</div>
+
  
 
 ## The Superstadium Era (1960s -- 1980s)
