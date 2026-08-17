@@ -65,16 +65,7 @@ In the early days of the NFL, as its teams searched to build an audience, result
 
 </div>
 
- <figure style="text-align: center;">
-  <img
-    src="https://cdm16280.contentdm.oclc.org/digital/api/singleitem/image/p16280coll1/12780/default.jpg"
-    alt="Aerial view of Milwaukee County Stadium, circa 1955"
-    style="max-width: 100%; height: auto;"
-  >
-  <figcaption>
-    Aerial view of Milwaukee County Stadium (1953 – 2000), circa 1955 (then the home of the Milwaukee Braves), set up to host a football game. It was the part-time host of the NFL Green Bay Packers and later hosted the MLB Brewers. [Marquette University, Department of Archival Collections and Institutional Repository].
-  </figcaption>
-</figure>
+ 
 
 ## The Superstadium Era (1960s -- 1980s)
 As NFL grew gained popularity in the middle of the 20th century, teams sought better facilities that would allow them to host more fans as well as give them more control over gameday operations and revenue. Shared multipurpose stadiums provided by local authorities offered the solution of replacing aging private ballparks and basic municipal facilities, with expanded venues that could serve both baseball and football.  
