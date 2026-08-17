@@ -277,8 +277,15 @@ And several NFL stadiums that are not being replaced are instead getting extensi
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
-<p style="font-size: 0.85em; color: #666;">
+<div style="
+  background-color: #f5f5f5;
+  border-left: 4px solid #666;
+  padding: 14px 18px;
+  margin: 20px 0 28px 0;
+  font-size: 0.97em;
+  line-height: 1.5;
+">
   Historical images on this page are reproduced from public-domain or freely licensed sources where available. 
   Other images are used for purposes of scholarship, commentary, and historical analysis under the fair-use provisions of U.S. copyright law. 
   Image sources and credits are provided in individual captions. Rights holders with questions may contact the author.
-</p>
+</div>
