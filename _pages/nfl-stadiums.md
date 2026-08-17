@@ -88,16 +88,6 @@ As NFL grew gained popularity in the middle of the 20th century, teams sought be
 
 Many of these venues were so similar in design that they were referred to as "cookie-cutter" stadiums: RFK Stadium (Washington, DC, 1961), Shea Stadium (New York 1964), Atlanta–Fulton County Stadium (1965), Busch Memorial Stadium (St. Louis, 1966), Oakland–Alameda County Coliseum (1966), San Diego/Jack Murphy Stadium (1967), Riverfront Stadium (Cincinnati, 1970), Three Rivers Stadium (1970), and Veterans Stadium (Philadelphia 1971). 
 
-Perhaps these superstadiums were not aesthetically pleasing, but they were upgrades over inaugural era venues, which more restrooms and concessions. They also catered to growing automobile culture of US cities, surrounded by large parking lots. These grand stadiums were considerably more expensive then their predecessors, and offered comforts that their predecessors lacked, but they were considered prudent investments because they could handle two major sports---three if they were domed.  
-
- These venues were also celebrated as the pinnacle of architectural achievement  at the time. Architect Philip Bess explained that their similarity was part of the attraction to the communities that built them:
-<blockquote>
- “The ubiquity of the form leads one to suspect that the role of the stadium itself as a community icon has superseded its importance as an arena for the events it shelters. One can imagine residents of these cities being told that they needed one of these stadiums, in order to be a ‘world class city’" (<a href="https://www.google.com/books/edition/Green_Cathedrals/0FecyQEACAAJ?hl=en"
-   target="_blank"
-   rel="noopener noreferrer"><i>Green Cathedrals</i>, p. 13.</a>)
-</blockquote>
-
-
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
 
   <figure style="flex: 1 1 320px; margin: 0; text-align: center;">
@@ -135,6 +125,18 @@ Perhaps these superstadiums were not aesthetically pleasing, but they were upgra
   </figure>
 
 </div>
+
+
+
+Perhaps these superstadiums are not aesthetically pleasing, by todays standards, but at the time they were were upgrades over inaugural era facilities: offering more restrooms, concessions, and nearby parking lots to serve the growing automobile culture of US cities. Though they were were considerably more expensive then their predecessors,  they were considered prudent investments because they could handle two major sports---more if they were domed.  
+
+ These venues were also celebrated as the pinnacle of architectural achievement  at the time. Architect Philip Bess explained that their similarity was part of the attraction to the communities that built them:
+<blockquote>
+ “The ubiquity of the form leads one to suspect that the role of the stadium itself as a community icon has superseded its importance as an arena for the events it shelters. One can imagine residents of these cities being told that they needed one of these stadiums, in order to be a ‘world class city’" (<a href="https://www.google.com/books/edition/Green_Cathedrals/0FecyQEACAAJ?hl=en"
+   target="_blank"
+   rel="noopener noreferrer"><i>Green Cathedrals</i>, p. 13.</a>)
+</blockquote>
+
 
  
 
