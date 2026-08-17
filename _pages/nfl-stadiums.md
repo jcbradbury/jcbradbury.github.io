@@ -85,16 +85,45 @@ As NFL grew gained popularity in the middle of the 20th century, teams sought be
 
 These superstadiums were build large enough to handle both baseball and football field playing dimensions. Many of these venues were so similar in design that they were referred to as "cookie-cutter" stadiums. Perhaps they were not aesthetically pleasing, but they were upgrades over inaugural era venues, which more restrooms and concessions. They also catered to growing automobile culture of US cities, surrounded by large parking lots. These grand stadiums were considerably more expensive then their predecessors, and offered comforts that their predecessors lacked, but they were considered prudent investments because they could handle two major sports---three if they were domed.  
 
- <figure style="text-align: center;">
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Three_Rivers_Stadium_aerial_view_1996.jpg"
-    alt="Aerial view of Three Rivers Stadium hosting an NFL game for the Pittsburgh Steelers versus the Baltimore Ravens on September 8, 1996. (PHOTO/PAUL M. WALSH)"
-    style="max-width: 100%; height: auto;"
-  >
-  <figcaption>
-    Pittsburgh's Three Rivers Stadium in 1996.  It hosted the MLB Pirates and NFL Steelers from 1970 – 2000. [Photo by Paul M. Walsh]
-  </figcaption>
-</figure>
+<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
+
+  <figure style="flex: 1 1 320px; margin: 0; text-align: center;">
+    <a
+      href="/images/AFCRA_cover_scan.jpg"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="/images/AFCRA_cover_scan.jpg"
+        alt="Cover of the 1966 Atlanta Stadium Special Dedication Issue, showing an aerial view of the newly opened stadium."
+        style="width: 100%; height: auto; cursor: zoom-in;"
+      >
+    </a>
+    <figcaption>
+      Cover of the <i>Atlanta Stadium Special Dedication Issue</i> (1966), published by the City of Atlanta and Fulton County Recreation Authority. Cover photograph by Ken Patterson.
+    </figcaption>
+  </figure>
+
+  <figure style="flex: 1 1 320px; margin: 0; text-align: center;">
+    <a
+      href="/images/AFCRA_interior_scan.jpg"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="/images/AFCRA_interior_scan.jpg"
+        alt="Atlanta Stadium configured for football in 1966, with the baseball diamond still visible beneath the football field."
+        style="width: 100%; height: auto; cursor: zoom-in;"
+      >
+    </a>
+    <figcaption>
+      Atlanta Stadium configured for football in 1966, with the baseball diamond still visible beneath the football layout, illustrating the stadium's multipurpose design. From the <i>Atlanta Stadium Special Dedication Issue</i> (1966), City of Atlanta and Fulton County Recreation Authority.
+    </figcaption>
+  </figure>
+
+</div>
+
+ 
 
 ## Stadium Mania (1990s -- 2010s)
 
