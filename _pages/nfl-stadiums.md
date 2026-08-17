@@ -92,7 +92,8 @@ Perhaps these superstadiums were not aesthetically pleasing, but they were upgra
 
  These venues were also celebrated as the pinnacle of architectural achievement  at the time. Architect Philip Bess explained that their similarity was part of the attraction to the communities that built them:
 <blockquote>
- “The ubiquity of the form leads one to suspect that the role of the stadium itself as a community icon has superseded its importance as an arena for the events it shelters. One can imagine residents of these cities being told that they needed one of these stadiums, in order to be a ‘world class city’" ([Green Cathedrals](https://www.google.com/books/edition/Green_Cathedrals/0FecyQEACAAJ?hl=en), p. 13.)
+ “The ubiquity of the form leads one to suspect that the role of the stadium itself as a community icon has superseded its importance as an arena for the events it shelters. One can imagine residents of these cities being told that they needed one of these stadiums, in order to be a ‘world class city’" (<a href="Ghttps://www.google.com/books/edition/Green_Cathedrals/0FecyQEACAAJ?hl=en"target="_blank"
+     rel="noopener noreferrer">Green Cathedrals, , p. 13.</a> )
 </blockquote>
 
 
