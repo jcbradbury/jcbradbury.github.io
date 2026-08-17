@@ -141,6 +141,14 @@ Mid-century superstadiums may not seem impressive by today's standards, but were
 
 ## Stadium Mania (1990s -- 2010s)
 
+
+<figure style="text-align: center;">
+  <img src="/images/Fig3.1.png"
+       alt="Bar-and-line chart showing the number of new major-league sports stadiums and arenas opened each year from 1909 through 2020. Dark bars represent stadiums, light bars represent arenas, and a black trend line shows the smoothed pattern in total venue openings. Vertical dashed lines divide the timeline into the Inaugural Era, Superstadium Era, and Stadium Mania. Venue openings were relatively sparse through the mid-20th century, increased during the 1960s and 1970s, and peaked during Stadium Mania in the late 1990s and early 2000s, when some years saw more than 10 new venues open."
+       style="max-width: 850px; width: 100%; height: auto;">
+</figure>
+
+
 <figure style="text-align: center;">
   <img src="/images/med_nfl.png"
        alt="Bar chart showing median construction costs for NFL stadiums by decade from the 1900s through the 2030s, in millions of 2024 dollars. Median total costs rise from $36 million in the 1900s and remain below $400 million through the 1980s, before increasing to $422 million in the 1990s, $708 million in the 2000s, $1.89 billion in the 2010s, $2.38 billion in the 2020s, and $2.85 billion in the 2030s. Median public costs are shown in gray and reach $544 million in the 2010s, $900 million in the 2020s, and $1.37 billion in the 2030s."
