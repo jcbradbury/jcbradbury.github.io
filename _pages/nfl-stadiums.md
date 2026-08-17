@@ -15,6 +15,18 @@ sitemap: false
 
 *[Chapter 3](https://doi.org/10.1093/9780197820247.003.0003)  of [*This One Will Be Different*](/towbd/) presents a general history of stadium construction for all major-league venues. This article summarize the experience of NFL stadiums.*
 
+<div style="
+  background-color: #f5f5f5;
+  border-left: 4px solid #666;
+  padding: 14px 18px;
+  margin: 20px 0 28px 0;
+  font-size: 0.97em;
+  line-height: 1.5;
+">
+  <strong>About this article.</strong>
+  This article traces the economic history of NFL stadiums, from the league's early use of baseball parks and municipal stadiums through the modern era of increasingly expensive, football-specific venues.
+</div>
+
 **By [J.C. Bradbury](/)**  
 
 
