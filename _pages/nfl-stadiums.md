@@ -20,6 +20,12 @@ The National Football League (NFL) got off to tenuous start during its first few
 
 In our article [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22534), Dennis Coates and Brad Humphreys and I separate stadium construction into three eras, which are distinguished by venue designs and construction costs. I describe how NFL venues progressed through period, and then examine the next generation of stadium-building, which is currently ramping up. 
 
+<figure style="text-align: center;">
+  <img src="/images/med_nfl.png"
+       alt="Bar chart showing median construction costs for NFL stadiums by decade from the 1900s through the 2030s, in millions of 2024 dollars. Median total costs rise from $36 million in the 1900s and remain below $400 million through the 1980s, before increasing to $422 million in the 1990s, $708 million in the 2000s, $1.89 billion in the 2010s, $2.38 billion in the 2020s, and $2.85 billion in the 2030s. Median public costs are shown in gray and reach $544 million in the 2010s, $900 million in the 2020s, and $1.37 billion in the 2030s."
+       style="max-width: 850px; width: 100%; height: auto;">
+</figure>
+
 ## The Inaugural Era
 
 In the early days of the NFL, as its teams searched to build an audience, resulting in a churn in membership, it's franchises founds homes in existing stadiums that were not built primarily for them, or even to host football.  Many NFL teams played in local ballparks, which provide MLB team owners  an additional revenue source for their private venues. However, this was not an ideal arrangement, because it required squeezing football's rectangular gridiron within ballpark dimensions, which meant walls abutted the playing field  and made for difficult viewing from spectators. Even into the 1950s, bigger stadiums like Milwaukee County Stadium (Green Bay Packers) and Metropolitan Stadium (Minnesota Vikings) were not well suited for football, and their NFL teams were secondary tenants. 
