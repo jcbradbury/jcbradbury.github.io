@@ -133,7 +133,7 @@ Mid-century superstadiums may not seem impressive by today's standards, but were
 <blockquote>
  “The ubiquity of the form leads one to suspect that the role of the stadium itself as a community icon has superseded its importance as an arena for the events it shelters. One can imagine residents of these cities being told that they needed one of these stadiums, in order to be a ‘world class city’" (<a href="https://www.google.com/books/edition/Green_Cathedrals/0FecyQEACAAJ?hl=en"
    target="_blank"
-   rel="noopener noreferrer"><i>Green Cathedrals 1986</i></a> , p. 13.)
+   rel="noopener noreferrer">Lowry 1986</a> , p. 13.)
 </blockquote>
 
 
