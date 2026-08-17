@@ -225,9 +225,10 @@ The 2020s have already been a productive and expensive era for NFL stadium-build
   </figcaption>
 </figure>
 
-<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
 
-  <figure style="flex: 1 1 420px; margin: 0; text-align: center;">
+<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: nowrap;">
+
+  <figure style="flex: 1 1 0; margin: 0; text-align: center;">
     <a
       href="/images/sofi_aerial.jpg"
       target="_blank"
@@ -236,7 +237,7 @@ The 2020s have already been a productive and expensive era for NFL stadium-build
       <img
         src="/images/sofi_aerial.jpg"
         alt="Aerial view of SoFi Stadium in Inglewood, California, in July 2022."
-        style="width: 100%; height: 340px; object-fit: cover; cursor: zoom-in;"
+        style="width: 100%; height: 300px; object-fit: cover; cursor: zoom-in;"
       >
     </a>
     <figcaption>
@@ -248,7 +249,7 @@ The 2020s have already been a productive and expensive era for NFL stadium-build
     </figcaption>
   </figure>
 
-  <figure style="flex: 1 1 420px; margin: 0; text-align: center;">
+  <figure style="flex: 1 1 0; margin: 0; text-align: center;">
     <a
       href="/images/Allegiantstadiumjune2020.jpg"
       target="_blank"
@@ -270,6 +271,7 @@ The 2020s have already been a productive and expensive era for NFL stadium-build
   </figure>
 
 </div>
+
 
 And several NFL stadiums that are not being replaced are instead getting extensive renovations. Five renovations are being privately financed by the teams, but the four stadiums are receiving substantial government subsidies for their upgrades, with the Carolina Panthers and Jacksonville Jaguars receiving $650 million and $725 million from taxpayers. 
 
