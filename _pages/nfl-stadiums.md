@@ -146,6 +146,8 @@ Stadium mania is sweeping the United States. City officials from Tampa Bay to Sa
    rel="noopener noreferrer">Baade and Dye 1990</a>, p. 1).
 </blockquote>
 
+The next major shift in stadium construction emerged in the 1990s, with not only a surge in building, but a change in venue designs. As 30-year leases on municipal superstadiums began to expire, MLB and NFL teams wanted their own facilities. Shared venues were not ideal for spectators of either sport, and owners wanted more control over their facilities. Cities didn't just replace their old venues, they often came two at time, which resulted in a construction so great that it was dubbed "stadium mania," eclipsing the stadium-building boom of the 1960s and 1970s.  
+
 <figure style="text-align: center;">
   <img src="/images/Fig3.1.png"
        alt="Bar-and-line chart showing the number of new major-league sports stadiums and arenas opened each year from 1909 through 2020. Dark bars represent stadiums, light bars represent arenas, and a black trend line shows the smoothed pattern in total venue openings. Vertical dashed lines divide the timeline into the Inaugural Era, Superstadium Era, and Stadium Mania. Venue openings were relatively sparse through the mid-20th century, increased during the 1960s and 1970s, and peaked during Stadium Mania in the late 1990s and early 2000s, when some years saw more than 10 new venues open."
