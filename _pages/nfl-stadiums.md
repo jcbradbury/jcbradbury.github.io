@@ -185,10 +185,9 @@ The shift from inaugural venues to superstadiums resulted in a ratcheting up in 
   </a>
   <figcaption>
     Mercedes-Benz Stadium and the Georgia Dome in Atlanta during the brief period when both venues stood side by side.
-    Photograph from the
-    <a href="https://www.loc.gov/resource/highsm.46748/"
+    [<a href="https://www.loc.gov/resource/highsm.46748/"
        target="_blank"
-       rel="noopener noreferrer">Carol M. Highsmith Archive, Library of Congress.</a>.
+       rel="noopener noreferrer">Carol M. Highsmith Archive, Library of Congress</a>]
   </figcaption>
 </figure>
 
