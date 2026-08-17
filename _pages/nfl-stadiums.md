@@ -85,22 +85,7 @@ As NFL grew gained popularity in the middle of the 20th century, teams sought be
 
 These superstadiums were build large enough to handle both baseball and football field playing dimensions. Many of these venues were so similar in design that they were referred to as "cookie-cutter" stadiums. Perhaps they were not aesthetically pleasing, but they were upgrades over inaugural era venues, which more restrooms and concessions. They also catered to growing automobile culture of US cities, surrounded by large parking lots. These grand stadiums were considerably more expensive then their predecessors, and offered comforts that their predecessors lacked, but they were considered prudent investments because they could handle two major sports---three if they were domed.  
 
-<figure style="text-align: center; margin: 0;">
-  <a
-    href="/images/AFCRA_interior_scan.jpg"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img
-      src="/images/AFCRA_interior_scan.jpg"
-      alt="Atlanta Stadium configured for football in 1966, with the baseball diamond still visible beneath the football field."
-      style="max-width: 100%; height: auto; cursor: zoom-in;"
-    >
-  </a>
-  <figcaption>
-    Atlanta Stadium configured for football in 1966, with the baseball diamond still visible beneath the football layout, illustrating the stadium's multipurpose design. From the <i>Atlanta Stadium Special Dedication Issue</i> (1966), City of Atlanta and Fulton County Recreation Authority.
-  </figcaption>
-</figure>
+
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
 
