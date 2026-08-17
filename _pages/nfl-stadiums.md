@@ -176,7 +176,7 @@ The visual comparison between the Atlanta Falcons' two stadium-mania era venues 
 
 
 <figure style="text-align: center; margin: 0;">
-  <
+  <a
     href="/images/MB_GAdome.jpg"
     target="_blank"
     rel="noopener noreferrer"
