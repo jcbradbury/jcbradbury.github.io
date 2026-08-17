@@ -50,3 +50,10 @@ These stadiums were build large enough to handle both baseball and football fiel
 
 
 ## The Next Generation (2020 -- )
+
+
+<figure style="text-align: center;">
+  <img src="/images/new_nfl.png"
+       alt="Bar chart comparing total and public construction costs for NFL stadium projects since 2020, in billions of current dollars. SoFi Stadium for the Rams and Chargers cost $5.50 billion with no public construction contribution, while Allegiant Stadium cost $1.97 billion with $0.75 billion public, Buffalo’s new stadium $2.20 billion with $0.85 billion public, Tennessee’s new stadium $2.20 billion with $1.26 billion public, Cleveland’s planned stadium $2.40 billion with $0.90 billion public, Washington’s planned stadium $2.70 billion with $0.93 billion public, and Kansas City’s planned stadium $3.00 billion with $1.80 billion public. Denver’s proposed 2031 stadium cost is listed as TBD."
+       style="max-width: 850px; width: 100%; height: auto;">
+</figure>
