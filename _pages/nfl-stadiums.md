@@ -149,9 +149,9 @@ Stadium mania is sweeping the United States. City officials from Tampa Bay to Sa
 The next major shift in stadium construction emerged in the 1990s. As 30-year leases on municipal superstadiums began to expire, MLB and NFL teams wanted their own facilities. Shared venues were not ideal for spectators of either sport, and owners wanted more control over their facilities. Cities didn't just replace their old venues, they often came two at time, which resulted in a construction so great that it was dubbed "stadium mania," eclipsing the stadium-building boom of the 1960s and 1970s.  
 
 
-Not only did more venues opens, but their designs changed. MLB teams sought to recrate the feel of classic ballparks, with retro-designs that mimicked early 20th century architecture, with asymmetric fields, brick, and exposed steel. Baltimore's Camden Yards become the new template for MLB franchises to emulate.
+Not only did more venues open, but their designs changed. MLB teams sought to recrate the feel of classic ballparks, with retro-designs that mimicked early 20th century architecture, with asymmetric fields, brick, and exposed steel. Baltimore's Camden Yards become the new template for MLB franchises to emulate.
 
-NFL teams finally got the football-first designs befitting the country's dominant major sports league. Though Miami Dolphins owner Joe Robbie had privately funded his stadium to also host a baseball team, his funding model proved to owners the value of catering to high-end patrons with luxury amenities and exclusive spaces. Robbie was able to build his showpiece with advance sales of skyboxes and club seats, and owners wanted to capitalize on this consumer cohort, but without sharing it with another tenant or dipping into their own pockets to pay for them.   
+ 
 
 <figure style="text-align: center;">
   <img src="/images/Fig3.1.png"
@@ -159,6 +159,10 @@ NFL teams finally got the football-first designs befitting the country's dominan
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
+
+NFL teams finally got the football-first designs befitting the country's dominant major sports league. Though Miami Dolphins owner Joe Robbie had privately funded his stadium to also host a baseball team, his funding model proved to owners the value of catering to high-end patrons with luxury amenities and exclusive spaces. Robbie was able to build his showpiece with advance sales of skyboxes and club seats, and owners wanted to capitalize on this consumer cohort, but without sharing it with another tenant while still having taxpayers cover much of the cost.
+
+The shift from inaugural venues to superstadiums resulted in a ratcheting up in the cast of stadium building. A similar cost jump occurred with the beginning of stadium mania, but it wasn't a one time event. As owners continued to build stadiums their costs grew at an increasing rate. 
 
 <figure style="text-align: center;">
   <img src="/images/med_nfl.png"
