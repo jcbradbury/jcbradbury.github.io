@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "An Economic History of NFL Stadiums"
+title: "A Brief Economic History of NFL Stadiums"
 permalink: /nfl-stadiums/
 published: false
 excerpt: "An economic history of NFL stadiums, including construction costs, public subsidies, financing, stadium design, and the evolution of modern football venues."
