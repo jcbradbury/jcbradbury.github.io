@@ -27,7 +27,7 @@ In our article [Public Policy Toward Professional Sports Stadiums: A Review](htt
 </figure>
 
 
-## The Inaugural Era (1900s--1950s)
+## The Inaugural Era (1900s -- 1950s)
 
 In the early days of the NFL, as its teams searched to build an audience, resulting in a churn in membership, it's franchises founds homes in existing stadiums that were not built primarily for them, or even to host football.  Many NFL teams played in local ballparks, which provide MLB team owners  an additional revenue source for their private venues. However, this was not an ideal arrangement, because it required squeezing football's rectangular gridiron within ballpark dimensions, which meant walls abutted the playing field  and made for difficult viewing from spectators. Even into the 1950s, bigger stadiums like Milwaukee County Stadium (Green Bay Packers) and Metropolitan Stadium (Minnesota Vikings) were not well suited for football, and their NFL teams were secondary tenants. 
 
@@ -35,12 +35,12 @@ In the early days of the NFL, as its teams searched to build an audience, result
  
  Because of their subordinate status, NFL franchises often moved from stadium to stadium. For example, the Philadelphia Eagles would play in all three types of venues, playing in two ballparks the Baker Bowl (Phillies) and Shibe Park (Athletics and Phillies), the public Philadelphia Municipal Stadium, and Franklin Field (home of the Penn Quakers).
 
-## The Superstadium Era (1960s--1980s)
+## The Superstadium Era (1960s -- 1980s)
 As NFL grew gained popularity in the middle of the 20th century, teams sought better facilities that would allow them to host more fans as well as give them more control over ticket and concession sales. Shared multipurpose stadiums provided by local authorities offered the solution of replacing facilities built at the beginning of the century, which could serve both baseball and football.  
 
 These stadiums were build large enough to handle both baseball and football field playing dimensions. Perhaps they were not aesthetically pleasing, but they were functional. These venue also included adequate restrooms and concessions, and were surrounded by large parking lots the serve the growing automobile culture of US cities. These grand stadiums were considerably more expensive then their predecessors, but they were considered prudent investments because they could handle two major sports---three if they were domed.  
 
-## Stadium Mania (1990s--2010s)
+## Stadium Mania (1990s -- 2010s)
 
 <figure style="text-align: center;">
   <img src="/images/med_nfl.png"
