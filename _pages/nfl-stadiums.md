@@ -26,11 +26,6 @@ In our article [Public Policy Toward Professional Sports Stadiums: A Review](htt
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
-<figure style="text-align: center;">
-  <img src="/images/med_nfl.png"
-       alt="Bar chart showing median construction costs for NFL stadiums by decade from the 1900s through the 2030s, in millions of 2024 dollars. Median total costs rise from $36 million in the 1900s and remain below $400 million through the 1980s, before increasing to $422 million in the 1990s, $708 million in the 2000s, $1.89 billion in the 2010s, $2.38 billion in the 2020s, and $2.85 billion in the 2030s. Median public costs are shown in gray and reach $544 million in the 2010s, $900 million in the 2020s, and $1.37 billion in the 2030s."
-       style="max-width: 850px; width: 100%; height: auto;">
-</figure>
 
 ## The Inaugural Era (1900s -- 1950s)
 
@@ -46,5 +41,12 @@ As NFL grew gained popularity in the middle of the 20th century, teams sought be
 These stadiums were build large enough to handle both baseball and football field playing dimensions. Perhaps they were not aesthetically pleasing, but they were functional. These venue also included adequate restrooms and concessions, and were surrounded by large parking lots the serve the growing automobile culture of US cities. These grand stadiums were considerably more expensive then their predecessors, but they were considered prudent investments because they could handle two major sports---three if they were domed.  
 
 ## Stadium Mania (1990s - 2010s)
+
+<figure style="text-align: center;">
+  <img src="/images/med_nfl.png"
+       alt="Bar chart showing median construction costs for NFL stadiums by decade from the 1900s through the 2030s, in millions of 2024 dollars. Median total costs rise from $36 million in the 1900s and remain below $400 million through the 1980s, before increasing to $422 million in the 1990s, $708 million in the 2000s, $1.89 billion in the 2010s, $2.38 billion in the 2020s, and $2.85 billion in the 2030s. Median public costs are shown in gray and reach $544 million in the 2010s, $900 million in the 2020s, and $1.37 billion in the 2030s."
+       style="max-width: 850px; width: 100%; height: auto;">
+</figure>
+
 
 ## The Next Generation (2020 -- )
