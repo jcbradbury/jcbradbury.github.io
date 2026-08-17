@@ -150,3 +150,9 @@ These superstadiums were build large enough to handle both baseball and football
        alt="Bar chart comparing total and public costs of NFL stadium renovations since 2020, in millions of current dollars. Renovation costs range from $100 million for the Arizona Cardinals, with no public contribution, to $1.4 billion for the Jacksonville Jaguars, including $725 million in public funding. Other projects include Green Bay at $600 million privately funded, New England at $250 million privately funded, New Orleans at $560 million with $377 million public, Baltimore at $430 million entirely public, Dallas at $350 million privately funded, San Francisco at $200 million privately funded, and Carolina at $1.3 billion with $650 million public funding."
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
+
+<p style="font-size: 0.85em; color: #666;">
+  Historical images on this page are reproduced from public-domain or freely licensed sources where available. 
+  Other images are used for purposes of scholarship, commentary, and historical analysis under the fair-use provisions of U.S. copyright law. 
+  Image sources and credits are provided in individual captions. Rights holders with questions may contact the author.
+</p>
