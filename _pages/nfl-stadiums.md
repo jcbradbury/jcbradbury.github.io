@@ -127,10 +127,9 @@ Many of these venues were so similar in design that they were referred to as "co
 </div>
 
 
+Mid-century superstadiums may not seem impressive by today's standards, but were substantial upgrades over inaugural era facilities. The offered more restrooms and concessions, as well being surrounded by parking lots to serve the dominant automobile culture of US cities. Though they were were considerably more expensive then their predecessors,  they were considered prudent as public investments, because they could handle two major sports---more if they were domed (e.g., Houston Astrodome, Seattle Kingdome, Minneapolis Metrodome).  
 
-Perhaps these superstadiums are not aesthetically pleasing, by todays standards, but at the time they were were upgrades over inaugural era facilities: offering more restrooms, concessions, and nearby parking lots to serve the growing automobile culture of US cities. Though they were were considerably more expensive then their predecessors,  they were considered prudent investments because they could handle two major sports---more if they were domed.  
-
- These venues were also celebrated as the pinnacle of architectural achievement  at the time. Architect Philip Bess explained that their similarity was part of the attraction to the communities that built them:
+ These venues may not evoke nostalgic feelings among sports fans, but they were celebrated as architectural achievements at the time.  Architect Philip Bess explained that their similarity was part of the attraction for the communities that built them:
 <blockquote>
  “The ubiquity of the form leads one to suspect that the role of the stadium itself as a community icon has superseded its importance as an arena for the events it shelters. One can imagine residents of these cities being told that they needed one of these stadiums, in order to be a ‘world class city’" (<a href="https://www.google.com/books/edition/Green_Cathedrals/0FecyQEACAAJ?hl=en"
    target="_blank"
@@ -138,7 +137,7 @@ Perhaps these superstadiums are not aesthetically pleasing, by todays standards,
 </blockquote>
 
 
- 
+ Though the bulk of stadium construction during this period occurred in the 1960s and 1970s, the thee NFL venues that opened in the 1980s---Hoosier Dome (Indianapolis, 1983), Joe Robbie Stadium (Miami, 1987), and the Metrodome (Minneapolis 1982)---used similar designs. 
 
 ## Stadium Mania (1990s -- 2010s)
 
