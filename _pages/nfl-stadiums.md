@@ -18,7 +18,7 @@ sitemap: false
 
 The National Football League (NFL) got off to tenuous start during its first few decades of operation, but it would ultimately evolve to supplant Major League Baseball (MLB) as the US's preeminent major sports league.  The NFL was founded in 1920 after the era of modern concrete and steel stadiums had begun, thus its early members were able to rely upon existing venues that were built for other purposes, but now its teams play in the largest and most expensive in the country, and their costs of construction continue to grow higher.
 
-In our article [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22534), Dennis Coates and Brad Humphreys and I separate stadium construction into three eras, which are distinguished by venue designs and construction costs. I describe how NFL venues progressed through period, and then examine the next generation of stadium-building, which is currently ramping up. 
+In our article [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22534), Dennis Coates and Brad Humphreys and I separate stadium construction into three eras, which are distinguished by venue designs and construction costs. NFL stadium openings were agglomerated with these periods, and the recent spate of new stadiums is consistent with the pattern of a 30-year stadium replacement cycle.  
 
 <figure style="text-align: center;">
   <img src="/images/eras_nfl.png"
@@ -26,6 +26,8 @@ In our article [Public Policy Toward Professional Sports Stadiums: A Review](htt
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
+
+I describe how NFL venues progressed through each era, and then examine the next generation of stadium-building, which is currently ramping up. 
 
 ## The Inaugural Era (1900s -- 1950s)
 
