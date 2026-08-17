@@ -96,7 +96,7 @@ These superstadiums were build large enough to handle both baseball and football
       <img
         src="/images/AFCRA_cover_scan.jpg"
         alt="Cover of the 1966 Atlanta Stadium Special Dedication Issue, showing an aerial view of the newly opened stadium."
-        style="width: 100%; height: auto; cursor: zoom-in;"
+        style="width: 100%; height: 420px; object-fit: cover; cursor: zoom-in;"
       >
     </a>
     <figcaption>
@@ -104,7 +104,7 @@ These superstadiums were build large enough to handle both baseball and football
     </figcaption>
   </figure>
 
-  <figure style="flex: 1 1 320px; margin: 0; text-align: center;">
+  <figure style="flex: 1.35 1 420px; margin: 0; text-align: center;">
     <a
       href="/images/AFCRA_interior_scan.jpg"
       target="_blank"
@@ -113,7 +113,7 @@ These superstadiums were build large enough to handle both baseball and football
       <img
         src="/images/AFCRA_interior_scan.jpg"
         alt="Atlanta Stadium configured for football in 1966, with the baseball diamond still visible beneath the football field."
-        style="width: 100%; height: auto; cursor: zoom-in;"
+        style="width: 100%; height: 420px; object-fit: cover; cursor: zoom-in;"
       >
     </a>
     <figcaption>
