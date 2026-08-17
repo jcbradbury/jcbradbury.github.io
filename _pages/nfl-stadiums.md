@@ -225,6 +225,52 @@ The 2020s have already been a productive and expensive era for NFL stadium-build
   </figcaption>
 </figure>
 
+<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
+
+  <figure style="flex: 1 1 420px; margin: 0; text-align: center;">
+    <a
+      href="/images/sofi_aerial.jpg"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="/images/sofi_aerial.jpg"
+        alt="Aerial view of SoFi Stadium in Inglewood, California, in July 2022."
+        style="width: 100%; height: 340px; object-fit: cover; cursor: zoom-in;"
+      >
+    </a>
+    <figcaption>
+      Aerial view of SoFi Stadium in Inglewood, California, July 2022.
+      Photograph by Benoît Prieur.
+      [<a href="https://commons.wikimedia.org/wiki/File:Aerial_view_of_SoFi_Stadium_(July_2022).jpg"
+          target="_blank"
+          rel="noopener noreferrer">Wikimedia Commons</a>; CC0 1.0].
+    </figcaption>
+  </figure>
+
+  <figure style="flex: 1 1 420px; margin: 0; text-align: center;">
+    <a
+      href="/images/Allegiantstadiumjune2020.jpg"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="/images/Allegiantstadiumjune2020.jpg"
+        alt="Aerial view of Allegiant Stadium in Las Vegas, Nevada, in June 2020."
+        style="width: 100%; height: 340px; object-fit: cover; cursor: zoom-in;"
+      >
+    </a>
+    <figcaption>
+      Allegiant Stadium in Las Vegas, Nevada, June 2020.
+      Image by JediRich, Creative Producer.
+      [<a href="https://commons.wikimedia.org/wiki/File:Allegiantstadiumjune2020.jpg"
+          target="_blank"
+          rel="noopener noreferrer">Wikimedia Commons</a>; CC BY 3.0].
+    </figcaption>
+  </figure>
+
+</div>
+
 And several NFL stadiums that are not being replaced are instead getting extensive renovations. Five renovations are being privately financed by the teams, but the four stadiums are receiving substantial government subsidies for their upgrades, with the Carolina Panthers and Jacksonville Jaguars receiving $650 million and $725 million from taxpayers. 
 
 <figure style="text-align: center;">
