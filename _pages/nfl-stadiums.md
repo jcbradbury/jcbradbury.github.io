@@ -39,6 +39,32 @@ In the early days of the NFL, as its teams searched to build an audience, result
 
  Stadiums of the inaugural era improved gradually over time, and the real cost of venue construction were relatively stable. Even into the 1950s, bigger stadiums like Milwaukee County Stadium (Green Bay Packers) and Metropolitan Stadium (Minnesota Vikings) were not well suited for football, and their NFL teams were secondary tenants. 
 
+ <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
+
+  <figure style="flex: 1 1 320px; margin: 0; text-align: center;">
+    <img
+      src="https://dev.sabr.org/wp-content/uploads/2012/10/USE-Stadiums-Braves-Field-Boston-10827.94-CSU.jpg"
+      alt="Boston Braves football game at Braves Field in 1932, showing the football field laid out inside the baseball ballpark."
+      style="width: 100%; height: auto;"
+    >
+    <figcaption>
+      Braves Field (1915–1952), home of baseball's Boston Braves, configured for a Boston Braves NFL football game in 1932. [National Baseball Hall of Fame collection; image hosted by SABR].
+    </figcaption>
+  </figure>
+
+  <figure style="flex: 1 1 320px; margin: 0; text-align: center;">
+    <img
+      src="https://cdm16280.contentdm.oclc.org/digital/api/singleitem/image/p16280coll1/12780/default.jpg"
+      alt="Aerial view of Milwaukee County Stadium, circa 1955, configured for a football game."
+      style="width: 100%; height: auto;"
+    >
+    <figcaption>
+      Aerial view of Milwaukee County Stadium (1953–2000), circa 1955 (then the home of the Milwaukee Braves), set up to host a football game. It was the part-time host of the NFL Green Bay Packers and later hosted the MLB Brewers. [Marquette University, Department of Archival Collections and Institutional Repository].
+    </figcaption>
+  </figure>
+
+</div>
+
  <figure style="text-align: center;">
   <img
     src="https://cdm16280.contentdm.oclc.org/digital/api/singleitem/image/p16280coll1/12780/default.jpg"
