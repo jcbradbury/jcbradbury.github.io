@@ -27,7 +27,7 @@ In our article [Public Policy Toward Professional Sports Stadiums: A Review](htt
 </figure>
 
 
-I describe how NFL venues progressed through each era, and then examine the next generation of stadium-building, which is currently ramping up. 
+Below, I describe how NFL venues progressed through each era, and then examine the next generation of stadium-building, which is currently ramping up. I include historical images to illustrates how the venues NFL teams used changed over time. 
 
 ## The Inaugural Era (1900s -- 1950s)
 
