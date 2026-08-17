@@ -46,7 +46,7 @@ In the early days of the NFL, as its teams searched to build an audience, result
     style="max-width: 100%; height: auto;"
   >
   <figcaption>
-    Aerial view of Milwaukee County Stadium, circa 1955 (then the home of the Milwaukee Braves), set up to host a football game [Marquette University, Department of Archival Collections and Institutional Repository].
+    Aerial view of Milwaukee County Stadium (1953 – 2000), circa 1955 (then the home of the Milwaukee Braves), set up to host a football game. It was the part-time host of the NFL Green Bay Packers and later hosted the MLB Brewers. [Marquette University, Department of Archival Collections and Institutional Repository].
   </figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ These superstadiums were build large enough to handle both baseball and football
     style="max-width: 100%; height: auto;"
   >
   <figcaption>
-    Pittsburgh's Three Rivers Stadium, in 1996, during the game against the Ravens. It hosted the Pirates and Steelers from 1970 – 2000. [Photo by Paul M. Walsh]
+    Pittsburgh's Three Rivers Stadium in 1996.  It hosted the MLB Pirates and NFL Steelers from 1970 – 2000. [Photo by Paul M. Walsh]
   </figcaption>
 </figure>
 
