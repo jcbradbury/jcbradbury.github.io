@@ -21,6 +21,12 @@ The National Football League (NFL) got off to tenuous start during its first few
 In our article [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22534), Dennis Coates and Brad Humphreys and I separate stadium construction into three eras, which are distinguished by venue designs and construction costs. I describe how NFL venues progressed through period, and then examine the next generation of stadium-building, which is currently ramping up. 
 
 <figure style="text-align: center;">
+  <img src="/images/eras_nfl.png"
+       alt="Bar chart showing the number of NFL stadiums opened by year from 1909 through the early 2030s. Dark bars indicate stadiums shared by NFL and MLB teams, while light bars indicate NFL-only stadiums. Vertical dashed lines divide the timeline into three labeled periods: the Inaugural Era, Superstadium Era, and Stadium Mania. Shared NFL/MLB venues are more common in the earlier decades, while NFL-only stadiums become dominant from the 1990s onward, with several clusters of new stadium openings around the early 2000s and future openings in the 2020s and 2030s."
+       style="max-width: 850px; width: 100%; height: auto;">
+</figure>
+
+<figure style="text-align: center;">
   <img src="/images/med_nfl.png"
        alt="Bar chart showing median construction costs for NFL stadiums by decade from the 1900s through the 2030s, in millions of 2024 dollars. Median total costs rise from $36 million in the 1900s and remain below $400 million through the 1980s, before increasing to $422 million in the 1990s, $708 million in the 2000s, $1.89 billion in the 2010s, $2.38 billion in the 2020s, and $2.85 billion in the 2030s. Median public costs are shown in gray and reach $544 million in the 2010s, $900 million in the 2020s, and $1.37 billion in the 2030s."
        style="max-width: 850px; width: 100%; height: auto;">
