@@ -133,7 +133,7 @@ Mid-century superstadiums may not seem impressive by today's standards, but were
 <blockquote>
  “The ubiquity of the form leads one to suspect that the role of the stadium itself as a community icon has superseded its importance as an arena for the events it shelters. One can imagine residents of these cities being told that they needed one of these stadiums, in order to be a ‘world class city’" (<a href="https://www.google.com/books/edition/Green_Cathedrals/0FecyQEACAAJ?hl=en"
    target="_blank"
-   rel="noopener noreferrer"><i>Green Cathedrals</i>, p. 13.</a>)
+   rel="noopener noreferrer"><i>Green Cathedrals 1986</i> , p. 13.</a>)
 </blockquote>
 
 
@@ -141,6 +141,10 @@ Mid-century superstadiums may not seem impressive by today's standards, but were
 
 ## Stadium Mania (1990s -- 2010s)
 
+<blockquote>
+Stadium mania is sweeping the United States. City officials from Tampa Bay to San Francisco have embraced the idea that stadiums and commercial sport are essential in projecting a "world-class" image (<a href="https://doi.org/10.1111/j.1468-2257.1990.tb00513.x" target="_blank"
+   rel="noopener noreferrer">Baade and Dye 1990</a>, p. 1).
+</blockquote>
 
 <figure style="text-align: center;">
   <img src="/images/Fig3.1.png"
