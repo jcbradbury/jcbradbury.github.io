@@ -170,6 +170,7 @@ The shift from inaugural venues to superstadiums resulted in a ratcheting up in 
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
+The visual comparison between the Atlanta Falcons' two stadium-mania era venues is illustrative of how facilities improved.  The Georgia Dome, which opened in 1992, is dwarfed by its replacement Mercedez-Benz Stadium, which opened in 1997.  Though seating capacities are nearly identical, the newer venue uses a larger footprint to furnish its upgraded amenities. 
 
 <figure style="text-align: center; margin: 0;">
   <a
