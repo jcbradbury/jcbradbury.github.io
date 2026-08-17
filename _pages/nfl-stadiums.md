@@ -13,6 +13,8 @@ share: false
 sitemap: false
 ---
 
+*[Chapter 3](https://doi.org/10.1093/9780197820247.003.0003)  of [*This One Will Be Different*](/towbd/) presents a general history of stadium construction for all major-league venues. This article summarize the experience of NFL stadiums.*
+
 **By [J.C. Bradbury](/)**  
 
 
