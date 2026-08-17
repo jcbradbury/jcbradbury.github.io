@@ -62,7 +62,7 @@ These superstadiums were build large enough to handle both baseball and football
     style="max-width: 100%; height: auto;"
   >
   <figcaption>
-    Pittsburgh's Three Rivers Stadium, in 1996, during the game against the Ravens. It hosted the Pirates and Steelers from 1970 -- 2000. [Photo by Paul M. Walsh]
+    Pittsburgh's Three Rivers Stadium, in 1996, during the game against the Ravens. It hosted the Pirates and Steelers from 1970 – 2000. [Photo by Paul M. Walsh]
   </figcaption>
 </figure>
 
