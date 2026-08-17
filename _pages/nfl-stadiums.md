@@ -204,27 +204,6 @@ The 2020s have already been a productive and expensive era for NFL stadium-build
 </figure>
 
 
-<figure style="text-align: center; margin: 0;">
-  <a
-    href="/images/sofi_aerial.jpg"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img
-      src="/images/sofi_aerial.jpg"
-      alt="Aerial view of SoFi Stadium in Inglewood, California, in July 2022."
-      style="max-width: 100%; height: auto; cursor: zoom-in;"
-    >
-  </a>
-  <figcaption>
-    Aerial view of SoFi Stadium in Inglewood, California, July 2022.
-    Photograph by Benoît Prieur.
-    [<a href="https://commons.wikimedia.org/wiki/File:Aerial_view_of_SoFi_Stadium_(July_2022).jpg"
-        target="_blank"
-        rel="noopener noreferrer">Wikimedia Commons</a>; CC0 1.0].
-  </figcaption>
-</figure>
-
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: nowrap;">
 
