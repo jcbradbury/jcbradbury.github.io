@@ -84,9 +84,11 @@ In the early days of the NFL, as its teams searched to build an audience, result
  
 
 ## The Superstadium Era (1960s -- 1980s)
-As NFL grew gained popularity in the middle of the 20th century, teams sought better facilities that would allow them to host more fans as well as give them more control over gameday operations and revenue. Shared multipurpose stadiums provided by local authorities offered the solution of replacing aging private ballparks and basic municipal facilities, with expanded venues that could serve both baseball and football.  
+As NFL grew gained popularity in the middle of the 20th century, teams sought better facilities that would allow them to host more fans as well as increase their control over operations and revenue. Expanded multi-sport public stadiums offered the solution of replacing aging private ballparks and basic municipal facilities.  
 
-These superstadiums were build large enough to handle both baseball and football field playing dimensions. Many of these venues were so similar in design that they were referred to as "cookie-cutter" stadiums. Perhaps they were not aesthetically pleasing, but they were upgrades over inaugural era venues, which more restrooms and concessions. They also catered to growing automobile culture of US cities, surrounded by large parking lots. These grand stadiums were considerably more expensive then their predecessors, and offered comforts that their predecessors lacked, but they were considered prudent investments because they could handle two major sports---three if they were domed.  
+These superstadiums were built large enough to accommodate both baseball and football field playing dimensions. Many of these venues were so similar in design that they were referred to as "cookie-cutter" stadiums: RFK Stadium (Washington, DC, 1961), Shea Stadium (New York 1964), Atlanta–Fulton County Stadium (1965), Busch Memorial Stadium (St. Louis, 1966), Oakland–Alameda County Coliseum (1966), San Diego/Jack Murphy Stadium (1967), Riverfront Stadium (Cincinnati, 1970), Three Rivers Stadium (1970), and Veterans Stadium (Philadelphia 1971). 
+
+Perhaps these superstadiums were not aesthetically pleasing, but they were upgrades over inaugural era venues, which more restrooms and concessions. They also catered to growing automobile culture of US cities, surrounded by large parking lots. These grand stadiums were considerably more expensive then their predecessors, and offered comforts that their predecessors lacked, but they were considered prudent investments because they could handle two major sports---three if they were domed.  
 
 
 
