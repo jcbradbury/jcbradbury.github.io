@@ -233,9 +233,9 @@ Newer venues include more amenities and opulent private spaces. All the stadiums
          alt="New Highmark Stadium in Orchard Park, New York"
          style="width: 100%; height: auto; display: block;">
     <figcaption style="font-size: 0.9em; margin-top: 6px; text-align: center;">
-      Highmark Stadium, home of the Buffalo Bills.
+      The Buffalo Bills' Highmark Stadium viewed from the west. [
       <a href="https://en.wikipedia.org/wiki/Highmark_Stadium#/media/File:Bills_Stadium_May26.jpg"
-         target="_blank" rel="noopener">Original image</a>
+         target="_blank" rel="noopener">Original image</a>]
     </figcaption>
   </figure>
 
@@ -244,9 +244,9 @@ Newer venues include more amenities and opulent private spaces. All the stadiums
          alt="New Nissan Stadium under construction in Nashville, Tennessee"
          style="width: 100%; height: auto; display: block;">
     <figcaption style="font-size: 0.9em; margin-top: 6px; text-align: center;">
-      New Nissan Stadium under construction in Nashville. [Quintin Soloviev, 
+      Aerial view from February 2026 of New Nissan Stadium under construction. [Quintin Soloviev, 
       <a href="https://en.wikipedia.org/wiki/Nissan_Stadium_(2027)#/media/File:New_Nissan_Stadium_under_construction.jpg"
-         target="_blank" rel="noopener">Original image</a>}
+         target="_blank" rel="noopener">Original image</a>]
     </figcaption>
   </figure>
 
