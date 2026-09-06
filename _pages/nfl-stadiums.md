@@ -192,8 +192,7 @@ Though public subsidies have not kept pace with overall construction costs, they
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
-The visual comparison between the Atlanta Falcons' two stadium-mania era venues is illustrative of how facilities improved.  The Georgia Dome, which opened in 1992, is dwarfed by its replacement Mercedez-Benz Stadium, which opened in 1997.  Though seating capacities are nearly identical, the newer venue uses a larger footprint to furnish its upgraded amenities.
-
+The visual comparison between the Atlanta Falcons' two stadium-mania era venues is illustrative of how facilities improved.  The Georgia Dome, which opened in 1992, is dwarfed by its replacement Mercedez-Benz Stadium, which opened in 1997.  Though seating capacities are nearly identical, the newer venue uses a larger footprint to furnish its upgraded amenities. In inflation-adjusted real terms (2024 dollars), Mercedez-Benz Stadium ($2 billion) was four times more expensive to build than than the 100% publicly funded Georgia Dome ($448 million), and its public cost ($900 million) was double.
 
 <figure style="text-align: center; margin: 0;">
   <a
