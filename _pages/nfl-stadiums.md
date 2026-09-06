@@ -273,13 +273,13 @@ All seven NFL stadiums that opened in the 1990s are being replaced or received s
 ||Year|Future|Total|Public |
 |Team|Open||Cost|Cost|
 |----|----|----|----|----|
-|Jacksonville Jaguars|1995|Renovation  (2028)|1400|725|
-|Carolina Panthers|1996|Renovation (2030)|1300|650|
-|Washington Commanders|1997|Replacement|2700|930|
-|Baltimore Ravens|1998|Renovation (2026)|489|469|
-|Tampa Bay Buccaneers|1998|Renovation (2018)*|160|29|
-|Cleveland Browns|1999|Replacement (2029)|2400|900|
-|Tennessee Titans|1999|Replacement (2027)|2200|1260|
+|Jacksonville Jaguars|1995|Renovation  (2028)|$1,400|$725|
+|Carolina Panthers|1996|Renovation (2030)|$1,300|$650|
+|Washington Commanders|1997|Replacement|$2,700|$930|
+|Baltimore Ravens|1998|Renovation (2026)|$489|$469|
+|Tampa Bay Buccaneers|1998|Renovation (2018)*|$160|$29|
+|Cleveland Browns|1999|Replacement (2029)|$2,400|$900|
+|Tennessee Titans|1999|Replacement (2027)|$2,200|$1,260|
 
 
 The following stadiums opened in the 2000s and have not received 
