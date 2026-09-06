@@ -283,6 +283,21 @@ All seven NFL stadiums that opened in the 1990s are being replaced or received s
 
 The following stadiums opened in the 2000s and have not received 
 
+| Team | Year Open | Future | Total Cost | Public Cost |
+| ---- | :-------: | ------ | ---------: | ----------: |
+|Cincinnati Bengals|2000|Renovation  (2029)|$470|$350|
+|Pittsburgh Steelers|2001||||
+|Denver Broncos|2001|Replacement|TBD|TBD|
+|Detroit Lions|2002|Renovation (2017)|$100|$0|
+|New England Patriots|2002|Renovation (2023)|$250|$0|
+|Seattle Seahawks|2002||||
+|Houston Texans|2002||||
+|Philadelphia Eagles|2003|Renovation (2014)|$0|$0|
+|Arizona Cardinals|2006|Renovation (2023)|$100|$0|
+|Indianapolis Colts|2008||||
+|Dallas Cowboys|2009|Renovation (2026)|$350|$0|
+
+
 **First published:** September 9, 2026
 
 <div style="
