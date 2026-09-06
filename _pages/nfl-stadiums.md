@@ -226,27 +226,32 @@ Los Angeles's SoFi Stadium is an outlier in terms of its high costs, hosting two
  
 Newer venues include more amenities and opulent private spaces. All the stadiums are domed, except for the Buffalo Bills' new Highmark Stadium; however, it's stacked design includes a specially-designed snow-melting roof and heated concourses, so that [64% of seats are covered](https://news.pollstar.com/2026/07/23/the-2-1-billion-bills-gambit-why-buffalo-said-no-to-a-roof/).
  
-<div style="display: flex; gap: 16px; align-items: flex-start; margin: 1.5em 0;">
+<div style="display: flex; gap: 16px; align-items: flex-start; justify-content: center; margin: 1.5em 0;">
 
-  <figure style="flex: 1; margin: 0;">
-    <img src="/images/Bills_Stadium_May26.jpg"
-         alt="New Highmark Stadium in Orchard Park, New York"
-         style="width: 100%; height: auto; display: block;">
-    <figcaption style="font-size: 0.9em; margin-top: 6px; text-align: center;">
-      The Buffalo Bills' Highmark Stadium viewed from the west. [
-      <a href="https://en.wikipedia.org/wiki/Highmark_Stadium#/media/File:Bills_Stadium_May26.jpg"
-         target="_blank" rel="noopener">Original image</a>]
+  <figure style="margin: 0; text-align: center;">
+    <a href="/images/Bills_Stadium_May26.jpg" target="_blank">
+      <img src="/images/Bills_Stadium_May26.jpg"
+           alt="New Highmark Stadium in Orchard Park, New York"
+           style="height: 300px; width: auto; display: block;">
+    </a>
+    <figcaption style="font-size: 0.9em; margin-top: 6px;">
+      The Buffalo Bills' Highmark Stadium viewed from the west.
+      [<a href="https://en.wikipedia.org/wiki/Highmark_Stadium#/media/File:Bills_Stadium_May26.jpg"
+          target="_blank" rel="noopener">Original image</a>]
     </figcaption>
   </figure>
 
-  <figure style="flex: 1; margin: 0;">
-    <img src="/images/New_Nissan_Stadium_under_construction.jpg"
-         alt="New Nissan Stadium under construction in Nashville, Tennessee"
-         style="width: 100%; height: auto; display: block;">
-    <figcaption style="font-size: 0.9em; margin-top: 6px; text-align: center;">
-      Aerial view from February 2026 of New Nissan Stadium under construction. [Quintin Soloviev, 
+  <figure style="margin: 0; text-align: center;">
+    <a href="/images/New_Nissan_Stadium_under_construction.jpg" target="_blank">
+      <img src="/images/New_Nissan_Stadium_under_construction.jpg"
+           alt="New Nissan Stadium under construction in Nashville, Tennessee"
+           style="height: 300px; width: auto; display: block;">
+    </a>
+    <figcaption style="font-size: 0.9em; margin-top: 6px;">
+      Aerial view from February 2026 of the new Nissan Stadium under construction.
+      [Quintin Soloviev,
       <a href="https://en.wikipedia.org/wiki/Nissan_Stadium_(2027)#/media/File:New_Nissan_Stadium_under_construction.jpg"
-         target="_blank" rel="noopener">Original image</a>]
+          target="_blank" rel="noopener">Original image</a>]
     </figcaption>
   </figure>
 
