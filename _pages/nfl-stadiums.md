@@ -265,6 +265,27 @@ Several NFL stadiums that are not being replaced are instead getting extensive r
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
+
+### What does the future bring?
+
+All seven NFL stadiums that opened in the 1990s are being replaced or received substantial renovations. 
+
+||Year|Future|Total|Public |
+|Team|Open||Cost|Cost|
+|----|----|----|----|----|
+|Jacksonville Jaguars|1995|Renovation  (2028)|1400|725|
+|Carolina Panthers|1996|Renovation (2030)|1300|650|
+|Washington Commanders|1997|Replacement|2700|930|
+|Baltimore Ravens|1998|Renovation (2026)|489|469|
+|Tampa Bay Buccaneers|1998|Renovation (2018)*|160|29|
+|Cleveland Browns|1999|Replacement (2029)|2400|900|
+|Tennessee Titans|1999|Replacement (2027)|2200|1260|
+
+
+The following stadiums opened in the 2000s and have not received 
+
+**First published:** September 9, 2026
+
 <div style="
   background-color: #f5f5f5;
   border-left: 4px solid #666;
