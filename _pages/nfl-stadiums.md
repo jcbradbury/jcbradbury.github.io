@@ -235,7 +235,7 @@ Newer venues include more amenities and opulent private spaces. All the stadiums
            style="height: 300px; width: auto; display: block; cursor: zoom-in;">
     </a>
     <figcaption style="font-size: 0.9em; margin-top: 6px;">
-      Highmark Stadium (Buffalo Bills, 2026) viewed from the west.
+      New Highmark Stadium (Buffalo Bills, 2026) viewed from the west.
       [<a href="https://en.wikipedia.org/wiki/Highmark_Stadium#/media/File:Bills_Stadium_May26.jpg"
           target="_blank" rel="noopener">Original image</a>]
     </figcaption>
