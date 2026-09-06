@@ -104,9 +104,9 @@ Stadiums of the inaugural era improved gradually over time, and the real cost of
  
 
 ## The Superstadium Era (1960s -- 1980s)
-As NFL grew gained popularity in the middle of the 20th century, teams sought better facilities that would allow them to host more fans as well as increase their control over operations and revenue. Expanded multi-sport public stadiums offered the solution of replacing aging private ballparks and basic municipal facilities.  These superstadiums were built large enough to accommodate both baseball and football field playing dimensions. 
+As NFL gained popularity in the 1960s, teams sought better facilities that would allow them to host more fans as well as increase their control over operations and revenue. Expanded multi-sport public stadiums offered the solution of replacing aging private ballparks and basic municipal facilities.  These superstadiums were built large enough to accommodate both baseball and football field playing dimensions. 
 
-Many of these venues were so similar in design that they were referred to as "cookie-cutter" stadiums: RFK Stadium (Washington, DC, 1961), Shea Stadium (New York 1964), Atlanta–Fulton County Stadium (1965), Busch Memorial Stadium (St. Louis, 1966), Oakland–Alameda County Coliseum (1966), San Diego/Jack Murphy Stadium (1967), Riverfront Stadium (Cincinnati, 1970), Three Rivers Stadium (1970), and Veterans Stadium (Philadelphia 1971). 
+These steel-and-concrete mega-structures were sometimes described as "cookie-cutter" stadiums, because shared the same expansive circular designs and standard dimensions. The venues that employed this architectural scheme were RFK Stadium (Washington Commanders and Senators, 1961), Shea Stadium (New York Jets and Mets, 1964), Atlanta–Fulton County Stadium (Falcons and Braves 1965), Busch Memorial Stadium (St. Louis NFL and MLB Cardinals, 1966), Oakland–Alameda County Coliseum (Raiders and Athletics, 1966), San Diego/Jack Murphy Stadium (Chargers and Padres, 1967), Riverfront Stadium (Cincinnati Bengals and Reds, 1970), Three Rivers Stadium (Pittsburgh Steelers and Pirates, 1970), and Veterans Stadium (Philadelphia 1971). 
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
 
@@ -149,7 +149,7 @@ Many of these venues were so similar in design that they were referred to as "co
 
 Mid-century superstadiums may not seem impressive by today's standards, but were substantial upgrades over inaugural era facilities. The offered more restrooms and concessions, as well being surrounded by parking lots to serve the dominant automobile culture of US cities. Though they were were considerably more expensive then their predecessors,  they were considered prudent as public investments, because they could handle two major sports---more if they were domed (e.g., Houston Astrodome, Seattle Kingdome, Minneapolis Metrodome).  
 
- These venues may not evoke nostalgic feelings among sports fans, but they were celebrated as architectural achievements at the time.  Architect Philip Bess explained that their similarity was part of the attraction for the communities that built them:
+These venues may not evoke nostalgic feelings among sports fans, but they were celebrated as architectural achievements at the time.  Architect Philip Bess explained that their similarity was part of the attraction for the communities that built them:
 <blockquote>
  “The ubiquity of the form leads one to suspect that the role of the stadium itself as a community icon has superseded its importance as an arena for the events it shelters. One can imagine residents of these cities being told that they needed one of these stadiums, in order to be a ‘world class city’" (<a href="https://www.google.com/books/edition/Green_Cathedrals/0FecyQEACAAJ?hl=en"
    target="_blank"
@@ -157,7 +157,7 @@ Mid-century superstadiums may not seem impressive by today's standards, but were
 </blockquote>
 
 
- Though the bulk of stadium construction during this period occurred in the 1960s and 1970s, the thee NFL venues that opened in the 1980s---Hoosier Dome (Indianapolis, 1983), Joe Robbie Stadium (Miami, 1987), and the Metrodome (Minneapolis 1982)---used similar designs. 
+Though the bulk of stadium construction during this period occurred in the 1960s and 1970s, the thee NFL venues that opened in the 1980s---Hoosier Dome (Indianapolis, 1983), Joe Robbie Stadium (Miami, 1987), and the Metrodome (Minneapolis 1982)---used similar architectural designs. 
 
 ## Stadium Mania (1990s -- 2010s)
 
@@ -169,7 +169,7 @@ Stadium mania is sweeping the United States. City officials from Tampa Bay to Sa
 The next major shift in stadium construction emerged in the 1990s. As 30-year leases on municipal superstadiums began to expire, MLB and NFL teams wanted their own facilities. Shared venues were not ideal for spectators of either sport, and owners wanted more control over their facilities. Cities didn't just replace their old venues, they often came two at time, which resulted in a construction so great that it was dubbed "stadium mania," eclipsing the stadium-building boom of the 1960s and 1970s.  
 
 
-Not only did more venues open, but their designs changed. MLB teams sought to recrate the feel of classic ballparks, with retro-designs that mimicked early 20th century architecture, with asymmetric fields, brick, and exposed steel. Baltimore's Camden Yards become the new template for MLB franchises to emulate.
+Not only did more venues open, but their designs changed. MLB teams sought to recreate the feel of classic ballparks, with retro-designs that mimicked early 20th century architecture, with asymmetric fields, brick, and exposed steel. Baltimore's Camden Yards become the new template for MLB franchises to emulate.
 
  
 
@@ -180,11 +180,11 @@ Not only did more venues open, but their designs changed. MLB teams sought to re
 </figure>
 
 
-NFL teams finally got the football-first designs befitting the country's dominant major sports league. Though Miami Dolphins owner Joe Robbie had privately funded his stadium to also host a baseball team, his funding model proved to owners the value of catering to high-end patrons with luxury amenities and exclusive spaces. Robbie was able to build his showpiece with advance sales of skyboxes and club seats, and owners wanted to capitalize on this consumer cohort, but without sharing it with another tenant while still having taxpayers cover much of the cost.
+No longer co-tenants, NFL teams finally got the football-first designs befitting the country's dominant major sports league. Though Miami Dolphins owner Joe Robbie had privately funded his stadium to also host a baseball team, his funding model proved to owners the value of catering to high-end patrons with luxury amenities and exclusive spaces. Robbie was able to build his showpiece with advance sales of skyboxes and club seats, and owners wanted to capitalize on this consumer cohort, but without sharing it with another tenant while still having taxpayers cover much of the cost.
 
-The shift from inaugural venues to superstadiums resulted in a ratcheting up in the cast of stadium building. A similar cost jump occurred with the beginning of stadium mania, but it wasn't a one time event. As owners continued to build stadiums their costs grew at an increasing rate, as owners tried to one-up each other with every new venue that opened.  While the real cost of venues remained relatively constant during from the 1960s through the 1980s, from the 1990s through to 2010s, the median cost of NFL stadiums more than quadrupled. 
+The shift from inaugural venues to superstadiums resulted in a ratcheting up in the cast of stadium building. A similar cost jump occurred with the beginning of stadium mania, but it wasn't a one-time event. New stadiums costs grew at an increasing rate, as owners tried to one-up each other with every new venue that opened.  While the real cost of venues remained relatively constant during from the 1960s through the 1980s, from the 1990s through to 2010s, the median cost of NFL stadiums more than quadrupled. 
 
-Though public subsidies have not kept pace with overall construction costs, they continued to grow, increasing the taxpayer burden.
+Though public subsidies have not kept pace with overall construction costs, they continued to grow, increasing the taxpayer burden. More expensive designs were incentivized by cost-sharing, which lowered the personal costs to owners of designing more opulent venues---a phenomenon known as "[gold-plating](https://doi.org/10.1177/1527002514551803)." 
 
 <figure style="text-align: center;">
   <img src="/images/med_nfl.png"
