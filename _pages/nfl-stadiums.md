@@ -281,7 +281,7 @@ All seven NFL stadiums that opened in the 1990s are being replaced or received m
 |Cleveland Browns|1999|Replacement (2029)|$2,400|$900|
 |Tennessee Titans|1999|Replacement (2027)|$2,200|$1,260|
 
-The 2000s were an even busier decade for NFL stadium-building, with 11 new stadiums opening between 2000 and 2009. 
+The 2000s were an even busier decade for NFL stadium-building, with 11 new stadiums opening between 2000 and 2009. The table below records the replacement/renovation history of these venues. 
 
 
 | Team | Year Open | Renovation/Replacement (year) | Total Cost | Public Cost |
