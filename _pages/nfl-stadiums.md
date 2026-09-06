@@ -257,7 +257,7 @@ Newer venues include more amenities and opulent private spaces. All the stadiums
 
 </div>
 
-And several NFL stadiums that are not being replaced are instead getting extensive renovations. Five renovations are being privately financed by the teams, but the four stadiums are receiving substantial government subsidies for their upgrades, with the Carolina Panthers and Jacksonville Jaguars receiving $650 million and $725 million from taxpayers. 
+Several NFL stadiums that are not being replaced are instead getting extensive renovations. Five renovations were privately financed by the teams---three of which are associated with hosting 2026 World Cup games.  Five stadiums have received/will receive substantial government subsidies for their upgrades, with the Carolina Panthers and Jacksonville Jaguars receiving $650 million and $725 million from taxpayers. 
 
 <figure style="text-align: center;">
   <img src="/images/reno_nfl.png"
