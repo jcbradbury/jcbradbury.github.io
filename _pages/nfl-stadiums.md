@@ -214,62 +214,15 @@ The visual comparison between the Atlanta Falcons' two stadium-mania era venues 
 
 ## The Next Generation (2020 -- )
 
-The 2020s have already been a productive and expensive era for NFL stadium-building. But the end of the 2020s, five new venues will open, and three more as slated to be built in the 2030s.  Los Angeles's SoFi Stadium is an outlier in terms of its high costs, hosting two teams, and as a privately funded venue. The remaining venues continue their costs escalating to $3 million, with public contribution ranging from $850 million to $1.8 billion (cost information for a new Denver Broncos stadium has not been announced). All the stadiums are domed, except for the Buffalo Bills' new Highmark Stadium; however, it's stacked design includes a specially-designed snow-melting roof and heated concourses, so that [64% of seats are covered](https://news.pollstar.com/2026/07/23/the-2-1-billion-bills-gambit-why-buffalo-said-no-to-a-roof/).
-
-<!-- 
-<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: nowrap;">
-
-  <figure style="flex: 0.9 1 0; margin: 0; text-align: center;">
-    <a
-      href="/images/sofi_aerial.jpg"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <img
-        src="/images/sofi_aerial.jpg"
-        alt="Aerial view of SoFi Stadium in Inglewood, California, in July 2022."
-        style="width: 100%; height: 340px; object-fit: cover; object-position: center; cursor: zoom-in;"
-      >
-    </a>
-    <figcaption>
-      Aerial view of SoFi Stadium in Inglewood, California, July 2022.
-      Photograph by Benoît Prieur.
-      [<a href="https://commons.wikimedia.org/wiki/File:Aerial_view_of_SoFi_Stadium_(July_2022).jpg"
-          target="_blank"
-          rel="noopener noreferrer">Wikimedia Commons</a>; CC0 1.0].
-    </figcaption>
-  </figure>
-
-  <figure style="flex: 1.25 1 0; margin: 0; text-align: center;">
-    <a
-      href="/images/Allegiantstadiumjune2020.jpg"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <img
-        src="/images/Allegiantstadiumjune2020.jpg"
-        alt="Aerial view of Allegiant Stadium in Las Vegas, Nevada, in June 2020."
-        style="width: 100%; height: 280px; object-fit: cover; object-position: center; cursor: zoom-in;"
-      >
-    </a>
-    <figcaption>
-      Allegiant Stadium in Las Vegas, Nevada, June 2020.
-      Image by JediRich, Creative Producer.
-      [<a href="https://commons.wikimedia.org/wiki/File:Allegiantstadiumjune2020.jpg"
-          target="_blank"
-          rel="noopener noreferrer">Wikimedia Commons</a>; CC BY 3.0].
-    </figcaption>
-  </figure>
-
-</div>
--->
+The 2020s have already been a productive and expensive era for NFL stadium-building. But the end of the 2020s, five new venues will open, and three more as slated to be built in the 2030s.  Los Angeles's SoFi Stadium is an outlier in terms of its high costs, hosting two teams, and as a privately funded venue. 
 <figure style="text-align: center;">
   <img src="/images/new_nfl.png"
        alt="Bar chart comparing total and public construction costs for NFL stadium projects since 2020, in billions of current dollars. SoFi Stadium for the Rams and Chargers cost $5.50 billion with no public construction contribution, while Allegiant Stadium cost $1.97 billion with $0.75 billion public, Buffalo’s new stadium $2.20 billion with $0.85 billion public, Tennessee’s new stadium $2.20 billion with $1.26 billion public, Cleveland’s planned stadium $2.40 billion with $0.90 billion public, Washington’s planned stadium $2.70 billion with $0.93 billion public, and Kansas City’s planned stadium $3.00 billion with $1.80 billion public. Denver’s proposed 2031 stadium cost is listed as TBD."
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
-  
+ The remaining venues continue their costs escalating to $3 million, with public contribution ranging from $850 million to $1.8 billion (cost information for a new Denver Broncos stadium has not been announced). All the stadiums are domed, except for the Buffalo Bills' new Highmark Stadium; however, it's stacked design includes a specially-designed snow-melting roof and heated concourses, so that [64% of seats are covered](https://news.pollstar.com/2026/07/23/the-2-1-billion-bills-gambit-why-buffalo-said-no-to-a-roof/).
+ 
 
 And several NFL stadiums that are not being replaced are instead getting extensive renovations. Five renovations are being privately financed by the teams, but the four stadiums are receiving substantial government subsidies for their upgrades, with the Carolina Panthers and Jacksonville Jaguars receiving $650 million and $725 million from taxpayers. 
 
