@@ -286,7 +286,7 @@ The following stadiums opened in the 2000s and have not received
 | Team | Year Open | Future | Total Cost | Public Cost |
 | ---- | :-------: | ------ | ---------: | ----------: |
 |Cincinnati Bengals|2000|Renovation  (2029)|$470|$350|
-|Pittsburgh Steelers|2001||||
+|Pittsburgh Steelers|2001|?|?|?|
 |Denver Broncos|2001|Replacement|TBD|TBD|
 |Detroit Lions|2002|Renovation (2017)|$100|$0|
 |New England Patriots|2002|Renovation (2023)|$250|$0|
