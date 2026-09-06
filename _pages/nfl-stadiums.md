@@ -229,10 +229,10 @@ Newer venues include more amenities and opulent private spaces. All the stadiums
 <div style="display: flex; gap: 16px; align-items: flex-start; justify-content: center; margin: 1.5em 0;">
 
   <figure style="margin: 0; text-align: center;">
-    <a href="/images/Bills_Stadium_May26.jpg" target="_blank">
+    <a href="/images/Bills_Stadium_May26.jpg" class="image-popup">
       <img src="/images/Bills_Stadium_May26.jpg"
            alt="New Highmark Stadium in Orchard Park, New York"
-           style="height: 300px; width: auto; display: block;">
+           style="height: 300px; width: auto; display: block; cursor: zoom-in;">
     </a>
     <figcaption style="font-size: 0.9em; margin-top: 6px;">
       Highmark Stadium (Buffalo Bills, 2026) viewed from the west.
@@ -242,10 +242,10 @@ Newer venues include more amenities and opulent private spaces. All the stadiums
   </figure>
 
   <figure style="margin: 0; text-align: center;">
-    <a href="/images/New_Nissan_Stadium_under_construction.jpg" target="_blank">
+    <a href="/images/New_Nissan_Stadium_under_construction.jpg" class="image-popup">
       <img src="/images/New_Nissan_Stadium_under_construction.jpg"
            alt="New Nissan Stadium under construction in Nashville, Tennessee"
-           style="height: 300px; width: auto; display: block;">
+           style="height: 300px; width: auto; display: block; cursor: zoom-in;">
     </a>
     <figcaption style="font-size: 0.9em; margin-top: 6px;">
       Aerial view of the new Nissan Stadium (Tennessee Titans, 2027) under construction, February 2026.
