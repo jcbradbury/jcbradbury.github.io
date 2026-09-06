@@ -214,7 +214,7 @@ The visual comparison between the Atlanta Falcons' two stadium-mania era venues 
 
 ## The Next Generation (2020 -- )
 
-The 2020s have already been a productive and expensive era for NFL stadium-building. But the end of the 2020s, five new venues will open, and three more as slated to be built in the 2030s. Los Angeles's SoFi Stadium is an outlier in terms of its high costs, hosting two teams, and as a privately funded venue.
+The 2020s have already been a productive and expensive era for NFL stadium-building. But the end of the 2020s, five new venues will open, and three more as slated to be built in the 2030s.  Los Angeles's SoFi Stadium is an outlier in terms of its high costs, hosting two teams, and as a privately funded venue. The remaining venues continue their costs escalating to $3 million, with public contribution ranging from $850 million to $1.8 billion (cost information for a new Denver Broncos stadium has not been announced). All the stadiums are domed, except for the Buffalo Bills' new Highmark Stadium; however, it's stacked design includes a specially-designed snow-melting roof and heated concourses, so that [64% of seats are covered](https://news.pollstar.com/2026/07/23/the-2-1-billion-bills-gambit-why-buffalo-said-no-to-a-roof/).
 
 <!-- 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: nowrap;">
@@ -269,7 +269,7 @@ The 2020s have already been a productive and expensive era for NFL stadium-build
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
-The remaining venues continue their costs escalating to $3 million, with public contribution ranging from $850 million to $1.8 billion (cost information for a new Denver Broncos stadium has not been announced). All the stadiums are domed, except for the Buffalo Bills' new Highmark Stadium.  
+  
 
 And several NFL stadiums that are not being replaced are instead getting extensive renovations. Five renovations are being privately financed by the teams, but the four stadiums are receiving substantial government subsidies for their upgrades, with the Carolina Panthers and Jacksonville Jaguars receiving $650 million and $725 million from taxpayers. 
 
