@@ -270,9 +270,8 @@ Several NFL stadiums that are not being replaced are instead getting extensive r
 
 All seven NFL stadiums that opened in the 1990s are being replaced or received substantial renovations. 
 
-||Year|Future|Total|Public |
-|Team|Open||Cost|Cost|
-|----|----|----|----|----|
+| Team | Year Open | Future | Total Cost | Public Cost |
+| ---- | :-------: | ------ | ---------: | ----------: |
 |Jacksonville Jaguars|1995|Renovation  (2028)|$1,400|$725|
 |Carolina Panthers|1996|Renovation (2030)|$1,300|$650|
 |Washington Commanders|1997|Replacement|$2,700|$930|
