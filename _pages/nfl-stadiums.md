@@ -266,9 +266,10 @@ Several NFL stadiums that are not being replaced are instead getting extensive r
 </figure>
 
 
-### What does the future bring?
+### The Future of NFL Stadiums
 
-All seven NFL stadiums that opened in the 1990s are being replaced or received substantial renovations. 
+The history of NFL stadium construction shows a pattern of replacement every 30 years, or significant renovations that happen periodically. 
+All seven NFL stadiums that opened in the 1990s are being replaced or received major renovations. The only potential exception is the Tampa Bay Buccaneers, whose 2018 improvements were relatively small, and largely privately funded. However, the team plans to pursue [a more substantial billion upgrade](https://www.tampabay.com/sports/bucs/2026/05/26/raymond-james-stadium-renovations-tampa-bay-buccaneers/), with two-thirds covered by taxpayers, which is consistent with the in-progress Jaguars and Panthers renovations. 
 
 | Team | Year Open | Renovation/Replacement (year) | Total Cost | Public Cost |
 | ---- | :-------: | ------ | ---------: | ----------: |
@@ -280,7 +281,7 @@ All seven NFL stadiums that opened in the 1990s are being replaced or received s
 |Cleveland Browns|1999|Replacement (2029)|$2,400|$900|
 |Tennessee Titans|1999|Replacement (2027)|$2,200|$1,260|
 
-
+The 2000s were an even busier decade for NFL stadium-building, with 11 new stadiums opening between 2000 and 2009. A few venues have already announced replacements or substantial renovation projects. 
 
 The following stadiums opened in the 2000s and have not received 
 
