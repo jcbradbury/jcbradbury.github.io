@@ -244,9 +244,9 @@ Newer venues include more amenities and opulent private spaces. All the stadiums
          alt="New Nissan Stadium under construction in Nashville, Tennessee"
          style="width: 100%; height: auto; display: block;">
     <figcaption style="font-size: 0.9em; margin-top: 6px; text-align: center;">
-      New Nissan Stadium under construction in Nashville.
+      New Nissan Stadium under construction in Nashville. [Quintin Soloviev, 
       <a href="https://en.wikipedia.org/wiki/Nissan_Stadium_(2027)#/media/File:New_Nissan_Stadium_under_construction.jpg"
-         target="_blank" rel="noopener">Original image</a>
+         target="_blank" rel="noopener">Original image</a>}
     </figcaption>
   </figure>
 
