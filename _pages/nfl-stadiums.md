@@ -226,17 +226,30 @@ Los Angeles's SoFi Stadium is an outlier in terms of its high costs, hosting two
  
 Newer venues include more amenities and opulent private spaces. All the stadiums are domed, except for the Buffalo Bills' new Highmark Stadium; however, it's stacked design includes a specially-designed snow-melting roof and heated concourses, so that [64% of seats are covered](https://news.pollstar.com/2026/07/23/the-2-1-billion-bills-gambit-why-buffalo-said-no-to-a-roof/).
  
-<div style="display: flex; gap: 12px; align-items: flex-start; margin: 1.5em 0;">
-  <div style="flex: 1;">
+<div style="display: flex; gap: 16px; align-items: flex-start; margin: 1.5em 0;">
+
+  <figure style="flex: 1; margin: 0;">
     <img src="/images/Bills_Stadium_May26.jpg"
          alt="New Highmark Stadium in Orchard Park, New York"
          style="width: 100%; height: auto; display: block;">
-  </div>
-  <div style="flex: 1;">
+    <figcaption style="font-size: 0.9em; margin-top: 6px; text-align: center;">
+      Highmark Stadium, home of the Buffalo Bills.
+      <a href="https://en.wikipedia.org/wiki/Highmark_Stadium#/media/File:Bills_Stadium_May26.jpg"
+         target="_blank" rel="noopener">Original image</a>
+    </figcaption>
+  </figure>
+
+  <figure style="flex: 1; margin: 0;">
     <img src="/images/New_Nissan_Stadium_under_construction.jpg"
          alt="New Nissan Stadium under construction in Nashville, Tennessee"
          style="width: 100%; height: auto; display: block;">
-  </div>
+    <figcaption style="font-size: 0.9em; margin-top: 6px; text-align: center;">
+      New Nissan Stadium under construction in Nashville.
+      <a href="https://en.wikipedia.org/wiki/Nissan_Stadium_(2027)#/media/File:New_Nissan_Stadium_under_construction.jpg"
+         target="_blank" rel="noopener">Original image</a>
+    </figcaption>
+  </figure>
+
 </div>
 
 And several NFL stadiums that are not being replaced are instead getting extensive renovations. Five renovations are being privately financed by the teams, but the four stadiums are receiving substantial government subsidies for their upgrades, with the Carolina Panthers and Jacksonville Jaguars receiving $650 million and $725 million from taxpayers. 
