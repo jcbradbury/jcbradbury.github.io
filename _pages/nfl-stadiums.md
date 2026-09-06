@@ -216,10 +216,7 @@ The visual comparison between the Atlanta Falcons' two stadium-mania era venues 
 
 The 2020s have already been a productive and expensive era for NFL stadium-building. But the end of the 2020s, five new venues will open, and three more as slated to be built in the 2030s. Los Angeles's SoFi Stadium is an outlier in terms of its high costs, hosting two teams, and as a privately funded venue.
 
-
-
-
-
+<!-- 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: nowrap;">
 
   <figure style="flex: 0.9 1 0; margin: 0; text-align: center;">
@@ -265,7 +262,7 @@ The 2020s have already been a productive and expensive era for NFL stadium-build
   </figure>
 
 </div>
-
+-->
 <figure style="text-align: center;">
   <img src="/images/new_nfl.png"
        alt="Bar chart comparing total and public construction costs for NFL stadium projects since 2020, in billions of current dollars. SoFi Stadium for the Rams and Chargers cost $5.50 billion with no public construction contribution, while Allegiant Stadium cost $1.97 billion with $0.75 billion public, Buffalo’s new stadium $2.20 billion with $0.85 billion public, Tennessee’s new stadium $2.20 billion with $1.26 billion public, Cleveland’s planned stadium $2.40 billion with $0.90 billion public, Washington’s planned stadium $2.70 billion with $0.93 billion public, and Kansas City’s planned stadium $3.00 billion with $1.80 billion public. Denver’s proposed 2031 stadium cost is listed as TBD."
