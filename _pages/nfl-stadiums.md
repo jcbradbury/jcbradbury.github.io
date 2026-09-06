@@ -23,7 +23,7 @@ sitemap: false
 ">
  <strong>About this article.</strong>
   This article traces the economic history of NFL stadiums from the early 20th century until the present. Teams progressed from being tenants at MLB ballparks during its early days, moving to municipal superstadiums in the 1960s and 1970s, and then settling into elaborate venues designed exclusively for football. Over that time, construction costs have continuously increased as stadiums evolved into extravagant showpieces that cater to wealth patrons with luxury amenities like private suites and exclusive clubs. Taxpayer contributions have correspondingly escalated, and the next generation of stadium is receiving subsidies exceeding $1 billion. 
-  <br>
+  <br><br>
     <a href="https://doi.org/10.1093/9780197820247.003.0003"
      target="_blank"
      rel="noopener noreferrer">Chapter 3</a>
