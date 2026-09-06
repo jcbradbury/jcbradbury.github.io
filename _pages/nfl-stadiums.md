@@ -221,8 +221,23 @@ The 2020s have already been a productive and expensive era for NFL stadium-build
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
- Los Angeles's SoFi Stadium is an outlier in terms of its high costs, hosting two teams, and as a privately funded venue. The remaining venues continue their costs escalating to $3 million, with public contribution ranging from $850 million to $1.8 billion (cost information for a new Denver Broncos stadium has not been announced). All the stadiums are domed, except for the Buffalo Bills' new Highmark Stadium; however, it's stacked design includes a specially-designed snow-melting roof and heated concourses, so that [64% of seats are covered](https://news.pollstar.com/2026/07/23/the-2-1-billion-bills-gambit-why-buffalo-said-no-to-a-roof/).
+Los Angeles's SoFi Stadium is an outlier in terms of its high costs, hosting two teams, and as a privately funded venue. The remaining venues show a continuation of the escalating cost trend, with expenditures reaching $3 million. The average public contribution now exceeds $1 billion, ranging from $850 million to $1.8 billion. Cost information for a new Denver Broncos stadium has not been announced. 
  
+ 
+Newer venues include more amenities and opulent private spaces. All the stadiums are domed, except for the Buffalo Bills' new Highmark Stadium; however, it's stacked design includes a specially-designed snow-melting roof and heated concourses, so that [64% of seats are covered](https://news.pollstar.com/2026/07/23/the-2-1-billion-bills-gambit-why-buffalo-said-no-to-a-roof/).
+ 
+<div style="display: flex; gap: 12px; align-items: flex-start; margin: 1.5em 0;">
+  <div style="flex: 1;">
+    <img src="/images/Bills_Stadium_May26.jpg"
+         alt="New Highmark Stadium in Orchard Park, New York"
+         style="width: 100%; height: auto; display: block;">
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/New_Nissan_Stadium_under_construction.jpg"
+         alt="New Nissan Stadium under construction in Nashville, Tennessee"
+         style="width: 100%; height: auto; display: block;">
+  </div>
+</div>
 
 And several NFL stadiums that are not being replaced are instead getting extensive renovations. Five renovations are being privately financed by the teams, but the four stadiums are receiving substantial government subsidies for their upgrades, with the Carolina Panthers and Jacksonville Jaguars receiving $650 million and $725 million from taxpayers. 
 
