@@ -222,6 +222,20 @@ The 2020s have already been a productive and expensive era for NFL stadium-build
 </figure>
 
 Los Angeles's SoFi Stadium is an outlier in terms of its high costs, hosting two teams, and as a privately funded venue. The remaining venues show a continuation of the escalating cost trend, with expenditures reaching $3 billion. The average public contribution for NFL stadiums opening after 2026 exceeds $1 billion, ranging from $850 million to $1.8 billion. Cost information for a new Denver Broncos stadium has not been announced. 
+
+<div style="
+  background-color: #f5f5f5;
+  border-left: 3px solid #999;
+  padding: 10px 14px;
+  margin: 16px 0;
+  font-size: 0.9em;
+  line-height: 1.45;
+">
+  <strong>* Note:</strong> Unlike the historical cost figures, which are expressed
+  in inflation-adjusted dollars, the following figures use current dollars.
+  Future inflation is unknown, so the costs of planned stadiums cannot yet
+  be converted into comparable real-dollar values.
+</div>
  
  
 Newer venues include more amenities and opulent private spaces. All the stadiums are domed, except for the Buffalo Bills' new Highmark Stadium; however, its stacked design includes a specially-designed snow-melting canopy and heated concourses, so that [64% of seats are covered](https://news.pollstar.com/2026/07/23/the-2-1-billion-bills-gambit-why-buffalo-said-no-to-a-roof/).
