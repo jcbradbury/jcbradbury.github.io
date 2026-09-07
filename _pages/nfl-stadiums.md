@@ -261,7 +261,8 @@ Ten NFL stadiums are benefitting from extensive renovations. Five renovations we
 
 <figure style="text-align: center;">
   <img src="/images/reno_nfl.png"
-       alt="Bar chart comparing total and public costs of NFL stadium renovations since 2020, in millions of current dollars. Renovation costs range from $100 million for the Arizona Cardinals, with no public contribution, to $1.4 billion for the Jacksonville Jaguars, including $725 million in public funding. Other projects include Green Bay at $600 million privately funded, New England at $250 million privately funded, New Orleans at $560 million with $377 million public, Baltimore at $430 million entirely public, Dallas at $350 million privately funded, San Francisco at $200 million privately funded, and Carolina at $1.3 billion with $650 million public funding."
+       alt="Bar chart comparing total and public costs of ten NFL stadium renovations since 2020, in millions of current dollars. White bars show total costs and gray bars show public costs. Arizona Cardinals (2023): $100 million total, $0 public; Green Bay Packers (2023): $600 million, $0; New England Patriots (2023): $250 million, $0; New Orleans Saints (2024): $560 million, $377 million; Baltimore Ravens (2026): $489 million, $469 million; Dallas Cowboys (2026): $350 million, $0; San Francisco 49ers (2026): $200 million, $0; Jacksonville Jaguars (2028): $1.4 billion, $725 million; Cincinnati Bengals (2029): $470 million, $350 million; Carolina Panthers (2030): $1.3 billion, $650 million. New England, Dallas, and San Francisco renovations are associated with hosting 2026 World Cup matches. Costs are in current dollars in the year of actual or announced opening, with data as of September 1, 2026.
+"
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
@@ -306,7 +307,7 @@ The 2000s were an even busier decade for NFL stadium-building, with 11 new stadi
 <strong>Notes:</strong> Costs are in millions of current dollars and reflect the cost the replacement/renovation in the year of completion. Major renovation defined as greater than $100 million. 
 </p>
 
-A few teams have already announced replacements (Broncos) or substantial renovation projects (Bengals, Patriots, Cowboys). Four teams (Steelers, Seahawks, Texans, Colts ) have not received/announced any major renovation projects, and  three teams (Lions, Eagles, Cardinals) had relatively small renovations that were mostly privately funded. If the replacement/renovation cycle continues, then the NFL's current building boom may continue well into the next decade.
+NFL venues that opened in the 2000s are now approaching the age at which the 1990s cohort began being replaced or received major renovations A few teams have already announced replacements (Broncos) or substantial renovation projects (Bengals, Patriots, Cowboys). Four teams (Steelers, Seahawks, Texans, Colts ) have not undergone/announced any major renovation projects, and  three teams (Lions, Eagles, Cardinals) received relatively small renovations that were mostly privately funded. If the replacement/renovation cycle continues, then the NFL's current building boom may continue well into the next decade.
 
 
 
