@@ -283,7 +283,7 @@ Ten NFL stadiums are benefitting from extensive renovations. Five renovations we
 </figure>
 
 
-### The Future: NFL Stadiums and the 30-Year Replacement Cycle
+## The Future: NFL Stadiums and the 30-Year Replacement Cycle
 
 The history of NFL stadium construction shows a pattern of replacement every 30 years, or significant renovations that happen periodically. 
 All seven NFL stadiums that opened in the 1990s are being replaced or received renovations of at least $100 million. However, Tampa Bay Buccaneers' 2018 improvements were relatively small and largely privately funded. The team plans to pursue [a more substantial billion-dollar upgrade](https://www.tampabay.com/sports/bucs/2026/05/26/raymond-james-stadium-renovations-tampa-bay-buccaneers/), with the expectation that two-thirds of the costs will be covered by taxpayers. This request is consistent with the in-progress Jaguars and Panthers renovations. 
