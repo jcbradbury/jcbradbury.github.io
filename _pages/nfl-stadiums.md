@@ -49,7 +49,7 @@ In our article [Public Policy Toward Professional Sports Stadiums: A Review](htt
 
 Below, I describe how NFL stadium construction has progressed across eras, and then examine the next generation of stadium-building that is underway. I include historical images as examples to illustrate how professional football venues have evolved over time. 
 
-## The Inaugural Era (1900s -- 1950s)
+## The Inaugural Era (1900s -- 1950s): NFL Teams as Stadium Tenants
 
 In the early days of the NFL, as its teams searched to build an audience and experienced in a churn in membership, its franchises found homes in existing venues that were not built primarily for them, or even to host football.  Many NFL teams played in local baseball stadiums, which provided MLB team owners an additional revenue source from their private venues. However, this was not an ideal arrangement, because it required squeezing football's rectangular gridiron within ballpark dimensions, which meant walls abutted the playing field  and made for difficult viewing from spectators. 
 
@@ -105,7 +105,7 @@ Stadiums of the inaugural era improved gradually over time, and the real cost of
 
  
 
-## The Superstadium Era (1960s -- 1980s)
+## The Superstadium Era (1960s -- 1980s): The Rise of Public Multipurpose Stadiums
 As NFL gained popularity in the 1960s, teams sought better facilities that would allow them to host more fans as well as increase their control over operations and revenue. Expanded multi-sport public stadiums offered the solution of replacing aging private ballparks and basic municipal facilities.  These superstadiums were built large enough to accommodate both baseball and football field playing dimensions. 
 
 These steel-and-concrete mega-structures were sometimes described as "cookie-cutter" stadiums, because shared the same expansive circular designs and standard dimensions. The venues that employed this architectural scheme were RFK Stadium (Washington Commanders and Senators, 1961), Shea Stadium (New York Jets and Mets, 1964), Atlanta–Fulton County Stadium (Falcons and Braves 1965), Busch Memorial Stadium (St. Louis NFL and MLB Cardinals, 1966), Oakland–Alameda County Coliseum (Raiders and Athletics, 1966), San Diego/Jack Murphy Stadium (Chargers and Padres, 1967), Riverfront Stadium (Cincinnati Bengals and Reds, 1970), Three Rivers Stadium (Pittsburgh Steelers and Pirates, 1970), and Veterans Stadium (Philadelphia 1971). 
@@ -161,7 +161,7 @@ These venues may not evoke nostalgic feelings among sports fans, but they were c
 
 Though the bulk of stadium construction during this period occurred in the 1960s and 1970s, the thee NFL venues that opened in the 1980s---Hoosier Dome (Indianapolis, 1983), Joe Robbie Stadium (Miami, 1987), and the Metrodome (Minneapolis 1982)---used similar architectural designs. 
 
-## Stadium Mania (1990s -- 2010s)
+## Stadium Mania (1990s -- 2010s): Football-Specific Stadiums and Rising Costs
 
 <blockquote>
 Stadium mania is sweeping the United States. City officials from Tampa Bay to San Francisco have embraced the idea that stadiums and commercial sport are essential in projecting a "world-class" image (<a href="https://doi.org/10.1111/j.1468-2257.1990.tb00513.x" target="_blank"
@@ -214,7 +214,7 @@ The visual comparison between the Atlanta Falcons' two stadium-mania era venues 
   </figcaption>
 </figure>
 
-## The Next Generation (2020 and beyond)
+## The Next Generation: NFL Stadium Construction Since 2020
 
 The 2020s have already been a productive and expensive era for NFL stadium-building. By the end of the 2020s, five new venues will open, and three more as slated to be built in the 2030s.  
 <figure style="text-align: center;">
@@ -268,7 +268,7 @@ Several NFL stadiums that are not being replaced are instead getting extensive r
 </figure>
 
 
-### The Future of NFL Stadiums
+### The Future: NFL Stadiums and the 30-Year Replacement Cycle
 
 The history of NFL stadium construction shows a pattern of replacement every 30 years, or significant renovations that happen periodically. 
 All seven NFL stadiums that opened in the 1990s are being replaced or received major renovations. The only potential exception is the Tampa Bay Buccaneers, whose 2018 improvements were relatively small, and largely privately funded. The team plans to pursue [a more substantial billion upgrade](https://www.tampabay.com/sports/bucs/2026/05/26/raymond-james-stadium-renovations-tampa-bay-buccaneers/), with two-thirds covered by taxpayers, which is consistent with the in-progress Jaguars and Panthers renovations. 
