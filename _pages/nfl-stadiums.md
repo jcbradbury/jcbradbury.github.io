@@ -208,7 +208,7 @@ The visual comparison between the Atlanta Falcons' two stadium-mania era venues 
     >
   </a>
   <figcaption>
-    The Georgia Dome (left) and Mercedes-Benz Stadium (right) in downtown Atlanta, photographed while both stadiums stood side by side in 2017. Both venues hosted the Atlanta Falcons, and the latter also hosts Atlanta United of Major League Soccer.
+    The Georgia Dome (left) and Mercedes-Benz Stadium (right) in downtown Atlanta, photographed while both stadiums stood side by side in 2017. Both venues were home to the Atlanta Falcons, and the latter also hosts Atlanta United of Major League Soccer.
     [<a href="https://www.loc.gov/resource/highsm.46748/" target="_blank" rel="noopener noreferrer">Carol M. Highsmith Archive, Library of Congress</a>].
   </figcaption>
 </figure>
@@ -331,6 +331,22 @@ If the replacement/renovation cycle continues, then the NFL's current building b
 
 
 **First published:** September 9, 2026
+
+
+
+## About the author
+
+[J.C. Bradbury](/) is a professor of economics at Kennesaw State University. His research focuses on sports economics, public finance, and local economic-development policy. He is the author of [*This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums*](/towbd/), published by Oxford University Press.
+
+
+## Related resources
+
+- [Do Sports Stadiums Help Local Economies?](/stadium-economic-impact/) — A primer on the economic effects of stadiums.
+- [How Much Do Sports Stadiums Cost?](/stadium-costs/) — Construction costs, public subsidies, renovations, and historical trends.
+- [How Are Stadiums Paid For? ](/stadium-financing/) — A primer on public financing of stadiums.
+- [Stadium Economics](/stadium-economics/) — Articles, research, videos, and public presentations.
+- [*This One Will Be Different*](/towbd/) — A comprehensive examination of publicly funded sports stadiums.
+
 
 <div style="
   background-color: #f5f5f5;
