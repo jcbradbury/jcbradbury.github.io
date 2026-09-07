@@ -22,7 +22,7 @@ sitemap: false
   line-height: 1.5;
 ">
  <strong>About this article.</strong>
-    My book <a href="https://doi.org/10.1093/9780197820247.001.0001
+    My book <a href="https://doi.org/10.1093/9780197820247.001.0001"
      target="_blank"
      rel="noopener noreferrer">This One Will Be Different</a> presents a general history of stadium construction for all major-league venues. This article focuses on changes in NFL stadiums, over the league's 100-plus years of existence.  Teams progressed from being secondary tenants of baseball parks, to sharing municipal superstadiums with MLB teams, before ending up in today's state-of-the-art venues designed exclusively for football. During this span, construction costs have continuously increased as stadiums evolved into extravagant showpieces that emphasize luxury amenities like private suites and exclusive clubs, primarily enjoyed by wealth patrons. Government contributions have correspondingly escalated to where the next generation of stadium is receiving subsidies exceeding $1 billion. Nearly three decades have passed since the NFL's last stadium boom, and all signs point to the historical 30-year replacement cycle restarting on schedule. The trends of ever-increasing costs and rising public commitments suggest that the the next wave of NFL stadium construction and renovation will be costly for taxpayers.
   <br><br>
