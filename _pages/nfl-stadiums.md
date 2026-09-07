@@ -287,7 +287,7 @@ Ten NFL stadiums are benefitting from extensive renovations. Five renovations we
 ## The Future: NFL Stadiums and the 30-Year Replacement Cycle
 
 The history of NFL stadium construction shows a pattern of replacement every 30 years, or significant renovations that happen periodically. 
-All seven NFL stadiums that opened in the 1990s are being replaced or received renovations of at least $100 million. However, Tampa Bay Buccaneers' 2018 improvements were relatively small and largely privately funded. The team plans to pursue [a more substantial billion-dollar upgrade](https://www.tampabay.com/sports/bucs/2026/05/26/raymond-james-stadium-renovations-tampa-bay-buccaneers/), with the expectation that two-thirds of the costs will be covered by taxpayers. This request is consistent with the in-progress Jaguars and Panthers renovations. 
+All seven NFL stadiums that opened in the 1990s are being replaced or received renovations of $100 million or more. However, Tampa Bay Buccaneers' 2018 improvements were relatively small and largely privately funded. The team plans to pursue [a more substantial billion-dollar upgrade](https://www.tampabay.com/sports/bucs/2026/05/26/raymond-james-stadium-renovations-tampa-bay-buccaneers/), with the expectation that two-thirds of the costs will be covered by taxpayers. This request is consistent with the in-progress Jaguars and Panthers renovations. 
 
 | Team | Year Open | Replacement/Major Renovation (year) | Total Cost | Public Cost |
 | ---- | :-------: | ------ | ---------: | ----------: |
@@ -300,7 +300,7 @@ All seven NFL stadiums that opened in the 1990s are being replaced or received r
 |Tennessee Titans|1999|Replacement (2027)|$2,200|$1,260|
 
 <p style="font-size: 0.75em; margin-top: 0.4em;">
-<strong>Notes:</strong> Costs are in millions of current dollars and reflect the announced replacement/renovation cost in the year of completion. Major renovation defined as greater than $100 million. 
+<strong>Notes:</strong> Costs are in millions of current dollars and reflect the announced replacement/renovation cost in the year of actual/expected completion. Major renovation defined as at least $100 million. 
 </p>
 
 The 2000s were an even busier decade for NFL stadium construction, with 11 new stadiums opening between 2000 and 2009. The table below records the replacement/renovation history of these venues. 
@@ -321,10 +321,10 @@ The 2000s were an even busier decade for NFL stadium construction, with 11 new s
 |Dallas Cowboys|2009|Renovation (2026)|$350|$0|
 
 <p style="font-size: 0.75em; margin-top: 0.4em;">
-<strong>Notes:</strong> Costs are in millions of current dollars and reflect the announced replacement/renovation cost in the year of completion. Major renovation defined as greater than $100 million. 
+<strong>Notes:</strong> Costs are in millions of current dollars and reflect the announced replacement/renovation cost in the year of actual/expected completion. Major renovation defined as at least $100 million. 
 </p>
 
-NFL venues that opened in the 2000s are now approaching the age at which the 1990s cohort began being replaced or received major renovations A few teams have already announced replacements (Broncos) or substantial renovation projects (Bengals, Patriots, Cowboys). Four teams (Steelers, Seahawks, Texans, Colts) have not undergone/announced any major renovation projects, and  three teams (Lions, Eagles, Cardinals) received relatively small renovations that were mostly privately funded. 
+NFL venues that opened in the 2000s are now approaching the age at which the 1990s cohort began being replaced or received major renovations. A few teams have already announced replacements (Broncos) or substantial renovation projects (Bengals, Patriots, Cowboys). Four teams (Steelers, Seahawks, Texans, Colts) have not undergone/announced any major renovation projects, and  three teams (Lions, Eagles, Cardinals) received relatively small renovations that were mostly privately funded. 
 
 If the replacement/renovation cycle continues, then the NFL's current building boom may continue well into the next decade. The growing expense of venue improvements, the pursuit of increasingly opulent features, and the willingness of government officials to subsidize upgrades, suggest that the cost to taxpayers will continue to increase. 
 
