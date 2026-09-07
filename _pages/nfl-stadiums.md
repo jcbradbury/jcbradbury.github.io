@@ -27,7 +27,7 @@ sitemap: false
 
  This article draws heavily on my book <i><a href="https://doi.org/10.1093/9780197820247.001.0001"
      target="_blank"
-     rel="noopener noreferrer">This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums</a></i>  which provides a general history sports venue construction for all major US sports leagues. 
+     rel="noopener noreferrer">This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums</a></i>  which provides a general history of sports venue construction for all major US sports leagues. 
 
 </div>
 
@@ -107,7 +107,7 @@ Stadiums of the inaugural era improved gradually over time, and the real costs o
 ## The Superstadium Era (1960s -- 1980s): The Rise of Public Multipurpose Stadiums
 As NFL gained popularity in the 1960s, teams sought better facilities that would allow them to host more fans as well as increase their control over operations and revenue. Expanded multi-sport public stadiums offered the solution of replacing aging private ballparks and basic municipal facilities.  These superstadiums were built large enough to accommodate both baseball and football field playing dimensions. 
 
-These mega-structures were sometimes described as "cookie-cutter" stadiums, because they shared the similar expansive circular designs and standard dimensions. The venues that employed this architectural scheme were RFK Stadium (Washington Commanders and Senators, 1961), Shea Stadium (New York Jets and Mets, 1964), Atlanta–Fulton County Stadium (Falcons and Braves, 1965), Busch Memorial Stadium (St. Louis NFL and MLB Cardinals, 1966), Oakland–Alameda County Coliseum (Raiders and Athletics, 1966), San Diego/Jack Murphy Stadium (Chargers and Padres, 1967), Riverfront Stadium (Cincinnati Bengals and Reds, 1970), Three Rivers Stadium (Pittsburgh Steelers and Pirates, 1970), and Veterans Stadium (Philadelphia 1971). 
+These mega-structures were sometimes described as "cookie-cutter" stadiums, because they shared similar expansive circular designs and standard dimensions. The venues that employed this architectural scheme were RFK Stadium (Washington Commanders and Senators, 1961), Shea Stadium (New York Jets and Mets, 1964), Atlanta–Fulton County Stadium (Falcons and Braves, 1965), Busch Memorial Stadium (St. Louis NFL and MLB Cardinals, 1966), Oakland–Alameda County Coliseum (Raiders and Athletics, 1966), San Diego/Jack Murphy Stadium (Chargers and Padres, 1967), Riverfront Stadium (Cincinnati Bengals and Reds, 1970), Three Rivers Stadium (Pittsburgh Steelers and Pirates, 1970), and Veterans Stadium (Philadelphia 1971). 
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
 
@@ -241,7 +241,7 @@ The 2020s have already been a productive and expensive era for NFL stadium-build
  
  Los Angeles's SoFi Stadium is an outlier in terms of its high costs, hosting two teams, and as a privately funded venue. The remaining stadiums show a continuation of the escalating cost trend, with expenditures reaching $3 billion. The average public contribution for these facilities exceeds $1 billion, ranging from $750 million to $1.8 billion. Cost information for a new Denver Broncos stadium has not been announced.
 
-Newer venues continue include upgraded amenities and opulent private spaces. All the stadiums are domed, except for the Buffalo Bills' new Highmark Stadium; however, its stacked design includes a specially-designed snow-melting canopy and heated concourses, so that [64% of seats are covered](https://news.pollstar.com/2026/07/23/the-2-1-billion-bills-gambit-why-buffalo-said-no-to-a-roof/).
+Newer venues continue to include upgraded amenities and opulent private spaces. All the stadiums are domed, except for the Buffalo Bills' new Highmark Stadium; however, its stacked design includes a specially-designed snow-melting canopy and heated concourses, so that [64% of seats are covered](https://news.pollstar.com/2026/07/23/the-2-1-billion-bills-gambit-why-buffalo-said-no-to-a-roof/).
  
 <div style="display: flex; gap: 16px; align-items: flex-start; justify-content: center; margin: 1.5em 0;">
 
