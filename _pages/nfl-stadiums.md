@@ -299,7 +299,7 @@ The 2000s were an even busier decade for NFL stadium-building, with 11 new stadi
 |Dallas Cowboys|2009|Renovation (2026)|$350|$0|
 
 
-A few teams have already announced replacements (Broncos) or substantial renovation projects (Bengals, Patriots, Cowboys). Four teams (Steelers, Seahawks, Texans, Colts ) have not received/announced any major renovation projects, and  three teams (Lions, Eagles, Cardinals) had relatively small renovations that were mostly privately funded. If the replacement/renovation cycle continues, then the NFL's current building boom may continue well into the next decade. 
+A few teams have already announced replacements (Broncos) or substantial renovation projects (Bengals, Patriots, Cowboys). Four teams (Steelers, Seahawks, Texans, Colts ) have not received/announced any major renovation projects, and  three teams (Lions, Eagles, Cardinals) had relatively small renovations that were mostly privately funded. If the replacement/renovation cycle continues, then the NFL's current building boom may continue well into the next decade.
 
 
 
