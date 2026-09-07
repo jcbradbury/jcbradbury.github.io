@@ -24,7 +24,7 @@ sitemap: false
  <strong>About this article.</strong>
     My book <i><a href="https://doi.org/10.1093/9780197820247.001.0001"
      target="_blank"
-     rel="noopener noreferrer">This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums </a></i> presents a general history of stadium construction for all major-league venues. This article focuses on changes in professional football stadiums. Over the NFL's 100-plus years of existence, its franchises progressed from being secondary tenants of baseball parks, to sharing municipal superstadiums with MLB teams, to today's state-of-the-art venues designed primarily for football. During this span, construction costs have risen sharply, particularly since the 1990s, when stadiums evolved into extravagant showpieces that emphasize luxury amenities, like private suites and exclusive clubs, primarily enjoyed by wealthy patrons. Government contributions have correspondingly escalated, with several projects in the next generation of stadiums receiving public commitments exceeding $1 billion. Nearly three decades have passed since the NFL's last stadium boom, and all signs point to the historical 30-year replacement cycle restarting on schedule. The trends of increasing costs and rising public commitments suggest that the the next wave of NFL stadium construction and renovation will be costly for taxpayers.
+     rel="noopener noreferrer">This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums </a></i> presents a general history of stadium construction for all major-league venues. This article focuses on changes in professional football stadiums. Over the NFL's 100-plus years of existence, its franchises progressed from being secondary tenants of baseball parks, to sharing municipal superstadiums with MLB teams, to today's state-of-the-art venues designed primarily for football. During this span, construction costs have risen sharply, particularly since the 1990s, when stadiums evolved into extravagant showpieces that emphasize luxury amenities, like private suites and exclusive clubs, primarily enjoyed by wealthy patrons. Government contributions have correspondingly escalated, with several projects in the next generation of stadiums receiving public commitments exceeding $1 billion. Nearly three decades have passed since the NFL's last stadium boom, and the historical 30-year replacement cycle appears to be restarting. The trends of increasing costs and rising public commitments suggest that the next wave of NFL stadium construction and renovation will be costly for taxpayers.
   <br><br>
    
 
@@ -34,9 +34,9 @@ sitemap: false
 **By [J.C. Bradbury](/)**  
 
 
-The National Football League (NFL) got off to tenuous start during its first few decades of operation, but it would ultimately grow to supplant Major League Baseball (MLB) as the US's preeminent major sports league.  The NFL was founded in 1920 after the era of modern concrete and steel stadiums had begun, thus its early members were able to rely upon existing venues that were built for other purposes, but now its teams play in the largest and most expensive in the country, and their costs of construction continue to grow higher.
+The National Football League (NFL) got off to a tenuous start during its first few decades of operation, but it would ultimately grow to supplant Major League Baseball (MLB) as the US's preeminent major sports league.  The NFL was founded in 1920 after the era of modern concrete and steel stadiums had begun, thus its early members were able to rely upon existing venues that were built for other purposes, but now its teams play in the largest and most expensive in the country, and their costs of construction continue to grow higher.
 
-In our article [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22534), Dennis Coates and Brad Humphreys and I separate stadium construction into three eras, which are distinguished by venue designs and construction costs. As the figure below shows, NFL stadium openings were concentrated within these periods, with peaks occurring around 1925, 1970, and 2000. The recent spate of new NFL stadiums---six new venues between 2026 and 2031---which is consistent with the pattern of a 30-year stadium replacement cycle.  
+In our article [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22534), Dennis Coates and Brad Humphreys and I separate stadium construction into three eras, which are distinguished by venue designs and construction costs. As the figure below shows, NFL stadium openings were concentrated within these periods, with peaks occurring around 1925, 1970, and 2000. Six new NFL stadiums are scheduled to open between 2026 and 2031, which is consistent with the pattern of a 30-year stadium replacement cycle.  
 
 <figure style="text-align: center;">
   <img src="/images/eras_nfl.png"
@@ -55,9 +55,9 @@ Some NFL teams played in municipally owned stadiums, which were becoming more co
 
 College football stadiums were another venue option sometimes used by NFL teams, even into the late 20th century. Examples include Pitt Stadium (Pittsburgh Steelers), Tulane Stadium (New Orleans Saints), and Sun Devil Stadium (Arizona Cardinals).
  
-Unlike MLB team owners, who had to incur the expense of building and maintaining their facilities, NFL owners were able to rely on existing stadiums.  In this sense, the NFL was a leader in transitioning stadiums from being privately to publicly provided, because its franchises weren't heavily invested in the private business of venue-building. However, because of their subordinate status, NFL teams often moved from stadium to stadium. For example, through the 1950s, the Philadelphia Eagles played in two ballparks the Baker Bowl (Phillies) and Shibe Park (Athletics and Phillies), Philadelphia Municipal Stadium, and Franklin Field (home of the Penn Quakers).
+Unlike MLB team owners, who had to incur the expense of building and maintaining their facilities, NFL owners were able to rely on existing stadiums.  In this sense, the NFL was a leader in transitioning stadiums from being privately to publicly provided, because its franchises weren't heavily invested in the private business of venue-building. However, because of their subordinate status, NFL teams often moved from stadium to stadium. For example, the Philadelphia Eagles played in two ballparks---the Baker Bowl (Phillies) and Shibe Park (Athletics and Phillies)---Philadelphia Municipal Stadium, and Franklin Field (home of the Penn Quakers).
 
-Stadiums of the inaugural era improved gradually over time, and the real costs of venue construction were relatively stable. Even into the 1950s, bigger stadiums like Milwaukee County Stadium (Green Bay Packers) and Metropolitan Stadium (Minnesota Vikings) were not well suited for football, and their NFL teams were secondary tenants. 
+Stadiums of the inaugural era improved gradually over time, and the real costs of venue construction were relatively stable. Even bigger stadiums that opened in the 1950s, like Milwaukee County Stadium (Green Bay Packers) and Metropolitan Stadium (Minnesota Vikings), were not well suited for football, and their NFL teams were secondary tenants. 
 
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
@@ -157,7 +157,7 @@ These venues may not evoke nostalgic feelings among sports fans, but they were c
 </blockquote>
 
 
-Though the bulk of stadium construction during this period occurred in the 1960s and 1970s, the three NFL venues that opened in the 1980s---Hoosier Dome (Indianapolis, 1983), Joe Robbie Stadium (Miami, 1987), and the Metrodome (Minneapolis 1982)---used similar architectural designs. 
+Though the bulk of stadium construction during this period occurred in the 1960s and 1970s, the three NFL venues that opened in the 1980s---the Metrodome (Minneapolis) Hoosier Dome (Indianapolis), Joe Robbie Stadium (Miami)---used similar architectural designs. 
 
 ## Stadium Mania (1990s -- 2010s): Football-Specific Stadiums and Rising Costs
 
@@ -192,7 +192,7 @@ Though public subsidies have not kept pace with overall construction costs, they
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
-The visual comparison between the Atlanta Falcons' two stadium-mania era venues is illustrative of how facilities improved.  The Georgia Dome, which opened in 1992, is dwarfed by its replacement Mercedez-Benz Stadium, which opened in 2017.  Though seating capacities are nearly identical, the newer venue uses a larger footprint to furnish its upgraded amenities. In inflation-adjusted real terms (2024 dollars), Mercedez-Benz Stadium ($2 billion) was four times more expensive to build than than the 100% publicly funded Georgia Dome ($448 million), and its public cost ($900 million) was double.
+The visual comparison between the Atlanta Falcons' two stadium-mania era venues is illustrative of how facilities improved.  The Georgia Dome, which opened in 1992, is dwarfed by its replacement Mercedes-Benz Stadium, which opened in 2017.  Though seating capacities are nearly identical, the newer venue uses a larger footprint to furnish its upgraded amenities. In inflation-adjusted real terms (2024 dollars), Mercedes-Benz Stadium ($2 billion) was more than four times more expensive to build than the 100% publicly funded Georgia Dome ($448 million), and its public cost ($900 million) was double.
 
 <figure style="text-align: center; margin: 0;">
   <a
@@ -214,17 +214,17 @@ The visual comparison between the Atlanta Falcons' two stadium-mania era venues 
 
 ## The Next Generation: NFL Stadium Construction Since 2020
 
-The 2020s have already been a productive and expensive era for NFL stadium-building. By the end of the 2020s, five new venues will open, and three more as slated to be built in the 2030s.  
+The 2020s have already been a productive and expensive era for NFL stadium-building. By the end of the 2020s, five new venues will have opened, and three more are slated to be built in the 2030s.  
 <figure style="text-align: center;">
   <img src="/images/new_nfl.png"
        alt="Bar chart comparing total and public construction costs for NFL stadium projects since 2020, in billions of current dollars. SoFi Stadium for the Rams and Chargers cost $5.50 billion with no public construction contribution, while Allegiant Stadium cost $1.97 billion with $0.75 billion public, Buffalo’s new stadium $2.20 billion with $0.85 billion public, Tennessee’s new stadium $2.20 billion with $1.26 billion public, Cleveland’s planned stadium $2.40 billion with $0.90 billion public, Washington’s planned stadium $2.70 billion with $0.93 billion public, and Kansas City’s planned stadium $3.00 billion with $1.80 billion public. Denver’s proposed 2031 stadium cost is listed as TBD."
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
-Los Angeles's SoFi Stadium is an outlier in terms of its high costs, hosting two teams, and as a privately funded venue. The remaining venues show a continuation of the escalating cost trend, with expenditures reaching $3 billion. The average public contribution now exceeds $1 billion, ranging from $850 million to $1.8 billion. Cost information for a new Denver Broncos stadium has not been announced. 
+Los Angeles's SoFi Stadium is an outlier in terms of its high costs, hosting two teams, and as a privately funded venue. The remaining venues show a continuation of the escalating cost trend, with expenditures reaching $3 billion. The average public contribution for NFL stadiums opening after 2026 exceeds $1 billion, ranging from $850 million to $1.8 billion. Cost information for a new Denver Broncos stadium has not been announced. 
  
  
-Newer venues include more amenities and opulent private spaces. All the stadiums are domed, except for the Buffalo Bills' new Highmark Stadium; however, it's stacked design includes a specially-designed snow-melting roof and heated concourses, so that [64% of seats are covered](https://news.pollstar.com/2026/07/23/the-2-1-billion-bills-gambit-why-buffalo-said-no-to-a-roof/).
+Newer venues include more amenities and opulent private spaces. All the stadiums are domed, except for the Buffalo Bills' new Highmark Stadium; however, its stacked design includes a specially-designed snow-melting canopy and heated concourses, so that [64% of seats are covered](https://news.pollstar.com/2026/07/23/the-2-1-billion-bills-gambit-why-buffalo-said-no-to-a-roof/).
  
 <div style="display: flex; gap: 16px; align-items: flex-start; justify-content: center; margin: 1.5em 0;">
 
@@ -257,7 +257,7 @@ Newer venues include more amenities and opulent private spaces. All the stadiums
 
 </div>
 
-Several NFL stadiums that are not being replaced are instead getting extensive renovations. Five renovations were privately financed by the teams---three of which are associated with hosting 2026 World Cup games.  Five stadiums have received/will receive substantial government subsidies for their upgrades, with the Carolina Panthers and Jacksonville Jaguars receiving $650 million and $725 million from taxpayers. 
+Ten NFL stadiums are benefitting from extensive renovations. Five renovations were privately financed by the teams---three of which are associated with hosting 2026 World Cup games.  Five stadiums have received/will receive substantial government subsidies for their upgrades, with the Carolina Panthers and Jacksonville Jaguars receiving $650 million and $725 million from taxpayers. 
 
 <figure style="text-align: center;">
   <img src="/images/reno_nfl.png"
@@ -269,7 +269,7 @@ Several NFL stadiums that are not being replaced are instead getting extensive r
 ### The Future: NFL Stadiums and the 30-Year Replacement Cycle
 
 The history of NFL stadium construction shows a pattern of replacement every 30 years, or significant renovations that happen periodically. 
-All seven NFL stadiums that opened in the 1990s are being replaced or received major renovations. The only potential exception is the Tampa Bay Buccaneers, whose 2018 improvements were relatively small, and largely privately funded. The team plans to pursue [a more substantial billion upgrade](https://www.tampabay.com/sports/bucs/2026/05/26/raymond-james-stadium-renovations-tampa-bay-buccaneers/), with two-thirds covered by taxpayers, which is consistent with the in-progress Jaguars and Panthers renovations. 
+All seven NFL stadiums that opened in the 1990s are being replaced or received major renovations. The only potential exception is the Tampa Bay Buccaneers, whose 2018 improvements were relatively small, and largely privately funded. The team plans to pursue [a more substantial billion=dollar upgrade](https://www.tampabay.com/sports/bucs/2026/05/26/raymond-james-stadium-renovations-tampa-bay-buccaneers/), with the expectation that two-thirds of the costs will be covered by taxpayers, which is consistent with the in-progress Jaguars and Panthers renovations. 
 
 | Team | Year Open | Renovation/Replacement (year) | Total Cost | Public Cost |
 | ---- | :-------: | ------ | ---------: | ----------: |
