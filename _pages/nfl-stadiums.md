@@ -22,11 +22,13 @@ sitemap: false
   line-height: 1.5;
 ">
  <strong>About this article.</strong>
+ <br>
     My book <i><a href="https://doi.org/10.1093/9780197820247.001.0001"
      target="_blank"
-     rel="noopener noreferrer">This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums</a></i>  presents a general history of stadium construction for all major-league venues. This article focuses on changes in professional football stadiums. Over the NFL's 100-plus years of existence, its franchises progressed from being secondary tenants of baseball parks, to sharing municipal superstadiums with MLB teams, to today's state-of-the-art venues designed primarily for football. During this span, construction costs have risen sharply, particularly since the 1990s, when stadiums evolved into extravagant showpieces that emphasize luxury amenities, like private suites and exclusive clubs, primarily enjoyed by wealthy patrons. Government contributions have correspondingly escalated, with several projects in the latest generation of stadiums receiving public commitments exceeding $1 billion. Nearly three decades have passed since the NFL's last stadium boom, and the historical 30-year replacement cycle appears to be restarting. The trends of increasing costs and rising public commitments suggest that the next wave of NFL stadium construction and renovation will be costly for taxpayers.
+     rel="noopener noreferrer">This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums</a></i>  presents a general history of stadium construction for all major-league venues. 
   <br><br>
-   
+     This article focuses on changes in professional football stadiums. Over the NFL's 100-plus years of existence, its franchises progressed from being secondary tenants of baseball parks, to sharing municipal superstadiums with MLB teams, to today's state-of-the-art venues designed primarily for football. During this span, construction costs have risen sharply, particularly since the 1990s, when stadiums evolved into extravagant showpieces that emphasize luxury amenities, like private suites and exclusive clubs, primarily enjoyed by wealthy patrons. Government contributions have correspondingly escalated, with several projects in the latest generation of stadiums receiving public commitments exceeding $1 billion. Nearly three decades have passed since the NFL's last stadium boom, and the historical 30-year replacement cycle appears to be restarting. The trends of increasing costs and rising public commitments suggest that the next wave of NFL stadium construction and renovation will be costly for taxpayers.
+
 
 </div>
 
