@@ -269,7 +269,7 @@ Ten NFL stadiums are benefitting from extensive renovations. Five renovations we
 ### The Future: NFL Stadiums and the 30-Year Replacement Cycle
 
 The history of NFL stadium construction shows a pattern of replacement every 30 years, or significant renovations that happen periodically. 
-All seven NFL stadiums that opened in the 1990s are being replaced or received major renovations. The only potential exception is the Tampa Bay Buccaneers, whose 2018 improvements were relatively small, and largely privately funded. The team plans to pursue [a more substantial billion=dollar upgrade](https://www.tampabay.com/sports/bucs/2026/05/26/raymond-james-stadium-renovations-tampa-bay-buccaneers/), with the expectation that two-thirds of the costs will be covered by taxpayers, which is consistent with the in-progress Jaguars and Panthers renovations. 
+All seven NFL stadiums that opened in the 1990s are being replaced or received major renovations. The only potential exception is the Tampa Bay Buccaneers, whose 2018 improvements were relatively small, and largely privately funded. The team plans to pursue [a more substantial billion-dollar upgrade](https://www.tampabay.com/sports/bucs/2026/05/26/raymond-james-stadium-renovations-tampa-bay-buccaneers/), with the expectation that two-thirds of the costs will be covered by taxpayers, which is consistent with the in-progress Jaguars and Panthers renovations. 
 
 | Team | Year Open | Renovation/Replacement (year) | Total Cost | Public Cost |
 | ---- | :-------: | ------ | ---------: | ----------: |
@@ -302,6 +302,9 @@ The 2000s were an even busier decade for NFL stadium-building, with 11 new stadi
 |Indianapolis Colts|2008|**None**|||
 |Dallas Cowboys|2009|Renovation (2026)|$350|$0|
 
+<p style="font-size: 0.75em; margin-top: 0.4em;">
+<strong>Notes:</strong> Costs are in millions of current dollars and reflect the cost the replacement/renovation in the year of completion. 
+</p>
 
 A few teams have already announced replacements (Broncos) or substantial renovation projects (Bengals, Patriots, Cowboys). Four teams (Steelers, Seahawks, Texans, Colts ) have not received/announced any major renovation projects, and  three teams (Lions, Eagles, Cardinals) had relatively small renovations that were mostly privately funded. If the replacement/renovation cycle continues, then the NFL's current building boom may continue well into the next decade.
 
