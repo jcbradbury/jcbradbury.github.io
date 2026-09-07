@@ -184,7 +184,7 @@ No longer co-tenants, NFL teams finally got the football-first designs befitting
 
 The shift from inaugural venues to superstadiums resulted in a ratcheting up in the cost of stadium building. A similar cost jump occurred with the beginning of stadium mania, but it wasn't a one-time event. New stadium costs grew at an increasing rate, as owners tried to one-up each other with every new venue that opened.  While the real cost of venues remained relatively constant from the 1960s through the 1980s, from the 1990s through to 2010s, the median cost of NFL stadiums more than quadrupled. 
 
-Though public subsidies have not kept pace with overall construction costs, they continued to grow, increasing the taxpayer burden. More expensive designs were incentivized by cost-sharing, which lowered the personal costs to owners of designing more opulent venues---a phenomenon known as "[gold-plating](https://doi.org/10.1177/1527002514551803)." 
+Though public subsidies have not kept pace with overall construction costs, they continued to grow, increasing the taxpayer burden. More expensive designs were incentivized by cost-sharing, which lowered the personal costs to owners of designing more opulent venues---a phenomenon known as "[gold-plating](https://doi.org/10.1177/1527002514551803)." For example, in a privately built facility, a $100 million feature that generates only $75 million in revenue isn't a prudent investment; but when government is covering at least a quarter of the cost, it makes economic sense.
 
 <figure style="text-align: center;">
   <img src="/images/med_nfl.png"
