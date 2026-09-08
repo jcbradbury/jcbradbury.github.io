@@ -37,7 +37,9 @@ Stadium financing involves economic and public-policy issues that can be difficu
 
 - [Do Sports Stadiums Help Local Economies? A Primer on the Economic Impact of Stadiums](/stadium-economic-impact/) --  Start here if you are unfamiliar with the economics of stadiums. 
 - [How Much Do Sports Stadiums Cost?](/stadium-costs/) --  This article summarizes data on the costs of constructing and renovating sports venues from the early 20th century through approved future projects. It covers the five major US-based leagues---MLB, NFL, NBA, NHL, and MLS---as well as MLB-affiliated minor-league ballparks. 
-- [How Are Stadiums Paid For? A Primer on Public Financing of Stadiums](/stadium-financing/) — This article discusses the financial instruments that governments typically use to subsidize public stadium projects.
+- [How Are Stadiums Paid For? A Primer on Public Financing of Stadiums](/stadium-financing/) -- This article discusses the financial instruments that governments typically use to subsidize public stadium projects.
+
+-[A Brief Economic History of NFL Stadiums](/nfl-stadiums/) -- 
 
 ## Academic Survey Articles 
 - [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22534), with Dennis Coates and Brad Humphreys -- Published in the *Journal of Policy Analysis and Management*, this review was written to be accessible to policymakers and other non-specialists.
