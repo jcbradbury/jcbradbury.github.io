@@ -183,7 +183,7 @@ Not only did more venues open, but their designs changed. MLB teams sought to re
 
 No longer co-tenants, NFL teams finally got the football-first designs befitting the country's dominant major sports league.  When Miami Dolphins owner Joe Robbie self-funded his eponymous showpiece with advance sales of skyboxes and club seats in 1987, he demonstrated the value of catering to high-end patrons with luxury amenities and exclusive spaces. I addition football-first designs, owners sought replacements that could capitalize on this customer cohort while still having taxpayers cover much of the cost. 
 
-The shift from inaugural venues to superstadiums resulted in a ratcheting up in the cost of building new stadiums. Though a similar jump occurred with the beginning of stadium mania, their increased expense wouldn't a one-time event. Construction costs grew at a continuously increasing rate, as owners tried to one-up each other with every new venue that opened.  While the real cost of venues remained relatively constant from the 1960s through the 1980s, from the 1990s through to 2010s, the median cost of NFL stadiums per decade more than quadrupled. 
+The shift from inaugural venues to superstadiums resulted in a ratcheting up in the cost of building new stadiums. Though a similar jump occurred with the beginning of stadium mania, their increased expense wouldn't a one-time event. Construction costs grew at a continuously increasing rate, as owners tried to one-up each other with every new venue that opened.  While the real cost of venues remained relatively constant from the 1960s through the 1980s, from the 1990s through the 2010s, the median cost of NFL stadiums per decade more than quadrupled. 
 
 <figure style="text-align: center;">
   <img src="/images/med_nfl.png"
@@ -191,10 +191,10 @@ The shift from inaugural venues to superstadiums resulted in a ratcheting up in 
        style="max-width: 850px; width: 100%; height: auto;">
 </figure>
 
-Though public subsidies have not kept pace with overall construction costs, they continued to grow, increasing the taxpayer burden. More expensive designs were incentivized by cost-sharing, which lowered the personal costs to owners of designing more opulent venues---a phenomenon known as "[gold-plating](https://doi.org/10.1177/1527002514551803)." For example, in a privately built facility, a $100 million feature that generates only $75 million in revenue isn't a prudent investment; but when government is covering at least a quarter of the cost, it makes economic sense.
+Though public subsidies have not kept pace with overall construction costs, they continued to grow, increasing the taxpayer burden. More expensive designs were incentivized by cost-sharing, which lowered the personal expense to owners of including more opulent features---a phenomenon known as "[gold-plating](https://doi.org/10.1177/1527002514551803)." For example, in a privately built facility, a $100 million feature that generates only $75 million in revenue isn't a prudent investment; but when government is covering at least a quarter of the cost, it makes economic sense.
 
 
-The visual comparison between the Atlanta Falcons' two stadium-mania era venues is illustrative of how facilities improved.  The Georgia Dome, which opened in 1992, is dwarfed by its replacement Mercedes-Benz Stadium, which opened in 2017.  Though seating capacities are nearly identical, the newer venue uses a larger footprint to furnish its upgraded amenities. In inflation-adjusted real terms (2024 dollars), Mercedes-Benz Stadium ($2 billion) was more than four times more expensive to build than the 100% publicly funded Georgia Dome ($448 million), and its public cost ($900 million) was approximately double.
+The visual comparison(below) between the Atlanta Falcons' two stadium-mania era venues is illustrative of how facilities improved.  The Georgia Dome, which opened in 1992, is dwarfed by its replacement Mercedes-Benz Stadium, which opened in 2017.  Though seating capacities are nearly identical, the newer venue uses a larger footprint to furnish its upgraded amenities. In inflation-adjusted real terms (2024 dollars), the construction cost of Mercedes-Benz Stadium ($2 billion) was more than four times greater than the 100% publicly funded Georgia Dome ($448 million), and its public expense ($900 million) was approximately double.
 
 <figure style="text-align: center; margin: 0;">
   <a
@@ -233,10 +233,7 @@ The 2020s have already been a productive and expensive era for NFL stadium-build
   font-size: 0.9em;
   line-height: 1.45;
 ">
-  <strong>* Note:</strong> Unlike the historical cost figures presented above, which are expressed
-  in inflation-adjusted 2024 dollars, the figures in this section use current dollars.
-  Future inflation is unknown, so the costs of planned stadiums cannot yet
-  be converted into comparable real-dollar values.
+  <strong>* Note:</strong> Unlike the historical cost figures presented above, which are expressed in inflation-adjusted 2024 dollars, the figures in this section use current dollars. Estimating real costs of planned stadiums requires speculation, because future inflation is unknown.
 </div>
  
  Los Angeles's SoFi Stadium is an outlier in terms of its high costs, hosting two teams, and as a privately funded venue. The remaining stadiums show a continuation of the escalating cost trend, with expenditures reaching $3 billion. The average public contribution for these facilities exceeds $1 billion, ranging from $750 million to $1.8 billion. Cost information for a new Denver Broncos stadium has not been announced.
@@ -274,7 +271,7 @@ Newer venues continue to include upgraded amenities and opulent private spaces. 
 
 </div>
 
-Ten NFL stadiums are benefitting from extensive renovations. Five renovations were privately financed by the teams---three of which are associated with hosting 2026 World Cup games.  Five stadiums have received/will receive substantial government subsidies for their upgrades, with the Carolina Panthers and Jacksonville Jaguars receiving $650 million and $725 million from taxpayers. 
+Ten NFL stadiums are benefitting from extensive renovations. Five renovations were privately financed by the teams---three of which are associated with hosting 2026 World Cup games.  Five stadiums have received/will receive substantial government subsidies for their upgrades, with the Carolina Panthers and Jacksonville Jaguars respectively receiving $650 million and $725 million from taxpayers. 
 
 <figure style="text-align: center;">
   <img src="/images/reno_nfl.png"
@@ -303,7 +300,7 @@ All seven NFL stadiums that opened in the 1990s are being replaced or received r
 <strong>Notes:</strong> Costs are in millions of current dollars and reflect the announced replacement/renovation cost in the year of actual/expected completion. Major renovation defined as at least $100 million. 
 </p>
 
-The 2000s were an even busier decade for NFL stadium construction, with 11 new stadiums opening between 2000 and 2009. The table below records the replacement/renovation history of these venues. 
+The 2000s were an even busier decade for NFL stadium construction, with 11 new venues opening between 2000 and 2009. The table below records their replacement/renovation histories. 
 
 
 | Team | Year Open | Replacement/Major Renovation (year) | Total Cost | Public Cost |
@@ -324,9 +321,9 @@ The 2000s were an even busier decade for NFL stadium construction, with 11 new s
 <strong>Notes:</strong> Costs are in millions of current dollars and reflect the announced replacement/renovation cost in the year of actual/expected completion. Major renovation defined as at least $100 million. 
 </p>
 
-NFL venues that opened in the 2000s are now approaching the age at which the 1990s cohort began being replaced or received major renovations. A few teams have already announced replacements (Broncos) or substantial renovation projects (Bengals, Patriots, Cowboys). Four teams (Steelers, Seahawks, Texans, Colts) have not undergone/announced any major renovation projects, and  three teams (Lions, Eagles, Cardinals) received relatively small renovations that were mostly privately funded. 
+NFL venues that opened in the 2000s are now approaching the age at which the 1990s cohort began being replaced or received major renovations. A few teams have already announced replacements (Broncos) or substantial renovation projects (Bengals, Patriots, Cowboys). Four teams (Steelers, Seahawks, Texans, Colts) have not undergone/announced any major renovation projects (noted in **bold**), and  three teams (Lions, Eagles, Cardinals) received relatively small renovations that were mostly privately funded (noted in *italics*). 
 
-If the replacement/renovation cycle continues, then the NFL's current building boom may continue well into the next decade. The growing expense of venue improvements, the pursuit of increasingly opulent features, and the willingness of government officials to subsidize upgrades, suggest that the cost to taxpayers will continue to increase. 
+If the replacement/renovation cycle continues, then the NFL's current building boom may continue well into the next decade. The growing expense of venue improvements, the pursuit of increasingly extravagant features, and the willingness of government officials to subsidize upgrades, suggest that the burden to taxpayers will continue to escalate. 
 
 
 
