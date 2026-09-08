@@ -22,10 +22,10 @@ sitemap: false
   line-height: 1.5;
 ">
  <strong>Overview.</strong>
- This article presents the economic history of US professional football stadiums. Over the NFL's 100-plus years of existence, its franchises progressed from being secondary tenants of baseball parks, to sharing municipal superstadiums with MLB teams, to today's state-of-the-art venues designed primarily for football. During this span, construction costs have risen sharply, particularly since the 1990s, when stadiums evolved into extravagant showpieces that emphasize luxury amenities, like private suites and exclusive clubs, primarily enjoyed by wealthy patrons. Government contributions have correspondingly escalated, with several projects in the latest generation of stadiums receiving public commitments exceeding $1 billion. Nearly three decades have passed since the NFL's last stadium boom, and the historical 30-year replacement cycle appears to be restarting. The trends of increasing costs and rising public commitments suggest that the next wave of NFL stadium construction and renovation will be costly for taxpayers.
+ This article presents the economic history of US professional football stadiums. Over the NFL's 100-plus years of existence, its franchises progressed from being secondary tenants of baseball parks, to sharing municipal superstadiums with MLB teams, to today's state-of-the-art venues designed primarily for football. During this span, construction costs have escalated, particularly since the 1990s, when stadiums evolved into extravagant showpieces that emphasize luxury amenities, like private suites and exclusive clubs, primarily enjoyed by wealthy patrons. Government contributions have correspondingly increased, with several projects in the latest generation of stadiums receiving public commitments exceeding $1 billion. Nearly three decades have passed since the NFL's last stadium boom, and the historical 30-year replacement cycle appears to be restarting. The trends of accelerating costs and rising public commitments suggest that the next wave of NFL stadium construction and renovation will be costly for taxpayers.
   <br><br>
 
- This article draws heavily on my book <i><a href="https://doi.org/10.1093/9780197820247.001.0001"
+ This article draws heavily from my book <i><a href="https://doi.org/10.1093/9780197820247.001.0001"
      target="_blank"
      rel="noopener noreferrer">This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums</a></i>  which provides a general history of sports venue construction for all major US sports leagues. 
 
@@ -35,7 +35,7 @@ sitemap: false
 **By [J.C. Bradbury](/)**  
 
 
-The National Football League (NFL) got off to a tenuous start during its first few decades of operation, but it would ultimately grow to supplant Major League Baseball (MLB) as the US's preeminent major sports league.  The NFL was founded in 1920 after the era of modern concrete-and-steel stadiums had begun, thus its early members were able to rely upon existing venues that were built for other purposes, but now its teams play in the largest and most expensive in the country, and their construction costs continue to grow higher.
+The National Football League (NFL) got off to a tenuous start during its first few decades of operation, but it would ultimately grow to supplant Major League Baseball (MLB) as the US's preeminent major sports league.  The NFL was founded in 1920 after the era of modern concrete-and-steel stadiums had begun, thus its early members were able to rely upon existing facilities that were built for other purposes. Now its teams play in the largest and most expensive sports venues in the country, and their construction costs continue to grow higher.
 
 In our article [Public Policy Toward Professional Sports Stadiums: A Review](https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22534), Dennis Coates, Brad Humphreys, and I separate stadium construction into three eras, which are distinguished by venue designs and construction costs. As the figure below shows, NFL stadium openings were concentrated within these periods, with peaks occurring around 1925, 1970, and 2000. Six new NFL stadiums are scheduled to open between 2026 and 2031, which is consistent with the pattern of a 30-year stadium replacement cycle.  
 
@@ -52,9 +52,9 @@ Below, I describe how NFL stadium construction has progressed across eras, and t
 
 In the early days of the NFL, as its teams searched to build an audience with churning membership, its franchises found homes in existing venues that were not built primarily for them, or even to host football.  Many NFL teams played in local baseball stadiums, which provided MLB team owners an additional revenue source from their private venues. However, this was not an ideal arrangement, because it required squeezing football's rectangular gridiron within ballpark dimensions, which meant walls abutted the playing field  and made for difficult viewing from spectators. 
 
-Some NFL teams played in municipally owned stadiums, which were becoming more common in big American cities. Often built as public works, and thus frequently named as memorials to war veterans, they were intended to host a variety of large community events, including sports. Their oval- and horseshoe-shaped designs had the seating capacity to serve the basic function of hosting games. For example, the Los Angeles Memorial Coliseum, Chicago's Soldier Field, and Buffalo's War Memorial Stadium were not originally constructed to host the NFL teams that would later play in them. 
+Some NFL teams played in municipally owned stadiums, which were becoming more common in big American cities. Often built as public works, and thus frequently named as memorials to war veterans, they were intended to host a variety of large community events, including sports. Their oval- and horseshoe-shaped designs had the seating capacity to serve the basic function of holding games. For example, the Los Angeles Memorial Coliseum, Chicago's Soldier Field, and Buffalo's War Memorial Stadium were not originally constructed as homes for the NFL teams that would later play in them. 
 
-College football stadiums were another venue option sometimes used by NFL teams, even into the late 20th century. Examples include Pitt Stadium (Pittsburgh Steelers), Tulane Stadium (New Orleans Saints), and Sun Devil Stadium (Arizona Cardinals).
+College football stadiums from this era were another venue option sometimes used by NFL teams, even into the late 20th century. Examples include Pitt Stadium (Pittsburgh Steelers), Tulane Stadium (New Orleans Saints), and Sun Devil Stadium (Arizona Cardinals).
  
 Unlike MLB team owners, who had to incur the expense of building and maintaining their facilities, NFL owners were able to rely on existing stadiums.  In this sense, the NFL was a leader in transitioning stadiums from being privately to publicly provided, because its franchises weren't heavily invested in the private business of venue-building. However, because of their subordinate status, NFL teams often moved from stadium to stadium. For example, the Philadelphia Eagles played in two ballparks---the Baker Bowl (Phillies) and Shibe Park (Athletics and Phillies)---Philadelphia Municipal Stadium, and Franklin Field (home of the Penn Quakers).
 
@@ -76,7 +76,7 @@ Stadiums of the inaugural era improved gradually over time, and the real costs o
       >
     </a>
     <figcaption>
-      Braves Field (1915–1952), home of NL's Boston Braves, configured for a NFL Boston Braves football game in 1932. [National Baseball Hall of Fame collection; image hosted by   <a href="https://sabr.org/journal/article/braves-field-an-imperfect-history-of-the-perfect-ballpark/"
+      Braves Field (1915–1952), home of MLB's Boston Braves, configured for an NFL Boston Braves football game in 1932. [National Baseball Hall of Fame collection; image hosted by   <a href="https://sabr.org/journal/article/braves-field-an-imperfect-history-of-the-perfect-ballpark/"
      target="_blank"
      rel="noopener noreferrer">SABR</a>].
     </figcaption>
@@ -105,9 +105,9 @@ Stadiums of the inaugural era improved gradually over time, and the real costs o
  
 
 ## The Superstadium Era (1960s -- 1980s): The Rise of Public Multipurpose Stadiums
-As NFL gained popularity in the 1960s, teams sought better facilities that would allow them to host more fans as well as increase their control over operations and revenue. Expanded multi-sport public stadiums offered the solution of replacing aging private ballparks and basic municipal facilities.  These superstadiums were built large enough to accommodate both baseball and football field playing dimensions. 
+As the NFL gained popularity in the 1960s, teams sought better facilities that would allow them to host more fans as well as increase their control over operations and revenue. Expanded multi-sport public stadiums offered the solution of replacing aging private ballparks and basic municipal facilities.  These superstadiums were built large enough to accommodate both baseball and football field playing dimensions. 
 
-These mega-structures were sometimes described as "cookie-cutter" stadiums, because they shared similar expansive circular designs and standard dimensions. The venues that employed this architectural scheme were RFK Stadium (Washington Commanders and Senators, 1961), Shea Stadium (New York Jets and Mets, 1964), Atlanta–Fulton County Stadium (Falcons and Braves, 1965), Busch Memorial Stadium (St. Louis NFL and MLB Cardinals, 1966), Oakland–Alameda County Coliseum (Raiders and Athletics, 1966), San Diego/Jack Murphy Stadium (Chargers and Padres, 1967), Riverfront Stadium (Cincinnati Bengals and Reds, 1970), Three Rivers Stadium (Pittsburgh Steelers and Pirates, 1970), and Veterans Stadium (Philadelphia 1971). 
+These mega-structures employed expansive circular designs and standard dimensions. Many of these venues were so similar that they were often described as "cookie cutter" stadiums, which included: RFK Stadium (Washington Commanders and Senators, 1961), Shea Stadium (New York Jets and Mets, 1964), Atlanta–Fulton County Stadium (Falcons and Braves, 1965), Busch Memorial Stadium (St. Louis NFL and MLB Cardinals, 1966), Oakland–Alameda County Coliseum (Raiders and Athletics, 1966), San Diego/Jack Murphy Stadium (Chargers and Padres, 1967), Riverfront Stadium (Cincinnati Bengals and Reds, 1970), Three Rivers Stadium (Pittsburgh Steelers and Pirates, 1970), and Veterans Stadium (Philadelphia 1971). 
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
 
@@ -181,9 +181,9 @@ Not only did more venues open, but their designs changed. MLB teams sought to re
 </figure>
 
 
-No longer co-tenants, NFL teams finally got the football-first designs befitting the country's dominant major sports league. Though Miami Dolphins owner Joe Robbie had privately funded his stadium to also host a baseball team, his funding model proved to owners the value of catering to high-end patrons with luxury amenities and exclusive spaces. Robbie was able to build his showpiece with advance sales of skyboxes and club seats, and owners wanted to capitalize on this consumer cohort, but without sharing it with another tenant while still having taxpayers cover much of the cost.
+No longer co-tenants, NFL teams finally got the football-first designs befitting the country's dominant major sports league.  When Miami Dolphins owner Joe Robbie self-funded his eponymous showpiece with advance sales of skyboxes and club seats in 1987, he demonstrated the value of catering to high-end patrons with luxury amenities and exclusive spaces. I addition football-first designs, owners sought replacements that could capitalize on this customer cohort while still having taxpayers cover much of the cost. 
 
-The shift from inaugural venues to superstadiums resulted in a ratcheting up in the cost of stadium building. A similar cost jump occurred with the beginning of stadium mania, but it wasn't a one-time event. New stadium costs grew at an increasing rate, as owners tried to one-up each other with every new venue that opened.  While the real cost of venues remained relatively constant from the 1960s through the 1980s, from the 1990s through to 2010s, the median cost of NFL stadiums per decade more than quadrupled. 
+The shift from inaugural venues to superstadiums resulted in a ratcheting up in the cost of building new stadiums. Though a similar jump occurred with the beginning of stadium mania, their increased expense wouldn't a one-time event. Construction costs grew at a continuously increasing rate, as owners tried to one-up each other with every new venue that opened.  While the real cost of venues remained relatively constant from the 1960s through the 1980s, from the 1990s through to 2010s, the median cost of NFL stadiums per decade more than quadrupled. 
 
 <figure style="text-align: center;">
   <img src="/images/med_nfl.png"
