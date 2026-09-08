@@ -27,7 +27,7 @@ sitemap: false
 
  This article draws heavily from my book <i><a href="https://doi.org/10.1093/9780197820247.001.0001"
      target="_blank"
-     rel="noopener noreferrer">This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums</a></i>  which provides a general history of sports venue construction for all major US sports leagues. 
+     rel="noopener noreferrer">This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums</a></i>,  which provides a general history of sports venue construction for all major US sports leagues. 
 
 </div>
 
@@ -50,7 +50,7 @@ Below, I describe how NFL stadium construction has progressed across eras, and t
 
 ## The Inaugural Era (1900s -- 1950s): NFL Teams as Stadium Tenants
 
-In the early days of the NFL, as its teams searched to build an audience with churning membership, its franchises found homes in existing venues that were not built primarily for them, or even to host football.  Many NFL teams played in local baseball stadiums, which provided MLB team owners an additional revenue source from their private venues. However, this was not an ideal arrangement, because it required squeezing football's rectangular gridiron within ballpark dimensions, which meant walls abutted the playing field  and made for difficult viewing from spectators. 
+In the early days of the NFL, as its teams searched to build an audience with churning membership, its franchises found homes in existing venues that were not built primarily for them, or even to host football.  Many NFL teams played in local baseball stadiums, which provided MLB team owners an additional revenue source from their private venues. However, this was not an ideal arrangement, because it required squeezing football's rectangular gridiron within ballpark dimensions, which meant walls abutted the playing field  and made viewing difficult for spectators. 
 
 Some NFL teams played in municipally owned stadiums, which were becoming more common in big American cities. Often built as public works, and thus frequently named as memorials to war veterans, they were intended to host a variety of large community events, including sports. Their oval- and horseshoe-shaped designs had the seating capacity to serve the basic function of holding games. For example, the Los Angeles Memorial Coliseum, Chicago's Soldier Field, and Buffalo's War Memorial Stadium were not originally constructed as homes for the NFL teams that would later play in them. 
 
@@ -107,7 +107,7 @@ Stadiums of the inaugural era improved gradually over time, and the real costs o
 ## The Superstadium Era (1960s -- 1980s): The Rise of Public Multipurpose Stadiums
 As the NFL gained popularity in the 1960s, teams sought better facilities that would allow them to host more fans as well as increase their control over operations and revenue. Expanded multi-sport public stadiums offered the solution of replacing aging private ballparks and basic municipal facilities.  These superstadiums were built large enough to accommodate both baseball and football field playing dimensions. 
 
-These mega-structures employed expansive circular designs and standard dimensions. Many of these venues were so similar that they were often described as "cookie cutter" stadiums, which included: RFK Stadium (Washington Commanders and Senators, 1961), Shea Stadium (New York Jets and Mets, 1964), Atlanta–Fulton County Stadium (Falcons and Braves, 1965), Busch Memorial Stadium (St. Louis NFL and MLB Cardinals, 1966), Oakland–Alameda County Coliseum (Raiders and Athletics, 1966), San Diego/Jack Murphy Stadium (Chargers and Padres, 1967), Riverfront Stadium (Cincinnati Bengals and Reds, 1970), Three Rivers Stadium (Pittsburgh Steelers and Pirates, 1970), and Veterans Stadium (Philadelphia 1971). 
+These mega-structures employed expansive circular designs and standard dimensions. Many of these venues were so similar that they were often described as "cookie cutter" stadiums. These included RFK Stadium (Washington Commanders and Senators, 1961), Shea Stadium (New York Jets and Mets, 1964), Atlanta–Fulton County Stadium (Falcons and Braves, 1965), Busch Memorial Stadium (St. Louis NFL and MLB Cardinals, 1966), Oakland–Alameda County Coliseum (Raiders and Athletics, 1966), San Diego/Jack Murphy Stadium (Chargers and Padres, 1967), Riverfront Stadium (Cincinnati Bengals and Reds, 1970), Three Rivers Stadium (Pittsburgh Steelers and Pirates, 1970), and Veterans Stadium (Philadelphia 1971). 
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
 
@@ -181,9 +181,9 @@ Not only did more venues open, but their designs changed. MLB teams sought to re
 </figure>
 
 
-No longer co-tenants, NFL teams finally got the football-first designs befitting the country's dominant major sports league.  When Miami Dolphins owner Joe Robbie self-funded his eponymous showpiece with advance sales of skyboxes and club seats in 1987, he demonstrated the value of catering to high-end patrons with luxury amenities and exclusive spaces. I addition football-first designs, owners sought replacements that could capitalize on this customer cohort while still having taxpayers cover much of the cost. 
+No longer co-tenants, NFL teams finally got the football-first designs befitting the country's dominant major sports league.  When Miami Dolphins owner Joe Robbie self-funded his eponymous showpiece with advance sales of skyboxes and club seats in 1987, he demonstrated the value of catering to high-end patrons with luxury amenities and exclusive spaces. In addition to football-first designs, owners sought replacements that could capitalize on this customer cohort while still having taxpayers cover much of the cost. 
 
-The shift from inaugural venues to superstadiums resulted in a ratcheting up in the cost of building new stadiums. Though a similar jump occurred with the beginning of stadium mania, their increased expense wouldn't a one-time event. Construction costs grew at a continuously increasing rate, as owners tried to one-up each other with every new venue that opened.  While the real cost of venues remained relatively constant from the 1960s through the 1980s, from the 1990s through the 2010s, the median cost of NFL stadiums per decade more than quadrupled. 
+The shift from inaugural venues to superstadiums resulted in a ratcheting up in the cost of building new stadiums. Though a similar jump occurred with the beginning of stadium mania, their increased expense wouldn't be a one-time event. Construction costs continued to grow at an increasing rate, as owners tried to one-up each other with every new venue that opened.  While the real cost of venues remained relatively constant from the 1960s through the 1980s, from the 1990s through the 2010s, the median cost of NFL stadiums per decade more than quadrupled. 
 
 <figure style="text-align: center;">
   <img src="/images/med_nfl.png"
@@ -194,7 +194,7 @@ The shift from inaugural venues to superstadiums resulted in a ratcheting up in 
 Though public subsidies have not kept pace with overall construction costs, they continued to grow, increasing the taxpayer burden. More expensive designs were incentivized by cost-sharing, which lowered the personal expense to owners of including more opulent features---a phenomenon known as "[gold-plating](https://doi.org/10.1177/1527002514551803)." For example, in a privately built facility, a $100 million feature that generates only $75 million in revenue isn't a prudent investment; but when government is covering at least a quarter of the cost, it makes economic sense.
 
 
-The visual comparison(below) between the Atlanta Falcons' two stadium-mania era venues is illustrative of how facilities improved.  The Georgia Dome, which opened in 1992, is dwarfed by its replacement Mercedes-Benz Stadium, which opened in 2017.  Though seating capacities are nearly identical, the newer venue uses a larger footprint to furnish its upgraded amenities. In inflation-adjusted real terms (2024 dollars), the construction cost of Mercedes-Benz Stadium ($2 billion) was more than four times greater than the 100% publicly funded Georgia Dome ($448 million), and its public expense ($900 million) was approximately double.
+The visual comparison (below) between the Atlanta Falcons' two stadium-mania era venues is illustrative of how facilities improved.  The Georgia Dome, which opened in 1992, is dwarfed by its replacement Mercedes-Benz Stadium, which opened in 2017.  Though seating capacities are nearly identical, the newer venue uses a larger footprint to furnish its upgraded amenities. In inflation-adjusted real terms (2024 dollars), the construction cost of Mercedes-Benz Stadium ($2 billion) was more than four times greater than the 100% publicly funded Georgia Dome ($448 million), and its public expense ($900 million) was approximately double.
 
 <figure style="text-align: center; margin: 0;">
   <a
@@ -271,7 +271,7 @@ Newer venues continue to include upgraded amenities and opulent private spaces. 
 
 </div>
 
-Ten NFL stadiums are benefitting from extensive renovations. Five renovations were privately financed by the teams---three of which are associated with hosting 2026 World Cup games.  Five stadiums have received/will receive substantial government subsidies for their upgrades, with the Carolina Panthers and Jacksonville Jaguars respectively receiving $650 million and $725 million from taxpayers. 
+Ten NFL stadiums are benefiting from extensive renovations. Five renovations were privately financed by the teams---three of which are associated with hosting 2026 World Cup games.  Five stadiums have received/will receive substantial government subsidies for their upgrades, with the Carolina Panthers and Jacksonville Jaguars respectively receiving $650 million and $725 million from taxpayers. 
 
 <figure style="text-align: center;">
   <img src="/images/reno_nfl.png"
@@ -284,7 +284,7 @@ Ten NFL stadiums are benefitting from extensive renovations. Five renovations we
 ## The Future: NFL Stadiums and the 30-Year Replacement Cycle
 
 The history of NFL stadium construction shows a pattern of replacement every 30 years, or significant renovations that happen periodically. 
-All seven NFL stadiums that opened in the 1990s are being replaced or received renovations of $100 million or more. However, Tampa Bay Buccaneers' 2018 improvements were relatively small and largely privately funded. The team plans to pursue [a more substantial billion-dollar upgrade](https://www.tampabay.com/sports/bucs/2026/05/26/raymond-james-stadium-renovations-tampa-bay-buccaneers/), with the expectation that two-thirds of the costs will be covered by taxpayers. This request is consistent with the in-progress Jaguars and Panthers renovations. 
+All seven NFL stadiums that opened in the 1990s are being replaced or received renovations of $100 million or more. However, the Tampa Bay Buccaneers' 2018 improvements were relatively small and largely privately funded. The team plans to pursue [a more substantial billion-dollar upgrade](https://www.tampabay.com/sports/bucs/2026/05/26/raymond-james-stadium-renovations-tampa-bay-buccaneers/), with the expectation that two-thirds of the costs will be covered by taxpayers. This request is consistent with the in-progress Jaguars and Panthers renovations. 
 
 | Team | Year Open | Replacement/Major Renovation (year) | Total Cost | Public Cost |
 | ---- | :-------: | ------ | ---------: | ----------: |
@@ -323,7 +323,7 @@ The 2000s were an even busier decade for NFL stadium construction, with 11 new v
 
 NFL venues that opened in the 2000s are now approaching the age at which the 1990s cohort began being replaced or received major renovations. A few teams have already announced replacements (Broncos) or substantial renovation projects (Bengals, Patriots, Cowboys). Four teams (Steelers, Seahawks, Texans, Colts) have not undergone/announced any major renovation projects (noted in **bold**), and  three teams (Lions, Eagles, Cardinals) received relatively small renovations that were mostly privately funded (noted in *italics*). 
 
-If the replacement/renovation cycle continues, then the NFL's current building boom may continue well into the next decade. The growing expense of venue improvements, the pursuit of increasingly extravagant features, and the willingness of government officials to subsidize upgrades, suggest that the burden to taxpayers will continue to escalate. 
+If the replacement/renovation cycle continues, then the NFL's current building boom may continue well into the next decade. The growing expense of venue improvements, the pursuit of increasingly extravagant features, and the willingness of government officials to subsidize upgrades suggest that the burden to taxpayers will continue to escalate. 
 
 
 
