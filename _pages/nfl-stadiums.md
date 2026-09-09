@@ -11,7 +11,18 @@ toc_label: "On this page"
 toc_sticky: true
 share: false
 sitemap: true
+
+header:
+  image: stadium-economics-share.png
+
 ---
+
+
+<style>
+.page__hero {
+  display: none;
+}
+</style>
 
 <div style="
   background-color: #f5f5f5;
