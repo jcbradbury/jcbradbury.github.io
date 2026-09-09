@@ -13,7 +13,7 @@ share: false
 sitemap: true
 
 header:
-  image: stadium-economics-share.png
+  image: nfl-stadiums-share.png
 
 ---
 
