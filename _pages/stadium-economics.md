@@ -39,7 +39,6 @@ Stadium financing involves economic and public-policy issues that can be difficu
 - [How Much Do Sports Stadiums Cost?](/stadium-costs/) --  This article summarizes data on the costs of constructing and renovating sports venues from the early 20th century through approved future projects. It covers the five major US-based leagues---MLB, NFL, NBA, NHL, and MLS---as well as MLB-affiliated minor-league ballparks. 
 - [How Are Stadiums Paid For? A Primer on Public Financing of Stadiums](/stadium-financing/) -- This article discusses the financial instruments that governments typically use to subsidize public stadium projects.
 
-
 - [A Brief Economic History of NFL Stadiums](/nfl-stadiums/) -- This article describes the progression of venue designs, construction costs, and public financing of American professional football stadiums over the NFL's 100-year history.
 
 
