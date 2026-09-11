@@ -89,7 +89,8 @@ Stadium financing involves economic and public-policy issues that can be difficu
 - Improving public policy toward stadiums (to come)
 -->
 
-### Stadium Case Studies
+### Public Policy Issues
+- [The NFL's Stadium Boom: The Next Generation of Boondoggles](https://www.youtube.com/shorts/jPs-IQIJQxs)
 - [Is the Moda Center Renovation a Good Public Investment?](https://youtube.com/shorts/8NoYN5d_PNE)
 - [Chicago Fire's "Privately Financed" Stadium](https://youtube.com/shorts/RxOrCmAW8pY)
 - [Did Coors Field Revitalize Downtown Denver?](https://youtube.com/shorts/QNVGAXnqNZk)
