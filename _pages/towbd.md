@@ -34,7 +34,11 @@ My book **This One Will Be Different: False Promises and Fiscal Realities of Pub
         <ul>
         <li>Publisher 30% Discount code: AUFLY30</li>
         </ul>
-      <li><a href="https://www.acappellabooks.com/pages/books/403899/j-c-bradbury/this-one-will-be-different-false-promises-and-fiscal-realities-of-publicly-funded-stadiums">A Cappella Books</a></li>  
+      <li><a href="https://www.acappellabooks.com/pages/books/403899/j-c-bradbury/
+      this-one-will-be-different-false-promises-and-fiscal-realities-of-publicly-funded-stadiums">A Cappella Books</a></li>  
+        <ul>
+        <li><a href="https://www.acappellabooks.com/pages/events/1517/j-c-bradbury-in-conversation-with-rafi-kohan">Author Event (Oct 27)</a></li>
+        </ul>
       <li><a href="https://www.amazon.com/This-One-Will-Different-Realities/dp/0197820212">Amazon</a></li>
       <li><a href="https://www.barnesandnoble.com/w/this-one-will-be-different-j-c-bradbury/1149008693?ean=9780197820216">Barnes & Noble</a></li>
       <li><a href="https://www.booksamillion.com/p/This-One-Will-Be-Different/J-C-Bradbury/9780197820216">Books-A-Million</a></li>
