@@ -5,125 +5,134 @@ author_profile: true
 published: false
 ---
 
-
 ## Request a Signed Bookplate
 
-If you've purchased a copy of *This One Will Be Different* I'd be happy to send you a
+If you've purchased a copy of *This One Will Be Different*, I'd be happy to send you a
 signed **4 things adults shouldn't believe in** bookplate *(free of charge, while supplies last)*.
 
-<img src="/images/bookplate.jpg"
-     alt="Bookplate for This One Will Be Different"
-     style="display:block; max-width:300px; width:100%; height:auto;
-            margin:1.5em auto;">
+Please provide your mailing information below. If you'd like the bookplate personalized,
+you can add that too.
 
-Please provide your mailing information below. 
-If you'd like the bookplate personalized, you can add
-that too.
+<p class="required-note"><span class="required">*</span> Required</p>
 
-<form id="bookplateForm" novalidate>
+<div class="bookplate-request">
 
-<table border="0" width="100%">
-<tbody>
+  <div class="bookplate-form">
 
-<tr>
-  <td width="30%">Name (mail recipient)*</td>
-  <td width="70%">
-    <input maxlength="60" name="Name" size="35"
-           type="text" autocomplete="name" required>
-  </td>
-</tr>
+    <form id="bookplateForm" novalidate>
 
-<tr>
-  <td>Street Address*</td>
-  <td>
-    <input maxlength="80" name="Address" size="35"
-           type="text" autocomplete="address-line1" required>
-  </td>
-</tr>
+      <table border="0" width="100%">
+        <tbody>
 
-<tr>
-  <td>Address Line 2</td>
-  <td>
-    <input maxlength="80" name="Address2" size="35"
-           type="text" autocomplete="address-line2">
-  </td>
-</tr>
+          <tr>
+            <td width="38%">Name (mail recipient)<span class="required">*</span></td>
+            <td width="62%">
+              <input maxlength="60" name="Name" size="35"
+                     type="text" autocomplete="name" required>
+            </td>
+          </tr>
 
-<tr>
-  <td>City*</td>
-  <td>
-    <input maxlength="50" name="City" size="30"
-           type="text" autocomplete="address-level2" required>
-  </td>
-</tr>
+          <tr>
+            <td>Street Address<span class="required">*</span></td>
+            <td>
+              <input maxlength="80" name="Address" size="35"
+                     type="text" autocomplete="address-line1" required>
+            </td>
+          </tr>
 
-<tr>
-  <td>State, Province, or Region*</td>
-  <td>
-    <input maxlength="50" name="State" size="25"
-           type="text" autocomplete="address-level1" required>
-  </td>
-</tr>
+          <tr>
+            <td>Address Line 2</td>
+            <td>
+              <input maxlength="80" name="Address2" size="35"
+                     type="text" autocomplete="address-line2">
+            </td>
+          </tr>
 
-<tr>
-  <td>Postal or ZIP Code*</td>
-  <td>
-    <input maxlength="15" name="PostalCode" size="15"
-           type="text" autocomplete="postal-code" required>
-  </td>
-</tr>
+          <tr>
+            <td>City<span class="required">*</span></td>
+            <td>
+              <input maxlength="50" name="City" size="30"
+                     type="text" autocomplete="address-level2" required>
+            </td>
+          </tr>
 
-<tr>
-  <td>Country*</td>
-  <td>
-    <input maxlength="50" name="Country" size="25"
-           type="text" autocomplete="country-name" required>
-  </td>
-</tr>
+          <tr>
+            <td>State, Province, or Region<span class="required">*</span></td>
+            <td>
+              <input maxlength="50" name="State" size="25"
+                     type="text" autocomplete="address-level1" required>
+            </td>
+          </tr>
 
-<tr>
-  <td>Personalization</td>
-  <td>
-    <input maxlength="60" name="Personalization" size="35"
-           type="text" placeholder='For example, "To Fred"'>
-    <div style="font-size:0.9em; color:#555; margin-top:4px;">
-      Leave blank if you would like a signature only. I may not be able to accommodate all requests.
-    </div>
-  </td>
-</tr>
+          <tr>
+            <td>Postal or ZIP Code<span class="required">*</span></td>
+            <td>
+              <input maxlength="15" name="PostalCode" size="15"
+                     type="text" autocomplete="postal-code" required>
+            </td>
+          </tr>
 
-<tr>
-  <td>Email*</td>
-  <td>
-    <input maxlength="256" name="Email" size="35"
-           type="email" autocomplete="email">
-     <div style="font-size:0.9em; color:#555; margin-top:4px;">
-      Please provide your e-mail in case there is a problem with your request.
-    </div>
-  </td>
-</tr>
+          <tr>
+            <td>Country<span class="required">*</span></td>
+            <td>
+              <input maxlength="50" name="Country" size="25"
+                     type="text" autocomplete="country-name" required>
+            </td>
+          </tr>
 
-</tbody>
-</table>
+          <tr>
+            <td>Personalization</td>
+            <td>
+              <input maxlength="60" name="Personalization" size="35"
+                     type="text" placeholder='For example, "To Fred"'>
+              <div class="field-note">
+                Leave blank if you would like a signature only. I may not be able to accommodate all requests.
+              </div>
+            </td>
+          </tr>
 
-<input type="hidden" name="_subject"
-       value="New Signed Bookplate Request">
+          <tr>
+            <td>Email<span class="required">*</span></td>
+            <td>
+              <input maxlength="256" name="Email" size="35"
+                     type="email" autocomplete="email" required>
+              <div class="field-note">
+                Please provide your email in case there is a problem with your request.
+              </div>
+            </td>
+          </tr>
 
-<!-- Spam trap -->
-<input type="text" name="_gotcha" style="display:none">
+        </tbody>
+      </table>
 
-<p style="margin-top:18px;">
-  <button id="bookplateSubmit" type="button"
-          class="btn btn--primary">
-    Request a Bookplate
-  </button>
+      <input type="hidden" name="_subject"
+             value="New Signed Bookplate Request">
 
-  <span id="bookplateStatus"
-        style="margin-left:10px;font-weight:600;"
-        aria-live="polite"></span>
-</p>
+      <!-- Spam trap -->
+      <input type="text" name="_gotcha" style="display:none">
 
-</form>
+      <p style="margin-top:18px;">
+        <button id="bookplateSubmit"
+                type="button"
+                class="btn btn--primary">
+          Request a Bookplate
+        </button>
+
+        <span id="bookplateStatus"
+              style="margin-left:10px;font-weight:600;"
+              aria-live="polite"></span>
+      </p>
+
+    </form>
+
+  </div>
+
+  <div class="bookplate-image">
+    <img src="/images/bookplate.jpg"
+         alt="Bookplate for This One Will Be Different">
+  </div>
+
+</div>
 
 <p style="font-size:0.9em;">
 Your mailing information will be used only to send your bookplate and
@@ -131,6 +140,72 @@ will not be added to a mailing list or used for any other purpose.
 </p>
 
 <p><em>Bookplates are available while supplies last.</em></p>
+
+
+<style>
+
+.required {
+  color: #c00000;
+  font-weight: bold;
+  margin-left: 2px;
+}
+
+.required-note {
+  font-size: 0.9em;
+  margin-bottom: 10px;
+}
+
+.field-note {
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 4px;
+}
+
+.bookplate-request {
+  display: flex;
+  align-items: flex-start;
+  gap: 35px;
+  margin-top: 1em;
+}
+
+.bookplate-form {
+  flex: 1 1 65%;
+  min-width: 0;
+}
+
+.bookplate-image {
+  flex: 0 0 30%;
+  text-align: center;
+}
+
+.bookplate-image img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Stack image above form on phones */
+@media (max-width: 700px) {
+
+  .bookplate-request {
+    flex-direction: column-reverse;
+  }
+
+  .bookplate-form,
+  .bookplate-image {
+    width: 100%;
+  }
+
+  .bookplate-image img {
+    max-width: 275px;
+  }
+
+}
+
+</style>
+
 
 <script>
 (function () {
@@ -142,31 +217,44 @@ will not be added to a mailing list or used for any other purpose.
   const status = document.getElementById("bookplateStatus");
 
   function okRequired() {
+
     const required = form.querySelectorAll("[required]");
 
     for (const el of required) {
+
       if (!el.value || !el.value.trim()) {
+
         el.focus();
         return false;
+
       }
+
     }
 
     const email = form.querySelector('input[name="Email"]');
 
     if (email.value &&
         !/^\S+@\S+\.\S+$/.test(email.value.trim())) {
+
       email.focus();
       return false;
+
     }
 
     return true;
+
   }
+
 
   btn.addEventListener("click", async function () {
 
     if (!okRequired()) {
-      status.textContent = "Please complete the required fields.";
+
+      status.textContent =
+        "Please complete the required fields.";
+
       return;
+
     }
 
     status.textContent = "Submitting…";
@@ -177,24 +265,32 @@ will not be added to a mailing list or used for any other purpose.
       const data = new FormData(form);
 
       const resp = await fetch(FORMSPREE, {
+
         method: "POST",
         body: data,
-        headers: { "Accept": "application/json" }
+        headers: {
+          "Accept": "application/json"
+        }
+
       });
 
-      if (!resp.ok) throw new Error("Formspree failed");
+      if (!resp.ok)
+        throw new Error("Formspree failed");
 
       form.reset();
 
       status.textContent =
         "Thank you! Your bookplate request has been received.";
 
-    } catch (e) {
+    }
+
+    catch (e) {
 
       status.textContent =
         "Submission failed. Please try again.";
 
       btn.disabled = false;
+
     }
 
   });
