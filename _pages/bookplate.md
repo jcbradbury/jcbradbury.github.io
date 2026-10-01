@@ -5,12 +5,6 @@ author_profile: true
 published: false
 ---
 
----
-title: "Signed Bookplate"
-permalink: /bookplate/
-author_profile: true
-published: false
----
 
 ## Request a Signed Bookplate
 
