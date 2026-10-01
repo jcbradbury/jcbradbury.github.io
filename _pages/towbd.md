@@ -39,6 +39,7 @@ My book **This One Will Be Different: False Promises and Fiscal Realities of Pub
       <li><a href="https://www.booksamillion.com/p/This-One-Will-Be-Different/J-C-Bradbury/9780197820216">Books-A-Million</a></li>
       <li><a href="https://bookshop.org/p/books/this-one-will-be-different-false-promises-and-fiscal-realities-of-publicly-funded-stadiums-professor-of-economics-j-c-bradbury/3fcfe692cf812a1b?ean=9780197820216&next=t">Bookshop.org</a></li>   
       <li><a href="https://play.google.com/store/books/details/J_C_Bradbury_This_One_Will_Be_Different?id=wLzwEQAAQBAJ">Google Play</a></li>   
+      <li><a href="https://www.kobo.com/us/en/ebook/this-one-will-be-different">Kobo</a></li>
       <li><a href="https://www.goodreads.com/book/show/245768742">Goodreads</a></li>
       <li>Journalists/course instructors seeking a review copy:</li> 
         <ul>
