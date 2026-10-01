@@ -1,5 +1,5 @@
 ---
-title: "Signed Bookplate"
+title: "Bookplate Request"
 permalink: /bookplate/
 author_profile: true
 published: false
