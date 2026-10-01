@@ -204,7 +204,7 @@ will not be added to a mailing list or used for any other purpose.
 
 })();
 </script>
-
+<!--
 ## Get a Signed Bookplate
 
 <img src="/images/bookplate.jpg"
@@ -222,3 +222,4 @@ Just fill out the form below with your mailing address and, if you'd like, the n
 Your mailing information will be used **only to send your bookplate** and will not be added to a mailing list or used for any other purpose.
 
 *Bookplates are available while supplies last.*
+->
