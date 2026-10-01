@@ -8,8 +8,8 @@ published: false
 
 ## Request a Signed Bookplate
 
-Have a copy of *This One Will Be Different*? I'll be happy to send you a
-signed bookplate **free of charge** (while supplies last).
+If you've purchased a copy of *This One Will Be Different* I'd be happy to send you a
+signed "4 things adults shouldn't believe in" bookplate **free of charge** *(while supplies last)*.
 
 <img src="/images/bookplate.jpg"
      alt="Bookplate for This One Will Be Different"
@@ -87,7 +87,7 @@ that too.
     <input maxlength="60" name="Personalization" size="35"
            type="text" placeholder='For example, "To Fred"'>
     <div style="font-size:0.9em; color:#555; margin-top:4px;">
-      Leave blank if you would like a signature only.
+      Leave blank if you would like a signature only. I may not be able to accommodate all requests.
     </div>
   </td>
 </tr>
