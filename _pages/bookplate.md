@@ -9,7 +9,7 @@ published: false
 ## Request a Signed Bookplate
 
 If you've purchased a copy of *This One Will Be Different* I'd be happy to send you a
-signed **4 things adults shouldn't believe in** bookplate *free of charge (while supplies last)*.
+signed **4 things adults shouldn't believe in** bookplate *(free of charge, while supplies last)*.
 
 <img src="/images/bookplate.jpg"
      alt="Bookplate for This One Will Be Different"
