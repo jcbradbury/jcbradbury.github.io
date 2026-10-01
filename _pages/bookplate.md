@@ -9,15 +9,15 @@ published: false
 ## Request a Signed Bookplate
 
 Have a copy of *This One Will Be Different*? I'll be happy to send you a
-signed bookplate **free of charge**.
+signed bookplate **free of charge** (while supplies last).
 
 <img src="/images/bookplate.jpg"
      alt="Bookplate for This One Will Be Different"
      style="display:block; max-width:300px; width:100%; height:auto;
             margin:1.5em auto;">
 
-U.S. and international requests are welcome. Please provide your mailing
-information below. If you'd like the bookplate personalized, you can add
+Please provide your mailing information below. 
+If you'd like the bookplate personalized, you can add
 that too.
 
 <form id="bookplateForm" novalidate>
@@ -26,7 +26,7 @@ that too.
 <tbody>
 
 <tr>
-  <td width="30%">Name*</td>
+  <td width="30%">Name (mail recipient)*</td>
   <td width="70%">
     <input maxlength="60" name="Name" size="35"
            type="text" autocomplete="name" required>
@@ -93,10 +93,13 @@ that too.
 </tr>
 
 <tr>
-  <td>Email (optional)</td>
+  <td>Email*</td>
   <td>
     <input maxlength="256" name="Email" size="35"
            type="email" autocomplete="email">
+     <div style="font-size:0.9em; color:#555; margin-top:4px;">
+      Please provide your e-mail in case there is a problem with your request.
+    </div>
   </td>
 </tr>
 
