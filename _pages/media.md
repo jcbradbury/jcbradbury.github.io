@@ -10,23 +10,25 @@ Media outlets often ask me to comment on policy implications of my research. Her
 ## Print/Online
 - [The Conversation](https://doi.org/10.64628/AAI.qttan4m4y) (9/4/2026) "Taxpayers don’t want to pay for new NFL stadiums – so why did politicians approve billions in subsidies to fund six new ones?"
 
-- [The Conversation](https://doi.org/10.64628/AAI.43udame6w) (4/22/2026) "Sorry, Tampa Bay, mixed‑use districts don’t reverse the dismal economics of sports venues"
+- [The Conversation](https://doi.org/10.64628/AAI.43udame6w) (4/22/2026) "Sorry, Tampa Bay, mixed‑use districts don’t reverse the dismal economics of sports venues."
 
-- [Reason](https://reason.com/2025/07/08/theres-no-good-reason-for-cities-and-states-to-build-or-subsidize-sports-stadiums/) (7/8/2025) "There's No Good Reason for Cities and States To Build or Subsidize Sports Stadiums"
+- [Reason](https://reason.com/2025/07/08/theres-no-good-reason-for-cities-and-states-to-build-or-subsidize-sports-stadiums/) (7/8/2025) "There's No Good Reason for Cities and States To Build or Subsidize Sports Stadiums."
 
-- [The Economist](https://www.economist.com/united-states/2024/06/03/a-new-wave-of-stadium-building-is-busting-budgets-in-america) (6/3/2024) "A new wave of stadium-building is busting budgets in America"
+- [The Economist](https://www.economist.com/united-states/2024/06/03/a-new-wave-of-stadium-building-is-busting-budgets-in-america) (6/3/2024) "A new wave of stadium-building is busting budgets in America."
 
-- [The Journalist's Resource](https://journalistsresource.org/politics-and-government/economic-impact-sports-stadiums-reporting-tips/) (4/11/2024) "Covering sports stadium financing? Read these 4 tips"
+- [The Journalist's Resource](https://journalistsresource.org/politics-and-government/economic-impact-sports-stadiums-reporting-tips/) (4/11/2024) "Covering sports stadium financing? Read these 4 tips."
 
-- [The Journalist's Resource](https://journalistsresource.org/economics/sports-stadium-public-financing/) (4/10/2024) "Public funding for sports stadiums: A primer and research roundup"
+- [The Journalist's Resource](https://journalistsresource.org/economics/sports-stadium-public-financing/) (4/10/2024) "Public funding for sports stadiums: A primer and research roundup."
 
 - [Washington Post](https://www.washingtonpost.com/business/2024/04/05/sports-stadium-boom-is-coming-america-is-that-good-thing/) (4/5/2024) "A sports stadium boom is coming to America. Is that a good thing?"
 
 - [New York Times](https://www.nytimes.com/2024/03/21/arts/states-hollywood-film-tax-incentives.html) (3/21/2024) "States Have Spent $25 Billion to Woo Hollywood. Is It Worth It?"
 
-- [Associated Press](https://apnews.com/article/sports-stadiums-public-funding-nfl-mlb-a81d825286530bb95f227efc99f2e9d30bb95f227efc99f2e9d3) (12/23/2023) "Plans abounding for new sports stadiums across the US, carrying hefty public costs"
+- [Associated Press](https://apnews.com/article/sports-stadiums-public-funding-nfl-mlb-a81d825286530bb95f227efc99f2e9d30bb95f227efc99f2e9d3) (12/23/2023) "Plans abounding for new sports stadiums across the US, carrying hefty public costs."
 
-- [Bloomberg](https://www.bloomberg.com/news/articles/2023-12-16/downtown-dc-faces-a-new-dilemma-in-potential-sports-team-exodus) (12/16/2023)  "The Dream of the Suburban Sports District Can Be a Nightmare for Taxpayers"
+- [Bloomberg](https://www.bloomberg.com/news/articles/2023-12-16/downtown-dc-faces-a-new-dilemma-in-potential-sports-team-exodus) (12/16/2023)  "The Dream of the Suburban Sports District Can Be a Nightmare for Taxpayers,"
+
+- [Global Sports Matters](https://web.archive.org/web/20250426013334/https://globalsportmatters.com/business/2022/06/15/so-your-city-wants-sports-stadium/) (June 2022) "So your city wants to build a stadium. Here’s what to know."
 
 ## Podcasts
 - [The Reason Interview](https://reason.com/podcast/2026/01/28/the-real-reason-you-pay-for-nfl-stadiums/) (1/28/2026) "The Real Reason You Pay for NFL Stadiums"
