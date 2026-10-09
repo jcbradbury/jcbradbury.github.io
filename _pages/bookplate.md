@@ -18,10 +18,14 @@ header:
 If you've purchased a copy of *This One Will Be Different*, I'd be happy to send you a
 signed **4 things adults shouldn't believe in** bookplate *(free of charge, while supplies last)*.
 
-<div style="text-align:center; margin:1.75em 0;">
+<div style="display:flex; justify-content:center; align-items:center; gap:15px; margin:1.75em 0;">
+  <img src="/images/bookplate.jpg"
+       alt="Custom bookplate featuring Santa Claus, the Tooth Fairy, the Easter Bunny, and a publicly funded stadium"
+       style="width:48%; height:auto; border-radius:4px;">
+
   <img src="/images/bookplate_signed.jpg"
-       alt="Bookplate for This One Will Be Different"
-       style="width:100%; max-width:400px; height:auto;">
+       alt="Signed bookplate placed inside This One Will Be Different"
+       style="width:48%; height:auto; border-radius:4px;">
 </div>
 
 Please provide your mailing information below. If you'd like the bookplate personalized,
