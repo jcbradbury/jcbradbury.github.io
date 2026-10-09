@@ -19,7 +19,7 @@ If you've purchased a copy of *This One Will Be Different*, I'd be happy to send
 signed **4 things adults shouldn't believe in** bookplate *(free of charge, while supplies last)*.
 
 <div style="text-align:center; margin:1.75em 0;">
-  <img src="/images/bookplate.jpg"
+  <img src="/images/bookplate_signed.jpg"
        alt="Bookplate for This One Will Be Different"
        style="width:100%; max-width:400px; height:auto;">
 </div>
