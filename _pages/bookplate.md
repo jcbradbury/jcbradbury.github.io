@@ -100,7 +100,7 @@ No need to request a bookplate if you're attending the [A Cappella Books event a
   <td>Personalization</td>
   <td>
     <input maxlength="60" name="Personalization" size="35"
-           type="text" placeholder='For example, "To Tom & Marilyn"'>
+           type="text" placeholder='For example, "To Fred"'>
     <div class="field-note">
       Leave blank if you would like a signature only. I may not be able to accommodate all requests.
     </div>
