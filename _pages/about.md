@@ -30,8 +30,8 @@ I am active on social media: follow me on [Bluesky](https://bsky.app/profile/jcb
           <a href="https://global.oup.com/academic/product/this-one-will-be-different-9780197820216?cc=us&lang=en&">
             <em>This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums</em>
           </a>,
-          on the economics of public sports venues, will be published by
-          Oxford University Press this fall.
+          on the economics of public sports venues, has been published by 
+          Oxford University Press.
         </p>
                 <!-- Sub-bullets -->
         <ul>
