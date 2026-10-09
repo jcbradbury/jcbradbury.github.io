@@ -2,7 +2,7 @@
 title: "*This One Will Be Different* Bookplates"
 permalink: /bookplate/
 author_profile: true
-published: false
+published: true
 
 header:
   image: bookplate.jpg
