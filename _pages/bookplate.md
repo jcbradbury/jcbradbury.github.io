@@ -5,7 +5,7 @@ author_profile: true
 published: true
 
 header:
-  image: bookplate.jpg
+  image: bookplate_social_preview.jpg
 ---
 
 <style>
