@@ -28,8 +28,10 @@ signed **4 things adults shouldn't believe in** bookplate *(free of charge, whil
        style="width:48%; height:auto; border-radius:4px;">
 </div>
 
-Please provide your mailing information below. If you'd like the bookplate personalized,
-you can request that too.
+
+Please provide your mailing information below. If you'd like your bookplate personalized, you may request a brief inscription. Space is limited, and I may not be able to accommodate all requests.
+
+No need to request a bookplate if you're attending the [A Cappella Books event at Manuel's Tavern on October 27](https://www.acappellabooks.com/pages/events/1517/j-c-bradbury-in-conversation-with-rafi-kohan). I'll bring some to the event.
 
 <p class="required-note"><span class="required">*</span> Required</p>
 
