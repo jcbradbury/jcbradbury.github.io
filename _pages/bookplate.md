@@ -3,8 +3,16 @@ title: "Bookplate Request"
 permalink: /bookplate/
 author_profile: true
 published: false
+
+header:
+  image: bookplate.jpg
 ---
 
+<style>
+.page__hero {
+  display: none;
+}
+</style>
 ## Request a Signed Bookplate
 
 If you've purchased a copy of *This One Will Be Different*, I'd be happy to send you a
