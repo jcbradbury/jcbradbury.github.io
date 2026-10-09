@@ -17,7 +17,7 @@ signed **4 things adults shouldn't believe in** bookplate *(free of charge, whil
 </div>
 
 Please provide your mailing information below. If you'd like the bookplate personalized,
-you can add that too.
+you can request that too.
 
 <p class="required-note"><span class="required">*</span> Required</p>
 
@@ -128,7 +128,7 @@ you can add that too.
 </form>
 
 <p style="font-size:0.9em;">
-Your mailing information will be used only to send your bookplate and
+Your information will be used only to send your bookplate and
 will not be added to a mailing list or used for any other purpose.
 </p>
 
