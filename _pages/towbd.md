@@ -50,6 +50,8 @@ My book **This One Will Be Different: False Promises and Fiscal Realities of Pub
 
 </div>
 
+Request a signed bookplate [here](/bookplate/).
+
 <!-- -->
 ### Description
 For more than a century, America's sports stadiums have evolved from modest, private ballparks into billion-dollar play-palaces for the rich-built increasingly on the backs of taxpayers. Government commitments to major-league venues are approaching $50 billion, and a looming wave of new construction threatens to double public outlays by the end of the next decade. Elected leaders justify the massive subsidies by arguing that stadiums are economic catalysts, despite overwhelming evidence that sports venues are unwise public investments.
