@@ -31,6 +31,8 @@ Media outlets often ask me to comment on policy implications of my research. Her
 - [Global Sports Matters](https://web.archive.org/web/20250426013334/https://globalsportmatters.com/business/2022/06/15/so-your-city-wants-sports-stadium/) (June 2022) "So your city wants to build a stadium. Here’s what to know."
 
 ## Podcasts
+- [Good Seats Still Available](https://goodseatsstillavailable.com/listen/2026/10/11/episode-466-this-one-will-be-different-the-stadium-subsidy-game-with-jc-bradbury) (10/11/2026) "'This One Will Be Different': The Stadium Subsidy Game - With J.C. Bradbury"
+
 - [The Reason Interview](https://reason.com/podcast/2026/01/28/the-real-reason-you-pay-for-nfl-stadiums/) (1/28/2026) "The Real Reason You Pay for NFL Stadiums"
 
 - [Hang Up and Listen, Slate](https://slate.com/podcasts/hang-up-and-listen/2026/01/the-economics-of-the-chiefs-move-from-missouri-to-kansas) (1/5/2026) "Kansas Bends the Knee for the NFL: Why fumble the giant bag of taxpayer money when you can simply hand it over?"
