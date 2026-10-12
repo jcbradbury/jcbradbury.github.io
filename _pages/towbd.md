@@ -50,7 +50,7 @@ My book **This One Will Be Different: False Promises and Fiscal Realities of Pub
 
 </div>
 
-Request a signed bookplate [here](/bookplate/).
+*Already purchased the book?* [Request a signed bookplate](/bookplate/).
 
 <!-- -->
 ### Description

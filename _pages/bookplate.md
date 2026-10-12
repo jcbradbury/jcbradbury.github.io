@@ -16,11 +16,11 @@ header:
 ## Request a Signed Bookplate
 
 If you've purchased a copy of *This One Will Be Different*, I'd be happy to send you a
-signed **4 things adults shouldn't believe in** bookplate *(free of charge, while supplies last)*.
+signed **"4 things adults shouldn't believe in"** bookplate. *Free of charge, while supplies last*.
 
 <div style="display:flex; justify-content:center; align-items:center; gap:15px; margin:1.75em 0;">
   <img src="/images/bookplate.jpg"
-       alt="Custom bookplate featuring Santa Claus, the Tooth Fairy, the Easter Bunny, and a publicly funded stadium"
+       alt="Custom bookplate featuring Santa Claus, the Tooth Fairy, the Easter Bunny, and the economic benefits of stadiums"
        style="width:48%; height:auto; border-radius:4px;">
 
   <img src="/images/bookplate_signed.jpg"
@@ -31,7 +31,7 @@ signed **4 things adults shouldn't believe in** bookplate *(free of charge, whil
 
 Please provide your mailing information below. If you'd like your bookplate personalized, you may request a brief inscription. Space is limited, and I may not be able to accommodate all requests.
 
-No need to request a bookplate if you're attending the [A Cappella Books event at Manuel's Tavern on October 27](https://www.acappellabooks.com/pages/events/1517/j-c-bradbury-in-conversation-with-rafi-kohan). I'll bring some to the event.
+Are you coming to the [A Cappella Books event at Manuel's Tavern on October 27](https://www.acappellabooks.com/pages/events/1517/j-c-bradbury-in-conversation-with-rafi-kohan)? No need to request a bookplate. I'll bring some with me.
 
 <p class="required-note"><span class="required">*</span> Required</p>
 
