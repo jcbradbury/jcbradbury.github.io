@@ -14,7 +14,9 @@ I am an advocate of transparency in research. For studies that include data anal
 {% endif %}
  -->
  
-
+### Latest Book
+- [This One Will Be Different: False Promises and Fiscal Realities of Publicly Funded Stadiums](https://global.oup.com/academic/product/this-one-will-be-different-9780197820216?cc=us&lang=en&) , Oxford University Press, 2026.
+    -  [Data and Replication Files](https://github.com/jcbradbury/This-One-Will-Be-Different)
 
 ### Journal Articles
 <!-- 
