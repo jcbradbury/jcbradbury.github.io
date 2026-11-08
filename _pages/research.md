@@ -30,7 +30,7 @@ I am an advocate of transparency in research. For studies that include data anal
     - [Ungated](https://jcbradbury.com/files/Bradbury_HumphreysEDQ_accepted.pdf)
 
 
-- [The Impact of MLB Team Relocation on Hotel Demand](https://journals.sagepub.com/doi/10.1177/13548166251405295), with Frank Stephenson, *Tourism Economics*, In Press.
+- [The Impact of MLB Team Relocation on Hotel Demand](https://journals.sagepub.com/doi/10.1177/13548166251405295), with Frank Stephenson, *Tourism Economics*, 2026, 32(8): 1646-1656.
     - [Ungated](https://journals.sagepub.com/doi/pdf/10.1177/13548166251405295?casa_token=i9nq1LFTm40AAAAA:nG_W01AtMOmXLkkIkmViUpvnMoCSUKnRXmnEzToOd4qiRUmC674PwtbN4rA56Nq552sx86uwMS8vLw)
 
 - [Revisiting the Novelty Effect From New Stadiums: An Event Study Approach](https://doi.org/10.1111/ecin.13231), *Economic Inquiry*, 2024, 62(4): 1722-1747.
