@@ -8,6 +8,8 @@ published: true
 Media outlets often ask me to comment on policy implications of my research. Here are links to selected publications and podcasts where I provide general commentary that is broadly applicable across the country. You may find them more digestible than my academic research papers.
 
 ## Print/Online
+- [Bloomberg](https://www.bloomberg.com/news/newsletters/2026-10-30/publicly-funded-stadiums-don-t-help-local-economy-economist-says) (10/30/2026) "The Economist Trying to Stop Publicly Funded Stadiums."
+
 - [The Conversation](https://doi.org/10.64628/AAI.qttan4m4y) (9/4/2026) "Taxpayers don’t want to pay for new NFL stadiums – so why did politicians approve billions in subsidies to fund six new ones?"
 
 - [The Conversation](https://doi.org/10.64628/AAI.43udame6w) (4/22/2026) "Sorry, Tampa Bay, mixed‑use districts don’t reverse the dismal economics of sports venues."
